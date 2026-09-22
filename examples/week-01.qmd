@@ -11,7 +11,7 @@ Mahasiswa fiktif: **Nadia**. Semua nama dan evidence di halaman ini fiktif. [Buk
 ## Lima character
 
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
-|---|---|---|---|---|
+|---------------|---------------|---------------|---------------|---------------|
 | Intra-Self — reflective learner | Diri sendiri setelah menerima feedback | Memisahkan kesalahan dari identitas dan memilih perbaikan | Jurnal fact/story; “Bagian mana yang dapat saya ubah?” | Self-blame; tulis tiga fakta sebelum kesimpulan |
 | Family — kakak | Adik yang sedang memilih kegiatan sekolah | Membantu ia memilih, bukan memilihkan | Pertanyaan terbuka, paraphrase, pilihan | Menggurui; minta izin sebelum memberi saran |
 | Friends — sahabat | Teman dekat yang sedang kewalahan | Memberi dukungan sesuai kebutuhannya | Listening; “Mau didengar atau mencari solusi?” | Terlalu cepat memberi solusi; tunggu lima detik |
@@ -24,10 +24,10 @@ Mahasiswa fiktif: **Nadia**. Semua nama dan evidence di halaman ini fiktif. [Buk
 
 **Objective:** Beralih dari ketidakjelasan menjadi pembagian kerja dan tenggat baru yang disepakati, sambil menjaga hubungan kerja.
 
-> **Nadia:** “Sebelum kita menentukan tenggat baru, boleh ceritakan apa yang menghambat bagian narasi?”  
-> **Raka:** “Saya dapat jadwal kerja tambahan. Drafnya baru 30 persen.”  
-> **Nadia:** “Berarti hambatan utamanya waktu. Apakah saya menangkapnya dengan benar?”  
-> **Raka:** “Iya.”  
+> **Nadia:** “Sebelum kita menentukan tenggat baru, boleh ceritakan apa yang menghambat bagian narasi?”\
+> **Raka:** “Saya dapat jadwal kerja tambahan. Drafnya baru 30 persen.”\
+> **Nadia:** “Berarti hambatan utamanya waktu. Apakah saya menangkapnya dengan benar?”\
+> **Raka:** “Iya.”\
 > **Nadia:** “Kita bisa memperpendek narasi atau membagi bagian kedua. Pilihan mana yang paling mungkin?”
 
 Response Raka mengubah repertoire Nadia dari instruksi menjadi problem-solving bersama. Agreement akhirnya: Raka mengirim pembuka pukul 12.00, Nadia menyelesaikan bagian kedua, dan editor mulai pukul 15.00.
@@ -47,7 +47,7 @@ Sebagai **sahabat**, Nadia akan berkata, “Kamu ingin didengar dulu atau mencar
 ## Self-assessment
 
 | Dimensi | Skor | Alasan |
-|---|---:|---|
+|----------------------|----------------------------:|----------------------|
 | Person & Character | 3 | Person, context, relationship, dan character dipetakan |
 | Objective & State | 3 | State awal dan state tujuan eksplisit |
 | Repertoire, Language & AI | 3 | Language berubah sesuai character; batas AI jelas |
@@ -55,4 +55,3 @@ Sebagai **sahabat**, Nadia akan berkata, “Kamu ingin didengar dulu atau mencar
 | Agreement, Action & Relationship | 3 | Owner, deadline, dan dampak relationship tercatat |
 
 **Total: 15/20 — Kompeten.** Belum level 4 karena perubahan power dan objective yang saling bersaing belum dianalisis.
-

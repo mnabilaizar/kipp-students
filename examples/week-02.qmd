@@ -13,7 +13,7 @@ Episode dan evidence berikut fiktif. [Buka template kosong Minggu 2](../portfoli
 **Event:** Dosen mengembalikan proposal Nadia dengan komentar, “Problem statement belum didukung wawancara pengguna.”
 
 | Lapisan | Catatan Nadia |
-|---|---|
+|------------------------------------|------------------------------------|
 | Fact | Proposal dikembalikan; satu komentar meminta wawancara pengguna; belum ada nilai akhir |
 | Initial story | “Dosen menganggap ide saya buruk dan saya tidak mampu melakukan riset.” |
 | Emotion/body signal | Malu 7/10, cemas 8/10, bahu tegang, ingin menutup laptop |
@@ -24,16 +24,16 @@ Initial story melampaui fakta: komentar menilai kekurangan evidence pada dokumen
 
 ## Alternative narratives
 
-1. **Evidence gap:** ide mungkin relevan, tetapi klaim masalah belum dapat diperiksa karena Nadia belum berbicara dengan pengguna.
-2. **Invitation to improve:** komentar tersebut memberi tindakan berikut yang spesifik sebelum penilaian akhir.
-3. **Constraint hypothesis:** waktu terbatas adalah constraint nyata, tetapi Nadia masih dapat melakukan dua wawancara singkat dan menyatakan keterbatasannya.
+1.  **Evidence gap:** ide mungkin relevan, tetapi klaim masalah belum dapat diperiksa karena Nadia belum berbicara dengan pengguna.
+2.  **Invitation to improve:** komentar tersebut memberi tindakan berikut yang spesifik sebelum penilaian akhir.
+3.  **Constraint hypothesis:** waktu terbatas adalah constraint nyata, tetapi Nadia masih dapat melakukan dua wawancara singkat dan menyatakan keterbatasannya.
 
 Alternative kedua paling berguna karena sesuai fakta dan menghasilkan tindakan tanpa berpura-pura bahwa komentar tersebut menyenangkan.
 
 ## Internal conversation dan agreement
 
-> **Defender:** “Kirim pesan sekarang dan jelaskan bahwa waktunya tidak cukup.”  
-> **Researcher:** “Kita belum tahu apakah dosen menolak ide atau meminta evidence. Baca komentar sekali lagi dan susun pertanyaan.”  
+> **Defender:** “Kirim pesan sekarang dan jelaskan bahwa waktunya tidak cukup.”\
+> **Researcher:** “Kita belum tahu apakah dosen menolak ide atau meminta evidence. Baca komentar sekali lagi dan susun pertanyaan.”\
 > **Nadia:** “Saya akan menunda balasan selama 20 menit, menulis fakta, lalu meminta klarifikasi tentang jumlah evidence minimum.”
 
 **Internal agreement:** sebelum pukul 16.00, Nadia mengirim satu pertanyaan klarifikasi dan mengundang dua pengguna ruang belajar untuk wawancara 15 menit.
@@ -55,7 +55,7 @@ Next practice: ketika menerima feedback, Nadia akan menulis tiga kolom—`fact`,
 ## Self-assessment
 
 | Dimensi | Skor | Evidence singkat |
-|---|---:|---|
+|----------------------|----------------------------:|----------------------|
 | Person & Character | 3 | Dua internal character dibedakan tanpa menjadikannya identitas tetap |
 | Objective & State | 3 | Reaction dan desired response terukur |
 | Repertoire, Language & AI | 3 | Jurnal, pause, dan clarification digunakan |
@@ -63,4 +63,3 @@ Next practice: ketika menerima feedback, Nadia akan menulis tiga kolom—`fact`,
 | Agreement, Action & Relationship | 3 | Internal agreement menghasilkan pesan dan wawancara |
 
 **Total: 15/20 — Kompeten.**
-
