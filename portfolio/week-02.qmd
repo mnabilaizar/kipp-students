@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -22,4 +22,110 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 [Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Peristiwa ini terjadi ketika saya mengerjakan tugas kelompok dan sedang mengejar tenggat pengumpulan. Tanggal dan nama tugasnya sudah tidak saya catat secara spesifik.
+
+**Persons dan relationship:** Saya bekerja bersama beberapa teman sebagai satu kelompok. Sebagian besar anggota aktif berdiskusi dan mengambil bagian pekerjaan, tetapi ada satu anggota yang sejak awal tidak membuka grup, tidak memberikan respons, dan tidak memilih bagian pekerjaan.
+
+**Objective dan initial state:** Tujuan saya adalah memastikan tugas selesai dengan baik sebelum tenggat. Pada awalnya, saya berharap semua anggota memberikan konfirmasi dan mengambil bagian masing-masing. Namun, tidak adanya respons dari salah satu anggota membuat pembagian pekerjaan menjadi tidak pasti.
+
+## Evidence
+
+### Event dan fact
+
+Sejak awal pengerjaan, salah satu anggota tidak memberikan respons di grup dan tidak memilih bagian pekerjaan. Saya mencoba menghubunginya melalui grup, tetapi tetap tidak mendapat jawaban. Pekerjaan kemudian dibagi dan diselesaikan oleh anggota yang aktif.
+
+Setelah berdiskusi, anggota kelompok yang aktif menyetujui bahwa nama anggota tersebut tidak dicantumkan karena tidak memberikan kontribusi. Tugas tetap dapat diselesaikan dan dikumpulkan dengan aman.
+
+### Initial story dan emotion
+
+Ketika anggota tersebut tidak memberikan kepastian, pikiran pertama saya adalah:
+
+> “Kalau dia tetap tidak bisa dihubungi, saya mungkin harus mengerjakan bagian tambahan agar tugas ini tetap selesai.”
+
+Saya langsung memikirkan kemungkinan terburuk karena tidak suka mengerjakan atau mengumpulkan tugas terlalu dekat dengan tenggat. Emosi utama yang saya rasakan adalah cemas dengan intensitas sekitar 6–7 dari 10. Perhatian saya saat itu terus tertuju pada progres tugas dan kemungkinan adanya pekerjaan yang belum memiliki penanggung jawab.
+
+### Alternative narratives
+
+**Narasi pertama — merasa tidak memiliki pilihan:**
+
+> “Kalau ada anggota yang tidak merespons, pada akhirnya saya yang harus menanggung pekerjaan tambahan. Saya tidak memiliki pilihan lain karena kalau saya tidak turun tangan, tugas kelompok bisa terlambat.”
+
+Narasi ini membuat saya merasa bahwa keamanan tugas sepenuhnya menjadi tanggung jawab saya.
+
+**Narasi kedua — melihat fakta secara lebih tenang:**
+
+> “Fakta yang saya ketahui adalah anggota tersebut belum membuka grup, belum merespons, dan belum memilih bagian pekerjaan. Saya tidak mengetahui alasan di balik ketidakhadirannya sehingga saya tidak dapat langsung menyimpulkan bahwa ia malas atau tidak peduli. Hal yang dapat saya lakukan adalah menghubunginya, membicarakan keadaan tersebut dengan anggota yang aktif, dan menyusun ulang pembagian pekerjaan.”
+
+Narasi ini membantu saya memisahkan hal yang benar-benar terjadi dari dugaan mengenai alasan anggota tersebut tidak hadir.
+
+**Narasi ketiga — mencari perbaikan:**
+
+> “Situasi ini menunjukkan bahwa kelompok perlu memiliki aturan komunikasi yang lebih jelas sejak awal. Setiap anggota sebaiknya memberikan konfirmasi kehadiran dan memilih bagian pekerjaan dalam batas waktu tertentu. Jika seseorang tidak merespons, kelompok juga perlu mengirimkan pemberitahuan yang menjelaskan batas waktu dan konsekuensinya. Dengan cara itu, saya tidak perlu langsung merasa bahwa seluruh beban harus saya tanggung sendiri.”
+
+Narasi ini mengarahkan perhatian saya dari kecemasan menuju perbaikan cara kerja kelompok.
+
+### Choice, action, dan outcome
+
+Dorongan pertama saya adalah terus mencoba menghubungi anggota tersebut sampai mendapat jawaban. Pada saat yang sama, saya mulai memikirkan kemungkinan mengambil pekerjaan tambahan agar tugas tetap aman.
+
+Karena anggota tersebut tidak pernah memberikan respons, saya membicarakan situasinya dengan anggota kelompok yang aktif. Kami kemudian membagi pekerjaan kepada anggota yang benar-benar berpartisipasi. Anggota kelompok yang aktif juga menyetujui bahwa nama anggota yang tidak berkontribusi tersebut tidak dicantumkan dalam daftar kelompok.
+
+Keputusan itu diambil berdasarkan kontribusi yang dapat diamati, bukan berdasarkan dugaan mengenai alasan pribadi anggota tersebut. Hasil akhirnya, tugas tetap dapat diselesaikan dan dikumpulkan dengan aman.
+
+::: evidence-block
+Tidak ada pesan atau hasil pekerjaan dari anggota tersebut yang dapat dilampirkan karena ia tidak pernah memberikan respons maupun kontribusi di grup. Penjelasan ini ditulis berdasarkan pengalaman saya selama pengerjaan dan kesepakatan anggota kelompok yang aktif. Saya juga tidak mempunyai dokumentasi khusus mengenai keputusan tersebut untuk dilampirkan ke portfolio.
+
+Bukti tindakan berikutnya terlihat dari pembagian ulang pekerjaan kepada anggota yang aktif, kesepakatan mengenai daftar anggota, dan selesainya tugas sebelum tenggat.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|------------------------------------|------------------------------------|
+| Person & character | Saya tidak mengetahui alasan anggota tersebut tidak merespons. Karena itu, saya tidak dapat menilainya sebagai pribadi yang malas atau tidak peduli. Saya hanya dapat menilai tindakan yang terlihat, yaitu tidak memberikan respons dan tidak berkontribusi. |
+| Objective & state | Tujuan awal saya adalah memastikan semua anggota mengambil bagian dan tugas selesai sebelum tenggat. Ketika satu anggota tidak merespons, keadaan berubah sehingga pekerjaan perlu dibagi kembali di antara anggota yang aktif. |
+| Repertoire & language | Saya mencoba menghubungi anggota tersebut, berkoordinasi dengan anggota yang aktif, dan ikut menyusun ulang pembagian pekerjaan. Dari pengalaman ini, saya menyadari perlunya batas waktu konfirmasi dan pemberitahuan konsekuensi yang lebih jelas. |
+| Response & adaptation | Karena tidak ada respons, kami tidak terus menunggu tanpa kepastian. Pekerjaan dibagi ulang kepada anggota yang aktif agar tugas tetap dapat diselesaikan. |
+| Agreement/action | Anggota yang aktif menyetujui pembagian pekerjaan dan keputusan untuk tidak mencantumkan nama anggota yang tidak berkontribusi. |
+| Relationship outcome | Hubungan di antara anggota yang aktif tetap terjaga karena keputusan dibicarakan bersama. Namun, tidak ada komunikasi lanjutan dengan anggota yang tidak merespons. |
+
+## Penggunaan AI
+
+AI tidak digunakan dalam peristiwa, komunikasi kelompok, maupun pengambilan keputusan yang dianalisis. Setelah kegiatan selesai, saya menggunakan AI untuk membantu menyusun pengalaman ini menjadi refleksi yang lebih teratur. Fakta, emosi, keputusan, dan hasil yang dituliskan berasal dari pengalaman saya sendiri dan sudah saya periksa kembali.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Saya tidak menerima feedback pribadi mengenai cara saya menghadapi situasi tersebut. Namun, anggota kelompok yang aktif menyetujui keputusan untuk membagi pekerjaan di antara anggota yang berkontribusi dan tidak mencantumkan nama anggota yang tidak berpartisipasi.
+
+**Adaptation/replay:** Jika menghadapi situasi serupa, saya tetap akan mencoba menghubungi anggota yang tidak merespons. Perbedaannya, saya akan memberikan batas waktu dan konsekuensi secara tertulis. Hal ini penting agar setiap anggota memperoleh kesempatan yang jelas sebelum kelompok mengambil keputusan.
+
+**Next practice:** Pada tugas kelompok berikutnya, saya akan meminta semua anggota memilih bagian pekerjaan dan memberikan konfirmasi pada awal pengerjaan. Jika ada anggota yang belum merespons, saya akan mengirimkan satu pemberitahuan dengan batas waktu yang jelas sebelum pekerjaan dibagi ulang.
+
+### Internal agreement
+
+Pada tugas kelompok berikutnya, saya akan memastikan setiap anggota memberikan konfirmasi dan memilih bagian pekerjaan pada awal pengerjaan. Jika seseorang belum merespons, saya akan mengirimkan pesan yang menyebutkan batas waktu konfirmasi dan konsekuensinya.
+
+Jika tetap tidak ada respons setelah batas waktu tersebut, saya akan membicarakan pembagian ulang pekerjaan dan pencantuman nama bersama anggota yang aktif. Dengan cara ini, keputusan dapat dibuat secara terbuka dan saya tidak perlu langsung merasa bahwa semua pekerjaan harus saya tanggung sendiri.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|----------------------|----------------------------:|----------------------|
+| Person & Character | 3 | Saya membedakan tindakan yang terlihat dari dugaan mengenai pribadi anggota tersebut. |
+| Objective & State | 4 | Saya menghadapi ketidakpastian sambil menjaga penyelesaian tugas, pembagian kerja, dan keadilan bagi anggota yang aktif. |
+| Repertoire, Language & AI | 3 | Saya mencoba menghubungi anggota, berkoordinasi, dan menyusun ulang pembagian pekerjaan. Penggunaan AI juga dijelaskan secara terbuka. |
+| Response & Adaptation | 3 | Kelompok menyesuaikan pembagian pekerjaan agar tugas tetap dapat diselesaikan. |
+| Agreement, Action & Relationship | 3 | Anggota yang aktif mencapai kesepakatan, menjalankan pembagian baru, dan menyelesaikan tugas dengan aman. |
+
+**Total:** 16 / 20
+
+::: assessor-only
+### Assessment dosen
+
+**Skor:** — / 20\
+**Evidence yang mendukung:** —\
+**Prioritas perbaikan:** —\
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
