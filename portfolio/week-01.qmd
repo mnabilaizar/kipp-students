@@ -32,11 +32,21 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 ## Evidence
 
+### Person, personality, dan character dalam pengalaman saya
+
+**Person** adalah pribadi yang utuh. Saya memiliki pengalaman, kebutuhan, dan nilai kejujuran serta keadilan; diri saya tidak cukup dijelaskan hanya dengan sebutan koordinator kelompok. Anggota kelompok juga memiliki tanggung jawab di luar tugas bersama yang perlu saya dengarkan.
+
+**Personality** adalah kecenderungan dalam berpikir, merasa, dan bertindak. Saya cenderung ingin pekerjaan selesai lebih awal dan merasa tidak nyaman jika pengumpulan terlalu dekat dengan tenggat. Saya juga masih kesulitan menyampaikan ketika sedang kewalahan. Kecenderungan ini memengaruhi cara saya berkomunikasi, tetapi tidak harus menentukan setiap keputusan saya.
+
+**Character** adalah peran dan tanggung jawab komunikasi yang saya jalankan sesuai situasi. Sebagai koordinator kelompok, saya perlu menjaga waktu sekaligus mendengarkan kondisi anggota. Sebagai anak, saya perlu menjaga kepercayaan orang tua dan belajar menyampaikan keadaan secara jujur. Orangnya tetap sama, tetapi tuntutan komunikasinya berbeda.
+
+Ketegangan yang paling nyata terjadi ketika saya ingin semua bagian selesai pada H-1, sedangkan seorang anggota meminta waktu sampai hari H siang. Kecenderungan saya mendorong saya mempertahankan rencana awal. Peran saya sebagai koordinator menuntut saya mempertimbangkan apakah penyesuaian masih memungkinkan tugas selesai dengan baik. Saya akhirnya menerima perubahan waktu tersebut setelah mendengar alasannya.
+
 ### Peta lima character
 
 | Domain dan character | Person dan relationship | Objective dan responsibility | Repertoire dan language | Risiko |
 |---------------|---------------|---------------|---------------|---------------|
-| Diri sendiri — **reflective learner** | Diri sendiri ketika melakukan kesalahan atau mendapatkan hasil yang belum sesuai | Menerima bahwa saya tidak lepas dari kesalahan dan menjadikannya sebagai bahan untuk berkembang | Melakukan refleksi, mengakui kesalahan, dan menentukan hal yang perlu diperbaiki | Saya masih kesulitan mengatakan bahwa saya sedang kewalahan |
+| Diri sendiri — **pembelajar yang reflektif** | Diri sendiri ketika melakukan kesalahan atau mendapatkan hasil yang belum sesuai | Menerima bahwa saya tidak lepas dari kesalahan dan menjadikannya sebagai bahan untuk berkembang | Melakukan refleksi, mengakui kesalahan, dan menentukan hal yang perlu diperbaiki | Saya masih kesulitan mengatakan bahwa saya sedang kewalahan |
 | Keluarga — **anak yang bertanggung jawab** | Orang tua yang telah memberikan banyak dukungan dan kesempatan | Memanfaatkan privilege yang saya terima dengan baik serta menjaga kepercayaan orang tua | Mendengarkan nasihat, menyampaikan perkembangan, dan berbicara dengan jujur serta hormat | Saya dapat merasa harus selalu terlihat mampu dan akhirnya menyembunyikan kesulitan |
 | Akademik — **koordinator kelompok** | Teman-teman dalam tugas kelompok | Menjaga agar kelompok bekerja sesuai tugas tanpa mengabaikan pendapat dan kondisi anggota | Membagi pekerjaan, menentukan tenggat, melakukan follow-up, mendengarkan keberatan, dan membuat kesepakatan | Saya kurang menyukai pengerjaan yang terlalu dekat dengan tenggat sehingga dapat menjadi terlalu kaku mengenai waktu |
 | Komunitas — **anggota HR IIT** | Anggota kepanitiaan IIT | Menilai performa anggota dan melakukan follow-up terhadap data yang belum diisi | Mengamati perkembangan anggota, menyampaikan evaluasi, mengingatkan pengisian data, dan melakukan follow-up dengan bahasa yang jelas | Follow-up dapat terasa seperti sekadar menagih apabila saya tidak menjelaskan tujuan dan mendengarkan kendala anggota |
@@ -45,6 +55,12 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 ### Nilai utama
 
 Nilai yang paling ingin saya jaga dalam komunikasi adalah kejujuran dan keadilan. Kejujuran membantu setiap orang menyampaikan keadaan dan kemampuannya secara terbuka. Sementara itu, keadilan membantu saya mempertimbangkan kepentingan bersama tanpa mengabaikan kondisi setiap orang. Bagi saya, komunikasi yang baik bukan hanya membuat pekerjaan selesai, tetapi juga menghasilkan kesepakatan yang dapat dijalankan bersama.
+
+### Kekuatan dan pola hambatan komunikasi
+
+Kekuatan yang saya kenali adalah kesediaan untuk membantu mengarahkan kelompok sambil memberi ruang bagi pendapat dan kondisi anggota. Dalam episode tugas besar, saya menerima penjelasan anggota dan ikut menyepakati penyesuaian waktu. Feedback C tentang wibawa dan cara saya menghargai orang lain juga menjadi masukan mengenai kekuatan tersebut.
+
+Hambatan saya adalah kesulitan menyampaikan rasa kewalahan dan ketidaknyamanan ketika pekerjaan mendekati tenggat. Saya cenderung ingin pekerjaan selesai lebih awal, tetapi peran saya sebagai koordinator menuntut saya mendengarkan kendala anggota sebelum mengambil keputusan. Hal yang perlu saya latih ialah menyampaikan kapasitas diri sekaligus membicarakan batas waktu secara terbuka. Sasaran empat minggu dan rencana meminta masukan C dijelaskan pada tindak lanjut di bawah.
 
 ### Kontras dua character
 
@@ -56,13 +72,24 @@ Sebagai koordinator kelompok, saya bekerja bersama teman-teman yang kedudukannya
 
 Tantangan dalam kedua peran tersebut sebenarnya serupa. Saya masih kesulitan mengatakan ketika sedang kewalahan. Dalam keluarga, hal itu dapat membuat orang tua tidak mengetahui kondisi saya. Dalam kelompok, hal itu dapat membuat saya mengambil terlalu banyak tanggung jawab atau membuat rencana yang tidak sesuai dengan kapasitas diri sendiri.
 
+Tabel berikut merangkum tuntutan kedua peran. Respons dan hasil yang disebutkan merupakan hal yang perlu saya perhatikan atau usahakan, bukan laporan bahwa semuanya sudah terjadi.
+
+| Unsur komunikasi | Anak yang bertanggung jawab | Koordinator kelompok |
+|------------------------|------------------------|------------------------|
+| Tujuan tugas dan relasi | Memanfaatkan dukungan orang tua dengan baik serta menjaga keterbukaan | Menjaga mutu dan waktu pengerjaan sambil menghargai kondisi anggota |
+| Repertoire utama | Mendengarkan nasihat, bercerita, dan menjelaskan keadaan diri | Membahas pembagian kerja, meminta kejelasan, mendengarkan kendala, dan bernegosiasi |
+| Bahasa dan nada | Personal, jujur, dan hormat | Jelas dan tegas, dengan ruang bagi anggota untuk menyampaikan keberatan |
+| Respons yang perlu dibaca | Pertanyaan atau kekhawatiran orang tua tentang keadaan saya | Kesediaan anggota, keberatan terhadap waktu, dan penjelasan kendalanya |
+| Tindakan yang diharapkan | Saya menyampaikan kapasitas dan prioritas dengan lebih terbuka | Anggota mengetahui tanggung jawab dan waktu penyelesaian yang disepakati |
+| Relasi yang dirawat | Kepercayaan dengan orang tua melalui keterbukaan | Kerja sama antarteman melalui keputusan yang dibicarakan bersama |
+
 ### Episode komunikasi
 
 Dalam sebuah tugas besar kelompok pada semester 2, kami menyepakati bahwa tenggat internal kelompok adalah satu hari sebelum tenggat resmi. Saya mendukung keputusan tersebut karena tidak suka mengumpulkan tugas terlalu dekat dengan tenggat. Selain itu, tenggat internal memberikan waktu bagi kelompok untuk memeriksa pekerjaan sebelum dikumpulkan.
 
 Dalam diskusi berikutnya, salah satu anggota menyampaikan keberatan. Ia sedang memiliki kegiatan yang padat sehingga meminta agar bagiannya dapat diselesaikan pada hari tenggat resmi, tetapi masih pada siang hari. Tenggat resminya sendiri baru berakhir pada malam hari.
 
-Setelah mendengar alasannya, saya memahami bahwa anggota tersebut bukan tidak mau mengikuti kesepakatan, tetapi memang sedang memiliki keterbatasan waktu. Saya kemudian menyesuaikan pendekatan. Saya bersedia memberikan waktu tambahan dengan syarat bagiannya selesai dengan baik pada siang hari dan masih dapat diperiksa sebelum tugas dikumpulkan.
+Setelah mendengar alasannya, saya mempertimbangkan keterbatasan waktu yang ia sampaikan. Keberatannya terhadap H-1 tidak saya perlakukan sebagai penolakan untuk bertanggung jawab. Saya kemudian menyesuaikan pendekatan. Saya bersedia memberikan waktu tambahan dengan syarat bagiannya selesai dengan baik pada siang hari dan masih dapat diperiksa sebelum tugas dikumpulkan.
 
 Kelompok akhirnya menerima penyesuaian tersebut. Tugas dapat diselesaikan dan dikumpulkan dengan aman sebelum tenggat resmi.
 
@@ -74,46 +101,52 @@ Keterbatasan tersebut menjadi pelajaran bagi saya untuk menyimpan kesepakatan da
 
 ### Perubahan language
 
-Sebagai koordinator kelompok, saya dapat mengatakan:
+**Makna yang dipertahankan:** Saya sedang kewalahan oleh beberapa tanggung jawab dan perlu menata ulang pekerjaan agar tetap dapat menyelesaikannya dengan baik.
 
-> “Kita membuat tenggat H-1 supaya masih ada waktu untuk memeriksa tugas. Kalau bagianmu baru bisa selesai pada hari H siang, pastikan sudah lengkap dan benar agar kita tetap punya waktu sebelum dikumpulkan malamnya.”
+Dua versi berikut saya susun sebagai latihan perubahan bahasa sesuai character. Keduanya merupakan draf yang ingin saya latih, bukan kutipan percakapan yang sudah terjadi.
 
-Sebagai anak ketika sedang mengalami banyak tanggung jawab, saya perlu belajar mengatakan:
+**Sebagai koordinator kelompok, kepada teman-teman:**
 
-> “Saat ini saya sedang merasa kewalahan karena ada beberapa tanggung jawab yang berjalan bersamaan. Saya tetap ingin menyelesaikannya dengan baik, tetapi saya perlu mengatur ulang prioritas.”
+> “Saya mulai kewalahan karena ada beberapa tanggung jawab yang berjalan bersamaan. Saya tetap ingin menyelesaikan bagian saya dengan baik. Bisakah kita meninjau urutan pengerjaannya dan menyepakati prioritas yang paling mendesak?”
 
-Nilai kejujuran dan tanggung jawab tetap ada dalam kedua situasi. Namun, cara menyampaikannya berubah sesuai dengan peran dan hubungan yang sedang saya jalani.
+**Sebagai anak, kepada orang tua:**
+
+> “Saat ini saya sedang kewalahan karena ada beberapa tanggung jawab yang berjalan bersamaan. Saya ingin tetap menyelesaikannya dengan baik, tetapi perlu mengatur ulang prioritas. Saya ingin bercerita dan meminta saran tentang hal yang sebaiknya saya dahulukan.”
+
+Dalam kelompok, permintaan saya mengarah pada kesepakatan kerja dengan teman yang kedudukannya setara. Dalam keluarga, saya lebih terbuka tentang keadaan diri dan meminta saran. Kedua versi tetap menyampaikan keterbatasan, tanggung jawab, dan kebutuhan untuk mengatur prioritas. Perbedaan bahasa tersebut tidak mengubah makna utama atau menjanjikan bahwa saya sanggup melakukan semuanya.
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |------------------------------------|------------------------------------|
-| Person & character | Pada awalnya saya berfokus pada peran sebagai koordinator yang ingin menjaga keamanan waktu. Setelah mendengar penjelasan anggota, saya mulai mempertimbangkan kondisi orang tersebut, bukan hanya menilai apakah ia mengikuti kesepakatan awal atau tidak. |
+| Person & character | Keinginan menyelesaikan pekerjaan lebih awal merupakan kecenderungan saya. Peran koordinator tetap menuntut saya mendengarkan anggota sebagai pribadi yang memiliki kondisi sendiri. Penjelasan tentang kesibukannya menjadi pertimbangan untuk mengubah tenggat internal. |
 | Objective & state | Tujuan saya bukan sekadar memaksa semua anggota mengikuti tenggat H-1, melainkan memastikan tugas selesai dengan baik dan masih memiliki waktu untuk diperiksa. Karena tujuan tersebut tetap dapat tercapai, tenggat salah satu anggota dapat disesuaikan. |
 | Repertoire & language | Saya menggunakan diskusi, mendengarkan keberatan, dan negosiasi. Saya tetap menyampaikan batas waktu yang jelas, tetapi tidak mempertahankan rencana awal secara mutlak. |
 | Response & adaptation | Penjelasan mengenai kesibukan anggota menjadi informasi baru. Setelah menerimanya, saya mengubah pendekatan dari tenggat yang sama untuk semua anggota menjadi tenggat yang disesuaikan dengan kondisi tertentu. |
 | Agreement/action | Anggota tersebut diperbolehkan menyelesaikan bagiannya pada hari H pada siang hari. Ia tetap bertanggung jawab memastikan bagiannya selesai dengan benar agar masih ada waktu untuk pemeriksaan. |
-| Relationship outcome | Penyesuaian tersebut membuat kebutuhan kelompok dan kondisi anggota tetap diperhatikan. Perbedaan mengenai tenggat tidak berkembang menjadi konflik dan tugas tetap dapat dikumpulkan dengan aman. |
+| Relationship outcome | Kelompok menyepakati penyesuaian waktu dan tugas tetap dikumpulkan sebelum tenggat. Hasil ini menunjukkan bahwa keputusan dapat dibuat bersama sambil mempertimbangkan kondisi anggota. |
 
 ## Penggunaan AI
 
-AI tidak saya gunakan dalam diskusi, pengambilan keputusan, maupun pelaksanaan tugas kelompok yang dianalisis. Saya menggunakan AI untuk membantu merapikan struktur dan bahasa portfolio. Seluruh pengalaman, fakta, nilai pribadi, dan refleksi dalam tulisan ini berasal dari saya dan sudah saya periksa kembali.
+AI tidak saya gunakan dalam diskusi atau pengambilan keputusan pada episode yang dianalisis. Saya menggunakan AI untuk membantu memparafrase, menata peta peran, serta menyusun dua contoh kalimat latihan. Pengalaman tugas kelompok, nilai pribadi, kesulitan menyampaikan rasa kewalahan, dan feedback C berasal dari cerita saya.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Dalam percakapan langsung, C mengatakan bahwa saya sudah memiliki wibawa yang baik ketika memimpin dan mampu berkomunikasi dengan tetap menghargai orang lain. Feedback ini menunjukkan bahwa ketegasan yang saya gunakan tidak membuat orang lain merasa diabaikan.
+**Feedback yang diterima:** Dalam percakapan langsung, C mengatakan bahwa saya sudah memiliki wibawa yang baik dan mampu berkomunikasi dengan tetap menghargai orang lain. Ini merupakan parafrase atas penilaian C. Saya memahaminya sebagai masukan bahwa ketegasan dan penghargaan terhadap orang lain dapat berjalan bersama, tanpa menganggapnya mewakili pengalaman semua anggota kelompok.
 
 Walaupun demikian, saya masih perlu belajar menyampaikan keadaan diri sendiri dengan lebih terbuka, terutama ketika sedang kewalahan. Saya juga perlu memastikan bahwa keinginan untuk menyelesaikan tugas lebih awal tidak membuat saya terlalu kaku terhadap kondisi anggota kelompok.
 
-**Adaptation/replay:** Pada tugas kelompok berikutnya, saya akan menjelaskan alasan penentuan tenggat dan menanyakan kendala setiap anggota sebelum kesepakatan dibuat. Saya juga akan berusaha menyampaikan kapasitas diri sendiri secara jujur.
+**Adaptation/replay:** Adaptasi yang sudah saya lakukan pada episode tersebut adalah menerima tenggat hari H siang setelah mendengar keberatan anggota, dengan tetap mempertahankan kebutuhan untuk memeriksa tugas sebelum pengumpulan. Untuk latihan berikutnya, saya akan menjelaskan alasan penentuan tenggat, menanyakan kendala anggota sebelum membuat kesepakatan, dan menyampaikan kapasitas diri secara jujur.
 
 **Next practice:** Selama empat minggu ke depan, saya akan menyampaikan kapasitas dan kendala waktu ketika pembagian tugas dilakukan. Jika mulai kewalahan atau berisiko melewati tenggat internal, saya akan memberi tahu kelompok paling lambat 24 jam sebelumnya dan mengusulkan penyesuaian yang jelas.
+
+Saya akan mencatat keadaan awal, kalimat yang saya gunakan, respons anggota, dan kesepakatan akhirnya. Catatan ini akan menjadi dasar untuk menilai apakah saya lebih terbuka tentang kapasitas diri. Saya juga berencana meminta C memberi masukan pada akhir masa latihan tentang kejelasan dan sikap menghargai dalam komunikasi saya; permintaan tersebut belum saya lakukan.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
-|----------------------|----------------------------:|----------------------|
-| Person & Character | 3 | Saya dapat menjelaskan lima character dan mempertimbangkan kondisi anggota sebagai person. |
+|----------------------|---------------------------:|----------------------|
+| Person & Character | 3 | Saya memetakan lima character, membedakan pribadi dan kecenderungan diri dari tuntutan peran, serta mempertimbangkan kondisi anggota dalam keputusan tenggat. |
 | Objective & State | 4 | Saya menyeimbangkan tujuan menyelesaikan tugas lebih awal dengan kondisi anggota yang membutuhkan penyesuaian waktu. |
 | Repertoire, Language & AI | 3 | Saya menggunakan diskusi dan negosiasi serta menjelaskan penggunaan AI. |
 | Response & Adaptation | 3 | Saya menyesuaikan keputusan setelah mendengar keberatan anggota. |
