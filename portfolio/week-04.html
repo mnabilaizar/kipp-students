@@ -347,16 +347,16 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Tugas ini dikerjakan dalam rangka persiapan portfolio Minggu 4. Salah satu versi penjelasan diuji melalui percakapan langsung dengan seorang teman.</p>
-<p><strong>Persons dan relationship:</strong> Saya menyusun penjelasan untuk lima target, yaitu teman, rekan teknis, manajer, pelanggan atau pengguna, dan masyarakat umum. Feedback pemahaman diperoleh dari seorang teman tanpa mencantumkan identitas pribadinya.</p>
-<p><strong>Objective dan initial state:</strong> Tujuan saya adalah menjelaskan autentikasi dua faktor atau 2FA kepada lima target dengan bahasa yang berbeda tanpa mengubah makna utamanya. Sebelum melakukan latihan ini, saya cenderung menggunakan satu cara penjelasan yang sama tanpa selalu mempertimbangkan pengetahuan dan kebutuhan pendengar.</p>
+<p><strong>Tanggal dan setting:</strong> Latihan menjelaskan satu konsep untuk portfolio Minggu 4. Versi untuk teman sudah disampaikan kepada seorang teman. Tanggal percakapan belum dicatat pada evidence ini.</p>
+<p><strong>Persons dan relationship:</strong> Saya menyusun penjelasan untuk lima target, yaitu teman, rekan teknis, manajer, pelanggan atau pengguna, dan masyarakat umum. Feedback diperoleh dari seorang teman yang identitasnya tidak dicantumkan.</p>
+<p><strong>Objective dan initial state:</strong> Tujuan saya adalah menjelaskan autentikasi dua faktor atau 2FA dengan bahasa yang sesuai bagi target. Makna yang perlu sampai adalah penggunaan dua jenis bukti identitas yang berbeda dan manfaatnya ketika kata sandi bocor. Pengetahuan awal teman tentang 2FA belum dicatat secara terperinci, sehingga tingkat pemahamannya sebelum dan sesudah penjelasan belum bisa dibandingkan secara lengkap.</p>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
 <section id="detoks-jargon" class="level3">
 <h3 class="anchored" data-anchor-id="detoks-jargon">Detoks jargon</h3>
 <p><strong>Konsep teknis:</strong> Autentikasi dua faktor atau <em>two-factor authentication</em> (2FA).</p>
-<p><strong>Definisi teknis:</strong> 2FA adalah proses verifikasi identitas yang menggunakan dua jenis faktor berbeda sebelum pengguna dapat mengakses akun.</p>
+<p><strong>Definisi teknis:</strong> 2FA adalah autentikasi dengan dua kategori faktor yang berbeda, misalnya <em>knowledge factor</em> berupa kata sandi dan <em>possession factor</em> berupa perangkat autentikator. Definisi ini diringkas dari pembagian faktor pada <a href="https://csrc.nist.gov/glossary/term/multi_factor_authentication">glosarium NIST</a>.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 50%">
@@ -371,23 +371,24 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Autentikasi</td>
-<td>Proses memeriksa bahwa orang yang masuk memang pemilik akun</td>
+<td>Pemeriksaan bukti untuk memastikan identitas orang yang mencoba masuk</td>
 </tr>
 <tr class="even">
-<td>Faktor autentikasi</td>
-<td>Jenis bukti yang digunakan untuk membuktikan identitas</td>
+<td>Knowledge factor</td>
+<td>Bukti berupa sesuatu yang diketahui pengguna, seperti kata sandi</td>
 </tr>
 <tr class="odd">
-<td>OTP</td>
-<td>Kode verifikasi yang hanya berlaku satu kali atau dalam waktu singkat</td>
+<td>Possession factor</td>
+<td>Bukti bahwa pengguna menguasai sesuatu, seperti perangkat autentikator</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Core meaning:</strong> 2FA menambahkan bukti identitas kedua sehingga kata sandi yang bocor saja biasanya belum cukup untuk masuk ke akun.</p>
+<p><strong>Core meaning:</strong> 2FA memerlukan dua jenis bukti identitas yang berbeda sehingga kata sandi yang bocor saja biasanya belum cukup untuk masuk ke akun.</p>
 <p>Hal penting yang harus dipertahankan adalah kedua bukti tersebut berasal dari kategori yang berbeda. Kata sandi dan PIN saja belum termasuk 2FA karena keduanya sama-sama merupakan informasi yang diketahui pengguna. Contoh dua faktor berbeda adalah kata sandi dan kode dari aplikasi autentikator atau kunci keamanan.</p>
 </section>
 <section id="lima-versi-language" class="level3">
 <h3 class="anchored" data-anchor-id="lima-versi-language">Lima versi language</h3>
+<p>Versi teman adalah versi yang sudah disampaikan dan mendapat feedback. Empat versi lainnya merupakan draf yang belum diuji kepada target masing-masing. Profil target digunakan untuk menentukan kebutuhan informasi; pengetahuan setiap orang tetap perlu diperiksa saat berkomunikasi.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -405,37 +406,38 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Friend</td>
 <td>“2FA itu seperti dua kali pemeriksaan saat masuk ke akun. Setelah memasukkan kata sandi, kamu masih perlu kode dari aplikasi atau bukti kedua dari perangkatmu. Jadi, kalau kata sandimu bocor, orang lain belum tentu bisa langsung masuk.”</td>
-<td>Menggunakan bahasa santai, kalimat singkat, dan contoh proses masuk ke akun yang dekat dengan kehidupan sehari-hari.</td>
+<td>Hubungan setara memungkinkan bahasa santai. Contoh masuk ke akun menghubungkan konsep dengan pengalaman sehari-hari. Istilah teknis dikurangi, tetapi contoh kata sandi dan bukti dari perangkat tetap dipertahankan.</td>
 </tr>
 <tr class="even">
 <td>Technical peer</td>
-<td>“2FA memverifikasi pengguna melalui dua kategori faktor yang berbeda, misalnya <em>knowledge factor</em> berupa kata sandi dan <em>possession factor</em> berupa TOTP atau <em>security key</em>. Kata sandi ditambah PIN belum termasuk 2FA karena keduanya berada dalam kategori yang sama. Implementasinya juga perlu memperhatikan pemulihan akun dan ketahanan terhadap phishing.”</td>
-<td>Menggunakan istilah teknis yang presisi, menjelaskan batas definisi, dan menyebutkan pertimbangan implementasi.</td>
+<td>“2FA mensyaratkan dua kategori faktor berbeda, misalnya kata sandi sebagai <em>knowledge factor</em> dan perangkat autentikator sebagai <em>possession factor</em>. Mengetahui kata sandi saja belum memenuhi keduanya. Dua isian berupa kata sandi dan PIN tetap satu kategori. Untuk rancangan sistem, periksa jenis faktor yang digunakan, bukan hanya jumlah langkah login.”</td>
+<td>Rekan teknis diposisikan sebagai pihak yang memeriksa rancangan. Istilah kategori dan contoh pembanding memberi dasar untuk menilai ketepatan implementasi, tanpa perlu analogi panjang.</td>
 </tr>
 <tr class="odd">
 <td>Manager</td>
-<td>“Penerapan 2FA dapat mengurangi risiko akses tidak sah ketika kata sandi pegawai bocor, terutama pada akun administrator dan keuangan. Penerapan dapat dimulai dari akun berisiko tinggi dengan tetap memperhitungkan proses aktivasi, pelatihan, dan pemulihan akun.”</td>
-<td>Menekankan risiko, prioritas penerapan, kebutuhan dukungan, dan dampaknya bagi organisasi.</td>
+<td>“Dengan 2FA, kata sandi pegawai perlu disertai bukti dari perangkat yang dikuasainya. Kebocoran kata sandi saja biasanya belum cukup untuk masuk. Untuk mengurangi risiko akses tidak sah, prioritaskan akun berisiko tinggi sambil menyiapkan waktu aktivasi, dukungan pengguna, dan pemulihan akses.”</td>
+<td>Manajer diposisikan sebagai pihak yang menentukan prioritas dan sumber daya. Mekanisme tetap dijelaskan singkat sebelum manfaat dan konsekuensi penerapan. Tidak ada angka penghematan atau jaminan keamanan yang belum dibuktikan.</td>
 </tr>
 <tr class="even">
 <td>Customer atau user</td>
-<td>“Aktifkan 2FA melalui pengaturan keamanan akun. Setelah memasukkan kata sandi, Anda akan diminta memberikan bukti kedua, misalnya kode dari aplikasi autentikator. Simpan kode pemulihan di tempat aman dan jangan membagikan kode verifikasi kepada orang lain.”</td>
-<td>Menggunakan instruksi langsung, menjelaskan tindakan yang harus dilakukan, dan memberikan pengingat keamanan.</td>
+<td>“Jika layanan mendukung 2FA, ikuti petunjuk aktivasinya di pengaturan keamanan. Contohnya, selain kata sandi yang Anda ketahui, gunakan kode dari aplikasi autentikator pada perangkat Anda. Dengan begitu, mengetahui kata sandi saja biasanya belum cukup untuk masuk. Periksa juga cara memulihkan akses jika perangkat tidak tersedia.”</td>
+<td>Pengguna membutuhkan langkah yang dapat diikuti pada layanan yang dipakainya. Bahasa formal dan instruksi singkat menghubungkan manfaat dengan tindakan, sambil mengingatkan kebutuhan pemulihan akses.</td>
 </tr>
 <tr class="odd">
 <td>Public</td>
-<td>“2FA dapat dibayangkan seperti pintu dengan dua kunci yang berbeda. Kata sandi menjadi kunci pertama, sedangkan kode atau perangkat milik Anda menjadi kunci kedua. Jika satu kunci diketahui orang lain, akun masih memiliki pemeriksaan tambahan.”</td>
-<td>Menggunakan analogi yang mudah dibayangkan dan menghindari istilah teknis yang tidak diperlukan.</td>
+<td>“Bayangkan pintu yang memerlukan kode rahasia dan kartu akses: mengetahui kodenya saja belum cukup. Pada akun, 2FA memakai dua jenis bukti, misalnya kata sandi dan bukti dari perangkat Anda. Cara ini menambah perlindungan ketika kata sandi bocor, meskipun tidak menjamin akun bebas dari semua serangan.”</td>
+<td>Analogi kode dan kartu membedakan sesuatu yang diketahui dari sesuatu yang dimiliki. Manfaat dijelaskan lewat keamanan akun sehari-hari; batas analogi tetap disebut agar pesan tidak menjadi janji keamanan mutlak.</td>
 </tr>
 </tbody>
 </table>
+<p><strong>Pemeriksaan makna:</strong> Kelima versi membawa contoh dua jenis bukti dan manfaat ketika kata sandi bocor. Versi manajer membahas prioritas, versi pengguna memberi petunjuk, dan versi teknis mengajak memeriksa rancangan. Perbedaan tindakan tersebut mengikuti peran target; tidak mengubah definisi 2FA. Pada versi teman, frasa “dua kali pemeriksaan” masih perlu diperjelas agar tidak dipahami sebagai dua isian kata sandi.</p>
 </section>
 <section id="feedback-understanding" class="level3">
 <h3 class="anchored" data-anchor-id="feedback-understanding">Feedback understanding</h3>
-<p>Versi untuk teman diuji kepada seorang teman tanpa memberikan penjelasan tambahan di luar teks. Setelah mendengar penjelasan tersebut, teman saya menyatakan bahwa ia memahami maksud 2FA dan tidak menemukan bagian yang membingungkan.</p>
-<p>Feedback tersebut menunjukkan bahwa contoh dua tahap pemeriksaan dan manfaat ketika kata sandi bocor sudah dapat dipahami. Karena tidak ditemukan kesalahpahaman, versi untuk teman tidak memerlukan perubahan besar. Saya tetap mempertahankan frasa “bukti kedua” agar penjelasan tidak disalahartikan sebagai penggunaan dua kata sandi.</p>
+<p>Setelah menerima penjelasan, teman saya menyatakan bahwa ia memahami ucapan saya dan tidak merasa bingung. Ini merupakan parafrase responsnya, bukan kutipan kata per kata.</p>
+<p>Respons itu menunjukkan bahwa teman merasa penjelasannya dapat diikuti. Namun, belum ada catatan ia menjelaskan ulang konsep atau membedakan dua faktor dari dua kata sandi. Karena itu, respons tersebut belum cukup untuk memastikan seluruh makna teknis sudah dipahami. Kebutuhan memperjelas frasa “dua kali pemeriksaan” berasal dari penelaahan draf, bukan dari kesalahpahaman yang pernah ia ungkapkan.</p>
 <div class="evidence-block">
-<p>Evidence yang digunakan adalah lima versi penjelasan, alasan adaptasi untuk setiap target, dan ringkasan feedback langsung dari seorang teman. Feedback ditulis berdasarkan percakapan yang benar-benar dilakukan dan bukan kutipan kata per kata.</p>
+<p>Evidence yang tersedia adalah lima versi penjelasan, alasan pemilihan bahasa, dan ringkasan respons seorang teman. Respons tersebut ditulis sebagai parafrase berdasarkan pengalaman saya.</p>
 </div>
 </section>
 </section>
@@ -455,47 +457,48 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Person &amp; character</td>
-<td>Kelima target dibedakan berdasarkan pengetahuan, kebutuhan, dan keputusan yang perlu mereka ambil. Saya tidak menganggap satu gaya penjelasan cocok untuk semua orang.</td>
+<td>Teman adalah lawan bicara yang sudah memberi respons. Empat profil lainnya dibedakan menurut kebutuhan informasi dan kewenangannya: memeriksa rancangan, menentukan prioritas, menggunakan akun, atau memahami manfaat umum.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; state</td>
-<td>Core meaning tetap sama pada semua versi, yaitu perlunya bukti kedua agar kata sandi yang bocor saja biasanya belum cukup untuk masuk ke akun. Perubahan hanya dilakukan pada bahasa, detail, dan contoh.</td>
+<td>Target makna adalah dua kategori bukti dan manfaatnya saat kata sandi bocor. State yang tercatat sesudah penjelasan adalah teman mengaku paham; ketepatan penjelasan ulangnya belum diperiksa.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire &amp; language</td>
-<td>Repertoire berubah dari percakapan santai, penjelasan teknis, ringkasan risiko untuk manajer, petunjuk tindakan bagi pengguna, hingga analogi untuk publik. Istilah teknis dipakai ketika target memiliki konteks yang sesuai.</td>
+<td>Ragam berganti dari percakapan santai, penjelasan teknis, pertimbangan risiko, petunjuk penggunaan, hingga analogi. Contoh kode rahasia dan kartu dipilih agar analogi tetap membawa perbedaan kategori faktor.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; adaptation</td>
-<td>Teman memahami versi yang diuji dan tidak menemukan bagian yang membingungkan. Respons tersebut menunjukkan bahwa penyederhanaan bahasa tidak menghilangkan makna utama.</td>
+<td>Respons teman menjadi petunjuk awal bahwa penjelasan dapat diikuti. Adaptasi berikutnya adalah memperjelas dua jenis bukti dan memeriksa pemahaman dengan pertanyaan terbuka; pengujian itu masih direncanakan.</td>
 </tr>
 <tr class="odd">
 <td>Agreement/action</td>
-<td>Versi pengguna menjelaskan tindakan mengaktifkan 2FA, menyimpan kode pemulihan, dan menjaga kerahasiaan kode verifikasi. Versi manajer memberikan arah penerapan berdasarkan tingkat risiko.</td>
+<td>Draf manajer dan pengguna memiliki ajakan tindakan yang sesuai peran. Belum ada evidence target menyetujui penerapan atau mengaktifkan 2FA, sehingga ajakan dalam teks tidak dianggap sebagai tindakan nyata.</td>
 </tr>
 <tr class="even">
 <td>Relationship outcome</td>
-<td>Penyesuaian bahasa membantu setiap target memperoleh informasi sesuai kebutuhannya tanpa merasa dibebani jargon yang tidak diperlukan.</td>
+<td>Teman tidak melaporkan kebingungan. Belum ada evidence tentang perubahan hubungan setelah penjelasan, maupun respons dari empat target lain.</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Saya menggunakan AI untuk membantu menyusun alternatif bahasa bagi lima target, memeriksa konsistensi core meaning, dan merapikan struktur portfolio. Saya menerima penjelasan bahwa 2FA harus menggunakan dua kategori faktor yang berbeda dan menolak bahasa yang memberi kesan bahwa 2FA menjamin akun tidak mungkin dibobol. Saya memeriksa kembali setiap versi dan menguji versi teman kepada orang lain. Feedback teman berasal dari percakapan nyata dan tidak dibuat oleh AI. Tidak ada data pribadi yang dimasukkan dalam proses penyusunan.</p>
+<p>Saya menggunakan AI untuk membantu menyusun bahasa, memeriksa core meaning, dan merapikan portfolio. Respons teman berasal dari pengalaman saya, AI tidak digunakan untuk membuat jawaban target atau hasil pengujian tambahan.</p>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Teman saya menyatakan bahwa penjelasan 2FA mudah dipahami dan tidak ada bagian yang membingungkan. Ia memahami bahwa setelah memasukkan kata sandi, pengguna masih membutuhkan pemeriksaan kedua untuk masuk ke akun.</p>
-<p><strong>Adaptation/replay:</strong> Karena feedback tidak menunjukkan kesalahpahaman, saya mempertahankan struktur versi teman. Saya tetap menegaskan bahwa pemeriksaan kedua menggunakan jenis bukti yang berbeda agar konsepnya tidak bergeser menjadi sekadar penggunaan dua kata sandi.</p>
-<p><strong>Next practice:</strong> Pada latihan berikutnya, saya akan menguji satu penjelasan teknis kepada orang yang belum mengenal konsepnya dan meminta orang tersebut menjelaskan kembali dengan bahasanya sendiri. Cara ini dapat membantu saya menemukan bagian yang masih ambigu meskipun pendengar mengatakan sudah memahami penjelasan.</p>
+<p><strong>Feedback yang diterima:</strong> Teman menyatakan paham dan tidak bingung. Feedback ini menjadi dasar untuk melanjutkan latihan dengan pemeriksaan pemahaman yang lebih spesifik.</p>
+<p><strong>Adaptation/replay:</strong> Untuk replay, saya merencanakan tambahan pada versi teman: “Kata sandi adalah sesuatu yang kamu tahu, sedangkan kode dari aplikasi membuktikan bahwa kamu menguasai perangkat autentikatornya. Jadi, yang berbeda adalah jenis buktinya, bukan hanya jumlah pemeriksaannya.” Tambahan ini belum diuji kepada teman.</p>
+<p><strong>Next practice:</strong> Sebelum mengumpulkan evidence tambahan, saya akan meminta teman menjelaskan kembali dengan pertanyaan: “Menurutmu, bagaimana 2FA membantu ketika kata sandi bocor? Kalau kata sandi ditambah PIN, apakah itu sudah 2FA? Mengapa?” Saya akan mencatat jawabannya, bagian yang perlu dijelaskan lagi, dan respons sesudah penjelasan ulang. Indikator keberhasilannya adalah teman dapat membedakan dua jenis bukti, menjelaskan manfaatnya, dan tidak menganggap 2FA menjamin keamanan mutlak. Hasilnya belum tersedia.</p>
+<p><strong>Refleksi:</strong> Pada draf publik, tantangan utamanya adalah membawa makna teknis melalui analogi singkat. Kode rahasia dan kartu akses memperlihatkan perbedaan antara sesuatu yang diketahui dan sesuatu yang dimiliki dengan lebih jelas daripada dua kunci. Untuk rekan teknis, istilah kategori faktor justru membantu memeriksa rancangan secara tepat. Mengurangi jargon berarti memilih cara menjelaskan hubungan antarkonsep, bukan sekadar mengganti istilah dengan kata yang lebih pendek. Respons “paham” dari teman mengingatkan saya bahwa kelancaran penjelasan perlu dilanjutkan dengan pemeriksaan makna yang ia tangkap.</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 30%">
-<col style="width: 39%">
+<col style="width: 38%">
 <col style="width: 30%">
 </colgroup>
 <thead>
@@ -509,31 +512,32 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>Person &amp; Character</td>
 <td style="text-align: right;">3</td>
-<td>Saya membedakan lima target berdasarkan kebutuhan dan tingkat pengetahuannya.</td>
+<td>Lima profil dibedakan berdasarkan kebutuhan informasi dan peran; respons aktual baru berasal dari teman.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
 <td style="text-align: right;">3</td>
-<td>Core meaning tetap konsisten pada semua versi tanpa memberikan jaminan keamanan yang berlebihan.</td>
+<td>Makna dua jenis bukti dipertahankan; perasaan paham dibedakan dari pemahaman teknis yang sudah diperiksa.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
 <td style="text-align: right;">4</td>
-<td>Saya menggunakan lima repertoire yang berbeda, menjelaskan alasan adaptasinya, dan memeriksa batas penggunaan AI.</td>
+<td>Lima ragam bahasa memiliki alasan dan batas yang jelas; sumber teknis dan bantuan AI dinyatakan.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
 <td style="text-align: right;">3</td>
-<td>Versi teman diuji dan feedback menunjukkan bahwa penjelasan dapat dipahami tanpa konteks tambahan.</td>
+<td>Respons teman tersedia sebagai parafrase dan menjadi dasar rencana pemeriksaan pemahaman; replay belum dilakukan.</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
 <td style="text-align: right;">3</td>
-<td>Versi pengguna dan manajer memberikan tindakan yang jelas sesuai kebutuhan masing-masing.</td>
+<td>Ajakan tindakan pada draf manajer dan pengguna sesuai perannya; pelaksanaan oleh target belum dibuktikan.</td>
 </tr>
 </tbody>
 </table>
 <p><strong>Total:</strong> 16 / 20</p>
+<p>Skor mandiri ini mempertimbangkan artefak dan respons yang tersedia. Pemeriksaan pemahaman serta tindak lanjut masih perlu diperkuat melalui replay.</p>
 <section id="assessment-dosen" class="level3 assessor-only">
 <h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
 <p><strong>Skor:</strong> — / 20<br>
