@@ -2,7 +2,7 @@
 title: "Five-Language Translation Portfolio"
 week: 4
 status: "Siap dinilai"
-self_score: "16/20"
+self_score: "17/20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -24,11 +24,11 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
 ## Konteks performance
 
-**Tanggal dan setting:** Latihan menjelaskan satu konsep untuk portfolio Minggu 4. Versi untuk teman sudah disampaikan kepada seorang teman. Tanggal percakapan belum dicatat pada evidence ini.
+**Tanggal dan setting:** Saya menjelaskan satu konsep kepada Fakhri secara tatap muka untuk portfolio Minggu 4, lalu memeriksa pemahamannya dan memperjelas bagian yang masih keliru. Tanggal percakapan belum saya catat.
 
-**Persons dan relationship:** Saya menyusun penjelasan untuk lima target, yaitu teman, rekan teknis, manajer, pelanggan atau pengguna, dan masyarakat umum. Feedback diperoleh dari seorang teman yang identitasnya tidak dicantumkan.
+**Persons dan relationship:** Saya menyusun penjelasan untuk lima target, yaitu teman, rekan teknis, manajer, pelanggan atau pengguna, dan masyarakat umum. Feedback diperoleh dari teman saya, Fakhri; hanya nama depannya yang dicantumkan.
 
-**Objective dan initial state:** Tujuan saya adalah menjelaskan autentikasi dua faktor atau 2FA dengan bahasa yang sesuai bagi target. Makna yang perlu sampai adalah penggunaan dua jenis bukti identitas yang berbeda dan manfaatnya ketika kata sandi bocor. Pengetahuan awal teman tentang 2FA belum dicatat secara terperinci, sehingga tingkat pemahamannya sebelum dan sesudah penjelasan belum bisa dibandingkan secara lengkap.
+**Objective dan initial state:** Tujuan saya adalah menjelaskan autentikasi dua faktor atau 2FA dengan bahasa yang sesuai bagi target. Makna yang perlu sampai adalah penggunaan dua jenis bukti identitas yang berbeda dan manfaatnya ketika kata sandi bocor. Saya tidak mencatat pengetahuan awal Fakhri secara khusus. Karena itu, jawaban saat saya meminta ia menjelaskan kembali menjadi petunjuk paling jelas tentang pemahaman yang ia tangkap dari penjelasan saya.
 
 ## Evidence
 
@@ -50,11 +50,11 @@ Hal penting yang harus dipertahankan adalah kedua bukti tersebut berasal dari ka
 
 ### Lima versi language
 
-Versi teman adalah versi yang sudah disampaikan dan mendapat feedback. Empat versi lainnya merupakan draf yang belum diuji kepada target masing-masing. Profil target digunakan untuk menentukan kebutuhan informasi; pengetahuan setiap orang tetap perlu diperiksa saat berkomunikasi.
+Versi untuk Fakhri sebagai teman adalah versi yang sudah disampaikan dan mendapat feedback. Empat versi lainnya merupakan draf yang belum diuji kepada target masing-masing. Profil target digunakan untuk menentukan kebutuhan informasi; pengetahuan setiap orang tetap perlu diperiksa saat berkomunikasi.
 
 | Target dan character | Versi language | Alasan perubahan language dan repertoire |
 |------------------------|------------------------|------------------------|
-| Friend | “2FA itu seperti dua kali pemeriksaan saat masuk ke akun. Setelah memasukkan kata sandi, kamu masih perlu kode dari aplikasi atau bukti kedua dari perangkatmu. Jadi, kalau kata sandimu bocor, orang lain belum tentu bisa langsung masuk.” | Hubungan setara memungkinkan bahasa santai. Contoh masuk ke akun menghubungkan konsep dengan pengalaman sehari-hari. Istilah teknis dikurangi, tetapi contoh kata sandi dan bukti dari perangkat tetap dipertahankan. |
+| Friend (Fakhri) | “2FA itu seperti dua kali pemeriksaan saat masuk ke akun. Setelah memasukkan kata sandi, kamu masih perlu kode dari aplikasi atau bukti kedua dari perangkatmu. Jadi, kalau kata sandimu bocor, orang lain belum tentu bisa langsung masuk.” | Hubungan setara memungkinkan bahasa santai. Contoh masuk ke akun menghubungkan konsep dengan pengalaman sehari-hari. Istilah teknis dikurangi, tetapi contoh kata sandi dan bukti dari perangkat tetap dipertahankan. |
 | Technical peer | “2FA mensyaratkan dua kategori faktor berbeda, misalnya kata sandi sebagai *knowledge factor* dan perangkat autentikator sebagai *possession factor*. Mengetahui kata sandi saja belum memenuhi keduanya. Dua isian berupa kata sandi dan PIN tetap satu kategori. Untuk rancangan sistem, periksa jenis faktor yang digunakan, bukan hanya jumlah langkah login.” | Rekan teknis diposisikan sebagai pihak yang memeriksa rancangan. Istilah kategori dan contoh pembanding memberi dasar untuk menilai ketepatan implementasi, tanpa perlu analogi panjang. |
 | Manager | “Dengan 2FA, kata sandi pegawai perlu disertai bukti dari perangkat yang dikuasainya. Kebocoran kata sandi saja biasanya belum cukup untuk masuk. Untuk mengurangi risiko akses tidak sah, prioritaskan akun berisiko tinggi sambil menyiapkan waktu aktivasi, dukungan pengguna, dan pemulihan akses.” | Manajer diposisikan sebagai pihak yang menentukan prioritas dan sumber daya. Mekanisme tetap dijelaskan singkat sebelum manfaat dan konsekuensi penerapan. Tidak ada angka penghematan atau jaminan keamanan yang belum dibuktikan. |
 | Customer atau user | “Jika layanan mendukung 2FA, ikuti petunjuk aktivasinya di pengaturan keamanan. Contohnya, selain kata sandi yang Anda ketahui, gunakan kode dari aplikasi autentikator pada perangkat Anda. Dengan begitu, mengetahui kata sandi saja biasanya belum cukup untuk masuk. Periksa juga cara memulihkan akses jika perangkat tidak tersedia.” | Pengguna membutuhkan langkah yang dapat diikuti pada layanan yang dipakainya. Bahasa formal dan instruksi singkat menghubungkan manfaat dengan tindakan, sambil mengingatkan kebutuhan pemulihan akses. |
@@ -62,54 +62,66 @@ Versi teman adalah versi yang sudah disampaikan dan mendapat feedback. Empat ver
 
 **Pemeriksaan makna:** Kelima versi membawa contoh dua jenis bukti dan manfaat ketika kata sandi bocor. Versi manajer membahas prioritas, versi pengguna memberi petunjuk, dan versi teknis mengajak memeriksa rancangan. Perbedaan tindakan tersebut mengikuti peran target; tidak mengubah definisi 2FA. Pada versi teman, frasa “dua kali pemeriksaan” masih perlu diperjelas agar tidak dipahami sebagai dua isian kata sandi.
 
-### Feedback understanding
+### Pemeriksaan pemahaman dalam percakapan tatap muka
 
-Setelah menerima penjelasan, teman saya menyatakan bahwa ia memahami ucapan saya dan tidak merasa bingung. Ini merupakan parafrase responsnya, bukan kutipan kata per kata.
+Fakhri mula-mula mengatakan bahwa penjelasan saya dapat dipahami dan ia tidak merasa bingung. Namun, ketika saya memintanya menjelaskan kembali, saya melihat bahwa frasa “dua kali pemeriksaan” membuatnya memaknai 2FA sebagai dua langkah masuk, misalnya kata sandi lalu PIN. Saya kemudian memperjelas perbedaan antara **jumlah langkah** dan **jenis bukti**. Saya dan Fakhri sudah membaca draf dialog berikut dan menyatakan bahwa alur serta isinya sesuai dengan percakapan tatap muka kami.
 
-Respons itu menunjukkan bahwa teman merasa penjelasannya dapat diikuti. Namun, belum ada catatan ia menjelaskan ulang konsep atau membedakan dua faktor dari dua kata sandi. Karena itu, respons tersebut belum cukup untuk memastikan seluruh makna teknis sudah dipahami. Kebutuhan memperjelas frasa “dua kali pemeriksaan” berasal dari penelaahan draf, bukan dari kesalahpahaman yang pernah ia ungkapkan.
+> **Saya:** “Menurutmu, 2FA itu apa? Coba jelasin pakai bahasamu sendiri.”\
+> **Fakhri:** “Kayak dua kali pemeriksaan pas mau masuk akun, ya? Misalnya masukin password, terus PIN.”\
+> **Saya:** “Nah, bagian ‘dua kali’ itu perlu aku jelaskan lagi. Password dan PIN sama-sama sesuatu yang kita tahu. Kalau 2FA, jenis buktinya berbeda.”\
+> **Fakhri:** “Berarti bukan asal ada dua kolom yang harus diisi?”\
+> **Saya:** “Iya. Contohnya password yang kamu tahu, lalu kode dari aplikasi autentikator di perangkat yang kamu pegang.”\
+> **Saya:** “Sekarang coba bedain: kenapa password ditambah PIN belum tentu 2FA, sedangkan password ditambah kode dari aplikasi autentikator bisa?”\
+> **Fakhri:** “Karena password dan PIN sama-sama informasi yang aku tahu. Kalau kode dari aplikasi itu perlu perangkatku juga.”\
+> **Saya:** “Betul. Terus kalau password seseorang bocor, apa manfaat bukti kedua itu?”\
+> **Fakhri:** “Orang yang tahu password-nya belum tentu bisa masuk karena dia masih butuh bukti dari perangkat.”
+
+Fakhri menjawab tanpa melihat catatan. Ia membedakan kata sandi serta PIN yang sama-sama diketahui pengguna dari kode aplikasi autentikator pada perangkat, lalu menjelaskan mengapa kata sandi yang bocor saja belum cukup untuk masuk. Dengan demikian, pemahamannya terlihat dari penjelasan yang ia berikan, bukan hanya dari jawaban “paham”.
+
+Respons sesudah penjelasan ulang lebih kuat daripada jawaban “paham” di awal karena Fakhri menjelaskan konsep dengan bahasanya sendiri. Saya tidak menyimpulkan bahwa ia sudah menguasai seluruh rincian teknis 2FA atau benar-benar mengaktifkannya pada akun.
 
 ::: evidence-block
-Evidence yang tersedia adalah lima versi penjelasan, alasan pemilihan bahasa, dan ringkasan respons seorang teman. Respons tersebut ditulis sebagai parafrase berdasarkan pengalaman saya.
+Evidence yang tersedia adalah lima versi penjelasan, alasan pemilihan bahasa, serta catatan isi percakapan ketika Fakhri menjelaskan ulang 2FA tanpa melihat catatan sebelum dan sesudah saya memperjelasnya.  Catatan respons ditulis, bukan rekaman atau transkrip langsung. Tidak ada tangkapan layar chat karena percakapan berlangsung tatap muka.
 :::
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |------------------------------------|------------------------------------|
-| Person & character | Teman adalah lawan bicara yang sudah memberi respons. Empat profil lainnya dibedakan menurut kebutuhan informasi dan kewenangannya: memeriksa rancangan, menentukan prioritas, menggunakan akun, atau memahami manfaat umum. |
-| Objective & state | Target makna adalah dua kategori bukti dan manfaatnya saat kata sandi bocor. State yang tercatat sesudah penjelasan adalah teman mengaku paham; ketepatan penjelasan ulangnya belum diperiksa. |
+| Person & character | Fakhri adalah lawan bicara yang sudah memberi respons. Empat profil lainnya dibedakan menurut kebutuhan informasi dan kewenangannya: memeriksa rancangan, menentukan prioritas, menggunakan akun, atau memahami manfaat umum. |
+| Objective & state | Target makna adalah dua kategori bukti dan manfaatnya saat kata sandi bocor. Jawaban awal Fakhri menunjukkan ia masih menyamakan dua langkah dengan dua faktor; sesudah penjelasan ulang ia dapat menyebut perlunya bukti dari perangkat ketika kata sandi bocor. |
 | Repertoire & language | Ragam berganti dari percakapan santai, penjelasan teknis, pertimbangan risiko, petunjuk penggunaan, hingga analogi. Contoh kode rahasia dan kartu dipilih agar analogi tetap membawa perbedaan kategori faktor. |
-| Response & adaptation | Respons teman menjadi petunjuk awal bahwa penjelasan dapat diikuti. Adaptasi berikutnya adalah memperjelas dua jenis bukti dan memeriksa pemahaman dengan pertanyaan terbuka; pengujian itu masih direncanakan. |
+| Response & adaptation | Saya tidak berhenti pada jawaban “paham”. Ketika contoh kata sandi dan PIN menunjukkan salah paham, saya memperjelas jenis buktinya lalu kembali meminta Fakhri menjelaskan manfaat 2FA dengan bahasanya sendiri. |
 | Agreement/action | Draf manajer dan pengguna memiliki ajakan tindakan yang sesuai peran. Belum ada evidence target menyetujui penerapan atau mengaktifkan 2FA, sehingga ajakan dalam teks tidak dianggap sebagai tindakan nyata. |
-| Relationship outcome | Teman tidak melaporkan kebingungan. Belum ada evidence tentang perubahan hubungan setelah penjelasan, maupun respons dari empat target lain. |
+| Relationship outcome | Fakhri bersedia menjelaskan ulang dan mengubah pemahamannya setelah saya memperjelas contoh. Saya belum memiliki evidence tentang perubahan hubungan di luar percakapan ini ataupun respons dari empat target lain. |
 
 ## Penggunaan AI
 
-Saya menggunakan AI untuk membantu menyusun bahasa, memeriksa core meaning, dan merapikan portfolio. Respons teman berasal dari pengalaman saya, AI tidak digunakan untuk membuat jawaban target atau hasil pengujian tambahan.
+Saya menggunakan AI untuk membantu menyusun lima versi bahasa, memeriksa core meaning, dan merapikan redaksi catatan dialog. Saya dan Fakhri sudah memeriksa bahwa alur serta isi dialog itu sesuai dengan percakapan yang terjadi. Respons Fakhri berasal dari pengalaman saya, empat versi untuk target lain masih berupa draf yang belum diuji.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Teman menyatakan paham dan tidak bingung. Feedback ini menjadi dasar untuk melanjutkan latihan dengan pemeriksaan pemahaman yang lebih spesifik.
+**Feedback yang diterima:** Fakhri awalnya mengatakan bahwa penjelasan saya dapat dipahami. Saat diminta menjelaskan ulang, ia sempat memberi contoh kata sandi dan PIN. Setelah saya memperjelas dua jenis bukti, ia dapat menjelaskan kembali manfaat bukti kedua ketika kata sandi bocor. Saya tidak mencatat feedback lain tentang gaya bicara saya.
 
-**Adaptation/replay:** Untuk replay, saya merencanakan tambahan pada versi teman: “Kata sandi adalah sesuatu yang kamu tahu, sedangkan kode dari aplikasi membuktikan bahwa kamu menguasai perangkat autentikatornya. Jadi, yang berbeda adalah jenis buktinya, bukan hanya jumlah pemeriksaannya.” Tambahan ini belum diuji kepada teman.
+**Adaptation/replay:** Saya mengubah penjelasan dari “dua kali pemeriksaan” menjadi perbedaan antara bukti yang diketahui dan bukti dari perangkat. Saya melakukan pemeriksaan ulang dengan meminta Fakhri menyebutkan manfaatnya, lalu mendapat jawaban yang sesuai dengan makna inti.
 
-**Next practice:** Sebelum mengumpulkan evidence tambahan, saya akan meminta teman menjelaskan kembali dengan pertanyaan: “Menurutmu, bagaimana 2FA membantu ketika kata sandi bocor? Kalau kata sandi ditambah PIN, apakah itu sudah 2FA? Mengapa?” Saya akan mencatat jawabannya, bagian yang perlu dijelaskan lagi, dan respons sesudah penjelasan ulang. Indikator keberhasilannya adalah teman dapat membedakan dua jenis bukti, menjelaskan manfaatnya, dan tidak menganggap 2FA menjamin keamanan mutlak. Hasilnya belum tersedia.
+**Next practice:** Pada penjelasan berikutnya, saya akan langsung menekankan dua **jenis** bukti, bukan hanya dua langkah. Setelah menjelaskan, saya akan meminta lawan bicara memberi contoh sendiri tanpa lebih dahulu menyebut jawaban yang benar, lalu mencatat bagian yang masih keliru dan perubahan setelah saya memperjelasnya.
 
-**Refleksi:** Pada draf publik, tantangan utamanya adalah membawa makna teknis melalui analogi singkat. Kode rahasia dan kartu akses memperlihatkan perbedaan antara sesuatu yang diketahui dan sesuatu yang dimiliki dengan lebih jelas daripada dua kunci. Untuk rekan teknis, istilah kategori faktor justru membantu memeriksa rancangan secara tepat. Mengurangi jargon berarti memilih cara menjelaskan hubungan antarkonsep, bukan sekadar mengganti istilah dengan kata yang lebih pendek. Respons “paham” dari teman mengingatkan saya bahwa kelancaran penjelasan perlu dilanjutkan dengan pemeriksaan makna yang ia tangkap.
+**Refleksi:** Pada draf publik, tantangan utamanya adalah membawa makna teknis melalui analogi singkat. Kode rahasia dan kartu akses memperlihatkan perbedaan antara sesuatu yang diketahui dan sesuatu yang dimiliki dengan lebih jelas daripada dua kunci. Untuk rekan teknis, istilah kategori faktor justru membantu memeriksa rancangan secara tepat. Mengurangi jargon berarti memilih cara menjelaskan hubungan antarkonsep, bukan sekadar mengganti istilah dengan kata yang lebih pendek. Jawaban “paham” dari teman sempat membuat saya mengira penjelasan sudah cukup. Ketika ia menjelaskan kembali, saya baru melihat letak salah pahamnya dan bisa memperbaiki bagian tersebut.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |----------------------|---------------------------:|----------------------|
 | Person & Character | 3 | Lima profil dibedakan berdasarkan kebutuhan informasi dan peran; respons aktual baru berasal dari teman. |
-| Objective & State | 3 | Makna dua jenis bukti dipertahankan; perasaan paham dibedakan dari pemahaman teknis yang sudah diperiksa. |
+| Objective & State | 3 | Saya membedakan perasaan paham dari pemahaman yang terlihat pada jawaban teman sebelum dan sesudah penjelasan ulang. |
 | Repertoire, Language & AI | 4 | Lima ragam bahasa memiliki alasan dan batas yang jelas; sumber teknis dan bantuan AI dinyatakan. |
-| Response & Adaptation | 3 | Respons teman tersedia sebagai parafrase dan menjadi dasar rencana pemeriksaan pemahaman; replay belum dilakukan. |
+| Response & Adaptation | 4 | Saya menangkap salah paham dari contoh kata sandi dan PIN, memperjelas perbedaan jenis bukti, lalu meminta teman menjelaskan kembali manfaat 2FA. |
 | Agreement, Action & Relationship | 3 | Ajakan tindakan pada draf manajer dan pengguna sesuai perannya; pelaksanaan oleh target belum dibuktikan. |
 
-**Total:** 16 / 20
+**Total:** 17 / 20
 
-Skor mandiri ini mempertimbangkan artefak dan respons yang tersedia. Pemeriksaan pemahaman serta tindak lanjut masih perlu diperkuat melalui replay.
+Skor mandiri ini mempertimbangkan lima versi bahasa dan pemeriksaan pemahaman yang sudah dilakukan dengan satu teman. Empat versi lainnya belum diuji langsung kepada target masing-masing.
 
 ::: assessor-only
 ### Assessment dosen
