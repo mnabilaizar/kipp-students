@@ -2,9 +2,9 @@
 title: "Five-Language Translation Portfolio"
 week: 4
 status: "Siap dinilai"
-self_score: "17/20"
-assessor_score: "—"
-description: "Satu meaning untuk lima person atau character."
+self_score: "18/20"
+assessor_score: "-"
+description: "Adaptasi penjelasan 2FA untuk lima profil, dengan catatan teman dan empat simulasi bersama peserta manusia."
 categories: [Fondasi, Language]
 ---
 
@@ -18,17 +18,19 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 - Alasan perubahan language dan repertoire.
 - Feedback understanding dari sedikitnya satu target.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
+:::: {.callout-note title="Revisi tiket 570 — catatan empat simulasi ditambahkan"}
+::: {.callout-note title="Revisi tiket 570 — catatan empat simulasi ditambahkan"}
 [Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+::::
 
 ## Konteks performance
 
-**Tanggal dan setting:** Saya menjelaskan satu konsep kepada Fakhri secara tatap muka untuk portfolio Minggu 4, lalu memeriksa pemahamannya dan memperjelas bagian yang masih keliru. Tanggal percakapan belum saya catat.
+**Tanggal dan setting:** Percakapan dengan Fakhri dilakukan tatap muka; tanggalnya belum tercatat. Empat simulasi tambahan dilaporkan berlangsung dalam rentang **22–28 September 2026**. Setting yang dicatat adalah diskusi di sekretariat lab untuk Dimas, evaluasi setelah standup untuk Mbak Tari, tes alur aplikasi di perpustakaan untuk Maya, dan obrolan di warkop untuk Mas Danang. Tanggal individual setiap simulasi belum dirinci.
 
-**Persons dan relationship:** Saya menyusun penjelasan untuk lima target, yaitu teman, rekan teknis, manajer, pelanggan atau pengguna, dan masyarakat umum. Feedback diperoleh dari teman saya, Fakhri; hanya nama depannya yang dicantumkan.
+**Persons dan relationship:** Fakhri adalah teman kuliah yang memberikan feedback dalam percakapan awal. Dalam empat simulasi, Dimas memerankan rekan teknis, Mbak Tari memerankan lead atau project manager, Maya memerankan pengguna aplikasi, dan Mas Danang memerankan anggota masyarakat umum. Saya menjalankan peran pemberi penjelasan yang menyesuaikan bahasa dengan kebutuhan tiap profil. Kewenangan peserta untuk menentukan rancangan atau prioritas berlaku dalam skenario simulasi; keputusan organisasi nyata belum dibuktikan oleh catatan ini.
 
-**Objective dan initial state:** Tujuan saya adalah menjelaskan autentikasi dua faktor atau 2FA dengan bahasa yang sesuai bagi target. Makna yang perlu sampai adalah penggunaan dua jenis bukti identitas yang berbeda dan manfaatnya ketika kata sandi bocor. Saya tidak mencatat pengetahuan awal Fakhri secara khusus. Karena itu, jawaban saat saya meminta ia menjelaskan kembali menjadi petunjuk paling jelas tentang pemahaman yang ia tangkap dari penjelasan saya.
+**Objective dan initial state:** Makna inti yang ingin saya sampaikan adalah bahwa 2FA menggunakan dua jenis bukti identitas berbeda dan menambah perlindungan ketika kata sandi bocor. Fakhri dan Dimas awalnya menyamakan dua langkah dengan dua faktor. Mbak Tari mempertanyakan kelancaran kerja ketika perangkat tidak tersedia; Maya mempertanyakan pemulihan jika ponsel hilang atau aplikasi terhapus. Mas Danang menghubungkan analogi dengan SMS OTP. Respons tersebut menjadi dasar untuk memilih penjelasan lanjutan: kategori faktor, prioritas dan pemulihan, petunjuk penggunaan, atau analogi sehari-hari.
 
 ## Evidence
 
@@ -43,6 +45,8 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 | Autentikasi | Pemeriksaan bukti untuk memastikan identitas orang yang mencoba masuk |
 | Knowledge factor | Bukti berupa sesuatu yang diketahui pengguna, seperti kata sandi |
 | Possession factor | Bukti bahwa pengguna menguasai sesuatu, seperti perangkat autentikator |
+| TOTP | Kode sekali pakai yang berganti menurut waktu dari aplikasi atau perangkat autentikator |
+| Recovery code | Kode cadangan untuk memulihkan akses, jika tersedia pada layanan yang digunakan |
 
 **Core meaning:** 2FA memerlukan dua jenis bukti identitas yang berbeda sehingga kata sandi yang bocor saja biasanya belum cukup untuk masuk ke akun.
 
@@ -50,21 +54,23 @@ Hal penting yang harus dipertahankan adalah kedua bukti tersebut berasal dari ka
 
 ### Lima versi language
 
-Versi untuk Fakhri sebagai teman adalah versi yang sudah disampaikan dan mendapat feedback. Empat versi lainnya merupakan draf yang belum diuji kepada target masing-masing. Profil target digunakan untuk menentukan kebutuhan informasi; pengetahuan setiap orang tetap perlu diperiksa saat berkomunikasi.
+Tabel berikut merangkum lima versi penjelasan dan alasan pemilihan bahasanya. Catatan percakapan Fakhri serta empat simulasi disertakan setelah tabel. Rumusan dalam tabel tidak menggantikan ucapan pada catatan dialog; koreksi teknis setelah simulasi juga dipisahkan dari ucapan yang dilaporkan. Profil digunakan untuk membaca kebutuhan informasi, sedangkan respons peserta menunjukkan pemahaman atau kekhawatiran yang muncul.
 
 | Target dan character | Versi language | Alasan perubahan language dan repertoire |
 |------------------------|------------------------|------------------------|
 | Friend (Fakhri) | “2FA itu seperti dua kali pemeriksaan saat masuk ke akun. Setelah memasukkan kata sandi, kamu masih perlu kode dari aplikasi atau bukti kedua dari perangkatmu. Jadi, kalau kata sandimu bocor, orang lain belum tentu bisa langsung masuk.” | Hubungan setara memungkinkan bahasa santai. Contoh masuk ke akun menghubungkan konsep dengan pengalaman sehari-hari. Istilah teknis dikurangi, tetapi contoh kata sandi dan bukti dari perangkat tetap dipertahankan. |
-| Technical peer | “2FA mensyaratkan dua kategori faktor berbeda, misalnya kata sandi sebagai *knowledge factor* dan perangkat autentikator sebagai *possession factor*. Mengetahui kata sandi saja belum memenuhi keduanya. Dua isian berupa kata sandi dan PIN tetap satu kategori. Untuk rancangan sistem, periksa jenis faktor yang digunakan, bukan hanya jumlah langkah login.” | Rekan teknis diposisikan sebagai pihak yang memeriksa rancangan. Istilah kategori dan contoh pembanding memberi dasar untuk menilai ketepatan implementasi, tanpa perlu analogi panjang. |
-| Manager | “Dengan 2FA, kata sandi pegawai perlu disertai bukti dari perangkat yang dikuasainya. Kebocoran kata sandi saja biasanya belum cukup untuk masuk. Untuk mengurangi risiko akses tidak sah, prioritaskan akun berisiko tinggi sambil menyiapkan waktu aktivasi, dukungan pengguna, dan pemulihan akses.” | Manajer diposisikan sebagai pihak yang menentukan prioritas dan sumber daya. Mekanisme tetap dijelaskan singkat sebelum manfaat dan konsekuensi penerapan. Tidak ada angka penghematan atau jaminan keamanan yang belum dibuktikan. |
-| Customer atau user | “Jika layanan mendukung 2FA, ikuti petunjuk aktivasinya di pengaturan keamanan. Contohnya, selain kata sandi yang Anda ketahui, gunakan kode dari aplikasi autentikator pada perangkat Anda. Dengan begitu, mengetahui kata sandi saja biasanya belum cukup untuk masuk. Periksa juga cara memulihkan akses jika perangkat tidak tersedia.” | Pengguna membutuhkan langkah yang dapat diikuti pada layanan yang dipakainya. Bahasa formal dan instruksi singkat menghubungkan manfaat dengan tindakan, sambil mengingatkan kebutuhan pemulihan akses. |
-| Public | “Bayangkan pintu yang memerlukan kode rahasia dan kartu akses: mengetahui kodenya saja belum cukup. Pada akun, 2FA memakai dua jenis bukti, misalnya kata sandi dan bukti dari perangkat Anda. Cara ini menambah perlindungan ketika kata sandi bocor, meskipun tidak menjamin akun bebas dari semua serangan.” | Analogi kode dan kartu membedakan sesuatu yang diketahui dari sesuatu yang dimiliki. Manfaat dijelaskan lewat keamanan akun sehari-hari; batas analogi tetap disebut agar pesan tidak menjadi janji keamanan mutlak. |
+| Technical peer — Dimas (simulasi) | “2FA mensyaratkan dua kategori faktor berbeda, misalnya kata sandi sebagai *knowledge factor* dan perangkat autentikator sebagai *possession factor*. Mengetahui kata sandi saja belum memenuhi keduanya. Dua isian berupa kata sandi dan PIN tetap satu kategori. Untuk rancangan sistem, periksa jenis faktor yang digunakan, bukan hanya jumlah langkah login.” | Rekan teknis diposisikan sebagai pihak yang memeriksa rancangan. Istilah kategori dan contoh pembanding memberi dasar untuk menilai ketepatan implementasi, tanpa perlu analogi panjang. |
+| Manager — Mbak Tari (simulasi) | “Dengan 2FA, kata sandi pegawai perlu disertai bukti dari perangkat yang dikuasainya. Kebocoran kata sandi saja biasanya belum cukup untuk masuk. Untuk mengurangi risiko akses tidak sah, prioritaskan akun berisiko tinggi sambil menyiapkan waktu aktivasi, dukungan pengguna, dan pemulihan akses.” | Manajer diposisikan sebagai pihak yang menentukan prioritas dan sumber daya. Mekanisme tetap dijelaskan singkat sebelum manfaat dan konsekuensi penerapan. Tidak ada angka penghematan atau jaminan keamanan yang belum dibuktikan. |
+| Customer/user — Maya (simulasi) | “Jika layanan mendukung 2FA, ikuti petunjuk aktivasinya di pengaturan keamanan. Contohnya, selain kata sandi yang Anda ketahui, gunakan kode dari aplikasi autentikator pada perangkat Anda. Dengan begitu, mengetahui kata sandi saja biasanya belum cukup untuk masuk. Periksa juga cara memulihkan akses jika perangkat tidak tersedia.” | Pengguna membutuhkan langkah yang dapat diikuti pada layanan yang dipakainya. Bahasa formal dan instruksi singkat menghubungkan manfaat dengan tindakan, sambil mengingatkan kebutuhan pemulihan akses. |
+| Public — Mas Danang (simulasi) | “Bayangkan pintu yang memerlukan kode rahasia dan kartu akses: mengetahui kodenya saja belum cukup. Pada akun, 2FA memakai dua jenis bukti, misalnya kata sandi dan bukti dari perangkat Anda. Cara ini menambah perlindungan ketika kata sandi bocor, meskipun tidak menjamin akun bebas dari semua serangan. Pilih satu akun yang Anda gunakan, periksa apakah layanan itu mendukung 2FA, lalu catat langkah berikutnya sesuai petunjuk layanan tersebut.” | Analogi kode dan kartu membedakan sesuatu yang diketahui dari sesuatu yang dimiliki. Manfaat dijelaskan lewat keamanan akun sehari-hari; batas analogi tetap disebut agar pesan tidak menjadi janji keamanan mutlak. Ajakan memilih satu akun dan memeriksa dukungan 2FA memberi langkah awal yang dapat dicatat tanpa mengasumsikan semua layanan mendukungnya. |
 
 **Pemeriksaan makna:** Kelima versi membawa contoh dua jenis bukti dan manfaat ketika kata sandi bocor. Versi manajer membahas prioritas, versi pengguna memberi petunjuk, dan versi teknis mengajak memeriksa rancangan. Perbedaan tindakan tersebut mengikuti peran target; tidak mengubah definisi 2FA. Pada versi teman, frasa “dua kali pemeriksaan” masih perlu diperjelas agar tidak dipahami sebagai dua isian kata sandi.
 
-### Pemeriksaan pemahaman dalam percakapan tatap muka
+### Pemeriksaan pemahaman dan catatan percakapan
 
-Fakhri mula-mula mengatakan bahwa penjelasan saya dapat dipahami dan ia tidak merasa bingung. Namun, ketika saya memintanya menjelaskan kembali, saya melihat bahwa frasa “dua kali pemeriksaan” membuatnya memaknai 2FA sebagai dua langkah masuk, misalnya kata sandi lalu PIN. Saya kemudian memperjelas perbedaan antara **jumlah langkah** dan **jenis bukti**. Saya dan Fakhri sudah membaca draf dialog berikut dan menyatakan bahwa alur serta isinya sesuai dengan percakapan tatap muka kami.
+#### 1. Friend — Fakhri
+
+Fakhri mula-mula mengatakan bahwa penjelasan saya dapat dipahami dan ia tidak merasa bingung. Namun, ketika saya memintanya menjelaskan kembali, saya melihat bahwa frasa “dua kali pemeriksaan” membuatnya memaknai 2FA sebagai dua langkah masuk, misalnya kata sandi lalu PIN. Saya kemudian memperjelas perbedaan antara **jumlah langkah** dan **jenis bukti**. Saya dan Fakhri sudah membaca draf dialog berikut dan menyatakan bahwa alur serta isinya sesuai dengan percakapan tatap muka kami. Dialog ini merupakan catatan isi yang disusun kembali, bukan transkrip verbatim dari rekaman.
 
 > **Saya:** “Menurutmu, 2FA itu apa? Coba jelasin pakai bahasamu sendiri.”\
 > **Fakhri:** “Kayak dua kali pemeriksaan pas mau masuk akun, ya? Misalnya masukin password, terus PIN.”\
@@ -80,49 +86,121 @@ Fakhri menjawab tanpa melihat catatan. Ia membedakan kata sandi serta PIN yang s
 
 Respons sesudah penjelasan ulang lebih kuat daripada jawaban “paham” di awal karena Fakhri menjelaskan konsep dengan bahasanya sendiri. Saya tidak menyimpulkan bahwa ia sudah menguasai seluruh rincian teknis 2FA atau benar-benar mengaktifkannya pada akun.
 
+#### Catatan sumber empat simulasi
+
+Bagian 2–5 merupakan catatan simulasi dengan peserta manusia yang saya berikan untuk revisi W04. Dialog dicatat kembali sebagai bahan tertulis, bukan transkrip verbatim dari rekaman. Respons peserta dan hasil berasal dari laporan simulasi saya. Catatan ini belum disertai rekaman, screenshot pengujian, atau konfirmasi tertulis terpisah dari peserta. Redaksi yang kurang tepat secara teknis tetap dipertahankan pada catatan dialog dan dibahas dalam koreksi setelah simulasi.
+
+#### 2. Technical peer — Dimas: diskusi di sekretariat lab (simulasi)
+
+**Objective:** Membedakan dua langkah login dari dua kategori faktor dan menentukan usulan rancangan dalam skenario. Hubungan antarrekan memungkinkan istilah teknis, tetapi jawaban awal Dimas menunjukkan bahwa arti dua faktor masih perlu diperjelas.
+
+> **Saya:** “Dim, kalau di fitur login baru kita bikin input Password terus lanjut PIN, itu udah bisa dibilang 2FA belum di dokumentasi?”\
+> **Dimas:** “Harusnya udah kan? Kan ada dua langkah verifikasi pas login.”\
+> **Saya:** “Secara konsep NIST, password dan PIN itu sama-sama *knowledge factor*. Kalau database kita bocor, dua-duanya bisa terekspos sekaligus. 2FA itu butuh dua kategori beda: *knowledge* plus *possession factor* kayak TOTP dari aplikasi autentikator.”\
+> **Dimas:** “Oh iya juga ya. Berarti itu cuma verifikasi dua langkah tapi kategorinya masih sama. Oke, backend-nya tak ubah biar integrasi ke TOTP/authenticator aja.”
+
+**Respons dan hasil:** Dimas membedakan jumlah langkah dari kategori faktor dan menyetujui usulan perubahan spesifikasi autentikasi dari password + PIN menjadi password + TOTP dalam simulasi. Catatan memuat respons dan keputusan yang saya laporkan; perubahan kode backend atau implementasi sistem belum ditunjukkan.
+
+#### 3. Manager — Mbak Tari: evaluasi setelah standup (simulasi)
+
+**Objective:** Membahas pengurangan risiko akses tidak sah sambil mempertimbangkan kelancaran kerja dan pemulihan akses. Mbak Tari berperan sebagai pengambil keputusan dalam skenario. Saya mengajukan pilihan; prioritas uji coba ditentukan oleh peserta dalam peran tersebut.
+
+> **Saya:** “Mbak Tari, soal rencana wajib 2FA buat tim, intinya kita butuh bukti dari perangkat pegawai selain kata sandi.”\
+> **Mbak Tari:** “Aman gak buat alur kerja anak-anak? Takutnya kalau HP-nya mati atau ketinggalan malah gak bisa kerja.”\
+> **Saya:** “Kebocoran kata sandi aja gak akan bikin peretas bisa masuk. Biar gak menghambat kerjaan kalau HP bermasalah, kita siapin *recovery codes* dan prosedur pemulihan akses dulu sebelum diwajibkan.”\
+> **Mbak Tari:** “Boleh. Kalau gitu kita coba dulu ke akun admin dan akses database minggu ini, sekalian bikin panduan pemulihannya.”
+
+**Respons dan hasil:** Mbak Tari menyetujui uji coba bertahap untuk akun sensitif/admin dan meminta panduan pemulihan dalam skenario simulasi. Kekhawatiran tentang perangkat mengubah fokus penjelasan saya dari manfaat keamanan ke kebutuhan pemulihan dan kelangsungan kerja. Catatan belum membuktikan bahwa uji coba organisasi, SOP, atau penerapan pada akun perusahaan sudah terlaksana.
+
+#### 4. Customer/user — Maya: tes alur aplikasi di perpustakaan (simulasi)
+
+**Objective:** Membantu pengguna memahami alur aktivasi dan pemulihan pada aplikasi tes. Pertanyaan Maya menunjukkan kebutuhan petunjuk yang dapat dipraktikkan, sehingga saya menggunakan bahasa sehari-hari dan urutan tindakan.
+
+> **Saya:** “May, kalau fitur 2FA ini diaktifkan, kamu bakal diminta masukin password dan kode dari aplikasi autentikator di HP. Jadi kalau ada yang tahu passwordmu, dia tetep gak bisa masuk.”\
+> **Maya:** “Terus kalau HP-ku hilang atau aplikasinya terhapus gimana?”\
+> **Saya:** “Pas awal aktifin, sistem bakal kasih beberapa kode cadangan (*recovery code*). Kode itu disimpan baik-baik atau dicatat di tempat aman.”\
+> **Maya:** “Ooh gitu. Berarti aku download aplikasi autentikator dulu, terus simpan kode cadangannya sebelum keluar dari halaman pengaturan ya.”
+
+**Respons dan hasil:** Maya menjelaskan kembali urutan yang akan dilakukan. Dalam simulasi, saya melaporkan bahwa ia mencoba aktivasi pada aplikasi tes, menyimpan kode cadangan, dan berhasil melakukan tes login. Hasil ini terbatas pada kegiatan pengujian yang dilaporkan; nama aplikasi, screenshot, dan log tes belum dilampirkan.
+
+#### 5. Public — Mas Danang: obrolan di warkop (simulasi)
+
+**Objective:** Menjelaskan perbedaan bukti yang diketahui dan bukti dari perangkat melalui analogi, lalu mendorong pemeriksaan pengaturan keamanan akun. Ketika Mas Danang menghubungkannya dengan SMS OTP, saya menanggapi dengan contoh aplikasi autentikator dan pesan menjaga kerahasiaan kode.
+
+> **Saya:** “Mas Danang, 2FA itu ibarat pintu rumah yang dikunci pakai sandi rahasia sekaligus kartu akses. Kalau kertas catetan sandinya hilang, pencuri tetep gak bisa masuk kalau gak megang kartunya. Di HP, sandinya itu password, kartunya itu ya HP-nya Mas.”\
+> **Mas Danang:** “Oalah, berarti kayak SMS OTP yang masuk ke HP itu ya?”\
+> **Saya:** “Prinsipnya mirip Mas, tapi pakai aplikasi autentikator lebih aman dari pembajakan nomor. Yang penting jangan pernah kasih kode apa pun ke orang lain.”\
+> **Mas Danang:** “Sip, paham. Ntar malam tak coba cek pengaturan keamanan di WA sama e-wallet-ku.”
+
+**Respons dan hasil:** Kalimat terakhir pada dialog menunjukkan rencana untuk mengecek malam hari. Dalam klarifikasi hasil simulasi, saya menjelaskan bahwa setelah percakapan Mas Danang justru langsung membuka pengaturan di ponselnya dan melihat fitur verifikasi dua langkah sudah aktif. Tindakan lanjutan ini dicatat sebagai laporan hasil, tanpa menambahkan dialog yang tidak saya berikan. Catatan belum merinci layanan mana yang diperiksa maupun mekanisme faktornya, sehingga status fitur tersebut tidak saya samakan dengan bukti penggunaan password + TOTP.
+
+### Koreksi teknis dan refleksi setelah simulasi
+
+Catatan dialog merekam cara saya menjelaskan dalam simulasi, termasuk bagian yang perlu diperbaiki. Koreksi berikut merupakan hasil pemeriksaan setelahnya; saya belum mencatat replay koreksi ini kepada keempat peserta.
+
+- **Kategori faktor:** Password dan PIN yang keduanya berupa rahasia untuk diketik merupakan satu kategori faktor pengetahuan. Password dan OTP dari penguasaan autentikator memberi contoh kategori berbeda. Inti ini mengikuti [glosarium NIST](https://csrc.nist.gov/glossary/term/multi_factor_authentication).
+- **Batas klaim keamanan:** Ucapan saya kepada Mbak Tari dan Maya terlalu mutlak. Rumusan yang lebih tepat untuk penjelasan berikutnya adalah “kata sandi bocor saja biasanya belum cukup untuk masuk”. OTP yang diketik manual tetap dapat terkena phishing. Pernyataan tentang kebocoran database juga bergantung pada penyimpanan kredensial; NIST mensyaratkan password disimpan memakai hashing dan salt. [NIST — persyaratan autentikator](https://pages.nist.gov/800-63-4/sp800-63b/authenticators/)
+- **Pemulihan dan jenis layanan:** Kode cadangan dalam episode Maya merupakan bagian dari aplikasi tes yang saya laporkan. Untuk layanan lain, cara pemulihan mengikuti fitur yang tersedia. Pemeriksaan menu “verifikasi dua langkah” pada suatu layanan perlu disertai pemeriksaan mekanismenya sebelum disimpulkan sebagai contoh password + TOTP.
+- **Batas analogi:** Ponsel menjadi contoh tempat autentikator berada; memiliki sembarang ponsel tidak dengan sendirinya menjadi bukti identitas. Perbandingan aplikasi autentikator dengan SMS perlu dijelaskan sebagai perbedaan risiko, bukan jaminan kebal serangan.
+
 ::: evidence-block
-Evidence yang tersedia adalah lima versi penjelasan, alasan pemilihan bahasa, serta catatan isi percakapan ketika Fakhri menjelaskan ulang 2FA tanpa melihat catatan sebelum dan sesudah saya memperjelasnya.  Catatan respons ditulis, bukan rekaman atau transkrip langsung. Tidak ada tangkapan layar chat karena percakapan berlangsung tatap muka.
+Evidence tertulis yang tersedia adalah lima versi language beserta alasannya, catatan percakapan dengan Fakhri, dan empat catatan simulasi dengan peserta manusia. Catatan menunjukkan respons, klarifikasi, serta keputusan atau tindakan yang dilaporkan untuk setiap profil. Dialog bukan transkrip rekaman; koreksi teknis setelah simulasi dipisahkan dari ucapan peserta.
+
+Persetujuan spesifikasi Dimas dan uji coba Mbak Tari berlaku dalam skenario. Aktivasi Maya dilaporkan pada aplikasi tes. Pemeriksaan langsung Mas Danang bersumber dari klarifikasi hasil yang saya berikan. Artefak pelaksanaan terpisah dan konfirmasi tertulis empat peserta belum dilampirkan. Kelengkapan serta keterverifikasian bukti tersebut tetap menjadi bagian pemeriksaan assessor.
 :::
+
+### Register evidence per target
+
+| ID | Target dan bentuk kegiatan | Status dokumentasi | Evidence dan batas hasil |
+|---------------|----------------------|----------------|--------------------|
+| W04-F | Friend — Fakhri, tatap muka | Catatan percakapan tersedia | Penjelasan ulang sebelum/sesudah klarifikasi; catatan sebelumnya menyatakan diperiksa bersama. Tanggal dan rekaman belum tersedia. Aktivasi akun tidak diklaim. |
+| W04-T | Technical peer — Dimas, simulasi | Catatan simulasi tersedia | Dialog menunjukkan perubahan pemahaman dan persetujuan spesifikasi password + TOTP dalam skenario. Implementasi backend belum dibuktikan. |
+| W04-M | Manager — Mbak Tari, simulasi | Catatan simulasi tersedia | Kekhawatiran kelancaran kerja ditanggapi dengan pemulihan; peserta menyetujui uji coba bertahap dalam skenario. SOP dan penerapan organisasi belum dibuktikan. |
+| W04-C | Customer/user — Maya, simulasi aplikasi tes | Catatan simulasi tersedia | Respons tentang urutan aktivasi; penyimpanan kode cadangan dan tes login dilaporkan. Screenshot atau log aplikasi tes belum tersedia. |
+| W04-P | Public — Mas Danang, simulasi | Catatan simulasi dan hasil lanjutan tersedia | Analogi ditanggapi dengan pertanyaan SMS OTP; setelahnya pengecekan langsung dan status verifikasi dua langkah aktif dilaporkan. Layanan dan kategori faktor belum dirinci. |
+
+Empat profil yang sebelumnya belum memiliki catatan kini memiliki dokumentasi tertulis. Status “catatan tersedia” menunjukkan isi yang dapat dibaca pada halaman ini; keputusan evidence lengkap dan hasil penilaian ulang tidak ditetapkan melalui tabel ini.
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
-|------------------------------------|------------------------------------|
-| Person & character | Fakhri adalah lawan bicara yang sudah memberi respons. Empat profil lainnya dibedakan menurut kebutuhan informasi dan kewenangannya: memeriksa rancangan, menentukan prioritas, menggunakan akun, atau memahami manfaat umum. |
-| Objective & state | Target makna adalah dua kategori bukti dan manfaatnya saat kata sandi bocor. Jawaban awal Fakhri menunjukkan ia masih menyamakan dua langkah dengan dua faktor; sesudah penjelasan ulang ia dapat menyebut perlunya bukti dari perangkat ketika kata sandi bocor. |
-| Repertoire & language | Ragam berganti dari percakapan santai, penjelasan teknis, pertimbangan risiko, petunjuk penggunaan, hingga analogi. Contoh kode rahasia dan kartu dipilih agar analogi tetap membawa perbedaan kategori faktor. |
-| Response & adaptation | Saya tidak berhenti pada jawaban “paham”. Ketika contoh kata sandi dan PIN menunjukkan salah paham, saya memperjelas jenis buktinya lalu kembali meminta Fakhri menjelaskan manfaat 2FA dengan bahasanya sendiri. |
-| Agreement/action | Draf manajer dan pengguna memiliki ajakan tindakan yang sesuai peran. Belum ada evidence target menyetujui penerapan atau mengaktifkan 2FA, sehingga ajakan dalam teks tidak dianggap sebagai tindakan nyata. |
-| Relationship outcome | Fakhri bersedia menjelaskan ulang dan mengubah pemahamannya setelah saya memperjelas contoh. Saya belum memiliki evidence tentang perubahan hubungan di luar percakapan ini ataupun respons dari empat target lain. |
+|--------------------|----------------------------------------------------|
+| Person & character | Fakhri adalah teman dalam percakapan awal. Dimas, Mbak Tari, Maya, dan Mas Danang memerankan kebutuhan teknis, kewenangan menentukan prioritas, penggunaan aplikasi, dan pemahaman umum. Saya menyesuaikan istilah serta ajakan dengan peran; kewenangan keputusan pada empat tambahan dibatasi pada skenario simulasi. |
+| Objective & state | Fakhri dan Dimas mula-mula menganggap dua langkah sebagai dua faktor. Mbak Tari mengkhawatirkan akses kerja saat ponsel tidak tersedia; Maya menanyakan kehilangan perangkat. Saya perlu menjaga tujuan keamanan sambil menjawab kebutuhan penggunaan dan pemulihan. Respons publik mengarah pada SMS OTP, sehingga jenis mekanisme juga perlu diperjelas. |
+| Repertoire & language | Bahasa santai dan pemeriksaan ulang digunakan dengan Fakhri; istilah faktor dengan Dimas; risiko dan prioritas dengan Mbak Tari; petunjuk aktivasi dengan Maya; analogi dengan Mas Danang. Tabel versi language mempertahankan dua kategori bukti. Beberapa ucapan simulasi masih terlalu mutlak dan dikoreksi pada refleksi teknis. |
+| Response & adaptation | Pada Fakhri, saya meminta penjelasan ulang dan memperbaiki salah paham. Pada Dimas, saya membedakan kategori faktor dari jumlah langkah; jawabannya kemudian menyebut kategori yang sama. Kekhawatiran Mbak Tari dan Maya mengarahkan penjelasan ke pemulihan. Pertanyaan Mas Danang tentang SMS OTP ditanggapi dengan perbandingan metode. Replay koreksi teknis setelah simulasi belum dicatat. |
+| Agreement/action | Dimas menyetujui spesifikasi password + TOTP dan Mbak Tari memilih uji coba akun sensitif dalam skenario. Maya dilaporkan mencoba aktivasi, menyimpan kode cadangan, dan berhasil tes login pada aplikasi tes. Mas Danang dilaporkan langsung memeriksa pengaturan setelah dialog. Bukti tersebut dibedakan dari implementasi backend, penerapan perusahaan, atau verifikasi independen aplikasi. |
+| Relationship outcome | Peserta menyampaikan keraguan dan mendapat ruang untuk bertanya. Saya merespons pertanyaan dan mempertimbangkan kebutuhan tiap peran. Catatan tidak menunjukkan konflik terbuka, tetapi perubahan hubungan jangka panjang belum dapat disimpulkan dari episode ini. |
 
 ## Penggunaan AI
 
-Saya menggunakan AI untuk membantu menyusun lima versi bahasa, memeriksa core meaning, dan merapikan redaksi catatan dialog. Saya dan Fakhri sudah memeriksa bahwa alur serta isi dialog itu sesuai dengan percakapan yang terjadi. Respons Fakhri berasal dari pengalaman saya, empat versi untuk target lain masih berupa draf yang belum diuji.
+Saya menggunakan AI untuk membantu menyusun versi bahasa, menata catatan, memeriksa konsep 2FA, dan menyelaraskan analisis dengan bahan revisi. Pada catatan awal, saya dan Fakhri telah memeriksa kesesuaian alur percakapan. Untuk empat tambahan, saya memberikan nama peserta, rentang tanggal, setting, dialog, dan hasil, serta mengonfirmasi bahwa kegiatan merupakan simulasi dengan peserta manusia. Saya juga memperjelas bahwa Mas Danang langsung memeriksa pengaturan setelah dialog. AI tidak menjadi peserta simulasi atau sumber respons tambahan.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Fakhri awalnya mengatakan bahwa penjelasan saya dapat dipahami. Saat diminta menjelaskan ulang, ia sempat memberi contoh kata sandi dan PIN. Setelah saya memperjelas dua jenis bukti, ia dapat menjelaskan kembali manfaat bukti kedua ketika kata sandi bocor. Saya tidak mencatat feedback lain tentang gaya bicara saya.
+**Feedback yang diterima:** Fakhri dan Dimas sempat menyamakan dua langkah dengan dua faktor. Mbak Tari menanyakan dampak pada kelancaran kerja; Maya menanyakan pemulihan saat perangkat hilang atau aplikasi terhapus. Mas Danang menghubungkan analogi dengan SMS OTP. Respons spesifik ini lebih berguna untuk membaca kebutuhan daripada hanya menerima jawaban “paham”.
 
-**Adaptation/replay:** Saya mengubah penjelasan dari “dua kali pemeriksaan” menjadi perbedaan antara bukti yang diketahui dan bukti dari perangkat. Saya melakukan pemeriksaan ulang dengan meminta Fakhri menyebutkan manfaatnya, lalu mendapat jawaban yang sesuai dengan makna inti.
+**Adaptation/replay yang dicatat:** Saya memperjelas jenis bukti kepada Fakhri dan memeriksa ulang jawabannya. Dalam simulasi Dimas, saya menjelaskan kategori faktor hingga ia membedakannya dari dua langkah. Kepada Mbak Tari dan Maya, saya menambahkan pembahasan pemulihan berdasarkan pertanyaan mereka. Kepada Mas Danang, saya menghubungkan analogi dengan metode yang dikenalnya. Koreksi teknis setelah simulasi belum menjadi evidence replay kepada peserta.
 
-**Next practice:** Pada penjelasan berikutnya, saya akan langsung menekankan dua **jenis** bukti, bukan hanya dua langkah. Setelah menjelaskan, saya akan meminta lawan bicara memberi contoh sendiri tanpa lebih dahulu menyebut jawaban yang benar, lalu mencatat bagian yang masih keliru dan perubahan setelah saya memperjelasnya.
+**Tindak lanjut yang dilaporkan:** Dimas menyetujui usulan spesifikasi dan Mbak Tari menentukan prioritas uji coba dalam skenario. Maya mencoba aktivasi dan login pada aplikasi tes. Mas Danang langsung mengecek pengaturan dan melihat fitur verifikasi dua langkah aktif setelah percakapan. Hasil setiap kegiatan dibatasi sesuai sumber catatan pada register evidence.
 
-**Refleksi:** Pada draf publik, tantangan utamanya adalah membawa makna teknis melalui analogi singkat. Kode rahasia dan kartu akses memperlihatkan perbedaan antara sesuatu yang diketahui dan sesuatu yang dimiliki dengan lebih jelas daripada dua kunci. Untuk rekan teknis, istilah kategori faktor justru membantu memeriksa rancangan secara tepat. Mengurangi jargon berarti memilih cara menjelaskan hubungan antarkonsep, bukan sekadar mengganti istilah dengan kata yang lebih pendek. Jawaban “paham” dari teman sempat membuat saya mengira penjelasan sudah cukup. Ketika ia menjelaskan kembali, saya baru melihat letak salah pahamnya dan bisa memperbaiki bagian tersebut.
+**Refleksi:** Menjaga makna membutuhkan perhatian pada jenis bukti, bukan jumlah langkah atau nama menu keamanan. Saya juga perlu menimbang keamanan dan kemudahan penggunaan: kebutuhan pemulihan muncul ketika peserta memikirkan kehilangan perangkat atau kelancaran kerja. Pada beberapa ucapan simulasi saya terlalu menyederhanakan manfaat menjadi jaminan akses tidak dapat ditembus. Koreksi sesudahnya membantu memperbaiki rumusan, tetapi belum membuktikan bahwa seluruh peserta sudah menerima koreksi tersebut.
+
+**Next practice:** Pada penjelasan berikutnya, saya akan menekankan dua jenis bukti, menggunakan bahasa manfaat yang bersyarat, dan memeriksa metode pemulihan pada layanan yang dibahas. Saya akan meminta setiap peserta menjelaskan kembali contoh dengan bahasanya sendiri, mencatat koreksi yang diperlukan, serta menyimpan hasil tindakan dan pemeriksaan ulang. Rencana ini belum dilaporkan sebagai kegiatan yang sudah dilakukan.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
-|----------------------|---------------------------:|----------------------|
-| Person & Character | 3 | Lima profil dibedakan berdasarkan kebutuhan informasi dan peran; respons aktual baru berasal dari teman. |
-| Objective & State | 3 | Saya membedakan perasaan paham dari pemahaman yang terlihat pada jawaban teman sebelum dan sesudah penjelasan ulang. |
-| Repertoire, Language & AI | 4 | Lima ragam bahasa memiliki alasan dan batas yang jelas; sumber teknis dan bantuan AI dinyatakan. |
-| Response & Adaptation | 4 | Saya menangkap salah paham dari contoh kata sandi dan PIN, memperjelas perbedaan jenis bukti, lalu meminta teman menjelaskan kembali manfaat 2FA. |
-| Agreement, Action & Relationship | 3 | Ajakan tindakan pada draf manajer dan pengguna sesuai perannya; pelaksanaan oleh target belum dibuktikan. |
+|------------------|-------------------:|----------------------------------|
+| Person & Character | 4 | Lima profil dan kebutuhan komunikasinya dipetakan; kewenangan manajer serta rekan teknis dibatasi pada skenario simulasi. |
+| Objective & State | 3 | Respons awal menunjukkan salah paham dua langkah, kekhawatiran kehilangan perangkat, serta kebutuhan kelancaran kerja dan pemulihan. |
+| Repertoire, Language & AI | 4 | Lima versi memiliki alasan, makna inti, dan batas. Penggunaan AI dinyatakan; koreksi teknis dipisahkan dari catatan ucapan yang dilaporkan. |
+| Response & Adaptation | 4 | Salah paham Fakhri diperiksa melalui penjelasan ulang; respons Dimas berubah setelah klarifikasi. Pertanyaan manajer dan pengguna mengarahkan penjelasan pada pemulihan. |
+| Agreement, Action & Relationship | 3 | Persetujuan dalam skenario dan tindakan yang dilaporkan dicatat untuk empat tambahan; pemeriksaan ulang hasil, review, dan repair lanjutan belum dicatat. |
 
 **Total:** 17 / 20
 
-Skor mandiri ini mempertimbangkan lima versi bahasa dan pemeriksaan pemahaman yang sudah dilakukan dengan satu teman. Empat versi lainnya belum diuji langsung kepada target masing-masing.
-
+:::: assessor-only
 ::: assessor-only
 ### Assessment dosen
 
@@ -131,3 +209,4 @@ Skor mandiri ini mempertimbangkan lima versi bahasa dan pemeriksaan pemahaman ya
 **Prioritas perbaikan:** —\
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
+::::
