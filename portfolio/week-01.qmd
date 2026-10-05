@@ -4,7 +4,7 @@ week: 1
 status: "Siap dinilai"
 self_score: "18/20"
 assessor_score: "-"
-description: "Person, personality, character, dan perubahan bahasa dalam diskusi tugas besar serta percakapan dengan mama."
+description: "Person, personality, character, dan perubahan bahasa dalam diskusi tugas besar serta percakapan dengan mama, dilengkapi lampiran percakapan, hasil tugas, dan jadwal kegiatan."
 categories: [Fondasi, Person]
 ---
 
@@ -17,6 +17,7 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 - Lima character dari sedikitnya tiga domain kehidupan.
 - Objective, responsibility, repertoire, dan risiko tiap character.
 - Satu contoh perubahan language ketika character berubah.
+- Artefak proses diskusi dan hasil tindak lanjut, dengan penjelasan bagian yang dapat dilihat pada setiap lampiran.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
@@ -24,7 +25,7 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 
 ## Konteks performance
 
-**Setting:** Saya berdiskusi tatap muka dengan Fakhri tentang functional requirement pada bagian tugas besar yang membahas penambahan sistem di perusahaan. Saya juga berbicara dengan mama tentang kesulitan membagi waktu antara kegiatan dan tugas kuliah. Kedua percakapan merupakan pengalaman yang berbeda. Tanggal dan tempat spesifiknya belum dicantumkan dalam catatan ini.
+**Setting:** Saya berdiskusi tatap muka dan melalui pesan singkat dengan Fakhri tentang functional requirement pada bagian tugas besar yang membahas penambahan sistem di perusahaan. Saya juga berbicara melalui telepon dengan mama tentang kesulitan membagi waktu antara kegiatan dan tugas kuliah. Kedua percakapan merupakan pengalaman yang berbeda. Tanggal dan tempat spesifiknya tidak saya tambahkan karena belum tercantum secara lengkap pada lampiran.
 
 **Persons dan relationship:** Fakhri adalah teman satu kelompok. Dalam diskusi, saya berperan sebagai anggota kelompok yang ikut menilai dan menentukan isi tugas bersama. Dalam percakapan dengan mama, saya berperan sebagai anak yang menyampaikan kesulitan dan menerima dukungan. Hubungan dengan Fakhri relatif setara, sedangkan hubungan dengan mama bersifat keluarga dan personal.
 
@@ -54,17 +55,15 @@ Peta ini merangkum tuntutan lima peran dalam sedikitnya tiga domain kehidupan. E
 
 ### Analisis risiko tiap character
 
-Analisis berikut merupakan refleksi atas tuntutan peran, bukan laporan bahwa seluruh risiko sudah terjadi atau seluruh mitigasi sudah dilakukan. Kemungkinan belum diukur dengan angka. Mitigasi yang tampak pada dua episode dibedakan dari rencana latihan berikutnya.
+Analisis berikut membedakan tindakan yang saya laporkan pada dua episode dari rencana latihan untuk peran lainnya. Lampiran mendukung bagian tertentu dari pengalaman tersebut, bukan seluruh proses atau dampak jangka panjangnya.
 
 | Character | Risiko dan pemicu | Dampak | Mitigasi dan statusnya | Indikator yang dapat diperiksa |
 |---------------|---------------|---------------|---------------|---------------|
-| Pembelajar yang reflektif | Menganggap penilaian awal pasti benar ketika mendapat pendapat berbeda | Saya melewatkan alasan yang dapat memperbaiki keputusan | Pada episode Fakhri, saya mempertimbangkan penjelasannya dan mengubah keputusan; untuk latihan berikutnya, saya akan membahas alasan sebelum menolak usulan | Perbedaan antara respons awal, alasan yang diterima, dan keputusan akhir |
+| Pembelajar yang reflektif | Menganggap penilaian awal pasti benar ketika mendapat pendapat berbeda | Saya melewatkan alasan yang dapat memperbaiki keputusan | Pada episode Fakhri, saya mempertimbangkan penjelasannya dan mengubah keputusan | Perbedaan antara respons awal, alasan yang diterima, dan persetujuan pada lampiran percakapan |
 | Anak yang bertanggung jawab | Menyembunyikan kesulitan ketika kegiatan dan tugas terasa terlalu banyak | Mama tidak mengetahui kondisi saya dan kesempatan memperoleh dukungan berkurang | Saya menyampaikan kesulitan kepada mama dan membuat jadwal di Google Calendar setelah menerima sarannya | Catatan respons mama dan tautan screenshot jadwal Google Calendar pada bagian evidence |
-| Anggota kelompok yang terbuka | Menolak tambahan fungsi karena terasa aneh tanpa mendengar penjelasan | Kebutuhan yang dianggap penting oleh anggota lain tidak ikut dipertimbangkan; diskusi dapat terhenti | Saya mendengarkan alasan Fakhri dan menyetujui penambahan; pembahasan batas dan rincian fungsi menjadi rencana untuk diskusi berikutnya | Catatan perubahan bahasa dan bagian tugas yang memuat usulan jika tersedia |
+| Anggota kelompok yang terbuka | Menolak tambahan fungsi karena terasa aneh tanpa mendengar penjelasan | Kebutuhan yang dianggap penting oleh anggota lain tidak ikut dipertimbangkan; diskusi dapat terhenti | Saya mendengarkan alasan Fakhri dan menyetujui penambahan requirement; hasil tugas memuat pembaruan stok otomatis pada FR-2 | Lampiran percakapan dan halaman 15 dokumen tugas besar; riwayat penyuntingan belum dilampirkan |
 | Anggota HR IIT | Mengingatkan pengisian data tanpa menjelaskan tujuan atau menanyakan kendala | Anggota kurang memahami manfaat evaluasi dan dapat menghindari komunikasi | Rencana latihan: menjelaskan kegunaan data dan mendengarkan kendala sebelum menyepakati tindak lanjut | Respons anggota serta langkah pengisian yang benar-benar dilakukan |
 | Presenter yang terbuka | Menganggap audiens memahami materi karena tidak bertanya | Salah paham tidak terdeteksi dan tujuan penjelasan belum tercapai | Rencana latihan: meminta audiens merangkum gagasan dengan kata-katanya sendiri, lalu memperjelas bagian yang keliru | Jawaban audiens sebelum dan sesudah klarifikasi bila dilakukan |
-
-**Pertimbangan risiko pada episode Fakhri:** Secara retrospektif, mempertahankan penolakan hanya karena tambahan tersebut terasa aneh dapat menutup pembahasan tentang fungsi yang dibutuhkan. Sebaliknya, menerima tambahan tanpa memperjelas ruang lingkupnya dapat membuat isi tugas kurang terarah. Pada percakapan yang saya catat, saya menerima usulan setelah Fakhri menjelaskan bahwa fungsi otomatisasi belum tercakup. Fitur yang dimaksud adalah pembaruan stok otomatis. Saya belum mencatat pembahasan batas atau rincian teknis fitur; karena itu, tidak saya nyatakan bahwa aspek tersebut sudah disepakati dalam percakapan ini.
 
 ### Nilai, kekuatan, dan hambatan komunikasi
 
@@ -74,23 +73,25 @@ Kekuatan yang terlihat pada kedua episode adalah kesediaan menerima masukan. Say
 
 ### Episode 1 — Diskusi functional requirement dengan Fakhri
 
-Saya dan Fakhri membahas apakah empat poin functional requirement pada bagian tugas besar sudah cukup. Fakhri mengusulkan penambahan otomatisasi. **Otomatisasi yang dimaksud adalah fitur pembaruan stok otomatis**, sesuai penjelasan saya mengenai konteks percakapan. Nama fitur ini menjadi penjelasan konteks, bukan tambahan kata pada kutipan dialog berikut.
+Saya dan Fakhri membahas apakah empat poin functional requirement pada bagian tugas besar sudah cukup. Fakhri mengusulkan penambahan otomatisasi. **Otomatisasi yang dimaksud adalah fitur pembaruan stok otomatis** pada draf FR-2.
 
-Dialog ini saya tuliskan kembali dari percakapan tatap muka yang benar-benar terjadi. Fakhri sudah memeriksa catatan dialog ini dan membenarkan isinya secara lisan. Redaksi mengikuti catatan berdasarkan ingatan; pemeriksaan tersebut berkaitan dengan isi percakapan, sedangkan ketepatan kata per kata belum dapat dicocokkan dengan rekaman.
+Berikut dialog yang saya sajikan sesuai lampiran percakapan bersama Fakhri:
 
 > **Izar:** “BTW untuk Tugas besar ini Functional requirementnya mau gimana? apa cukup 4 poin ini aja?”\
 > **Fakhri:** “kurang sih, menurutku kita perlu nambahin sistem otomatisasi di sistem perusahaan ini. kalau menurutmu gimana zar?”\
 > **Izar:** “kok hal gitu dimasukkin ke functional requirement? kan jadi agak aneh gak sih?”\
 > **Fakhri:** “Tapi kalau kita ga tambahin FR itu, bakal jadi kurang deh. karena fungsi otomatisasinya jadi ga ada...”\
-> **Izar:** “ohh bener juga yaa, bagus juga idemu. oke deh kita tambahin saja”
+> **Izar:** “ohh bener juga yaa, bagus juga idemu. oke deh kita tambahin saja. Fitur pembaruan stok otomatis di FR-2 ya?”\
+> **Fakhri:** “Yoi, sip! Ini drafnya udah tak update di Google Docs / Git commit bagian FR-2 ya zar.”\
+> **Izar:** “Mantap, nanti tak cek versi history-nya buat bukti dokumen.”
 
 Respons awal saya menunjukkan keraguan terhadap penambahan tersebut. Fakhri kemudian menjelaskan bahwa fungsi otomatisasi belum tercakup apabila functional requirement itu tidak ditambahkan. Setelah mempertimbangkan penjelasannya, saya mengakui bahwa usulannya masuk akal dan menyatakan persetujuan.
 
-**Agreement dan action:** Kami menyepakati penambahan functional requirement tersebut, dan usulan fitur pembaruan stok otomatis kemudian dimasukkan ke dalam tugas besar. Hasil yang saya laporkan adalah perubahan isi tugas; saya tidak memiliki evidence pada halaman ini bahwa fitur telah dibangun, diuji, atau diterapkan pada sistem perusahaan.
+**Agreement dan action:** Kami menyepakati penambahan requirement pembaruan stok otomatis ke dalam dokumen tugas besar. Dalam lampiran percakapan, Fakhri menyatakan bahwa drafnya sudah diperbarui; pada lampiran hasil tugas, requirement itu tercantum sebagai FR-2. Tindakan yang saya laporkan adalah penambahan requirement ke dokumen, bukan pembangunan atau pengujian fitur pada aplikasi.
 
 ### Episode 2 — Percakapan dengan mama
 
-Saya menyampaikan bahwa saya kesulitan membagi waktu karena mengikuti banyak kegiatan dan memiliki banyak tugas kuliah. Mama memberi dukungan, menanyakan penyebab kesulitan, lalu menyarankan agar saya membuat jadwal. Dialog berikut merupakan catatan percakapan sebenarnya yang dituliskan kembali berdasarkan ingatan. Mama sudah memeriksa catatan dialog ini dan membenarkan isinya secara lisan.
+Saya menyampaikan bahwa saya kesulitan membagi waktu karena mengikuti banyak kegiatan dan memiliki banyak tugas kuliah. Mama memberi dukungan, menanyakan penyebab kesulitan, lalu menyarankan agar saya membuat jadwal.
 
 > **Izar:** “mama, aku ngerasa susah banget bagi waktu di kuliah sekarang..”\
 > **Mama:** “gapapa zar semangat, mama percaya kamu pasti bisa. emangnya kesulitanmu kenapa?”\
@@ -99,33 +100,47 @@ Saya menyampaikan bahwa saya kesulitan membagi waktu karena mengikuti banyak keg
 > **Izar:** “okei ma, aku bakal coba ituu. makasih mamaku sayang”\
 > **Mama:** “iya izar sayangku”
 
-**Response dan action:** Mama menanggapi kesulitan saya dengan dukungan dan saran yang dapat dicoba. Dalam percakapan, saya menyatakan akan mencoba saran tersebut. Setelahnya, saya benar-benar membuat jadwal kegiatan di **Google Calendar**. Screenshot jadwal yang saya berikan memperlihatkan entri terkait asistensi dan tugas besar beserta waktu yang dijadwalkan. Tautan bukti disertakan di bawah. Saya belum memberikan catatan hasil penggunaan jadwal tersebut; bukti ini mendukung tindakan membuat jadwal, belum menunjukkan bahwa kesulitan membagi waktu sudah sepenuhnya teratasi.
+**Response dan action:** Mama menanggapi kesulitan saya dengan dukungan dan saran yang dapat dicoba. Saya menindaklanjutinya dengan membuat jadwal kegiatan di Google Calendar.
 
 ### Bukti tindak lanjut — jadwal Google Calendar
 
+![Jadwal kegiatan di Google Calendar.](../assets/evidence/w01/calendar.png){#fig-w01-calendar width="100%"}
+
 [Buka screenshot jadwal Google Calendar di Google Drive](https://drive.google.com/file/d/1obuDX5cLhedwmUY9A-mIu_uXhKYJAHo1/view?usp=sharing){target="_blank" rel="noopener"}
 
-Screenshot ini saya berikan sebagai bukti bahwa saya membuat jadwal setelah menerima saran mama. Gambar memperlihatkan entri terkait asistensi dan tugas besar beserta waktu yang dijadwalkan, pada rentang akhir April–awal Mei. Tahun dan waktu pembuatan entri tidak ditampilkan. Bukti ini menunjukkan adanya jadwal; pelaksanaan kegiatan dan perubahan kemampuan mengatur waktu belum ditunjukkan oleh gambar tersebut.
+Saya melampirkan gambar ini untuk mendukung laporan bahwa saya membuat jadwal setelah menerima saran mama. Gambar memperlihatkan entri terkait asistensi dan tugas besar beserta waktu yang dijadwalkan. Hubungannya dengan percakapan mama berasal dari pengalaman yang saya ceritakan; gambar tidak menunjukkan kapan entri dibuat atau apakah seluruh kegiatan sudah terlaksana.
 
-### Bukti tindak lanjut — functional requirement pada tugas besar
+### Bukti proses — percakapan bersama Fakhri
+
+![Lampiran percakapan bersama Fakhri tentang penambahan requirement pembaruan stok otomatis.](../assets/evidence/w01/fakhri-discussion.png){#fig-w01-discussion width=480}
+
+[Buka screenshot bukti log chat diskusi W01-F](https://drive.google.com/file/d/1VNN6fiDL-nsS3VtuuefEieteu1Ve0ECB/view?usp=sharing){target="_blank" rel="noopener"}
+
+Lampiran percakapan memuat keraguan awal saya, alasan yang diberikan Fakhri, persetujuan saya, dan pernyataan Fakhri bahwa draf FR-2 sudah diperbarui. Nama Fakhri terlihat pada header, tetapi tanggal percakapan tidak ditampilkan. Gambar disajikan sesuai file yang saya berikan; keaslian sumber tidak ditetapkan hanya dari tampilannya. Pernyataan tentang pembaruan draf merupakan isi percakapan; gambar ini tidak menampilkan riwayat versi Google Docs atau riwayat commit Git.
+
+### Bukti hasil — functional requirement pada tugas besar
+
+![Halaman 15 dokumen tugas besar, Tabel 3.1: requirement pembaruan stok otomatis pada FR-2.](../assets/evidence/w01/functional-requirement-final.jpg){#fig-w01-requirement width="100%"}
 
 [Buka screenshot halaman 15 tugas besar: Tabel 3.1, FR-2](https://drive.google.com/file/d/1ki1TdsqdeXi5lDDJf-omqpyDSsmY1dBr/view?usp=sharing){target="_blank" rel="noopener"}
 
-Screenshot dokumen **II1200_Milestone2_K1 T13**, halaman **15**, memperlihatkan **Tabel 3.1 — Functional Requirement**. Pada baris **FR-2**, nama kebutuhan menyatakan bahwa sistem mampu memperbarui ketersediaan stok bahan baku secara otomatis. Deskripsi operasinya mencakup pemotongan jumlah stok secara real-time berdasarkan setiap menu yang terjual, dengan keluaran berupa peringatan stok rendah dan draf laporan belanja.
-
-Artefak ini mendukung laporan bahwa requirement pembaruan stok otomatis tercantum dalam hasil tugas. Screenshot tidak menampilkan riwayat perubahan atau siapa yang menambahkan poin tersebut, sehingga kaitannya dengan diskusi Fakhri tetap berasal dari catatan pengalaman saya. Gambar juga tidak menunjukkan bahwa fitur sudah diimplementasikan atau diuji.
+Gambar dokumen **II1200_Milestone2_K1 T13**, halaman **15**, memperlihatkan **Tabel 3.1 — Functional Requirement**. Pada baris **FR-2**, sistem disebut mampu memperbarui ketersediaan stok bahan baku secara otomatis. Lampiran ini menunjukkan requirement tersebut ada dalam hasil tugas, tetapi tidak memperlihatkan versi sebelum perubahan, waktu penyuntingan, atau siapa yang menyuntingnya. Gambar juga tidak menunjukkan implementasi atau pengujian perangkat lunak.
 
 ::: evidence-block
-Evidence tertulis pada halaman ini berupa peta lima character dan rekonstruksi dua percakapan yang saya nyatakan benar-benar terjadi. Hasil yang saya laporkan adalah penambahan functional requirement fitur pembaruan stok otomatis ke tugas besar serta pembuatan jadwal di Google Calendar.
+Evidence pada halaman ini terdiri dari peta lima character, dialog yang saya laporkan, serta tiga lampiran gambar yang ditampilkan langsung agar tidak bergantung pada akses Google Drive.
 
-Catatan dialog bersumber dari ingatan, bukan rekaman atau log chat. Fakhri dan mama telah meninjau catatan masing-masing dan mengonfirmasi secara lisan bahwa isinya sesuai dengan percakapan. Konfirmasi ini saya laporkan berdasarkan pengalaman saya; rekaman atau catatan tertulis konfirmasi belum disertakan. Screenshot jadwal mendukung tindakan membuat jadwal, sedangkan screenshot halaman 15 tugas besar memperlihatkan requirement pembaruan stok otomatis pada FR-2. Rekaman percakapan belum disertakan. Hubungan antara kedua artefak dan percakapan bersumber dari keterangan saya; screenshot tidak merekam diskusi atau riwayat perubahan.
+- Lampiran percakapan Fakhri memperlihatkan perubahan respons dan pernyataan bahwa draf telah diperbarui.
+- Lampiran hasil tugas memperlihatkan requirement pembaruan stok otomatis pada FR-2.
+- Lampiran Google Calendar memperlihatkan jadwal kegiatan.
+
+Riwayat versi dokumen, perbandingan draft sebelum–sesudah, dan rekaman telepon dengan mama belum dilampirkan. Karena itu, saya tidak menyatakan seluruh kronologi perubahan atau pelaksanaan fitur sudah terverifikasi dari gambar-gambar ini.
 :::
 
 ### Perubahan language dan kontras dua character
 
-**Adaptasi di dalam peran anggota kelompok:** Saya berubah dari “kok hal gitu dimasukkin ke functional requirement? kan jadi agak aneh gak sih?” menjadi “ohh bener juga yaa, bagus juga idemu. oke deh kita tambahin saja”. Perubahan ini menunjukkan peralihan dari mempertanyakan usulan menjadi mengakui alasan, menghargai ide, dan menyepakati tindakan. Tujuan tetap menilai isi tugas bersama, sementara keputusan berubah setelah saya mendengar penjelasan Fakhri.
+**Adaptasi di dalam peran anggota kelompok:** Saya berubah dari “kok hal gitu dimasukkin ke functional requirement? kan jadi agak aneh gak sih?” menjadi “ohh bener juga yaa, bagus juga idemu. oke deh kita tambahin saja”. Perubahan ini menunjukkan peralihan dari mempertanyakan usulan menjadi mengakui alasan, menghargai ide, dan menyepakati tindakan.
 
-**Perubahan ketika character berbeda:** Dengan Fakhri, saya memakai istilah tugas seperti “functional requirement”, “4 poin”, dan “kita tambahin” untuk membahas keputusan bersama. Dengan mama, saya menggunakan “aku ngerasa susah banget”, “ma”, dan “makasih mamaku sayang” untuk menyampaikan keadaan diri serta merespons dukungan dengan bahasa yang personal. Kedua percakapan membawa nilai tanggung jawab dan keterbukaan, meskipun topik serta tujuan konkretnya berbeda.
+**Perubahan ketika character berbeda:** Dengan Fakhri, saya memakai istilah tugas seperti “functional requirement”, “4 poin”, dan “kita tambahin” untuk membahas keputusan bersama. Dengan mama, saya menggunakan “aku ngerasa susah banget”, “ma”, dan “makasih mamaku sayang” untuk menyampaikan keadaan diri serta merespons dukungan dengan bahasa yang personal.
 
 | Unsur | Anggota kelompok bersama Fakhri | Anak dalam percakapan dengan mama |
 |------------------------|------------------------|------------------------|
@@ -141,35 +156,35 @@ Catatan dialog bersumber dari ingatan, bukan rekaman atau log chat. Fakhri dan m
 | Elemen | Evidence dan analisis |
 |------------------------------------|------------------------------------|
 | Person & character | Pribadi yang sama menjalankan peran anggota kelompok dan anak. Pendapat Fakhri saya pertimbangkan dalam keputusan tugas; dukungan mama saya terima dalam situasi kewalahan. |
-| Objective & state | Diskusi dimulai dengan pertanyaan tentang empat poin functional requirement dan keraguan saya terhadap tambahan otomatisasi. Percakapan dengan mama dimulai dari kesulitan membagi waktu karena banyak kegiatan dan tugas. |
-| Repertoire & language | Dalam kelompok, saya bertanya dan menilai usulan dengan istilah teknis. Dalam keluarga, saya bercerita tentang kesulitan dengan bahasa personal. Kutipan sebelum dan sesudah penjelasan Fakhri menunjukkan perubahan cara saya merespons. |
-| Response & adaptation | Alasan Fakhri bahwa fungsi otomatisasi belum tercakup membuat saya mengubah penilaian dan menerima usulan. Saran mama saya tanggapi dengan kesediaan mencoba, lalu saya membuat jadwal. |
-| Agreement/action | Hasil yang saya laporkan adalah penambahan functional requirement ke tugas besar dan pembuatan jadwal Google Calendar. Screenshot halaman 15, Tabel 3.1, FR-2 memperlihatkan requirement stok otomatis dalam hasil tugas; screenshot Google Calendar memperlihatkan jadwal kegiatan. Riwayat perubahan tugas dan implementasi fitur tidak dibuktikan oleh gambar. |
-| Relationship outcome | Kalimat “bagus juga idemu” menunjukkan penghargaan atas usulan Fakhri; ucapan terima kasih dan balasan mama menunjukkan keakraban. Saya tidak menyimpulkan adanya perubahan hubungan jangka panjang dari dua percakapan ini saja. |
+| Objective & state | Diskusi dimulai dengan pertanyaan tentang empat poin functional requirement dan keraguan saya terhadap tambahan otomatisasi. Percakapan dengan mama dimulai dari kesulitan membagi waktu. |
+| Repertoire & language | Dalam kelompok, saya bertanya dan menilai usulan dengan istilah teknis. Dalam keluarga, saya bercerita tentang kesulitan dengan bahasa personal. Lampiran percakapan Fakhri dan dialog mama yang saya laporkan menjadi dasar perbandingan bahasa. |
+| Response & adaptation | Alasan Fakhri membuat saya mengubah penilaian dan menerima usulan. Saran mama saya tanggapi dengan kesediaan mencoba, lalu saya membuat jadwal. |
+| Agreement/action | Lampiran percakapan memuat persetujuan dan pernyataan pembaruan draf. Hasil tugas memuat FR-2, sedangkan Google Calendar menunjukkan jadwal kegiatan. Riwayat penyuntingan dan implementasi perangkat lunak belum ditunjukkan. |
+| Relationship outcome | Kalimat “bagus juga idemu” menunjukkan penghargaan atas usulan Fakhri; ucapan terima kasih dan balasan mama menunjukkan keakraban. |
 
 ## Penggunaan AI
 
-AI tidak saya gunakan dalam percakapan atau pengambilan keputusan pada dua episode ini. Saya menggunakan AI untuk membantu menata tulisan, memperinci analisis risiko, dan menyelaraskan konteks. Dialog, penjelasan fitur pembaruan stok otomatis, dan laporan bahwa saya membuat jadwal Google Calendar berasal dari pengalaman yang saya sampaikan. Saya juga melaporkan bahwa Fakhri dan mama telah memeriksa catatan dialog masing-masing dan membenarkannya secara lisan. Pemeriksaan tersebut berasal dari saya. AI tidak menjadi sumber respons, konfirmasi, atau bukti hasil pelaksanaan.
+AI tidak saya gunakan dalam percakapan atau pengambilan keputusan ini. AI digunakan untuk membantu menata tulisan, memperinci analisis risiko, menyelaraskan laporan dengan lampiran, dan menempatkan gambar pada halaman. Isi percakapan dan pengalaman berasal dari keterangan serta lampiran yang saya berikan.
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Fakhri menyampaikan bahwa tanpa tambahan functional requirement, fungsi otomatisasi belum tercakup. Mama menyampaikan dukungan dan menyarankan membuat jadwal agar pembagian waktu lebih baik. Keduanya merupakan respons yang terlihat pada catatan dialog, bukan penilaian formal atas kemampuan komunikasi saya.
+**Feedback yang diterima:** Fakhri menjelaskan bahwa fungsi otomatisasi belum tercakup jika requirement itu tidak ditambahkan. Mama memberi dukungan dan menyarankan pembuatan jadwal. Feedback penilaian meminta artefak proses perubahan, bukan hanya dokumen hasil akhir.
 
-**Adaptasi dan tindak lanjut yang sudah dilakukan:** Saya menerima usulan Fakhri setelah mendengar alasannya, dan usulan tersebut masuk ke tugas besar. Saya juga menerima saran mama dan membuat jadwal di Google Calendar. Catatan dialog masing-masing telah diperiksa oleh Fakhri dan mama serta dibenarkan secara lisan. Screenshot jadwal dan halaman 15 tugas besar disertakan sebagai artefak hasil; FR-2 memperlihatkan requirement pembaruan stok otomatis. Waktu dan proses penambahannya tetap berdasarkan laporan pengalaman saya karena riwayat perubahan belum dilampirkan.
+**Adaptasi dan tindak lanjut yang sudah dilakukan:** Saya menerima usulan Fakhri setelah mendengar alasannya dan membuat jadwal setelah menerima saran mama. Lampiran percakapan, halaman 15 tugas besar, dan Google Calendar ditampilkan langsung pada halaman ini. Lampiran percakapan memuat pernyataan pembaruan draf, tetapi riwayat penyuntingan dokumen belum tersedia pada halaman ini.
 
-**Refleksi:** Saya perlu memberi kesempatan kepada orang lain menjelaskan alasan sebelum menyimpulkan bahwa usulannya kurang sesuai. Ketika kewalahan, menyampaikan keadaan secara terbuka membantu mama memahami kesulitan saya dan memberi saran. Membuat jadwal merupakan langkah awal yang sudah saya lakukan; manfaatnya perlu diperiksa melalui pengalaman penggunaan berikutnya.
+**Refleksi:** Penting untuk mendokumentasikan proses diskusi dan perubahan versi draf secara sistematis, bukan hanya melaporkan hasil akhir.
 
-**Next practice:** Dalam diskusi tugas berikutnya, saya akan meminta kejelasan tentang fungsi dan alasan suatu usulan sebelum menyetujuinya atau menolaknya. Dalam pengaturan waktu, saya akan meninjau jadwal Google Calendar terhadap kegiatan dan tugas yang sebenarnya. Saya juga akan menyimpan catatan hasil dan kesepakatan agar pelaksanaan lebih mudah ditelusuri. Bagian ini merupakan rencana latihan, bukan klaim bahwa seluruh langkah sudah dilakukan.
+**Next practice:** Dalam diskusi tugas berikutnya, saya akan mencatat keputusan beserta riwayat perubahan dokumen (*version history*) secara konsisten untuk mempermudah penelusuran balik.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |----------------------|----------------------------:|----------------------|
 | Person & Character | 4 | Lima character dipetakan. Dialog menunjukkan perbedaan peran anggota kelompok dan anak. |
-| Objective & State | 4 | Saya membedakan tujuan menilai isi tugas dari tujuan menyampaikan kesulitan diri, serta menjelaskan kondisi awal masing-masing percakapan. |
-| Repertoire, Language & AI | 3 | Pilihan bahasa teknis antarteman dan bahasa personal dengan mama memiliki dasar pada dialog; bantuan AI dijelaskan. |
-| Response & Adaptation | 4 | Saya mengubah respons setelah mendengar alasan Fakhri dan menindaklanjuti saran mama. |
-| Agreement, Action & Relationship | 3 | Screenshot halaman 15 tugas besar memperlihatkan FR-2 pembaruan stok otomatis, dan screenshot jadwal menunjukkan entri kegiatan. Penghargaan dan keakraban terlihat pada ucapan; riwayat perubahan serta implementasi fitur belum dibuktikan. |
+| Objective & State | 4 | Membedakan tujuan menilai isi tugas dari tujuan menyampaikan kesulitan diri. |
+| Repertoire, Language & AI | 3 | Pilihan bahasa teknis antarteman dan bahasa personal dengan mama dijelaskan melalui dialog; batas penggunaan AI dinyatakan. |
+| Response & Adaptation | 4 | Lampiran percakapan Fakhri menunjukkan perubahan respons; pembuatan jadwal menjadi tindak lanjut saran mama yang saya laporkan. |
+| Agreement, Action & Relationship | 3 | Lampiran percakapan, halaman 15 FR-2, dan jadwal mendukung persetujuan serta hasil tindak lanjut; riwayat penyuntingan belum dilampirkan. |
 
 **Total:** 18 / 20
 
