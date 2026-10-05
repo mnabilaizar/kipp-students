@@ -107,10 +107,18 @@ Saya menyampaikan bahwa saya kesulitan membagi waktu karena mengikuti banyak keg
 
 Screenshot ini saya berikan sebagai bukti bahwa saya membuat jadwal setelah menerima saran mama. Gambar memperlihatkan entri terkait asistensi dan tugas besar beserta waktu yang dijadwalkan, pada rentang akhir April–awal Mei. Tahun dan waktu pembuatan entri tidak ditampilkan. Bukti ini menunjukkan adanya jadwal; pelaksanaan kegiatan dan perubahan kemampuan mengatur waktu belum ditunjukkan oleh gambar tersebut.
 
+### Bukti tindak lanjut — functional requirement pada tugas besar
+
+[Buka screenshot halaman 15 tugas besar: Tabel 3.1, FR-2](https://drive.google.com/file/d/1ki1TdsqdeXi5lDDJf-omqpyDSsmY1dBr/view?usp=sharing){target="_blank" rel="noopener"}
+
+Screenshot dokumen **II1200_Milestone2_K1 T13**, halaman **15**, memperlihatkan **Tabel 3.1 — Functional Requirement**. Pada baris **FR-2**, nama kebutuhan menyatakan bahwa sistem mampu memperbarui ketersediaan stok bahan baku secara otomatis. Deskripsi operasinya mencakup pemotongan jumlah stok secara real-time berdasarkan setiap menu yang terjual, dengan keluaran berupa peringatan stok rendah dan draf laporan belanja.
+
+Artefak ini mendukung laporan bahwa requirement pembaruan stok otomatis tercantum dalam hasil tugas. Screenshot tidak menampilkan riwayat perubahan atau siapa yang menambahkan poin tersebut, sehingga kaitannya dengan diskusi Fakhri tetap berasal dari catatan pengalaman saya. Gambar juga tidak menunjukkan bahwa fitur sudah diimplementasikan atau diuji.
+
 ::: evidence-block
 Evidence tertulis pada halaman ini berupa peta lima character dan rekonstruksi dua percakapan yang saya nyatakan benar-benar terjadi. Hasil yang saya laporkan adalah penambahan functional requirement fitur pembaruan stok otomatis ke tugas besar serta pembuatan jadwal di Google Calendar.
 
-Catatan dialog bersumber dari ingatan, bukan rekaman atau log chat. Fakhri dan mama telah meninjau catatan masing-masing dan mengonfirmasi secara lisan bahwa isinya sesuai dengan percakapan. Konfirmasi ini saya laporkan berdasarkan pengalaman saya; rekaman atau catatan tertulis konfirmasi belum disertakan. Tautan screenshot jadwal menjadi artefak pendukung tindakan membuat jadwal. Rekaman percakapan dan lampiran bagian tugas belum disertakan. Hubungan antara jadwal dan saran mama bersumber dari keterangan saya; gambar tidak merekam percakapan tersebut.
+Catatan dialog bersumber dari ingatan, bukan rekaman atau log chat. Fakhri dan mama telah meninjau catatan masing-masing dan mengonfirmasi secara lisan bahwa isinya sesuai dengan percakapan. Konfirmasi ini saya laporkan berdasarkan pengalaman saya; rekaman atau catatan tertulis konfirmasi belum disertakan. Screenshot jadwal mendukung tindakan membuat jadwal, sedangkan screenshot halaman 15 tugas besar memperlihatkan requirement pembaruan stok otomatis pada FR-2. Rekaman percakapan belum disertakan. Hubungan antara kedua artefak dan percakapan bersumber dari keterangan saya; screenshot tidak merekam diskusi atau riwayat perubahan.
 :::
 
 ### Perubahan language dan kontras dua character
@@ -136,7 +144,7 @@ Catatan dialog bersumber dari ingatan, bukan rekaman atau log chat. Fakhri dan m
 | Objective & state | Diskusi dimulai dengan pertanyaan tentang empat poin functional requirement dan keraguan saya terhadap tambahan otomatisasi. Percakapan dengan mama dimulai dari kesulitan membagi waktu karena banyak kegiatan dan tugas. |
 | Repertoire & language | Dalam kelompok, saya bertanya dan menilai usulan dengan istilah teknis. Dalam keluarga, saya bercerita tentang kesulitan dengan bahasa personal. Kutipan sebelum dan sesudah penjelasan Fakhri menunjukkan perubahan cara saya merespons. |
 | Response & adaptation | Alasan Fakhri bahwa fungsi otomatisasi belum tercakup membuat saya mengubah penilaian dan menerima usulan. Saran mama saya tanggapi dengan kesediaan mencoba, lalu saya membuat jadwal. |
-| Agreement/action | Hasil yang saya laporkan adalah penambahan functional requirement ke tugas besar dan pembuatan jadwal Google Calendar. Tautan screenshot mendukung adanya jadwal kegiatan; dokumen hasil tugas belum dilampirkan. |
+| Agreement/action | Hasil yang saya laporkan adalah penambahan functional requirement ke tugas besar dan pembuatan jadwal Google Calendar. Screenshot halaman 15, Tabel 3.1, FR-2 memperlihatkan requirement stok otomatis dalam hasil tugas; screenshot Google Calendar memperlihatkan jadwal kegiatan. Riwayat perubahan tugas dan implementasi fitur tidak dibuktikan oleh gambar. |
 | Relationship outcome | Kalimat “bagus juga idemu” menunjukkan penghargaan atas usulan Fakhri; ucapan terima kasih dan balasan mama menunjukkan keakraban. Saya tidak menyimpulkan adanya perubahan hubungan jangka panjang dari dua percakapan ini saja. |
 
 ## Penggunaan AI
@@ -147,7 +155,7 @@ AI tidak saya gunakan dalam percakapan atau pengambilan keputusan pada dua episo
 
 **Feedback yang diterima:** Fakhri menyampaikan bahwa tanpa tambahan functional requirement, fungsi otomatisasi belum tercakup. Mama menyampaikan dukungan dan menyarankan membuat jadwal agar pembagian waktu lebih baik. Keduanya merupakan respons yang terlihat pada catatan dialog, bukan penilaian formal atas kemampuan komunikasi saya.
 
-**Adaptasi dan tindak lanjut yang sudah dilakukan:** Saya menerima usulan Fakhri setelah mendengar alasannya, dan usulan tersebut masuk ke tugas besar. Saya juga menerima saran mama dan membuat jadwal di Google Calendar. Catatan dialog masing-masing telah diperiksa oleh Fakhri dan mama serta dibenarkan secara lisan. Pembuatan jadwal didukung screenshot yang tautannya disertakan; penambahan functional requirement ke tugas besar masih berdasarkan laporan pengalaman saya karena lampiran tugas belum disertakan.
+**Adaptasi dan tindak lanjut yang sudah dilakukan:** Saya menerima usulan Fakhri setelah mendengar alasannya, dan usulan tersebut masuk ke tugas besar. Saya juga menerima saran mama dan membuat jadwal di Google Calendar. Catatan dialog masing-masing telah diperiksa oleh Fakhri dan mama serta dibenarkan secara lisan. Screenshot jadwal dan halaman 15 tugas besar disertakan sebagai artefak hasil; FR-2 memperlihatkan requirement pembaruan stok otomatis. Waktu dan proses penambahannya tetap berdasarkan laporan pengalaman saya karena riwayat perubahan belum dilampirkan.
 
 **Refleksi:** Saya perlu memberi kesempatan kepada orang lain menjelaskan alasan sebelum menyimpulkan bahwa usulannya kurang sesuai. Ketika kewalahan, menyampaikan keadaan secara terbuka membantu mama memahami kesulitan saya dan memberi saran. Membuat jadwal merupakan langkah awal yang sudah saya lakukan; manfaatnya perlu diperiksa melalui pengalaman penggunaan berikutnya.
 
@@ -161,11 +169,10 @@ AI tidak saya gunakan dalam percakapan atau pengambilan keputusan pada dua episo
 | Objective & State | 4 | Saya membedakan tujuan menilai isi tugas dari tujuan menyampaikan kesulitan diri, serta menjelaskan kondisi awal masing-masing percakapan. |
 | Repertoire, Language & AI | 3 | Pilihan bahasa teknis antarteman dan bahasa personal dengan mama memiliki dasar pada dialog; bantuan AI dijelaskan. |
 | Response & Adaptation | 4 | Saya mengubah respons setelah mendengar alasan Fakhri dan menindaklanjuti saran mama. |
-| Agreement, Action & Relationship | 3 | Penambahan functional requirement dilaporkan dan pembuatan jadwal didukung screenshot yang tautannya disertakan; penghargaan dan keakraban terlihat pada ucapan. Lampiran hasil tugas belum tersedia. |
+| Agreement, Action & Relationship | 3 | Screenshot halaman 15 tugas besar memperlihatkan FR-2 pembaruan stok otomatis, dan screenshot jadwal menunjukkan entri kegiatan. Penghargaan dan keakraban terlihat pada ucapan; riwayat perubahan serta implementasi fitur belum dibuktikan. |
 
 **Total:** 18 / 20
 
-:::: assessor-only
 ::: assessor-only
 ### Assessment dosen
 
@@ -174,4 +181,3 @@ AI tidak saya gunakan dalam percakapan atau pengambilan keputusan pada dua episo
 **Prioritas perbaikan:** —\
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
-::::
