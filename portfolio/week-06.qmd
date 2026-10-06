@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -22,4 +22,86 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Saya berbicara tatap muka dengan teman yang menjadi narasumber pada portfolio Minggu 5. Kami membahas pengalamannya mengerjakan tugas besar kelompok pada semester 2. Tanggal percakapan ini tidak saya catat. Kejadian tugas yang dibahas berlangsung pada malam tenggat pengumpulan pukul 23.59.
+
+**Persons dan relationship:** Target saya adalah teman yang mengalami persoalan tersebut sebagai anggota kelompok. Saya menyamarkan identitasnya dan menyebut anggota kelompok yang ia ceritakan dengan inisial M. Saya tidak berbicara langsung dengan M atau anggota kelompok lainnya.
+
+**Objective dan initial state:** Saya ingin memeriksa apakah kepastian progres anggota sejak awal memang relevan bagi teman saya, bukan langsung menawarkan solusi. Sebelum saya menyampaikan pitch, ia sudah mengetahui masalah kelompoknya: M lama tidak memberi respons, lalu baru muncul sekitar pukul 20.00 pada malam tenggat. Menurut teman saya, kelompok tidak sempat memeriksa hasilnya dan kualitas tugas menjadi kurang baik. Jadi, keadaan awal teman bukan *unaware*, melainkan sudah menyadari masalah dari pengalamannya sendiri.
+
+## Evidence
+
+### Target map
+
+Pemetaan ini saya tulis kembali untuk menjelaskan pilihan target dalam percakapan yang sudah terjadi. Saya tidak menganggap orang lain telah menyetujui masalah atau tindakan tertentu karena saya belum berbicara dengan mereka.
+
+| Person dan situasi | Relevansi dan kemungkinan pengaruh | State yang diketahui | Keputusan |
+|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| Teman saya, anggota kelompok yang menceritakan kejadian | Ia mengalami dampak kurangnya kepastian progres dan dapat menjelaskan apa yang paling mengganggunya. Ia bisa menyampaikan kebutuhannya kepada kelompok, tetapi tidak dapat sendirian memastikan anggota lain bertanggung jawab. | Sudah menyadari masalah dan bersedia membicarakannya dengan saya. | **Target yang saya ajak bicara**, karena ia mengalami persoalan dan dapat memeriksa apakah rumusan saya relevan. |
+| M, anggota yang menurut cerita teman baru merespons pada malam tenggat | Ia dapat menjelaskan progres dan mengubah cara ia mengerjakan bagiannya. Namun, saya hanya mengetahui tindakannya dari cerita teman dan tidak tahu alasan ia terlambat merespons. | Tidak diketahui; saya belum berbicara dengannya. | Bukan target pitch ini. |
+| Anggota kelompok lainnya | Mereka ikut menerima dampak hasil tugas bersama dan mungkin dapat menyepakati cara memantau progres. Peran serta kewenangan masing-masing belum saya ketahui. | Tidak diketahui; saya belum berbicara dengan mereka. | Belum dilibatkan. |
+
+Saya tidak mengetahui adanya ketua atau koordinator yang ditunjuk dalam kelompok tersebut. Karena itu, saya tidak menempatkan seseorang sebagai pengambil keputusan tanpa dasar.
+
+### Problem pitch dan dasar evidence
+
+Saya menyampaikan pertanyaan berikut secara tatap muka kepada teman saya:
+
+> “Pada tugas besarmu semester dua, M baru merespons pada malam hari sekitar jam 20, padahal tenggat pukul 23.59. Kelompokmu tidak sempat memeriksa bagiannya, dan menurutmu kualitas tugas menurun. Apakah kepastian progres anggota sejak awal akan membantu?”
+
+Pitch ini berisi 36 kata. Bagian tentang waktu, kesempatan memeriksa, dan kualitas tugas berasal dari cerita teman saya, bukan dari pengamatan langsung saya terhadap M atau dokumen tugas. Kata “menurutmu” penting karena penilaian tentang kualitas hasil merupakan pandangan teman saya. Pertanyaan di akhir digunakan untuk memeriksa relevansi kepastian progres, bukan meminta teman langsung menyetujui suatu aplikasi atau tindakan.
+
+### Respons dan pembacaan state
+
+Teman saya menjawab bahwa kepastian sejak awal tentu penting, tetapi hasilnya tetap bergantung pada kepedulian masing-masing individu terhadap tugas kelompok. Ini adalah **parafrase** dari responsnya, bukan kutipan kata per kata.
+
+Jawaban itu menunjukkan bahwa aspek kepastian progres relevan baginya. Namun, ia juga mengoreksi kesan bahwa kepastian saja cukup: menurutnya, kepedulian anggota terhadap kelompok tetap menentukan. Dengan demikian, saya menilai **Attention pada isu kepastian progres terkonfirmasi dengan catatan**. Saya tidak dapat menyimpulkan bahwa ia sudah berminat pada solusi tertentu atau berkomitmen melakukan tindakan. Karena ia sejak awal sudah sadar akan persoalannya, respons ini bukan bukti bahwa ia baru pertama kali menyadari masalah setelah mendengar pitch saya.
+
+::: evidence-block
+Evidence yang saya miliki adalah rumusan pitch yang saya sampaikan dan ingatan saya atas respons teman dalam percakapan tatap muka. Saya tidak mempunyai rekaman, catatan waktu yang tepat, atau dokumen tugas kelompok untuk dilampirkan. Identitas teman dan M disamarkan. Informasi mengenai tindakan M serta mutu hasil tugas tetap saya atribusikan kepada teman yang bercerita.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|------------------------------------|------------------------------------|
+| Person & character | Saya memilih teman yang mengalami dampak langsung dan sudah bersedia bercerita. Saya tidak menganggap M atau anggota lain memiliki pandangan yang sama karena saya belum mendengar penjelasan mereka. |
+| Objective & state | Tujuan saya adalah memeriksa relevansi kepastian progres. Teman sudah sadar akan masalahnya; setelah pitch ia mengakui pentingnya kepastian, tetapi menambahkan bahwa kepedulian individu juga diperlukan. |
+| Repertoire & language | Saya memakai kejadian spesifik, waktu yang teman sebutkan, dampak terhadap kesempatan memeriksa, lalu pertanyaan singkat. Saya tidak memakai penilaian pribadi tentang karakter M sebagai bukti. |
+| Response & adaptation | Respons teman membuat saya membatasi kesimpulan: memantau progres mungkin membantu, tetapi tidak otomatis membuat seseorang peduli. Pertanyaan lanjutan yang menampung catatan itu baru saya susun sebagai rencana, belum saya ucapkan. |
+| Agreement/action | Ada pengakuan bahwa kepastian progres penting, disertai catatan mengenai kepedulian anggota. Belum ada persetujuan atas solusi, pembagian tugas baru, atau tindakan kelompok. |
+| Relationship outcome | Percakapan memberi ruang bagi teman untuk menyampaikan pandangan yang tidak sepenuhnya sama dengan dugaan saya. Saya belum mempunyai bukti perubahan hubungan atau perilaku kelompok setelah percakapan. |
+
+## Penggunaan AI
+
+Saya menggunakan AI untuk membantu merapikan susunan portfolio dan menilai apakah pitch, respons, serta kesimpulan saya saling sesuai. Saya memberikan konteks yang identitasnya sudah disamarkan dan memeriksa kembali tulisan ini terhadap kejadian yang saya ceritakan. AI tidak digunakan untuk membuat respons teman, mengisi alasan pribadi M, atau menyatakan bahwa tindak lanjut yang belum terjadi sudah dilakukan.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Teman mengakui pentingnya kepastian progres sejak awal, lalu mengingatkan bahwa kepedulian tiap anggota terhadap tugas kelompok juga menentukan. Saya memperlakukan bagian kedua sebagai koreksi terhadap dugaan bahwa kepastian progres saja akan menyelesaikan masalah.
+
+**Adaptation/replay:** Setelah mendengar respons itu, saya menyusun pertanyaan lanjutan berikut untuk percakapan berikutnya: “Kalau kepastian progres saja belum cukup, apa yang perlu disepakati agar setiap anggota mau memberi kabar dan bertanggung jawab pada bagiannya?” Ini adalah **rencana replay**, bukan kalimat yang sudah saya sampaikan. Belum ada respons teman terhadap pertanyaan ini.
+
+**Next practice:** Pada percakapan berikutnya, saya akan menanyakan pertanyaan lanjutan tersebut, mencatat jawabannya, lalu merangkum kembali apakah saya memahami hubungan antara kepastian progres dan kepedulian anggota dengan tepat. Saya juga akan mencatat tanggal dan bentuk percakapan agar evidence tidak hanya bergantung pada ingatan.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|------------------------------------|---------:|------------------------------------|
+| Person & Character | 3 | Target dipilih dari pihak yang mengalami dampak langsung; pandangan M dan anggota lain tidak diasumsikan. |
+| Objective & State | 4 | Saya membedakan kesadaran awal teman, pengakuannya atas relevansi isu setelah pitch, dan belum adanya minat pada solusi atau komitmen tindakan. |
+| Repertoire, Language & AI | 3 | Pitch singkat dan bertumpu pada cerita teman; penggunaan AI dan keterbatasan evidence dinyatakan. |
+| Response & Adaptation | 3 | Catatan teman tentang kepedulian individu mengubah rancangan pertanyaan lanjutan, tetapi replay belum dilakukan. |
+| Agreement, Action & Relationship | 3 | Ada pengakuan relevansi isu, bukan kesepakatan solusi; batas hubungan dan tindakan yang belum terjadi tetap jelas. |
+
+**Total:** 16 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20\
+**Evidence yang mendukung:** —\
+**Prioritas perbaikan:** —\
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
