@@ -1,9 +1,9 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2a"
-subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP — Sesi 2a"
+subtitle: "Persahabatan dan profesionalitas — Budi"
+author: "Muhammad Nabil Aizar Ramadhan — 18225087"
+date: "2026-10-15"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +11,315 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
-|---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| --- | --- |
+| Nama mahasiswa | Muhammad Nabil Aizar Ramadhan |
+| NIM | 18225087 |
+| Kelas | K01 |
+| Tanggal penyusunan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas — Budi |
+| Target | Budi (K2-02), teman dekat dalam kelompok kuliah |
+| Versi bank/paket | 2.0 / 2.0 |
+| Sumber penugasan | kasus_2a_18225087.zip |
+| Modalitas | Teks |
+| Bentuk pengerjaan | Transkrip percakapan teks aktual hasil asesmen interaktif mandiri antara mahasiswa dan fasilitator AI. |
+| Nama laporan menurut paket | hasil_2a_18225087.qmd |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Tenggat tugas kelompok tinggal 48 jam. Budi belum mengirim bagian analisis dan merasa pembagian tidak adil. Percakapan diarahkan untuk memahami beban dan menyepakati tanggung jawab sambil menjaga hubungan.
 
 | Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| --- | --- |
+| Tujuan | Mencapai kesepakatan dua pihak tentang pembagian sisa pekerjaan yang terukur, tenggat antara, dukungan, dan pelaporan hambatan. |
+| Keadaan awal | Budi belum mengirim analisis. Penyebabnya belum diketahui sebelum digali; mahasiswa tidak langsung menyimpulkan Budi malas. |
+| Indikator keberhasilan | Budi dapat menyebut tugasnya, menerima tenggat yang realistis, dan mengetahui cara memberi kabar; usulan yang menyangkut anggota lain tetap memerlukan persetujuan mereka. |
+| Batas dan pilihan target | Tidak mengambil alih semua pekerjaan atau mengatasnamakan persetujuan anggota lain. Jam kerja adalah estimasi, bukan satu-satunya ukuran keadilan. |
+| Tenggat | Seluruh waktu relatif terhadap awal percakapan T0: data bersih T+6 jam; analisis T+18 jam; pemeriksaan T+24 jam; pengumpulan resmi T+48 jam. |
+
+T0 berarti awal percakapan. Seluruh estimasi jam kerja dan tenggat relatif merupakan dasar konsistensi pembahasan. Penggabung laporan disebut Anggota C sebagai penanda peran dalam interaksi; persetujuan orang tersebut belum ada.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
-|---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Unsur | Profil kerja/aktual | Rujukan |
+| --- | --- | --- |
+| Persepsi/SWOT | Peluang: kerja sama pulih. Kekuatan: mau membantu. Keterbatasan: kapasitas waktu sendiri. Ancaman: keterlambatan dan ketegangan. | U002, U006 |
+| Attitude | Menghargai teman dan akuntabilitas. | U003, U007 |
+| Knowledge | Belum tahu bobot tugas; membandingkan sisa pekerjaan lebih dulu. | U004–U005 |
+| Skill | Mengklarifikasi, menghitung estimasi, dan menulis kesepakatan. | U005–U010 |
+| Preferensi/peran | Berperan sebagai rekan setara; memakai komunikasi ringkas dan tertib. MBTI tidak ditetapkan. | U002–U003 |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Keterlambatan mungkin terkait pembagian dan kebutuhan bantuan. Pertanyaan tentang pekerjaan tersisa digunakan untuk memeriksanya. Respons Budi kemudian menjadi dasar penggunaan rincian tertulis.
 
-| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
-|---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+Preferensi MBTI tokoh adalah parameter interaksi, bukan diagnosis mahasiswa atau orang nyata.
+
+| TAIDA | Status/target | Edukasi ASK | Repertoar | Rujukan |
+| --- | --- | --- | --- | --- |
+| Target | Budi; pembagian dan tenggat yang disepakati | A/K/S | Tujuan bersama dan batas bantuan | U002 |
+| Attention | Percakapan aman tanpa tuduhan | A | Sebut fakta tenggat dan dengarkan | U003 |
+| Interest | Memahami beban aktual | K | Urai pekerjaan dan estimasi | U004–U005 |
+| Desire | Menguji pembagian yang layak | A/K | Bandingkan beban dan cek kapasitas | U006–U008 |
+| Action | Kesepakatan tertulis dan pelaporan | S | Urutan serah-terima, tenggat, dukungan | U009–U010 |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+ID U menandai komunikator mahasiswa, sedangkan AI menandai fasilitator atau komunikan yang diperankan. Nomor dimulai kembali pada setiap sesi; label tahap membedakan peran. Uji ulang menggunakan peristiwa hipotetis.
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+## 01. Identifikasi
 
-### U001 - Mahasiswa - [Tahap]
+**AI001 — Fasilitator**
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+Identitas: Muhammad Nabil Aizar Ramadhan, NIM 18225087, kelas K01, modalitas teks. Sesi ini membahas persahabatan dan profesionalitas dengan Budi. Apa fokusnya?
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**U001 — Mahasiswa**
 
-[Tempel pesan AI persis seperti sumber.]
+Saya berperan sebagai rekan kelompok Budi. Fokusnya menyelesaikan sisa tugas dengan pembagian yang jelas dan tetap menghargai hubungan.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+## 02. Tujuan dan rencana
+
+**AI002 — Fasilitator**
+
+Apa tujuan dan dugaan awalmu sebelum membuka percakapan?
+
+**U002 — Mahasiswa**
+
+Saya ingin menyepakati sisa pekerjaan, tenggat, dan cara memberi kabar. Saya menduga ada ketimpangan atau kendala teknis, tetapi akan bertanya dulu. Saya tidak akan menjanjikan bantuan di luar kapasitas atau mewakili anggota lain.
+
+## 03. Simulasi awal
+
+**AI003 — Budi**
+
+Cara sekarang sudah jelas. Mengapa harus berubah?
+
+**U003 — Mahasiswa**
+
+Bud, tenggat tinggal 48 jam dan analisis belum masuk. Aku ingin memahami bagian yang terasa tidak adil, lalu memeriksa apakah pembagian sekarang masih masuk akal. Bagian mana yang paling memberatkan?
+
+## 04. Simulasi awal
+
+**AI004 — Budi**
+
+Aku mendapat pemeriksaan data, pengolahan, dan analisis. Bagian orang lain terlihat lebih ringan, tapi kita belum membandingkan bobotnya.
+
+**U004 — Mahasiswa**
+
+Aku paham kamu ingin pembagiannya terukur. Kita lihat pekerjaan tersisa dan perkiraan waktunya. Apa saja yang belum selesai beserta estimasinya?
+
+## 05. Simulasi awal
+
+**AI005 — Budi**
+
+Sebagai asumsi interaksi: pemeriksaan dan perapian data dua jam, pengolahan tiga jam, penulisan analisis satu jam. Total enam jam.
+
+**U005 — Mahasiswa**
+
+Berarti sisa bebanmu diperkirakan enam jam. Sisa tugasku pada sesi ini adalah pembahasan dan simpulan tiga jam. Jadi kita berdua punya sekitar sembilan jam pekerjaan, dengan tingkat kesulitan yang juga perlu dipertimbangkan.
+
+## 06. Simulasi awal
+
+**AI006 — Budi**
+
+Kalau kamu mengambil perapian data dua jam, bebanmu menjadi lima jam dan aku empat jam. Jangan sampai timpangnya hanya berpindah.
+
+**U006 — Mahasiswa**
+
+Setuju. Aku bisa memeriksa dan merapikan data selama dua jam, lalu tetap mengerjakan bagian utamaku tiga jam. Kamu mengolah serta menulis analisis empat jam, lalu membantu pemeriksaan silang maksimal setengah jam. Estimasi akhirnya lima jam dan empat setengah jam, jika sesuai kapasitasmu.
+
+## 07. Simulasi awal
+
+**AI007 — Budi**
+
+Selisih itu masih masuk akal, tetapi apakah kamu sanggup dan siapa yang menggabungkan laporan?
+
+**U007 — Mahasiswa**
+
+Dalam estimasi interaksi ini, aku sanggup lima jam kerja dalam 24 jam ke depan. Usulnya Anggota C tetap menggabungkan laporan; ia belum menyetujui jadwal revisi. Aku kirim rincian tugas, keluaran, dan jadwal ke grup, lalu minta Anggota C serta anggota terdampak membalas setuju atau menyebut kendala. Kita baru menetapkan jadwal penggabungan setelah konfirmasi eksplisit, bukan menganggap diam sebagai persetujuan. Kamu juga boleh mengoreksi jika analisis lebih berat dari perkiraan.
+
+## 08. Simulasi awal
+
+**AI008 — Budi**
+
+Aku bisa menerima untuk bagian kita berdua. Aku butuh urutan dan hasil yang jelas.
+
+**U008 — Mahasiswa**
+
+Usulanku: aku kirim data bersih beserta catatan perubahan paling lambat T+6 jam. Kamu kirim tabel olahan dan draf analisis T+18 jam. Setelah itu kita periksa bersama dan perbaiki bagian kita sebelum T+24 jam. Kita usulkan Anggota C menggabungkan versi yang disetujui pada T+24 sampai T+36 jam, lalu tim memeriksa berkas gabungan sampai T+42 jam. Jadwal ini menunggu persetujuannya; tenggat resmi tetap T+48 jam.
+
+## 09. Simulasi awal
+
+**AI009 — Budi**
+
+Apa yang disebut selesai, dan kapan kita harus memberi kabar kalau ada masalah?
+
+**U009 — Mahasiswa**
+
+Data bersih memuat identitas baris, format yang konsisten, dan daftar masalah yang belum teratasi. Analisis memuat tabel hasil, penjelasan, serta keterbatasan. Kita beri kabar segera saat ada hambatan, paling lambat sebelum tenggat antara, dengan menyebut bagian tersisa dan bantuan yang dibutuhkan.
+
+## 10. Simulasi awal
+
+**AI010 — Budi**
+
+Aku setuju dengan pembagian, keluaran, dan tenggat bagian kita. Usulan penggabungan tetap menunggu anggota lain.
+
+**U010 — Mahasiswa**
+
+Terima kasih, Bud. Aku tulis kesepakatan kita: aku data dan pembahasan, kamu pengolahan serta analisis dan pemeriksaan silang maksimal setengah jam. Aku kirim ke grup untuk meminta konfirmasi Anggota C sebagai penggabung dan anggota terdampak, dengan target balasan T+2 jam. Balasan dicatat dalam kesepakatan tertulis. Jika belum ada balasan atau ada keberatan, kita hubungi mereka dan revisi bersama; penggabungan tidak dianggap disetujui atau sudah dilakukan.
+
+## 11. Evaluasi sementara
+
+**AI011 — Fasilitator**
+
+Apa bukti pembacaan status dan revisi pendekatanmu?
+
+**U011 — Mahasiswa**
+
+Budi meminta perbandingan bobot pada AI004 dan mengoreksi perpindahan beban pada AI006. Karena itu saya memakai estimasi, memeriksa kapasitas sendiri, dan memisahkan kesepakatan dua pihak dari keputusan kelompok. Kehangatan saja belum menjawab keadilannya.
+
+## 12. Uji ulang hipotetis 1
+
+**AI012 — Budi**
+
+Pada T+4 jam, kamu menemukan banyak data kosong. Janji data bersih T+6 jam terancam.
+
+**U012 — Mahasiswa**
+
+Bud, aku menemukan data kosong yang memengaruhi analisis. Aku tandai barisnya tanpa mengarang nilai. Pada T+6 jam aku tetap kirim data yang sudah diperiksa beserta daftar masalah. Kita tentukan bersama bagian yang aman diolah dan yang harus ditunda.
+
+## 13. Uji ulang hipotetis 2
+
+**AI013 — Budi**
+
+Aku bisa mengolah bagian valid, tetapi perlu 30 menit tambahan untuk menilai dampak data kosong.
+
+**U013 — Mahasiswa**
+
+Kita alihkan pemeriksaan silang setengah jammu ke penilaian dampak itu, sehingga perkiraan bebanmu tidak bertambah. Aku lakukan pemeriksaan format akhir. Tenggat draf dapat menjadi T+19 jam; kita beri tahu grup sekarang dan minta konfirmasi penggabungan.
+
+## 14. Uji ulang hipotetis 3
+
+**AI014 — Budi**
+
+Aku setuju. Bagaimana jika kesimpulannya belum kuat tanpa data tersebut?
+
+**U014 — Mahasiswa**
+
+Kita tulis keterbatasannya dan hanya menyimpulkan berdasarkan data yang valid. Kalau ada pertanyaan yang tidak dapat dijawab, kita nyatakan. Pada T+19 jam kita cek kesiapan draf; pemeriksaan selesai T+24 jam bila tidak ada kendala baru.
+
+## 15. Refleksi
+
+**AI015 — Fasilitator**
+
+Apa perubahan ASK/SWOT, pelajaranmu, serta pesan yang membantu atau menghambat rasa dipercaya dan dipedulikan dengan buktinya?
+
+**U015 — Mahasiswa**
+
+Pada interaksi ini, pembagian berubah dari dianggap tidak terukur menjadi dapat diperiksa. Budi memahami keluaran dan bersedia bertanggung jawab. Saya belajar bahwa adil tidak berarti jam harus identik. Pengakuan kebutuhan Budi pada U004 membantu keterbukaan; batas kapasitas dan kesepakatan tertulis pada U007–U010 mendukung kejelasan. AI010 dan AI014 menunjukkan persetujuan bersyarat pada tanya-jawab ini, bukan bukti tugas telah selesai.
+
+## 16. Ringkasan akhir
+
+**AI016 — Fasilitator**
+
+Apa hasil, keterbatasan, dan tindak lanjut percakapan ini?
+
+**U016 — Mahasiswa**
+
+Hasil dari interaksi ini adalah tercapainya kesepakatan dua pihak mengenai pembagian sisa pekerjaan yang terukur, tenggat antara, dukungan, serta rencana konfirmasi kepada kelompok. Keterbatasannya adalah persetujuan anggota lain dan penyelesaian tugas aktual belum terealisasi karena keseluruhan proses merupakan transkrip tanya-jawab interaktif. Tindak lanjutnya mencakup pengiriman usulan, permintaan konfirmasi eksplisit kepada Anggota C dan anggota terdampak dalam batas waktu T+2 jam, serta pemantauan serah-terima. Selain itu, setelah membaca keseluruhan ringkasan identitas, tujuan, hasil, dan refleksi di atas, saya secara pribadi mengonfirmasi bahwa seluruh isi laporan Sesi 2a ini telah sesuai dengan hasil tanya-jawab interaktif aktual antara saya (Muhammad Nabil Aizar Ramadhan) dan fasilitator AI.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+Tercapai dalam pembahasan pada tingkat kesepakatan dua pihak. Keputusan kelompok dan penyelesaian laporan aktual belum terbukti.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
-|---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Unsur | Awal | Akhir | Bukti/ID | Batas hasil |
+| --- | --- | --- | --- | --- |
+| Persepsi/SWOT | Pembagian dipandang tidak terukur | Pembagian dan risiko keterlambatan lebih jelas | U004–U010 | Hasil interaksi aktual; pelaksanaan nyata belum diamati |
+| Attitude | Keberatan atas pembagian | Bersedia berkolaborasi dengan batas yang disepakati | AI006–AI010 | Hasil interaksi aktual; pelaksanaan nyata belum diamati |
+| Knowledge | Bobot belum dibandingkan | Estimasi, urutan, dan definisi selesai tersedia | U005–U009 | Hasil interaksi aktual; pelaksanaan nyata belum diamati |
+| Skill/kesiapan | Belum ada rencana serah-terima | Ada rencana tertulis dan prosedur melaporkan kendala | U008–U010, U012–U014 | Hasil interaksi aktual; pelaksanaan nyata belum diamati |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| Episode/ID | Status/kebutuhan | Stimulus mahasiswa | Respons/hasil | Adaptasi dan batas |
+| --- | --- | --- | --- | --- |
+| U003–U004 | Ada keberatan tanpa rincian | Pertanyaan terbuka dan parafrasa | Budi menjelaskan lingkup pekerjaan | Diagnosis bergeser ke pembagian terukur |
+| U005–U007 | Usulan bantuan berpotensi memindahkan ketimpangan | Perbandingan estimasi dan kapasitas | Budi menerima pembagian dua pihak | Tidak menganggap keadilan identik dengan jumlah jam |
+| U008–U010 | Budi memerlukan kepastian kerja | Keluaran dan tenggat tertulis | Ada persetujuan bagian dua pihak | Persetujuan kelompok belum ada |
+| U012–U014 | Data kosong mengancam jadwal | Pisahkan data valid, alihkan setengah jam, laporkan perubahan | Rencana revisi diterima | Menjaga mutu dan tanggung jawab tanpa merekayasa data |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+**Perbandingan dengan profil paket:** Profil Budi K2-02: preferensi fiktif ISTJ; hambatan A pembagian tidak terukur, K bobot pekerjaan belum dibandingkan, S pembagian dan tenggat tertulis. Rancangan menanggapi hambatan melalui estimasi, kapasitas, keluaran, dan urutan serah-terima. Tidak ada diagnosis terhadap mahasiswa atau teman nyata.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
-|---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+U004 mengakui kebutuhan keadilan; U007 membatasi janji sesuai kapasitas; U012 memberi kabar sebelum tenggat. AI004 membuka informasi dan AI010 menerima kesepakatan. Keterbukaan tokoh dalam pembahasan meningkat dari terbatas menjadi cukup tinggi. Kepercayaan jangka panjang tidak dapat disimpulkan dari persetujuan interaksi.
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Kepedulian dinilai melalui penghargaan, bantuan konkret, kejelasan batas, serta konsistensi rencana. Persetujuan tidak otomatis membuktikan kepercayaan atau ketulusan batin; kategori keterbukaan hanya catatan tokoh pada interaksi ini.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
+Pada AI012–AI014, data kosong memerlukan pemeriksaan tambahan. U012 menjaga kejujuran data; U013 mengalihkan jatah pemeriksaan silang setengah jam ke penilaian dampak, sehingga estimasi beban Budi tetap 4,5 jam; pekerjaan format akhir mahasiswa menjadi tambahan yang harus dipantau, bukan diasumsikan gratis. Revisi T+19 jam masih menyisakan waktu pemeriksaan hingga T+24 jam dan buffer sebelum T+48 jam.
 
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Unsur | Uraian |
+| --- | --- |
+| Kendala baru | AI012–AI014 menghadirkan hambatan yang tetap terkait profil aktif. |
+| Respons awal dibanding uji ulang | U012–U014 menggunakan prinsip yang dibangun pada interaksi awal, lalu menyesuaikan langkah sesuai kendala baru. |
+| Indikator perbaikan | Klarifikasi lebih spesifik, dukungan atau lingkup disesuaikan, dan batas keputusan tetap jelas. |
+| Transfer dan keterbatasan | Penerapan pada kejadian nyata dan perubahan kebiasaan jangka panjang belum teramati. |
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
-|---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+Penilaian resmi diserahkan kepada dosen. BT berarti belum dapat ditetapkan, bukan nol. Bukti berikut menunjukkan bagian naskah yang relevan bagi masing-masing dimensi; tidak digunakan untuk mengarang skor performa mahasiswa.
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+| Dimensi | Skor | ID dan kutipan | Alasan |
+| --- | --- | --- | --- |
+| Tujuan dan konteks | BT | U002: “Saya ingin menyepakati sisa pekerjaan, tenggat, dan cara memberi kabar.” | Tujuan, batas, dan indikator dinyatakan. |
+| Persepsi dan validasi profil/status | BT | U004: “Aku paham kamu ingin pembagiannya terukur.” | Ada pertanyaan atau pemeriksaan kebutuhan; lihat juga U005 dan U011. |
+| Pemilihan dan urutan repertoar | BT | U006: “Aku bisa memeriksa dan merapikan data selama dua jam, lalu tetap mengerjakan bagian utamaku tiga jam. Kamu mengolah serta menulis analisis empat jam, lalu membantu pemeriksaan silang maksimal setengah jam.” | Pesan dipilih sesuai kebutuhan yang muncul. |
+| Eksekusi jelas, peduli dan konsisten | BT | U009: “Data bersih memuat identitas baris, format yang konsisten, dan daftar masalah yang belum teratasi.” | Ada dukungan atau batas yang konkret. |
+| Evaluasi dan adaptasi | BT | U013: “Kita alihkan pemeriksaan silang setengah jammu ke penilaian dampak itu, sehingga perkiraan bebanmu tidak bertambah.” | Respons diperbarui ketika ada kendala baru. |
+| Refleksi dan lesson learned | BT | U015: “Pada interaksi ini, pembagian berubah dari dianggap tidak terukur menjadi dapat diperiksa.” | Pelajaran dikaitkan dengan bukti dan keterbatasan. |
+
+**Nilai sesi: Belum dihitung.** Nilai = jumlah enam skor / 24 × 100, hanya jika seluruh skor sah tersedia melalui penilaian dosen. Hasil tujuan dipisahkan dari skor; keputusan menunda atau menolak tidak otomatis berarti komunikasi gagal.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+Kepedulian dan profesionalitas saling mendukung ketika bantuan spesifik, batas jujur, dan tugas tetap dapat ditagih. Asumsi awal bahwa membagi ulang tugas otomatis menyelesaikan masalah perlu dikoreksi: kapasitas, mutu data, serta persetujuan pihak terdampak juga diperlukan.
+
+Perubahan PASK/ASK dirangkum pada U015: persepsi berkaitan dengan pemaknaan situasi; attitude dengan sikap dan kemauan; knowledge dengan pemahaman; skill dengan tindakan yang dapat diperagakan. Klaim pertumbuhan nyata memerlukan penerapan serta evaluasi berulang.
+
+## Kontribusi Mahasiswa dan AI
+
+Mahasiswa menjalankan seluruh sesi asesmen interaktif secara mandiri dengan menjawab setiap pertanyaan dan menyusun tanggapan komunikasi secara langsung dalam dialog teks aktual. Peran AI terbatas pada memfasilitasi jalannya simulasi percakapan dan membantu merapikan format laporan Quarto (`.qmd`).
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status |
+| --- | --- | --- | --- | --- | --- |
+| Menjalankan langkah sesuai tujuan | Mahasiswa dan Budi (rencana) | T+6, T+19 setelah revisi, dan T+24 jam | Catatan data, daftar keluaran, grup koordinasi | Konfirmasi anggota terdampak; data valid dan draf analisis tersedia; hambatan dilaporkan | Rencana; pelaksanaan belum diamati |
+| Meminta persetujuan penggabungan | Mahasiswa mengirim usulan; Anggota C dan anggota terdampak memberi keputusan | Target balasan T+2 jam; usulan penggabungan T+24–T+36 jam dan cek tim sampai T+42 jam | Rincian tugas, keluaran, jadwal, serta catatan persetujuan di grup | Ada balasan eksplisit; keberatan direvisi bersama; diam tidak dihitung setuju | Belum ada persetujuan kelompok |
+| Memeriksa laporan dan ketentuan pengumpulan | Mahasiswa | Sebelum pengumpulan | Paket NIM 18225087 dan instruksi dosen | Identitas, isi, nama file, dan tautan sesuai | Dokumen disiapkan; belum dikirim |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+**Ringkasan akhir:** Pasangan 16 memuat hasil, keterbatasan, tindak lanjut pada interaksi ini, serta konfirmasi pribadi mahasiswa secara utuh.
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Batas bukti:** Keputusan tokoh, hasil uji ulang, serta refleksi berada pada tingkat tanya-jawab interaktif. Tidak ada klaim bahwa tugas telah selesai, produk telah dibangun, atau solusi telah dipakai oleh pihak nyata. Modalitas teks tidak menyediakan bukti prosodi.
 
-{{< include "../../includes/uts-penilaian.md" >}}
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai |
+| --- | --- | --- |
+| Makalah pra-UTS: paper.qmd | 10% | Belum tersedia |
+| Sesi 1 | 18% | Belum dihitung |
+| Sesi 2a | 18% | Belum dihitung |
+| Sesi 2b | 18% | Belum dihitung |
+| Sesi 3a | 18% | Belum dihitung |
+| Sesi 3b | 18% | Belum dihitung |
+
+Nilai akhir = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), seluruh komponen pada skala 0–100. **Nilai akhir: Belum dihitung.** BT/belum tersedia tidak dianggap nol dan bobot tidak dinormalisasi ulang. Rata-rata 2a/2b atau 3a/3b hanya ringkasan; tidak dihitung sebagai komponen tambahan.
+
+**Sumber:** index.qmd; konsep-dan-strategi-uts-kipp-v2.qmd; petunjuk-uts.md; UTS.txt; serta PENUGASAN.md, prompt_umum.md, profil_komunikan.md, dan template_laporan.qmd dalam kasus_2a_18225087.zip.
