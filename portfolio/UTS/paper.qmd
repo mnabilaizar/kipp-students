@@ -3,7 +3,7 @@ title: "Memahami Preferensi, Menyesuaikan Komunikasi, dan Menumbuhkan PASK"
 subtitle: "Kajian konseptual MBTI, SWOT-like, dan pembelajaran dalam komunikasi interpersonal"
 author: "Muhammad Nabil Aizar Ramadhan — 18225087"
 lang: id
-status: "Naskah lengkap"
+status: "Siap dinilai"
 format:
   html:
     toc: true

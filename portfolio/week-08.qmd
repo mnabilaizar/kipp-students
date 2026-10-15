@@ -1,15 +1,15 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Naskah lengkap"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
-description: "Makalah pra-UTS dan lima laporan kasus individual."
+description: "Makalah pra-UTS dan lima laporan kasus dengan analisis stimulus–respons, relasi, uji ulang, dan refleksi."
 categories: [Assessment, UTS]
 ---
 
-::: {.callout-tip title="Mulai mengisi"}
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. [Lihat contoh jawaban Minggu 8](../examples/week-08.qmd) untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.
+::: {.callout-tip title="Paket Terisi dan Ringkasan"}
+Halaman ini memuat indeks lengkap makalah pra-UTS serta lima laporan kasus UTS KIPP yang telah diselesaikan. Seluruh dokumen disusun dengan bantuan AI sebagaimana dijelaskan pada masing-masing berkas. Transkrip dan pembahasan rinci tersedia di masing-masing tautan berkas di bawah.
 :::
 
 ## Identitas dan status paket
@@ -22,30 +22,57 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | Periode/tanggal pelaksanaan | 15 Oktober 2026 |
 | Versi bank/paket aktif | 2.0 / 2.0 |
 | Modalitas | Teks |
-| Status pengumpulan | Disiapkan untuk diunggah |
+| Status pengumpulan | Siap dinilai (disusun dengan bantuan AI sebagaimana dijelaskan pada masing-masing berkas) |
 
-## Makalah dan lima laporan
+## Paket jawaban dan pemetaan penugasan
 
-| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
-|---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Naskah lengkap | Makalah konseptual telah disusun |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; Budi (K1-02) | Naskah lengkap | Transkrip dan pembahasan Sesi 1 |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Budi (K2-02) | Naskah lengkap | Transkrip dan pembahasan Sesi 2a |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Fajar (K2-06) | Naskah lengkap | Transkrip dan pembahasan Sesi 2b |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Dimas (K3-04) | Naskah lengkap | Transkrip dan pembahasan Sesi 3a |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Budi (K3-02) | Naskah lengkap | Transkrip dan pembahasan Sesi 3b |
+Pra-UTS menghasilkan satu makalah; UTS menghasilkan lima laporan yang dijalankan berurutan **1, 2a, 2b, 3a, 3b**. Sesi kedua pada kasus 2 dan 3 dimulai baru dengan target berbeda, tanpa mewarisi kepercayaan target sebelumnya.
 
-{{< include "../includes/uts-penilaian.md" >}}
+| Tahap | Template / Berkas | Target sesuai ZIP | Status bukti |
+|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Naskah lengkap dan referensi konseptual |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; Budi (K1-02) sebagai pembanding | Transkrip dan pembahasan Sesi 1 |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Budi, K2-02 | Transkrip dan pembahasan Sesi 2a |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Fajar, K2-06 | Transkrip dan pembahasan Sesi 2b |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Dimas, K3-04 | Transkrip dan pembahasan Sesi 3a |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Budi, K3-02 | Transkrip dan pembahasan Sesi 3b |
+
+**Nama berkas pengumpulan.** Instruksi pra-UTS meminta `portfolio/UTS/paper.qmd`. Untuk lima laporan, penamaan berkas mengikuti struktur template ringkas yang berlaku di dalam direktori repository (`UTS/hasil_1.qmd`, `UTS/hasil_2a.qmd`, `UTS/hasil_2b.qmd`, `UTS/hasil_3a.qmd`, dan `UTS/hasil_3b.qmd`). Pengunggahan melalui portal dilakukan mahasiswa secara mandiri.
+
+::: {.callout-note title="Versi penugasan"}
+Paket ZIP yang tersedia saat penyusunan memakai bank/paket **2.0**, tanpa password. Petunjuk umum di folder `lk` mengikuti paket aktif versi 2.0 tanpa password. Paket menyatakan prioritas `PENUGASAN.md`, kemudian prompt umum, profil, dan template.
+:::
+
+## Pra-UTS: makalah akademik
+
+[Makalah konseptual](UTS/paper.qmd) menjawab keempat pertanyaan melalui definisi, pembahasan kritis, tabel penerapan, dan daftar pustaka.
+
+| Pertanyaan | Jawaban pokok | Bagian makalah |
+|---|---|---|
+| Kategori MBTI dan pengaruh komunikasi | Empat pasangan preferensi membentuk 16 tipe; preferensi membantu menanyakan kebutuhan, bukan menentukan kemampuan | Kategori MBTI dan Komunikasi Efektif |
+| Cara berkomunikasi dengan profil tertentu | Konfirmasi kebutuhan, sesuaikan media/tempo/urutan, periksa pemahaman, tetapkan tindakan | Strategi Komunikasi untuk Profil Tertentu |
+| Deteksi lewat percakapan | Amati pola lintas konteks, pertimbangkan penjelasan lain, dan klarifikasi; percakapan tidak memastikan tipe | Mengenali Preferensi melalui Percakapan |
+| Stimulus, SWOT-like, dan pendidikan PASK | Pisahkan tafsir situasi dari kapasitas; latih persepsi, sikap, keterampilan, pengetahuan dan nilai bukti perilaku | Stimulus, SWOT-like, dan PASK; Pendidikan untuk Menumbuhkan PASK |
+
+## Struktur laporan UTS
+
+Setiap laporan memiliki **empat bagian utama A–D**, mengikuti template dalam ZIP:
+* **A) Identitas:** Nama/NIM sebagai teks, kelas, tanggal, sesi, target, versi, modalitas, dan kelengkapan transkrip.
+* **B) Kasus dan Tujuan:** Tujuan dan indikator; profil komunikator; dugaan target sebelum pengungkapan; rencana TAIDA dan repertoar.
+* **C) Skrip Percakapan:** Seluruh pesan aktual dari identifikasi sampai konfirmasi; ID giliran dan label tahap; penutur jelas.
+* **D) Hasil, Evaluasi, dan Refleksi:** Hasil tujuan; SWOT/ASK; stimulus–respons–adaptasi; pesan personal/relasi; uji ulang; enam dimensi; refleksi; tindak lanjut dan batas bukti.
 
 ## Rekap nilai komponen
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | — | — | — | Siap dinilai |
+| Sesi 1 | 18% | — | — | — | Siap dinilai |
+| Sesi 2a | 18% | — | — | — | Siap dinilai |
+| Sesi 2b | 18% | — | — | — | Siap dinilai |
+| Sesi 3a | 18% | — | — | — | Siap dinilai |
+| Sesi 3b | 18% | — | — | — | Siap dinilai |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+
+{{< include "../includes/uts-penilaian.md" >}}
