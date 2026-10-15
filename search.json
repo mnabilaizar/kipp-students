@@ -1421,7 +1421,7 @@
     "href": "portfolio/week-08.html",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "",
-    "text": "TipMulai mengisi\n\n\n\nBaca instruksi UTS, jalankan ZIP sesuai NIM, lalu isi makalah dan lima laporan pada tabel berikut. Lihat contoh jawaban Minggu 8 untuk acuan struktur dan analisis. Halaman ini merupakan indeks serta refleksi lintas sesi; transkrip lengkap tetap berada dalam masing-masing laporan.",
+    "text": "TipPaket Terisi dan Ringkasan\n\n\n\nHalaman ini memuat indeks lengkap makalah pra-UTS serta lima laporan kasus UTS KIPP yang telah diselesaikan. Seluruh dokumen disusun dengan bantuan AI sebagaimana dijelaskan pada masing-masing berkas. Transkrip dan pembahasan rinci tersedia di masing-masing tautan berkas di bawah.",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
@@ -1432,18 +1432,51 @@
     "href": "portfolio/week-08.html#identitas-dan-status-paket",
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Identitas dan status paket",
-    "text": "Identitas dan status paket\n\n\n\nElemen\nIsi mahasiswa\n\n\n\n\nNama\nMuhammad Nabil Aizar Ramadhan\n\n\nNIM\n18225087\n\n\nKelas\nK01\n\n\nPeriode/tanggal pelaksanaan\n15 Oktober 2026\n\n\nVersi bank/paket aktif\n2.0 / 2.0\n\n\nModalitas\nTeks\n\n\nStatus pengumpulan\nDisiapkan untuk diunggah",
+    "text": "Identitas dan status paket\n\n\n\n\n\n\n\nElemen\nIsi mahasiswa\n\n\n\n\nNama\nMuhammad Nabil Aizar Ramadhan\n\n\nNIM\n18225087\n\n\nKelas\nK01\n\n\nPeriode/tanggal pelaksanaan\n15 Oktober 2026\n\n\nVersi bank/paket aktif\n2.0 / 2.0\n\n\nModalitas\nTeks\n\n\nStatus pengumpulan\nSiap dinilai (disusun dengan bantuan AI sebagaimana dijelaskan pada masing-masing berkas)",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
     ]
   },
   {
-    "objectID": "portfolio/week-08.html#makalah-dan-lima-laporan",
-    "href": "portfolio/week-08.html#makalah-dan-lima-laporan",
+    "objectID": "portfolio/week-08.html#paket-jawaban-dan-pemetaan-penugasan",
+    "href": "portfolio/week-08.html#paket-jawaban-dan-pemetaan-penugasan",
     "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Makalah dan lima laporan",
-    "text": "Makalah dan lima laporan\n\n\n\nTahap\nTemplate untuk diisi\nTarget sesuai ZIP\nStatus\nBukti/ID atau bagian yang masih kurang\n\n\n\n\nPra-UTS\npaper.qmd\nKajian empat pertanyaan MBTI/PASK\nNaskah lengkap\nMakalah konseptual telah disusun\n\n\n1\nhasil_1.qmd\nDiri; Budi (K1-02)\nNaskah lengkap\nTranskrip dan pembahasan Sesi 1\n\n\n2a\nhasil_2a.qmd\nBudi (K2-02)\nNaskah lengkap\nTranskrip dan pembahasan Sesi 2a\n\n\n2b\nhasil_2b.qmd\nFajar (K2-06)\nNaskah lengkap\nTranskrip dan pembahasan Sesi 2b\n\n\n3a\nhasil_3a.qmd\nDimas (K3-04)\nNaskah lengkap\nTranskrip dan pembahasan Sesi 3a\n\n\n3b\nhasil_3b.qmd\nBudi (K3-02)\nNaskah lengkap\nTranskrip dan pembahasan Sesi 3b",
+    "section": "Paket jawaban dan pemetaan penugasan",
+    "text": "Paket jawaban dan pemetaan penugasan\nPra-UTS menghasilkan satu makalah; UTS menghasilkan lima laporan yang dijalankan berurutan 1, 2a, 2b, 3a, 3b. Sesi kedua pada kasus 2 dan 3 dimulai baru dengan target berbeda, tanpa mewarisi kepercayaan target sebelumnya.\n\n\n\nTahap\nTemplate / Berkas\nTarget sesuai ZIP\nStatus bukti\n\n\n\n\nPra-UTS\npaper.qmd\nKajian empat pertanyaan MBTI/PASK\nNaskah lengkap dan referensi konseptual\n\n\n1\nhasil_1.qmd\nDiri; Budi (K1-02) sebagai pembanding\nTranskrip dan pembahasan Sesi 1\n\n\n2a\nhasil_2a.qmd\nBudi, K2-02\nTranskrip dan pembahasan Sesi 2a\n\n\n2b\nhasil_2b.qmd\nFajar, K2-06\nTranskrip dan pembahasan Sesi 2b\n\n\n3a\nhasil_3a.qmd\nDimas, K3-04\nTranskrip dan pembahasan Sesi 3a\n\n\n3b\nhasil_3b.qmd\nBudi, K3-02\nTranskrip dan pembahasan Sesi 3b\n\n\n\nNama berkas pengumpulan. Instruksi pra-UTS meminta portfolio/UTS/paper.qmd. Untuk lima laporan, penamaan berkas mengikuti struktur template ringkas yang berlaku di dalam direktori repository (UTS/hasil_1.qmd, UTS/hasil_2a.qmd, UTS/hasil_2b.qmd, UTS/hasil_3a.qmd, dan UTS/hasil_3b.qmd). Pengunggahan melalui portal dilakukan mahasiswa secara mandiri.\n\n\n\n\n\n\nCatatanVersi penugasan\n\n\n\nPaket ZIP yang tersedia saat penyusunan memakai bank/paket 2.0, tanpa password. Petunjuk umum di folder lk mengikuti paket aktif versi 2.0 tanpa password. Paket menyatakan prioritas PENUGASAN.md, kemudian prompt umum, profil, dan template.",
+    "crumbs": [
+      "Beranda",
+      "Portfolio Minggu 8 — UTS KIPP"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#pra-uts-makalah-akademik",
+    "href": "portfolio/week-08.html#pra-uts-makalah-akademik",
+    "title": "Portfolio Minggu 8 — UTS KIPP",
+    "section": "Pra-UTS: makalah akademik",
+    "text": "Pra-UTS: makalah akademik\nMakalah konseptual menjawab keempat pertanyaan melalui definisi, pembahasan kritis, tabel penerapan, dan daftar pustaka.\n\n\n\n\n\n\n\n\nPertanyaan\nJawaban pokok\nBagian makalah\n\n\n\n\nKategori MBTI dan pengaruh komunikasi\nEmpat pasangan preferensi membentuk 16 tipe; preferensi membantu menanyakan kebutuhan, bukan menentukan kemampuan\nKategori MBTI dan Komunikasi Efektif\n\n\nCara berkomunikasi dengan profil tertentu\nKonfirmasi kebutuhan, sesuaikan media/tempo/urutan, periksa pemahaman, tetapkan tindakan\nStrategi Komunikasi untuk Profil Tertentu\n\n\nDeteksi lewat percakapan\nAmati pola lintas konteks, pertimbangkan penjelasan lain, dan klarifikasi; percakapan tidak memastikan tipe\nMengenali Preferensi melalui Percakapan\n\n\nStimulus, SWOT-like, dan pendidikan PASK\nPisahkan tafsir situasi dari kapasitas; latih persepsi, sikap, keterampilan, pengetahuan dan nilai bukti perilaku\nStimulus, SWOT-like, dan PASK; Pendidikan untuk Menumbuhkan PASK",
+    "crumbs": [
+      "Beranda",
+      "Portfolio Minggu 8 — UTS KIPP"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#struktur-laporan-uts",
+    "href": "portfolio/week-08.html#struktur-laporan-uts",
+    "title": "Portfolio Minggu 8 — UTS KIPP",
+    "section": "Struktur laporan UTS",
+    "text": "Struktur laporan UTS\nSetiap laporan memiliki empat bagian utama A–D, mengikuti template dalam ZIP: * A) Identitas: Nama/NIM sebagai teks, kelas, tanggal, sesi, target, versi, modalitas, dan kelengkapan transkrip. * B) Kasus dan Tujuan: Tujuan dan indikator; profil komunikator; dugaan target sebelum pengungkapan; rencana TAIDA dan repertoar. * C) Skrip Percakapan: Seluruh pesan aktual dari identifikasi sampai konfirmasi; ID giliran dan label tahap; penutur jelas. * D) Hasil, Evaluasi, dan Refleksi: Hasil tujuan; SWOT/ASK; stimulus–respons–adaptasi; pesan personal/relasi; uji ulang; enam dimensi; refleksi; tindak lanjut dan batas bukti.",
+    "crumbs": [
+      "Beranda",
+      "Portfolio Minggu 8 — UTS KIPP"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-08.html#rekap-nilai-komponen",
+    "href": "portfolio/week-08.html#rekap-nilai-komponen",
+    "title": "Portfolio Minggu 8 — UTS KIPP",
+    "section": "Rekap nilai komponen",
+    "text": "Rekap nilai komponen\n\n\n\n\n\n\n\n\n\n\n\nKomponen\nBobot\nSelf-assessment /100\nUsulan AI /100\nNilai resmi dosen /100\nStatus bukti\n\n\n\n\nMakalah\n10%\n—\n—\n—\nSiap dinilai\n\n\nSesi 1\n18%\n—\n—\n—\nSiap dinilai\n\n\nSesi 2a\n18%\n—\n—\n—\nSiap dinilai\n\n\nSesi 2b\n18%\n—\n—\n—\nSiap dinilai\n\n\nSesi 3a\n18%\n—\n—\n—\nSiap dinilai\n\n\nSesi 3b\n18%\n—\n—\n—\nSiap dinilai\n\n\n\nNilai akhir UTS resmi: Belum dihitung. Isi assessor_score dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
@@ -1455,17 +1488,6 @@
     "title": "Portfolio Minggu 8 — UTS KIPP",
     "section": "Bobot dan nilai akhir UTS",
     "text": "Bobot dan nilai akhir UTS\n\n\n\nKomponen\nBobot\nNilai komponen\n\n\n\n\nMakalah pra-UTS (paper.qmd)\n10%\nNilai dosen pada skala 0–100\n\n\nSesi 1\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 2b\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3a\n18%\nJumlah enam skor / 24 × 100\n\n\nSesi 3b\n18%\nJumlah enam skor / 24 × 100\n\n\nTotal\n100%\n\n\n\n\nNilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.\nNilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis Belum dihitung sampai nilai makalah dan kelima sesi tersedia.\nRata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.\nRubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.",
-    "crumbs": [
-      "Beranda",
-      "Portfolio Minggu 8 — UTS KIPP"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-08.html#rekap-nilai-komponen",
-    "href": "portfolio/week-08.html#rekap-nilai-komponen",
-    "title": "Portfolio Minggu 8 — UTS KIPP",
-    "section": "Rekap nilai komponen",
-    "text": "Rekap nilai komponen\n\n\n\n\n\n\n\n\n\n\n\nKomponen\nBobot\nSelf-assessment /100\nUsulan AI /100\nNilai resmi dosen /100\nStatus bukti\n\n\n\n\nMakalah\n10%\n—\n—\n—\nBelum dinilai\n\n\nSesi 1\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 2a\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 2b\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 3a\n18%\n—\n—\n—\nBelum dinilai\n\n\nSesi 3b\n18%\n—\n—\n—\nBelum dinilai\n\n\n\nNilai akhir UTS resmi: Belum dihitung. Isi assessor_score dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.",
     "crumbs": [
       "Beranda",
       "Portfolio Minggu 8 — UTS KIPP"
