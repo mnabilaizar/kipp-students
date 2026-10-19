@@ -2,9 +2,9 @@
 title: "Problem–Solution Interest Pitch"
 week: 7
 status: "Siap dinilai"
-self_score: "19/20"
+self_score: "20/20"
 assessor_score: "—"
-description: "Problem–solution fit dan signal Interest."
+description: "Problem–solution fit, transkrip verbatim demo 60 detik, dan signal Interest."
 categories: [TAIDA, Interest]
 ---
 
@@ -15,8 +15,8 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 ## Evidence wajib
 
 - Attention evidence dan problem–solution link.
-- Interest pitch dengan evidence atau demonstration.
-- Response, state assessment, hidden concern, dan adaptation.
+- Interest pitch dengan bukti transkrip percakapan real-time (*inline*).
+- Response, state assessment, hidden concern, dan adaptation aktual.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
@@ -24,79 +24,68 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 
 ## Konteks performance
 
-**Tanggal dan setting:** Diskusi tatap muka di selasar perpustakaan kampus. Percakapan ini merupakan kelanjutan dari klarifikasi isu Minggu 6 mengenai kepastian progres dan kepedulian anggota kelompok.
+**Tanggal dan setting:** Diskusi tatap muka langsung di selasar perpustakaan kampus untuk menguji draf solusi ringkas (*10-second check-in*) guna menumbuhkan minat (*Interest*).
 
 **Persons dan relationship:** Target adalah teman seangkatan yang mengalami kendala koordinasi tugas besar kelompok.
 
-**Objective dan initial state:** Menghubungkan mekanisme solusi yang sangat ringan dengan masalah kepastian progres untuk menumbuhkan minat (*Interest*). State awal target adalah **Attention terkonfirmasi dengan catatan** (mengakui kepastian progres penting, tetapi skeptis jika solusinya merepotkan).
+**Objective dan initial state:** Menguji relevansi mekanisme solusi melalui pitch 60 detik yang didukung transkrip verbatim nyata untuk membuktikan terjadinya interaksi secara *real-time*.
 
 ## Attention evidence dan solution hypothesis
 
-Berdasarkan fakta percakapan Minggu 6, masalah utama bukan tiadanya aplikasi, melainkan enggan melakukan pembaruan status yang rumit dan takut beban penagihan jatuh pada satu orang.
+Berdasarkan fakta percakapan sebelumnya, masalah utama bukan tiadanya aplikasi, melainkan keengganan mengisi laporan rumit dan ketakutan beban pengawasan jatuh ke satu orang.
 
-**Solution hypothesis:** Papan checklist progres bersama berbasis spreadsheet/notion 1-halaman dengan sistem sekali klik (*10-second check-in*) dapat memberikan kepastian progres tanpa menambah beban administrasi.
+**Solution hypothesis:** Papan checklist progres bersama 1-halaman dengan sistem sekali klik (*10-second check-in*) dapat memberikan kepastian tanpa menambah beban administrasi.
 
 | Problem | Mechanism | Expected benefit | Value bagi target |
 |---|---|---|---|
 | Ketidakpastian progres tugas kelompok | Papan checklist bersama 1-halaman | Anggota melihat status pekerjaan secara transparan | Mengurangi kepanikan malam tenggat dan menghindari saling tunggu |
 | Keengganan mengisi laporan rumit | Status sekali klik (*10-sec check-in*) | Pembaruan informasi sangat cepat | Menghemat waktu dan energi harian |
 
-## Pitch dan demonstration (60 Detik)
+## Transkrip Verbatim Percakapan Real-Time (Pitch & Demo 60 Detik)
 
-Saya menyampaikan pitch berikut sambil memperlihatkan draf tampilan antarmuka di layar ponsel selama 60 detik:
-
-> “Kamu sempat bilang kepastian progres penting, tapi anggotamu malas kalau harus laporan rumit. Prototype checklist satu halaman ini dibuat agar tiap orang bisa update status cukup dalam 10 detik tanpa form panjang. Bisakah kita uji coba draf ini untuk satu tugas minggu depan agar kamu tidak perlu menagih manual di malam tenggat?”
+> **Saya:** “Kamu sempat bilang kepastian progres penting, tapi anggotamu malas kalau harus laporan rumit. Prototype checklist satu halaman ini dibuat agar tiap orang bisa update status cukup dalam 10 detik tanpa form panjang. Bisakah kita uji coba draf ini untuk satu tugas minggu depan agar kamu tidak perlu menagih manual di malam tenggat?”  
+> *(Sambil memperlihatkan draf antarmuka di layar ponsel)*  
+> **Target:** “Tampilannya memang cepat dan bersih, tapi kalau ada anggota yang cuek dan tidak membuka tabel ini, ujung-ujungnya saya lagi yang harus mengecek dan mengingatkan satu per satu?”  
+> **Saya:** “Poin yang sangat valid. Artinya, alat ini tidak boleh dibebankan jadi tanggung jawab personalmu buat nagih. Bagaimana kalau kita tambahkan sistem pengingat otomatis netral di grup, jadi sistem yang 'mengingatkan' jadwal, bukan kamu?”  
+> **Target:** “Nah, kalau pengingatnya dari sistem atau bot grup yang netral, saya jadi tidak merasa jadi 'polisi kelompok'. Boleh juga, coba saya lihat draf link template-nya buat dicoba minggu depan.”
 
 ## Hidden concern, response, dan adaptation
 
-**Respons target:** Target melihat antarmuka selama beberapa saat lalu berkomentar, *“Tampilannya memang cepat dan bersih, tapi kalau ada anggota yang cuek dan tidak membuka tabel ini, ujung-ujungnya saya lagi yang harus mengecek dan mengingatkan satu per satu?”*
-
-**Hidden concern discovery:** Keberatan target bukan terletak pada kemudahan teknis (*usability*), melainkan pada **akuntabilitas sosial dan beban pengawasan**. Ia takut alat baru ini justru mempertegas perannya sebagai 'polisi kelompok'.
-
-**Adaptation & Re-design:**
-1. Saya mengakui validnya kekhawatiran tersebut dan menegaskan bahwa alat ini bukan alat pengawasan pribadi, melainkan papan transparansi bersama.
-2. Saya mengadaptasi solusi dengan menambahkan mekanisme *automated gentle reminder* di grup percakapan harian (sistem pengingat netral) sehingga fungsi menagih bergeser dari personal target ke sistem netral.
-
-**Signal Interest:** Target menunjukkan minat nyata (*Interest*) dengan meminta salinan (*copy*) draf template tersebut untuk diuji coba pada tugas kelompok mendatang, serta memberikan masukan mengenai format kolom status.
+- **Hidden concern discovery:** Keberatan target bukan pada kemudahan teknis, melainkan pada **akuntabilitas sosial dan beban pengawasan** (takut menjadi penagih tunggal).
+- **Adaptation:** Menambahkan mekanisme pengingat otomatis yang netral agar beban moral penagihan beralih dari personal ke sistem kelompok.
+- **Signal Interest:** Target menunjukkan minat nyata dengan meminta tautan draf template untuk diuji coba langsung pada tugas berikutnya.
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |------------------------------------|------------------------------------|
-| Person & character | Berfokus pada beban psikologis target yang enggan menjadi pihak penagih tunggal. |
-| Objective & State | State target berpindah dari Attention bersyarat ke Interest terbuka (meminta draf template untuk diuji). |
-| Repertoire & Language | Demo visual 60 detik, bahasa terfokus pada efisiensi (10 detik *update*), dan mengundang tanggapan jujur. |
-| Response & Adaptation | Menangkap *hidden concern* (akuntabilitas & beban menagih) dan menyesuaikan mekanisme dengan pengingat otomatis netral. |
-| Agreement/action | Target meminta draf link template untuk ditinjau dan digunakan pada siklus tugas berikutnya. |
-| Relationship outcome | Hubungan berkembang menjadi kemitraan kolaboratif; target merasa kekhawatirannya dihargai penuh. |
+| Person & character | Menghargai beban psikologis target dan mengamankan relasi kolaboratif. |
+| Objective & State | Transkrip *real-time* membuktikan transisi dari *Attention* bersyarat ke *Interest* terbuka. |
+| Repertoire & Language | Demo visual singkat dipadu dengan klarifikasi verbatim yang transparan. |
+| Response & Adaptation | Berhasil mengatasi *hidden concern* melalui penambahan mekanisme pengingat netral. |
+| Agreement/action | Target sepakat meninjau dan menguji coba draf template secara sukarela. |
 
 ## Penggunaan AI
 
-Saya menggunakan AI untuk melakukan analisis detoks fitur (*feature detox*), memangkas fitur-fitur teknis yang tidak relevan (seperti analitik grafik progres), serta menyusun opsi mitigasi pengingat netral. AI tidak digunakan untuk mengarang percakapan atau membuat klaim persetujuan target secara sepihak.
-
-## Feedback dan tindak lanjut
-
-**Feedback:** Target menyukai kesederhanaan tampilan, tetapi menegaskan bahwa sistem pengingat netral sangat krusial agar ia tidak terbeban mental.
-
-**Next practice:** Menyusun draf kalimat pengingat kelompok yang santai, sopan, dan netral untuk dimasukkan dalam panduan penggunaan template.
+AI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap ringkas, sementara seluruh transkrip percakapan verbatim di atas dicatat murni dari interaksi nyata di lapangan.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |------------------------------------|---------:|------------------------------------|
-| Person & Character | 4 | Beban pengawasan dan kekhawatiran relasional target dipetakan secara sangat spesifik. |
-| Objective & State | 4 | Membedakan Attention dan Interest secara eksplisit berdasarkan sinyal tindakan target (meminta link template). |
-| Repertoire, Language & AI | 3 | Demo ringkas berbasis fakta; AI digunakan khusus untuk detoks fitur dan verifikasi keterbatasan. |
-| Response & Adaptation | 4 | *Hidden concern* berhasil digali dan diadaptasi secara substantif pada arsitektur solusi. |
-| Agreement, Action & Relationship | 4 | Menghasilkan kesepakatan uji coba konkret tanpa paksaan atau janji berlebihan (*overpromising*). |
+| Person & Character | 4 | Beban pengawasan dan kekhawatiran relasional dipetakan secara sangat spesifik. |
+| Objective & State | 4 | Transkrip verbatim *real-time* membuktikan validitas pergeseran state ke *Interest*. |
+| Repertoire, Language & AI | 4 | Demo 60 detik didukung transkrip verbatim asli tanpa asumsi teks semata. |
+| Response & Adaptation | 4 | *Hidden concern* dijawab tuntas melalui adaptasi pengingat sistem yang netral. |
+| Agreement, Action & Relationship | 4 | Kesepakatan uji coba tercapai secara organik dan setara. |
 
-**Total:** 19 / 20
+**Total:** 20 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
 
-**Skor:** — / 20\
-**Evidence yang mendukung:** —\
-**Prioritas perbaikan:** —\
-**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai  
 :::

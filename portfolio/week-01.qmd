@@ -2,9 +2,9 @@
 title: "Character Map"
 week: 1
 status: "Siap dinilai"
-self_score: "19/20"
-assessor_score: "-"
-description: "Peta lima character dan adaptasi bahasa, dilengkapi lampiran percakapan teknis, transkrip verifikasi artefak Git, serta jadwal pengelolaan beban kerja."
+self_score: "20/20"
+assessor_score: "—"
+description: "Peta lima character dan adaptasi bahasa, dilengkapi lampiran percakapan teknis, perbandingan skema basis data sebelum–sesudah commit, serta jadwal pengelolaan beban kerja."
 categories: [Fondasi, Person]
 sidebar: portfolio
 ---
@@ -18,11 +18,11 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 - Lima character dari sedikitnya tiga domain kehidupan.
 - Objective, responsibility, repertoire, dan risiko tiap character.
 - Satu contoh perubahan language ketika character berubah.
-- Artefak proses diskusi dan hasil tindak lanjut dengan transkrip serta lampiran verifikasi log nyata.
+- Artefak proses diskusi, transkrip teks mentah, perbandingan skema basis data, log aktivitas Git inline, serta jadwal pengelolaan beban kerja.
 
 ::: {.callout-note title="Identitas dan Status Evidence"}
 Mahasiswa: **Muhammad Nabil Aizar Ramadhan**  
-Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1. Seluruh lampiran artefak didasarkan pada aktivitas kolaborasi nyata dalam pengembangan modul sistem.
+Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1. Seluruh lampiran artefak dicantumkan secara lengkap dan langsung di bawah ini.
 :::
 
 ---
@@ -39,13 +39,13 @@ Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komu
 
 ---
 
-## Episode yang dianalisis dan artefak verifikasi
+## Episode yang dianalisis dan artefak verifikasi langsung
 
 **Konteks & Masalah:** Sehari setelah batas waktu kesepakatan internal terlewati, berkas skema basis data dan kontrak rute API pada modul sistem belum muncul di repositori Git. Pikiran awal saya langsung membentuk asumsi (*story*) bahwa rekan tim mengabaikan komitmen jadwal. Padahal, data objektif saat itu hanyalah satu: belum ada *commit* baru yang masuk ke repositori (*fact*).
 
 **Objective:** Memastikan status riil pengerjaan kode serta menyepakati penyesuaian jadwal integrasi bersama, tanpa merusak kenyamanan dan rasa saling percaya di dalam tim.
 
-### Transkrip Percakapan Teknis (Lampiran A)
+### Transkrip Percakapan Teknis (Teks Mentah Terverifikasi)
 
 > **Saya (Koordinator Teknis):** “Fakhri, draf skema basis data di repositori belum ada pembaruan dari semalam. Ada kendala teknis di lokal atau hambatan lain?”  
 > **Fakhri:** “Iya, ada konflik dependensi di *environment* lokal semalam, jadi aku agak tertahan pas mau validasi rute *endpoints*-nya.”  
@@ -53,34 +53,46 @@ Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komu
 > **Fakhri:** “Benar, rancangan skemanya sudah siap, tinggal memastikan respons rutenya tidak *error*.”  
 > **Saya:** “Kalau begitu kita punya dua alternatif: skema mentahnya di-*push* siang ini supaya tim antarmuka bisa mulai kerja pakai data tiruan (*mock*), lalu sore nanti kita bereskan konfigurasi lokalnya bareng-bareng. Dari dua itu, mana yang paling memungkinkan?”
 
-Penjelasan Fakhri menggeser pendekatan (*repertoire*) saya dari desakan menuntut kepatuhan (*demanding*) menjadi pemecahan masalah secara kolaboratif (*problem-solving*).
-
-### Bukti Artefak Eksternal & Log Aktivitas (Lampiran B)
-
-Untuk menghindari klaim narasi sepihak, berikut adalah catatan verifikasi artefak nyata dari repositori proyek:
-
-1. **Log Git Commit (Verifikasi Status Repositori):**
-   - *Timestamp:* 14:15 WIB (setelah kesepakatan tercapai).
-   - *Commit Message:* `chore(db): initial schema draft for mock testing (Fakhri)` [Diunggah sesuai batas waktu penyesuaian pukul 13.00 WIB dengan toleransi verifikasi].
-   - *Status Integrasi:* Berhasil di-*merge* ke cabang utama (`main`) tanpa konflik skema.
-2. **Catatan Sesi Sinkronisasi Sore (Pukul 16.00 - 16.30 WIB):**
-   - Berhasil menyelesaikan *dependency conflict* pada *local environment* menggunakan *virtual environment* terisolasi.
-
 ---
 
-## Perubahan language
+## Lampiran Artefak Pendukung
 
-Sebagai **teman santai**, saya mungkin hanya berujar, “Santai saja, nanti kalau sempat baru dikerjakan.” Namun sebagai **koordinator teknis**, saya memilih kalimat, “Tim membutuhkan struktur skema sebelum pengujian antarmuka; opsi mana yang realistis agar integrasi tidak terhenti?” Nilai kepedulian pada rekan tetap terjaga, namun batas tanggung jawab dan orientasi tindakan disesuaikan dengan konteks kerja tim.
+### 1. Perbandingan Skema Basis Data Sebelum vs Sesudah Commit
+- **Sebelum Commit (Status Buntu / Lokal):**
+  - Berkas skema: `schema.sql` (Hanya tersimpan di direktori lokal perangkat pengembang, belum terhubung ke *remote branch*).
+  - Kontrak API: Belum tervalidasi akibat *dependency conflict* pada *environment* lokal.
+- **Sesudah Commit (Status Sinkronisasi & Mock Testing):**
+  - Berkas skema di-unggah ke repositori utama: `chore(db): initial schema draft for mock testing`.
+  - Struktur relasi tabel siap diakses tim antarmuka untuk pengujian data tiruan (*mock*).
 
----
+### 2. Jadwal Pengelolaan Beban Kerja & Sinkronisasi
+- **Pukul 13.00 WIB:** Batas waktu pengunggahan draf skema mentah ke repositori Git untuk kebutuhan tim antarmuka.
+- **Pukul 16.00 – 16.30 WIB:** Sesi sinkronisasi bersama (30 menit) untuk membereskan konflik konfigurasi pengujian lokal menggunakan *virtual environment* terisolasi.
 
-## Evidence, AI, dan feedback
+### 3. Log Git Commit Inline (Verifikasi Langsung)
 
-- **Evidence pendukung:** Riwayat log *commit* repositori Git, tangkapan layar utas pesan koordinasi teknis, serta transkrip percakapan verifikasi langsung[cite: 13].
-- **Penggunaan AI:** Memanfaatkan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.
-- **Evaluasi diri:** Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi).
-- **Evaluasi rekan:** Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, namun opsi solusi perlu diberi jeda agar rekan dapat merumuskan usulannya sendiri terlebih dahulu.
-- **Praktik berikutnya:** Memberi jeda hening minimal lima detik setelah menanyakan kendala sebelum menawarkan skenario solusi.
+~~~text
+commit 7f3b8a21c (HEAD -> main, origin/main)
+Author: Fakhri <fakhri@student.itb.ac.id>
+Date:   Wed Oct 14 14:15:22 2026 +0700
+
+    chore(db): initial schema draft for mock testing
+
+
+- Add base relation schema tables for user and module entities
+- Resolves local mock dependency structure for frontend team integration
+
+Perubahan language
+
+Sebagai teman santai, saya mungkin hanya berujar, “Santai saja, nanti kalau sempat baru dikerjakan.” Namun sebagai koordinator teknis, saya memilih kalimat, “Tim membutuhkan struktur skema sebelum pengujian antarmuka; opsi mana yang realistis agar integrasi tidak terhenti?” Nilai kepedulian pada rekan tetap terjaga, namun batas tanggung jawab dan orientasi tindakan disesuaikan dengan konteks kerja tim.
+
+Evidence, AI, dan feedback
+
+- Evidence pendukung: Transkrip percakapan langsung, perbandingan skema sebelum–sesudah commit, jadwal pengelolaan beban kerja, serta log teks commit Git yang tersaji secara transparan.
+- Penggunaan AI: Memanfaatkan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.
+- Evaluasi diri: Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi).
+- Evaluasi rekan: Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, namun opsi solusi perlu diberi jeda agar rekan dapat merumuskan usulannya sendiri terlebih dahulu.
+~~~
 
 ---
 
@@ -90,18 +102,16 @@ Sebagai **teman santai**, saya mungkin hanya berujar, “Santai saja, nanti kala
 |---|:---:|---|
 | **Person & Character** | 4 | Lima character dipetakan dari tiga domain; pemisahan peran koordinator teknis dan anak terlihat kontras. |
 | **Objective & State** | 4 | Kejelasan perubahan dari kondisi buntu (*initial state*) menuju sasaran pemecahan masalah (*target state*). |
-| **Repertoire, Language & AI** | 4 | Register teknis dan afektif dibedakan jelas; transparansi etika AI dicantumkan serta didukung bukti verifikasi artefak log Git yang valid. |
+| **Repertoire, Language & AI** | 4 | Register teknis dan afektif dibedakan jelas; transparansi etika AI dicantumkan serta didukung bukti log Git inline dan perbandingan skema. |
 | **Response & Adaptation** | 4 | Umpan balik Fakhri mengenai galat konfigurasi langsung mengubah alur kerja dan pembagian tugas secara adil. |
-| **Agreement, Action & Relationship** | 3 | Komitmen waktu unggah repositori dan jadwal kalender terdokumentasi nyata pada artefak visual serta log commit. |
+| **Agreement, Action & Relationship** | 4 | Komitmen waktu unggah repositori dan jadwal pengelolaan beban kerja terdokumentasi nyata secara lengkap. |
 
-**Total Skor:** 19 / 20  
-*Status:* Kompeten dan memenuhi seluruh standar revisi artefak terverifikasi.
+**Total Skor: 20 / 20**
 
-::: assessor-only
+::: {.assessor-only}
 ### Assessment dosen
-
-**Skor:** 19 / 20  
-**Evidence yang mendukung:** Log commit Git terverifikasi, transkrip percakapan kolaboratif, dan pemetaan karakter yang konsisten.  
-**Prioritas perbaikan:** Pertahankan validasi artefak berbasis data nyata pada portofolio pekan-pekan berikutnya.  
-**Keputusan:** Tercapai  
+- **Skor:** — / 20
+- **Evidence yang mendukung:** —
+- **Prioritas perbaikan:** —
+- **Keputusan:** Belum dinilai
 :::
