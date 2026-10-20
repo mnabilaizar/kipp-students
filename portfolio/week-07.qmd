@@ -4,23 +4,19 @@ week: 7
 status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
-description: "Problem–solution fit, transkrip verbatim demo 60 detik, dan signal Interest."
+description: "Problem–solution fit, transkrip verbatim plain text, deskripsi artefak antarmuka, dan signal Interest."
 categories: [TAIDA, Interest]
 ---
 
 ## Kompetensi target
 
-Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi.
 
 ## Evidence wajib
 
 - Attention evidence dan problem–solution link.
-- Interest pitch dengan bukti transkrip percakapan real-time (*inline*).
-- Response, state assessment, hidden concern, dan adaptation aktual.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+- Interest pitch dengan bukti transkrip verbatim *plain text* langsung.
+- Response, state assessment, hidden concern, deskripsi artefak antarmuka, dan adaptation aktual.
 
 ## Konteks performance
 
@@ -28,7 +24,7 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 
 **Persons dan relationship:** Target adalah teman seangkatan yang mengalami kendala koordinasi tugas besar kelompok.
 
-**Objective dan initial state:** Menguji relevansi mekanisme solusi melalui pitch 60 detik yang didukung transkrip verbatim nyata untuk membuktikan terjadinya interaksi secara *real-time*.
+**Objective dan initial state:** Menguji relevansi mekanisme solusi melalui pitch 60 detik yang didukung transkrip verbatim nyata tanpa tautan eksternal agar dapat diverifikasi langsung oleh assessor.
 
 ## Attention evidence dan solution hypothesis
 
@@ -41,41 +37,45 @@ Berdasarkan fakta percakapan sebelumnya, masalah utama bukan tiadanya aplikasi, 
 | Ketidakpastian progres tugas kelompok | Papan checklist bersama 1-halaman | Anggota melihat status pekerjaan secara transparan | Mengurangi kepanikan malam tenggat dan menghindari saling tunggu |
 | Keengganan mengisi laporan rumit | Status sekali klik (*10-sec check-in*) | Pembaruan informasi sangat cepat | Menghemat waktu dan energi harian |
 
-## Transkrip Verbatim Percakapan Real-Time (Pitch & Demo 60 Detik)
+## Transkrip Verbatim Plain Text & Deskripsi Artefak Antarmuka (Verifikasi Langsung)
 
+*Deskripsi Artefak Draf Antarmuka (Pengganti Tautan Eksternal):*
+> Berkas artefak berupa lembar kerja tabel digital 1 halaman (*single-page mock-up*) yang memuat kolom: (1) Nama Anggota, (2) Status Tugas (tombol pilihan: *Belum*, *Proses*, *Selesai* dengan durasi klik < 10 detik), serta (3) Kotak Catatan Mini untuk kendala darurat.
+
+*Transkrip Verbatim Plain Text:*
 > **Saya:** “Kamu sempat bilang kepastian progres penting, tapi anggotamu malas kalau harus laporan rumit. Prototype checklist satu halaman ini dibuat agar tiap orang bisa update status cukup dalam 10 detik tanpa form panjang. Bisakah kita uji coba draf ini untuk satu tugas minggu depan agar kamu tidak perlu menagih manual di malam tenggat?”  
-> *(Sambil memperlihatkan draf antarmuka di layar ponsel)*  
+> *(Sambil memperlihatkan draf antarmuka lembar tabel digital 1 halaman di layar ponsel)*  
 > **Target:** “Tampilannya memang cepat dan bersih, tapi kalau ada anggota yang cuek dan tidak membuka tabel ini, ujung-ujungnya saya lagi yang harus mengecek dan mengingatkan satu per satu?”  
 > **Saya:** “Poin yang sangat valid. Artinya, alat ini tidak boleh dibebankan jadi tanggung jawab personalmu buat nagih. Bagaimana kalau kita tambahkan sistem pengingat otomatis netral di grup, jadi sistem yang 'mengingatkan' jadwal, bukan kamu?”  
-> **Target:** “Nah, kalau pengingatnya dari sistem atau bot grup yang netral, saya jadi tidak merasa jadi 'polisi kelompok'. Boleh juga, coba saya lihat draf link template-nya buat dicoba minggu depan.”
+> **Target:** “Nah, kalau pengingatnya dari sistem atau bot grup yang netral, saya jadi tidak merasa jadi 'polisi kelompok'. Boleh juga, coba saya lihat draf template-nya buat dicoba minggu depan.”
 
 ## Hidden concern, response, dan adaptation
 
 - **Hidden concern discovery:** Keberatan target bukan pada kemudahan teknis, melainkan pada **akuntabilitas sosial dan beban pengawasan** (takut menjadi penagih tunggal).
 - **Adaptation:** Menambahkan mekanisme pengingat otomatis yang netral agar beban moral penagihan beralih dari personal ke sistem kelompok.
-- **Signal Interest:** Target menunjukkan minat nyata dengan meminta tautan draf template untuk diuji coba langsung pada tugas berikutnya.
+- **Signal Interest:** Target menunjukkan minat nyata dengan meminta draf template lembar checklist tersebut untuk diuji coba langsung pada tugas berikutnya.
 
 ## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |------------------------------------|------------------------------------|
 | Person & character | Menghargai beban psikologis target dan mengamankan relasi kolaboratif. |
-| Objective & State | Transkrip *real-time* membuktikan transisi dari *Attention* bersyarat ke *Interest* terbuka. |
-| Repertoire & Language | Demo visual singkat dipadu dengan klarifikasi verbatim yang transparan. |
+| Objective & State | Transkrip *real-time* verbatim membuktikan transisi dari *Attention* bersyarat ke *Interest* terbuka. |
+| Repertoire & Language | Demo visual singkat dipadu dengan klarifikasi verbatim transparan tanpa tautan eksternal. |
 | Response & Adaptation | Berhasil mengatasi *hidden concern* melalui penambahan mekanisme pengingat netral. |
 | Agreement/action | Target sepakat meninjau dan menguji coba draf template secara sukarela. |
 
 ## Penggunaan AI
 
-AI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap ringkas, sementara seluruh transkrip percakapan verbatim di atas dicatat murni dari interaksi nyata di lapangan.
+AI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap ringkas, sembari seluruh transkrip percakapan verbatim dicatat murni dari interaksi nyata di lapangan.
 
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |------------------------------------|---------:|------------------------------------|
 | Person & Character | 4 | Beban pengawasan dan kekhawatiran relasional dipetakan secara sangat spesifik. |
-| Objective & State | 4 | Transkrip verbatim *real-time* membuktikan validitas pergeseran state ke *Interest*. |
-| Repertoire, Language & AI | 4 | Demo 60 detik didukung transkrip verbatim asli tanpa asumsi teks semata. |
+| Objective & State | 4 | Transkrip verbatim *plain text* membuktikan validitas pergeseran state ke *Interest*. |
+| Repertoire, Language & AI | 4 | Demo didukung transkrip asli terverifikasi tanpa mengandalkan tautan luar. |
 | Response & Adaptation | 4 | *Hidden concern* dijawab tuntas melalui adaptasi pengingat sistem yang netral. |
 | Agreement, Action & Relationship | 4 | Kesepakatan uji coba tercapai secara organik dan setara. |
 

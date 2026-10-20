@@ -1,8 +1,8 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
@@ -22,4 +22,88 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 [Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** Percakapan mendalam tatap muka di area diskusi perpustakaan kampus untuk menyelaraskan kondisi ideal pengerjaan tugas kelompok hingga akhir semester.
+
+**Persons dan relationship:** Target adalah teman seangkatan yang menjadi narasumber berturut-turut pada Minggu 6 dan 7.
+
+**Objective dan initial state:** Mengubah minat (*Interest*) menjadi keinginan kuat (*Desire*) dengan menyelaraskan solusi pada nilai intrinsik target. State awal target sudah berminat pada template checklist, namun membutuhkan kepastian bahwa solusi ini aman secara emosional dan tidak memicu konflik internal kelompok.
+
+## Current dan desired state
+
+| Elemen | Rumusan eksplisit dari target (bukan asumsi sepihak) |
+|------------------------------------|------------------------------------|
+| Current state | Pengerjaan tugas sering menumpuk di malam tenggat (pukul 23.59), menimbulkan kecemasan tinggi, kepanikan, dan penurunan kualitas hasil tugas. |
+| Desired state | Setiap anggota mengetahui progres tugas secara mandiri; bagian tugas selesai dan siap dirangkum H-1 tanpa kepanikan malam hari. |
+| Personal Value | **Ketenangan pikiran (*peace of mind*)**, perlindungan kualitas nilai akademis, dan terhindar dari ketegangan relasi antar teman. |
+| Acceptable risk | Pilot uji coba pada 1 siklus tugas besar selama 2 minggu tanpa sanksi atau tekanan intimidatif. |
+| Evidence threshold | Progres fisik tercatat secara mandiri minimal 2 kali sebelum H-1 pengumpulan. |
+
+## Feature–benefit–value–outcome chain
+
+`10-second check-in bersama` $\rightarrow$ `Visibilitas progres real-time` $\rightarrow$ `Penghapusan beban menagih secara personal` $\rightarrow$ `Pengerjaan terdistribusi merata` $\rightarrow$ **Ketenangan pikiran (*peace of mind*) & hasil tugas berkualitas tanpa drama**.
+
+Rantai nilai di atas disajikan sebagai hipotesis terbuka yang perlu dibuktikan bersama, bukan janji kepastian tanpa cela.
+
+## Tangga bukti (Ladder of Evidence) & pengakuan risiko
+
+1.  **Bukti Tingkat 1 (Logika Mekanisme):** Menjelaskan bagaimana visibilitas status memotong alibi 'tidak tahu bagian yang kurang'.
+2.  **Bukti Tingkat 2 (Demonstrasi Prototipe):** Menunjukkan antarmuka draf template 1-halaman yang siap digunakan dalam 10 detik.
+3.  **Pengakuan Risiko & Keterbatasan Jujur:** Saya menyatakan secara terbuka bahwa *“Sistem ini tidak bisa memaksa seseorang menjadi rajin secara ajaib. Jika ada anggota yang memang tidak peduli sama sekali, tabel ini hanya berfungsi memberikan kejelasan status sejak awal agar kelompok bisa mengambil keputusan lebih cepat, bukan mengubah kepribadian orang tersebut.”*
+
+## Percakapan dan response
+
+> **Saya:** “Jika uji coba checklist dan pengingat netral ini kita jalankan, kondisi ideal seperti apa yang benar-benar ingin kamu rasakan di akhir semester?”\
+> **Target:** “Bukan sekadar tugas selesai cepat. Saya ingin tidak ada lagi rasa cemas atau rasa bersalah karena harus menagih teman sendiri di jam-jam rawan malam tenggat.”\
+> **Saya:** “Artinya, nilai paling berharga buat kamu adalah hilangnya beban mental menagih itu, bukan cuma sekadar keteraturan tabelnya?”\
+> **Target:** “Betul sekali. Saya ingin kuliah tenang tanpa drama kelompok.”
+
+Kejujuran saya dalam mengakui keterbatasan alat justru meningkatkan kredibilitas di mata target. Target menyadari bahwa solusi ini realistis dan tidak *overpromising*.
+
+## Risk, mitigasi, dan adaptation
+
+- **Identifikasi Risiko:** Anggota lain merasa diawasi secara berlebihan (*micromanaged*) dan menolak mengisi.
+- **Mitigasi & Adaptasi:** Solusi disesuaikan dari sekadar *tools manajemen proyek* menjadi *kesepakatan norma kelompok di awal*. Template disepakati bersama sebagai 'alat perlindungan tidur tenang H-1 untuk semua orang', bukan instrumen kontrol individu.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|------------------------------------|------------------------------------|
+| Person & character | Menjangkau nilai emosional mendalam target (keinginan menghindari konflik pertemanan dan kecemasan). |
+| Objective & State | State berhasil berpindah secara utuh ke **Desire** (target mengartikulasikan sendiri pentingnya hasil tersebut bagi ketenangan hidupnya). |
+| Repertoire & Language | Menggunakan validasi empati, tangga bukti proporsional, serta pengakuan risiko secara ksatria. |
+| Response & Adaptation | Menyelaraskan ulang arsitektur solusi dari efisiensi teknis ke reduksi beban mental dan kesepakatan norma. |
+| Agreement/action | Target bersepakat secara sukarela menjadi inisiator penerapan alur ini pada kelompok barunya. |
+| Relationship outcome | Terbangun kepercayaan kokoh (*high trust*); target merasa dihormati otonominya tanpa tekanan psikologis. |
+
+## Penggunaan AI
+
+AI digunakan untuk menguji lompatan logika pada *value chain* dan memastikan tidak ada klaim bombastis (seperti "bebas stres 100%"). Seluruh pernyataan manfaat disesuaikan murni dengan bahasa dan respon emosional target yang teramati di lapangan.
+
+## Feedback dan tindak lanjut
+
+**Feedback:** Target merasa sangat dihargai karena pemecahan masalah berfokus pada reduksi beban mentalnya, bukan sekadar pemaksaan penyelesaian tugas teknis.
+
+**Next practice:** Mendampingi target saat memperkenalkan kesepakatan alur ini kepada anggota kelompoknya secara santai dan inklusif.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|----------------------------|---------------:|----------------------------|
+| Person & Character | 4 | *Desired state* dirumuskan murni berdasarkan nilai intrinsik dan bahasa emosional target. |
+| Objective & State | 4 | *Current/desired state*, *acceptable risk*, dan *evidence threshold* dijabarkan secara eksplisit. |
+| Repertoire, Language & AI | 4 | Rantai nilai rasional, dilengkapi tangga bukti proporsional dan pengujian AI yang ketat. |
+| Response & Adaptation | 4 | Respon emosional target mengenai beban menagih mengubah alur solusi menjadi kesepakatan norma. |
+| Agreement, Action & Relationship | 4 | Komitmen uji coba dicapai secara sukarela dengan pengakuan keterbatasan solusi secara jujur. |
+
+**Total:** 20 / 20 — Unggul
+
+::: assessor-only
+### Assessment dosen
+
+**Skor:** — / 20\
+**Evidence yang mendukung:** —\
+**Prioritas perbaikan:** —\
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

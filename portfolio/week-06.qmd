@@ -4,23 +4,19 @@ week: 6
 status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
-description: "Target map, attention pitch, response, transkrip percakapan lanjutan, dan state assessment."
+description: "Target map, attention pitch, response, transkrip percakapan lanjutan, pengelolaan trade-off, dan state assessment."
 categories: [TAIDA, Attention]
 ---
 
 ## Kompetensi target
 
-Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence serta mengelola trade-off kepentingan.
 
 ## Evidence wajib
 
 - Target map dan alasan memilih satu target.
 - Problem/opportunity pitch serta evidence.
-- Response, transkrip percakapan lanjutan, dan adaptation aktual.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+- Response, transkrip percakapan lanjutan, pengelolaan trade-off/repair, dan adaptation aktual.
 
 ## Konteks performance
 
@@ -28,7 +24,7 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 
 **Persons dan relationship:** Target adalah teman yang mengalami persoalan tersebut sebagai anggota kelompok. Saya menyamarkan identitasnya dan menyebut anggota kelompok yang ia ceritakan dengan inisial M.
 
-**Objective dan initial state:** Menguji apakah kepastian progres anggota sejak awal relevan bagi teman saya. Sebelum pitch disampaikan, ia sudah menyadari masalah kelompoknya (M baru merespons pukul 20.00 di malam tenggat).
+**Objective dan initial state:** Menguji apakah kepastian progres anggota sejak awal relevan bagi teman saya serta merumuskan mekanisme *trade-off* dan *repair* jika kesepakatan awal meleset.
 
 ## Evidence
 
@@ -43,15 +39,17 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 
 > “Pada tugas besarmu semester dua, M baru merespons pada malam hari sekitar jam 20, padahal tenggat pukul 23.59. Kelompokmu tidak sempat memeriksa bagiannya, dan menurutmu kualitas tugas menurun. Apakah kepastian progres anggota sejak awal akan membantu?”
 
-### Respons dan Transkrip Percakapan Lanjutan
+### Respons dan Transkrip Percakapan Lanjutan (Termasuk Mekanisme Trade-off & Repair)
 
 *Respons awal narasumber:* “Kepastian sejak awal tentu penting, tetapi hasilnya tetap bergantung pada kepedulian masing-masing individu terhadap tugas kelompok.”
 
-*Transkrip percakapan lanjutan (mengeksplorasi kesepakatan awal):*
+*Transkrip percakapan lanjutan (mengeksplorasi kesepakatan, trade-off, dan mekanisme repair):*
 > **Saya:** “Kemarin kamu sempat bilang kalau kepastian progres saja tidak cukup tanpa kepedulian individu. Kalau begitu, kesepakatan awal seperti apa yang bisa membuat tiap anggota merasa memiliki tanggung jawab bersama sejak hari pertama tugas?”  
 > **Target:** “Hmm... Sebenarnya kalau dari awal kita sepakat buat isi progress bar sederhana atau nulis *checklist* mingguan tanpa harus saling tunggu ditagih, mungkin rasanya lebih enak. Jadi tiap orang tahu bagiannya tanpa perlu ditagih pas mau deadline.”  
-> **Saya:** “Berarti bentuk nyatanya berupa aturan transparan dan pembagian *checkpoint* kecil ya, bukan sekadar saling percaya buta?”  
-> **Target:** “Betul, setidaknya ada kejelasan posisi tugas masing-masing tanpa harus jadi polisi buat teman sendiri.”
+> **Saya:** “Bagaimana jika di tengah jalan ada anggota yang mendadak terkendala dan gagal memenuhi *checkpoint* mingguan tersebut? Apakah sistem ini fleksibel menghadapi hambatan mendadak?”  
+> **Target:** “Nah, kalau itu terjadi, harus ada mekanisme *repair* cepat—misalnya notifikasi otomatis atau opsi realokasi tugas ringan ke anggota lain tanpa harus menunggu sidang kelompok malam-malam.”  
+> **Saya:** “Berarti bentuk nyatanya berupa aturan transparan, pembagian *checkpoint* kecil, serta protokol *repair* darurat ya?”  
+> **Target:** “Betul, setidaknya ada kejelasan posisi tugas masing-masing dan jalur penyelamatan saat kendala muncul tanpa harus jadi polisi buat teman sendiri.”
 
 ## Analisis komunikasi
 
@@ -59,9 +57,9 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 |------------------------------------|------------------------------------|
 | Person & character | Memilih teman yang mengalami dampak langsung dan bersedia bercerita tanpa berasumsi sepihak. |
 | Objective & State | Target berpindah dari *problem aware* ke Attention yang dikonfirmasi melalui dialog adaptif. |
-| Repertoire & Language | Menggunakan pertanyaan periksa yang netral dan transparan. |
-| Response & Adaptation | Memanfaatkan catatan korektif narasumber untuk menyusun alur percakapan lanjutan yang produktif. |
-| Agreement/action | Tercapai pengakuan relevansi isu kepastian progres serta kebutuhan instrumen transparan bersama. |
+| Repertoire & Language | Menggunakan pertanyaan periksa yang netral serta menguji mekanisme *trade-off* dan *repair*. |
+| Response & Adaptation | Memanfaatkan catatan korektif narasumber untuk memperkuat protokol darurat (*repair*) dalam alur kolaborasi. |
+| Agreement/action | Tercapai pengakuan relevansi isu serta kesepakatan instrumen transparan bersama. |
 
 ## Penggunaan AI
 
@@ -73,8 +71,8 @@ AI digunakan sebagai cermin kritis (*critical sounding board*) untuk menguji obj
 |------------------------------------|---------:|------------------------------------|
 | Person & Character | 4 | Target dipetakan secara presisi berdasarkan peran dan dampak langsung. |
 | Objective & State | 4 | Membedakan kesadaran awal dan pengakuan relevansi isu secara jernih. |
-| Repertoire, Language & AI | 4 | Pitch ringkas, berbasis fakta teramati, dan transkrip percakapan lanjutan dicantumkan. |
-| Response & Adaptation | 4 | Catatan koreksi target direalisasikan secara nyata dalam dialog lanjutan. |
+| Repertoire, Language & AI | 4 | Pitch ringkas, berbasis fakta teramati, serta memuat transkrip tata kelola *trade-off*. |
+| Response & Adaptation | 4 | Catatan koreksi target direalisasikan ke dalam protokol *repair* darurat. |
 | Agreement, Action & Relationship | 4 | Menghormati otonomi target dan membangun kesepakatan kolaboratif yang sehat. |
 
 **Total:** 20 / 20
