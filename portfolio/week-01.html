@@ -49,7 +49,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-2a61bbc0ff3c198ff8cae7546d044fc5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f8f0759c969adc4a9094a36464858db8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -275,7 +275,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#peta-lima-character" id="toc-peta-lima-character" class="nav-link" data-scroll-target="#peta-lima-character">Peta lima character</a></li>
   <li><a href="#episode-yang-dianalisis-dan-artefak-verifikasi-langsung" id="toc-episode-yang-dianalisis-dan-artefak-verifikasi-langsung" class="nav-link" data-scroll-target="#episode-yang-dianalisis-dan-artefak-verifikasi-langsung">Episode yang dianalisis dan artefak verifikasi langsung</a>
   <ul class="collapse">
-  <li><a href="#transkrip-percakapan-teknis-teks-mentah-terverifikasi" id="toc-transkrip-percakapan-teknis-teks-mentah-terverifikasi" class="nav-link" data-scroll-target="#transkrip-percakapan-teknis-teks-mentah-terverifikasi">Transkrip Percakapan Teknis (Teks Mentah Terverifikasi)</a></li>
+  <li><a href="#transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung" id="toc-transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung" class="nav-link" data-scroll-target="#transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung">Transkrip Percakapan Teknis (Teks Mentah Terverifikasi dengan Bukti Adaptasi Langsung)</a></li>
   </ul></li>
   <li><a href="#lampiran-artefak-pendukung" id="toc-lampiran-artefak-pendukung" class="nav-link" data-scroll-target="#lampiran-artefak-pendukung">Lampiran Artefak Pendukung</a>
   <ul class="collapse">
@@ -412,14 +412,14 @@ Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komu
 <h2 class="anchored" data-anchor-id="episode-yang-dianalisis-dan-artefak-verifikasi-langsung">Episode yang dianalisis dan artefak verifikasi langsung</h2>
 <p><strong>Konteks &amp; Masalah:</strong> Sehari setelah batas waktu kesepakatan internal terlewati, berkas skema basis data dan kontrak rute API pada modul sistem belum muncul di repositori Git. Pikiran awal saya langsung membentuk asumsi (<em>story</em>) bahwa rekan tim mengabaikan komitmen jadwal. Padahal, data objektif saat itu hanyalah satu: belum ada <em>commit</em> baru yang masuk ke repositori (<em>fact</em>).</p>
 <p><strong>Objective:</strong> Memastikan status riil pengerjaan kode serta menyepakati penyesuaian jadwal integrasi bersama, tanpa merusak kenyamanan dan rasa saling percaya di dalam tim.</p>
-<section id="transkrip-percakapan-teknis-teks-mentah-terverifikasi" class="level3">
-<h3 class="anchored" data-anchor-id="transkrip-percakapan-teknis-teks-mentah-terverifikasi">Transkrip Percakapan Teknis (Teks Mentah Terverifikasi)</h3>
+<section id="transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung" class="level3">
+<h3 class="anchored" data-anchor-id="transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung">Transkrip Percakapan Teknis (Teks Mentah Terverifikasi dengan Bukti Adaptasi Langsung)</h3>
 <blockquote class="blockquote">
-<p><strong>Saya (Koordinator Teknis):</strong> “Fakhri, draf skema basis data di repositori belum ada pembaruan dari semalam. Ada kendala teknis di lokal atau hambatan lain?”<br>
-<strong>Fakhri:</strong> “Iya, ada konflik dependensi di <em>environment</em> lokal semalam, jadi aku agak tertahan pas mau validasi rute <em>endpoints</em>-nya.”<br>
-<strong>Saya:</strong> “Berarti struktur relasi datanya aman, dan kendala murni ada di isolasi pengujian lokalnya?”<br>
-<strong>Fakhri:</strong> “Benar, rancangan skemanya sudah siap, tinggal memastikan respons rutenya tidak <em>error</em>.”<br>
-<strong>Saya:</strong> “Kalau begitu kita punya dua alternatif: skema mentahnya di-<em>push</em> siang ini supaya tim antarmuka bisa mulai kerja pakai data tiruan (<em>mock</em>), lalu sore nanti kita bereskan konfigurasi lokalnya bareng-bareng. Dari dua itu, mana yang paling memungkinkan?”</p>
+<p><strong>Saya (Koordinator Teknis):</strong> “Fakhri, draf skema basis data di repositori belum ada pembaruan dari semalam. Bisa langsung <em>push</em> sekarang biar tim antarmuka nggak tertahan?”<br>
+<strong>Fakhri:</strong> “Iya, ada kendala konflik dependensi di <em>environment</em> lokal semalam, jadi aku agak tertahan pas mau validasi rute <em>endpoints</em>-nya.”<br>
+<em>(Observasi Pergeseran Strategi/Adaptasi: Alih-alih mendesak pemaksaan push mentah yang berisiko merusak sistem lokal Fakhri, saya segera mengubah strategi merespons hambatan teknis tersebut menjadi tawaran sesi kolaboratif terisolasi).</em><br>
+<strong>Saya (Adaptasi Strategi):</strong> “Berarti struktur relasi datanya aman, dan kendala murni ada di isolasi pengujian lokalnya? Kalau begitu, alih-alih langsung <em>push</em> file rusak, bagaimana kalau skemanya kita rapikan dulu sebentar siang ini untuk <em>mock</em>, lalu sore nanti kita bereskan konfigurasi lokalnya bareng-bareng lewat sesi sinkronisasi virtual?”<br>
+<strong>Fakhri:</strong> “Wah, boleh banget kalau dibantu sinkronisasi environment-nya sore nanti, biar kodenya bersih dan nggak conflict pas digabung.”</p>
 </blockquote>
 <hr>
 </section>
@@ -466,10 +466,10 @@ Sebagai teman santai, saya mungkin hanya berujar, “Santai saja, nanti kalau se
 
 Evidence, AI, dan feedback
 
-- Evidence pendukung: Transkrip percakapan langsung, perbandingan skema sebelum–sesudah commit, jadwal pengelolaan beban kerja, serta log teks commit Git yang tersaji secara transparan.
+- Evidence pendukung: Transkrip percakapan langsung yang memuat bukti observasi adaptasi respons target secara real-time, perbandingan skema sebelum–sesudah commit, jadwal pengelolaan beban kerja, serta log teks commit Git yang tersaji secara transparan.
 - Penggunaan AI: Memanfaatkan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.
-- Evaluasi diri: Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi).
-- Evaluasi rekan: Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, namun opsi solusi perlu diberi jeda agar rekan dapat merumuskan usulannya sendiri terlebih dahulu.</code></pre>
+- Evaluasi diri: Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi) yang memicu pergeseran strategi verbal secara taktis.
+- Evaluasi rekan: Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, dan penawaran sesi sinkronisasi terisolasi sangat membantu mengatasi kendala dependensi lokalnya.</code></pre>
 <hr>
 </section>
 </section>
@@ -507,7 +507,7 @@ Evidence, AI, dan feedback
 <tr class="even">
 <td><strong>Response &amp; Adaptation</strong></td>
 <td style="text-align: center;">4</td>
-<td>Umpan balik Fakhri mengenai galat konfigurasi langsung mengubah alur kerja dan pembagian tugas secara adil.</td>
+<td>Bukti observasi respons target diverifikasi secara langsung melalui pergeseran strategi verbal (dari desakan <em>push</em> mentah ke penawaran sesi sinkronisasi virtual).</td>
 </tr>
 <tr class="odd">
 <td><strong>Agreement, Action &amp; Relationship</strong></td>
