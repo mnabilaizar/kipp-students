@@ -61,18 +61,19 @@ Target memilih **Opsi 1 terlebih dahulu sebagai pilot mini**, dengan syarat taut
 
 ## Agreement Eksplisit (Formula Kesepakatan Presisi)
 
-- **Scope:** Pilot 1 sub-tugas kelompok (penyusunan bab analisis), durasi 5 hari (tanggal 14–18 November).  
-- **Owner (Siapa & Melakukan Apa):** 
+- **Scope:** Pilot 1 sub-tugas kelompok (penyusunan bab analisis), durasi 5 hari (tanggal 14–18 November).
+- **Owner (Siapa & Melakukan Apa):**
   - **Saya:** Membuat dan membagikan draf tautan Notion template serta instruksi 10 detik sebelum pukul 13.00 WIB.
-  - **Narasumber (Teman):** Mengajak 2 anggota sub-tim mencoba mengisi pada *checkpoint* tanggal 17 November pukul 19.00 WIB.  
-- **Deadline:** Pengujian selesai dan dievaluasi pada tanggal 19 November pukul 20.00 WIB.  
-- **Evidence / Definisi Selesai:** Tautan terisi minimal oleh seluruh anggota sub-tim dengan status pengerjaan yang transparan tanpa ada keluhan beban pengisian.  
-- **Stop Rule:** Pilot dihentikan seketika jika ada anggota yang merasa terintimidasi atau format terbukti memperlambat komunikasi.  
+  - **Narasumber (Teman):** Mengajak 2 anggota sub-tim mencoba mengisi pada *checkpoint* tanggal 17 November pukul 19.00 WIB.
+- **Deadline:** Pengujian selesai dan dievaluasi pada tanggal 19 November pukul 20.00 WIB.
+- **Evidence / Definisi Selesai:** Tautan terisi minimal oleh seluruh anggota sub-tim dengan status pengerjaan yang transparan tanpa ada keluhan beban pengisian.
+- **Stop Rule:** Pilot dihentikan seketika jika ada anggota yang merasa terintimidasi atau format terbukti memperlambat komunikasi.
 - **Review Method:** Evaluasi singkat selama 10 menit via tatap muka setelah pengumpulan sub-tugas.
 
 ## Artefak Action Evidence (Verifikasi Langsung Plain Text)
 
 *Artefak Struktur Draf Notion & Setting Akses (Pengganti Tautan Eksternal):*
+
 ```text
 [NOTION WORKSPACE ARCHITECTURE & ACCESS CONFIGURATION]
 Workspace: Pilot-Checkin-Subtim-BabAnalisis
@@ -102,20 +103,19 @@ AI digunakan secara spesifik untuk menyusun kerangka *matrix trade-off* opsi uji
 ## Self-assessment
 
 | Dimensi | Skor 1–4 | Evidence singkat |
-|------------------------------------|---------:|------------------------------------|
-| Person & Character | 4 | Otoritas kelompok dan tanggung jawab peran dipetakan secara presisi dan realistis. |
-| Objective & State | 4 | *Desire–action gap* diidentifikasi secara tajam lewat hambatan operasional nyata. |
-| Repertoire, Language & AI | 4 | Opsi dan *trade-off* didiskusikan eksplisit; AI digunakan khusus merumuskan matriks risiko & *stop rule*. |
-| Response & Adaptation | 4 | Penyesuaian pilot skala kecil meredakan kekhawatiran resistensi anggota lain. |
-| Agreement, Action & Relationship | 4 | *Scope*, *owner*, *deadline*, *stop rule*, transkrip verbatim, dan artefak plain-text action evidence dicantumkan utuh. |
+|---|:---:|---|
+| **Person & Character** | 4 | Otoritas kelompok dan tanggung jawab peran dipetakan secara presisi dan realistis. |
+| **Objective & State** | 4 | *Desire–action gap* diidentifikasi secara tajam lewat hambatan operasional nyata. |
+| **Repertoire, Language & AI** | 4 | Opsi dan *trade-off* didiskusikan eksplisit; AI digunakan khusus merumuskan matriks risiko & *stop rule*. |
+| **Response & Adaptation** | 4 | Penyesuaian pilot skala kecil meredakan kekhawatiran resistensi anggota lain. |
+| **Agreement, Action & Relationship** | 4 | *Scope*, *owner*, *deadline*, *stop rule*, transkrip verbatim, dan artefak plain-text action evidence dicantumkan utuh. |
 
 **Total:** 20 / 20 — Unggul
 
 ::: {.assessor-only}
 ### Assessment dosen
-
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
-**Keputusan:** Belum dinilai / Perlu revisi / Tercapai  
+- **Skor:** — / 20
+- **Evidence yang mendukung:** —
+- **Prioritas perbaikan:** —
+- **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
