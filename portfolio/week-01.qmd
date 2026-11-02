@@ -55,6 +55,22 @@ Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komu
 
 ---
 
+## Demonstrasi Perubahan Language (Simulasi Transkrip Pergeseran Character)
+
+Berikut adalah bukti konkret perubahan register bahasa dan kata kunci saat terjadi pergeseran karakter dalam satu konteks interaksi:
+
+> **[Character 1: Teman Santai]**  
+> **Saya:** “Waduh Ri, santai aja kali, minum kopi dulu. Lagian kalau emang *env*-nya lagi ngacak-ngacak, ntar malem juga sempet dikerjain lagi sambil nongkrong.”  
+> *(Pergeseran Kesadaran Peran: Saya menyadari jam kerja tim antarmuka sudah dimulai dan membutuhkan kejelasan skema agar tidak menghentikan workflow anggota lain).*  
+> **[Character 2: Koordinator Teknis]**  
+> **Saya:** “Tapi gini Ri, berhubung tim antarmuka butuh kepastian struktur *field* buat *mock testing* siang ini, fokus kita ubah dulu. Bisa *push* draf `schema.sql` mentahnya saja dulu tanpa *endpoint validation*? Opsi mana yang paling realistis agar integrasi tim tidak *blocked*?”  
+
+**Analisis Perubahan Register:**
+- **Kata Kunci & Nada:** Berubah dari afektif-relaks (*"santai aja", "nongkrong"*) menjadi struktural-terukur (*"mock testing", "schema.sql", "blocked"*).
+- **Struktur Kalimat:** Dari pernyataan empati terbuka berubah menjadi kalimat opsi tindakan berbasis dampak sistemik.
+
+---
+
 ## Lampiran Artefak Pendukung
 
 ### 1. Perbandingan Skema Basis Data Sebelum vs Sesudah Commit
@@ -71,28 +87,25 @@ Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komu
 
 ### 3. Log Git Commit Inline (Verifikasi Langsung)
 
-~~~text
+```text
 commit 7f3b8a21c (HEAD -> main, origin/main)
-Author: Fakhri <fakhri@student.itb.ac.id>
+Author: Fakhri <fakhri@example.com>
 Date:   Wed Oct 14 14:15:22 2026 +0700
 
     chore(db): initial schema draft for mock testing
 
+    - Add base relation schema tables for user and module entities
+    - Resolves local mock dependency structure for frontend team integration
+```
 
-- Add base relation schema tables for user and module entities
-- Resolves local mock dependency structure for frontend team integration
+---
 
-Perubahan language
+## Evidence, AI, dan feedback
 
-Sebagai teman santai, saya mungkin hanya berujar, “Santai saja, nanti kalau sempat baru dikerjakan.” Namun sebagai koordinator teknis, saya memilih kalimat, “Tim membutuhkan struktur skema sebelum pengujian antarmuka; opsi mana yang realistis agar integrasi tidak terhenti?” Nilai kepedulian pada rekan tetap terjaga, namun batas tanggung jawab dan orientasi tindakan disesuaikan dengan konteks kerja tim.
-
-Evidence, AI, dan feedback
-
-- Evidence pendukung: Transkrip percakapan langsung yang memuat bukti observasi adaptasi respons target secara real-time, perbandingan skema sebelum–sesudah commit, jadwal pengelolaan beban kerja, serta log teks commit Git yang tersaji secara transparan.
-- Penggunaan AI: Memanfaatkan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.
-- Evaluasi diri: Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi) yang memicu pergeseran strategi verbal secara taktis.
-- Evaluasi rekan: Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, dan penawaran sesi sinkronisasi terisolasi sangat membantu mengatasi kendala dependensi lokalnya.
-~~~
+- **Evidence pendukung:** Transkrip percakapan langsung yang memuat bukti observasi adaptasi respons target secara real-time, perbandingan skema sebelum–sesudah commit, jadwal pengelolaan beban kerja, serta log teks commit Git yang tersaji secara transparan.
+- **Penggunaan AI:** Memanfaatkan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.
+- **Evaluasi diri:** Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi) yang memicu pergeseran strategi verbal secara taktis.
+- **Evaluasi rekan:** Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, dan penawaran sesi sinkronisasi terisolasi sangat membantu mengatasi kendala dependensi lokalnya.
 
 ---
 
@@ -100,7 +113,7 @@ Evidence, AI, dan feedback
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|:---:|---|
-| **Person & Character** | 4 | Lima character dipetakan dari tiga domain; pemisahan peran koordinator teknis dan anak terlihat kontras. |
+| **Person & Character** | 4 | Lima character dipetakan dari tiga domain; pemisahan peran koordinator teknis dan teman santai ditunjukkan lewat simulasi dialog langsung. |
 | **Objective & State** | 4 | Kejelasan perubahan dari kondisi buntu (*initial state*) menuju sasaran pemecahan masalah (*target state*). |
 | **Repertoire, Language & AI** | 4 | Register teknis dan afektif dibedakan jelas; transparansi etika AI dicantumkan serta didukung bukti log Git inline dan perbandingan skema. |
 | **Response & Adaptation** | 4 | Bukti observasi respons target diverifikasi secara langsung melalui pergeseran strategi verbal (dari desakan *push* mentah ke penawaran sesi sinkronisasi virtual). |

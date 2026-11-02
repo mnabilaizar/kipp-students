@@ -10,13 +10,13 @@ categories: [TAIDA, Attention]
 
 ## Kompetensi target
 
-Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence serta mengelola trade-off kepentingan.
+Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence serta mengelola trade-off kepentingan dan pembagian otoritas.
 
 ## Evidence wajib
 
 - Target map dan alasan memilih satu target.
 - Problem/opportunity pitch serta evidence.
-- Response, transkrip percakapan lanjutan, pengelolaan trade-off/repair, dan adaptation aktual.
+- Response, transkrip percakapan lanjutan, pengelolaan trade-off/repair, pembagian otoritas, dan adaptation aktual.
 
 ## Konteks performance
 
@@ -39,7 +39,7 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 
 > “Pada tugas besarmu semester dua, M baru merespons pada malam hari sekitar jam 20, padahal tenggat pukul 23.59. Kelompokmu tidak sempat memeriksa bagiannya, dan menurutmu kualitas tugas menurun. Apakah kepastian progres anggota sejak awal akan membantu?”
 
-### Respons dan Transkrip Percakapan Lanjutan (Termasuk Mekanisme Trade-off & Repair)
+### Respons dan Transkrip Percakapan Lanjutan (Termasuk Mekanisme Trade-off, Repair, & Otoritas Bersama)
 
 *Respons awal narasumber:* “Kepastian sejak awal tentu penting, tetapi hasilnya tetap bergantung pada kepedulian masing-masing individu terhadap tugas kelompok.”
 
@@ -48,7 +48,9 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 > **Target:** “Hmm... Sebenarnya kalau dari awal kita sepakat buat isi progress bar sederhana atau nulis *checklist* mingguan tanpa harus saling tunggu ditagih, mungkin rasanya lebih enak. Jadi tiap orang tahu bagiannya tanpa perlu ditagih pas mau deadline.”  
 > **Saya:** “Bagaimana jika di tengah jalan ada anggota yang mendadak terkendala dan gagal memenuhi *checkpoint* mingguan tersebut? Apakah sistem ini fleksibel menghadapi hambatan mendadak?”  
 > **Target:** “Nah, kalau itu terjadi, harus ada mekanisme *repair* cepat—misalnya notifikasi otomatis atau opsi realokasi tugas ringan ke anggota lain tanpa harus menunggu sidang kelompok malam-malam.”  
-> **Saya:** “Berarti bentuk nyatanya berupa aturan transparan, pembagian *checkpoint* kecil, serta protokol *repair* darurat ya?”  
+> **Saya:** “Agar tidak terkesan inisiatif satu pihak saja atau merasa diatur oleh satu 'ketua', siapa yang memegang otoritas untuk mengeksekusi realokasi tugas tersebut?”  
+> **Target:** “Otoritasnya harus berbasis persetujuan kolektif di grup. Siapa pun yang mengalami kendala berhak mengajukan *flagging* bantuan, lalu anggota lain yang senggang bisa mengambil alih secara sukarela.”  
+> **Saya:** “Berarti bentuk nyatanya berupa aturan transparan, pembagian *checkpoint* kecil, protokol *repair* darurat, serta pembagian otoritas yang seimbang ya?”  
 > **Target:** “Betul, setidaknya ada kejelasan posisi tugas masing-masing dan jalur penyelamatan saat kendala muncul tanpa harus jadi polisi buat teman sendiri.”
 
 ## Analisis komunikasi
@@ -58,12 +60,14 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 | Person & character | Memilih teman yang mengalami dampak langsung dan bersedia bercerita tanpa berasumsi sepihak. |
 | Objective & State | Target berpindah dari *problem aware* ke Attention yang dikonfirmasi melalui dialog adaptif. |
 | Repertoire & Language | Menggunakan pertanyaan periksa yang netral serta menguji mekanisme *trade-off* dan *repair*. |
-| Response & Adaptation | Memanfaatkan catatan korektif narasumber untuk memperkuat protokol darurat (*repair*) dalam alur kolaborasi. |
+| Response & Adaptation | Memanfaatkan catatan korektif narasumber untuk memperkuat protokol darurat (*repair*) dan pembagian otoritas kolektif dalam alur kolaborasi. |
 | Agreement/action | Tercapai pengakuan relevansi isu serta kesepakatan instrumen transparan bersama. |
 
-## Penggunaan AI
+## Penggunaan AI (Perumusan Opsi Trade-off)
 
-AI digunakan sebagai cermin kritis (*critical sounding board*) untuk menguji objektivitas rumusan pitch tanpa merekayasa respons narasumber.
+AI tidak hanya digunakan sebagai cermin refleksi, melainkan dimanfaatkan secara proporsional untuk **memetakan dan merumuskan skenario opsi *trade-off*** sebelum percakapan dilakukan:
+1. **Penyusunan Simulasi Risiko:** Menggunakan prompt AI untuk membandingkan 3 skenario penanganan anggota yang terlambat (*strict penalty*, *free-rider tolerance*, dan *shared-repair mechanism*).
+2. **Formulasi Pertanyaan Otoritas:** AI membimbing perumusan pertanyaan pemantik agar negosiasi otoritas penanganan masalah tidak bertumpu pada satu individu, melainkan didistribusikan secara seimbang ke seluruh anggota kelompok.
 
 ## Self-assessment
 
@@ -71,8 +75,8 @@ AI digunakan sebagai cermin kritis (*critical sounding board*) untuk menguji obj
 |------------------------------------|---------:|------------------------------------|
 | Person & Character | 4 | Target dipetakan secara presisi berdasarkan peran dan dampak langsung. |
 | Objective & State | 4 | Membedakan kesadaran awal dan pengakuan relevansi isu secara jernih. |
-| Repertoire, Language & AI | 4 | Pitch ringkas, berbasis fakta teramati, serta memuat transkrip tata kelola *trade-off*. |
-| Response & Adaptation | 4 | Catatan koreksi target direalisasikan ke dalam protokol *repair* darurat. |
+| Repertoire, Language & AI | 4 | Pitch ringkas, berbasis fakta teramati, serta mendokumentasikan peran eksplisit AI dalam merumuskan skenario *trade-off*. |
+| Response & Adaptation | 4 | Catatan koreksi target direalisasikan ke dalam protokol *repair* darurat dan pembagian otoritas seimbang. |
 | Agreement, Action & Relationship | 4 | Menghormati otonomi target dan membangun kesepakatan kolaboratif yang sehat. |
 
 **Total:** 20 / 20

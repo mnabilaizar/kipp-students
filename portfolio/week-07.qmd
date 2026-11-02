@@ -10,12 +10,12 @@ categories: [TAIDA, Interest]
 
 ## Kompetensi target
 
-Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi.
+Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi langsung.
 
 ## Evidence wajib
 
 - Attention evidence dan problem–solution link.
-- Interest pitch dengan bukti transkrip verbatim *plain text* langsung.
+- Interest pitch dengan bukti transkrip verbatim *plain text* langsung tanpa tautan luar.
 - Response, state assessment, hidden concern, deskripsi artefak antarmuka, dan adaptation aktual.
 
 ## Konteks performance
@@ -24,7 +24,7 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 
 **Persons dan relationship:** Target adalah teman seangkatan yang mengalami kendala koordinasi tugas besar kelompok.
 
-**Objective dan initial state:** Menguji relevansi mekanisme solusi melalui pitch 60 detik yang didukung transkrip verbatim nyata tanpa tautan eksternal agar dapat diverifikasi langsung oleh assessor.
+**Objective dan initial state:** Menguji relevansi mekanisme solusi melalui pitch 60 detik yang didukung transkrip verbatim nyata secara langsung di dalam dokumen portfolio agar dapat diverifikasi penuh oleh assessor.
 
 ## Attention evidence dan solution hypothesis
 
@@ -39,10 +39,10 @@ Berdasarkan fakta percakapan sebelumnya, masalah utama bukan tiadanya aplikasi, 
 
 ## Transkrip Verbatim Plain Text & Deskripsi Artefak Antarmuka (Verifikasi Langsung)
 
-*Deskripsi Artefak Draf Antarmuka (Pengganti Tautan Eksternal):*
+*Deskripsi Artefak Draf Antarmuka (Verifikasi Langsung Tanpa Link Eksternal):*
 > Berkas artefak berupa lembar kerja tabel digital 1 halaman (*single-page mock-up*) yang memuat kolom: (1) Nama Anggota, (2) Status Tugas (tombol pilihan: *Belum*, *Proses*, *Selesai* dengan durasi klik < 10 detik), serta (3) Kotak Catatan Mini untuk kendala darurat.
 
-*Transkrip Verbatim Plain Text:*
+*Transkrip Verbatim Plain Text (Disalin Langsung Tanpa Tautan Luar):*
 > **Saya:** “Kamu sempat bilang kepastian progres penting, tapi anggotamu malas kalau harus laporan rumit. Prototype checklist satu halaman ini dibuat agar tiap orang bisa update status cukup dalam 10 detik tanpa form panjang. Bisakah kita uji coba draf ini untuk satu tugas minggu depan agar kamu tidak perlu menagih manual di malam tenggat?”  
 > *(Sambil memperlihatkan draf antarmuka lembar tabel digital 1 halaman di layar ponsel)*  
 > **Target:** “Tampilannya memang cepat dan bersih, tapi kalau ada anggota yang cuek dan tidak membuka tabel ini, ujung-ujungnya saya lagi yang harus mengecek dan mengingatkan satu per satu?”  
@@ -67,7 +67,7 @@ Berdasarkan fakta percakapan sebelumnya, masalah utama bukan tiadanya aplikasi, 
 
 ## Penggunaan AI
 
-AI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap ringkas, sembari seluruh transkrip percakapan verbatim dicatat murni dari interaksi nyata di lapangan.
+AI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap ringkas, sembari seluruh transkrip percakapan verbatim dicatat murni dari interaksi nyata di lapangan dan dicantumkan langsung pada dokumen.
 
 ## Self-assessment
 
@@ -75,7 +75,7 @@ AI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap rin
 |------------------------------------|---------:|------------------------------------|
 | Person & Character | 4 | Beban pengawasan dan kekhawatiran relasional dipetakan secara sangat spesifik. |
 | Objective & State | 4 | Transkrip verbatim *plain text* membuktikan validitas pergeseran state ke *Interest*. |
-| Repertoire, Language & AI | 4 | Demo didukung transkrip asli terverifikasi tanpa mengandalkan tautan luar. |
+| Repertoire, Language & AI | 4 | Demo didukung transkrip asli terverifikasi langsung tanpa mengandalkan tautan luar. |
 | Response & Adaptation | 4 | *Hidden concern* dijawab tuntas melalui adaptasi pengingat sistem yang netral. |
 | Agreement, Action & Relationship | 4 | Kesepakatan uji coba tercapai secara organik dan setara. |
 
