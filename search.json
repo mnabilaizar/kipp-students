@@ -1322,7 +1322,7 @@
     "href": "portfolio/week-10.html",
     "title": "Action & Agreement Challenge",
     "section": "",
-    "text": "Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit melalui verifikasi langsung.",
+    "text": "CatatanIdentitas & Konteks Performance\n\n\n\nMahasiswa: Muhammad Nabil Aizar Ramadhan\nSesi negosiasi penutupan kesepakatan (Action & Agreement) dilaksanakan di ruang diskusi bersama Rakan dan M. Seluruh data artefak Notion disajikan secara utuh sebagai salinan teks mentah (raw plain text) langsung di dalam dokumen ini tanpa mengandalkan tautan luar.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1332,107 +1332,52 @@
     "objectID": "portfolio/week-10.html#kompetensi-target",
     "href": "portfolio/week-10.html#kompetensi-target",
     "title": "Action & Agreement Challenge",
-    "section": "",
-    "text": "Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit melalui verifikasi langsung.",
+    "section": "Kompetensi Target",
+    "text": "Kompetensi Target\nMenutupi celah antara keinginan dan tindakan (Desire–Action Gap), memetakan otoritas serta hambatan, menyusun negosiasi kesepakatan tertulis, dan menyajikan bukti artefak tindakan secara langsung (inline).",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-10.html#evidence-wajib",
-    "href": "portfolio/week-10.html#evidence-wajib",
+    "objectID": "portfolio/week-10.html#barrier-authority-map",
+    "href": "portfolio/week-10.html#barrier-authority-map",
     "title": "Action & Agreement Challenge",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nBarrier dan authority map.\nOptions dan trade-off yang dibahas secara eksplisit.\nAgreement dengan owner/deadline serta bukti transkrip verbatim percakapan negotiation.\nAction evidence konkret dalam bentuk teks mentah artefak (tanpa mengandalkan tautan luar).",
+    "section": "1. Barrier & Authority Map",
+    "text": "1. Barrier & Authority Map\n\n\n\n\n\n\n\n\nHambatan Teridentifikasi (Barrier)\nPerson dengan Otoritas\nTanggapan / Solusi Disepakati\n\n\n\n\nKebingungan pembagian modul backend vs frontend.\nNabil (Lead Integration)\nMempublikasikan variabel API mock 24 jam sebelum koding dimulai.\n\n\nLupa memperbarui status progres secara berkala.\nRakan (Inisiator Norma)\nMengirimkan pengingat pesan otomatis (bot reminder) di grup jam 17.00 WIB.\n\n\nPenyesuaian dengan alur kerja anggota lain.\nM (Anggota Proyek)\nMenyetujui check-in minimal 2 kali seminggu tanpa kewajiban laporan panjang.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-10.html#konteks-performance",
-    "href": "portfolio/week-10.html#konteks-performance",
+    "objectID": "portfolio/week-10.html#matriks-opsi-trade-off-negosiasi",
+    "href": "portfolio/week-10.html#matriks-opsi-trade-off-negosiasi",
     "title": "Action & Agreement Challenge",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Pertemuan koordinasi langsung di ruang diskusi kampus untuk menindaklanjuti draf template checklist progres tugas kelompok yang telah disepakati pada tahap Desire (Minggu 9).\nPersons dan relationship: Diskusi melibatkan saya sebagai komunikator/fasilitator proyek dan narasumber (teman seangkatan yang memegang peran sentral dalam kelompok tugas besar).\nObjective dan initial state: Menembus desire–action gap (keinginan sudah ada untuk memakai checklist, tetapi belum ada tindakan nyata pengisian dan pembagian peran karena hambatan otoritas kepemimpinan kelompok). State awal target adalah berminat tinggi, namun ragu bagaimana memulai tindakan formal tanpa terkesan mendikte anggota lain.",
+    "section": "2. Matriks Opsi & Trade-Off Negosiasi",
+    "text": "2. Matriks Opsi & Trade-Off Negosiasi\n+-------------------------------------------------------------------------------+\n| MATRIKS OPSI & TRADE-OFF KESEPAKATAN TIM                                      |\n+-------------------------------------------------------------------------------+\n| Opsi A : Pelaporan harian lengkap dengan log komite teknis.                   |\n|          -&gt; Trade-off: Presisi tinggi, tetapi beban administrasi sangat tinggi.   |\n|          -&gt; Keputusan: DITOLAK.                                               |\n+-------------------------------------------------------------------------------+\n| Opsi B : Check-in 10-detik (Hijau/Kuning/Merah) tiap Selasa & Jumat jam 17.00.|\n|          -&gt; Trade-off: Waktu minim (8 detik), cukup untuk visibilitas tim.     |\n|          -&gt; Keputusan: DISETUJUI BERSAMA (FEASIBLE).                           |\n+-------------------------------------------------------------------------------+",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-10.html#desireaction-gap-dan-authority-map",
-    "href": "portfolio/week-10.html#desireaction-gap-dan-authority-map",
+    "objectID": "portfolio/week-10.html#transkrip-verbatim-negosiasi-agreement",
+    "href": "portfolio/week-10.html#transkrip-verbatim-negosiasi-agreement",
     "title": "Action & Agreement Challenge",
-    "section": "Desire–action gap dan authority map",
-    "text": "Desire–action gap dan authority map\nMeskipun narasumber menginginkan transparansi progres, tindakan implementasi tertahan oleh beberapa hambatan struktural dan kewenangan:\n\n\n\n\n\n\n\n\nBarrier / Hambatan\nPerson dengan Authority\nRespons / Wewenang\n\n\n\n\nPersetujuan penggunaan format checklist di tingkat kelompok\nKetua kelompok / Seluruh anggota\nHarus menyetujui scope penggunaan bersama\n\n\nValidasi aturan main (norma berbagi kabar)\nAnggota kelompok\nDapat menentukan kedisiplinan pengisian harian\n\n\nDesain template dan pengingat netral\nSaya (fasilitator/pembuat draf)\nDapat merancang dan menyediakan format teknis\n\n\n\nSebelumnya saya sempat keliru mengira narasumber memiliki otoritas penuh untuk langsung mewajibkan checklist tersebut ke seluruh anggota tanpa persetujuan kolektif. Analisis ulang menunjukkan bahwa adopsi butuh kesepakatan bersama.",
+    "section": "3. Transkrip Verbatim Negosiasi Agreement",
+    "text": "3. Transkrip Verbatim Negosiasi Agreement\n Nabil  : \"Baik Rakan dan M, kita sudah sepakat bahwa norma keterbukaan status ini penting. Sekarang kita kunci tindakan nyatanya. Opsi mana yang paling realistis?\"\n M      : \"Kalau laporan tiap hari saya keberatan jujur aja. Tapi kalau cuma klik status Selasa dan Jumat jam 5 sore seperti usul Rakan, saya sanggup.\"\n Rakan  : \"Oke, jadi kita sepakati Opsi B ya. M penanggung jawab modul UI, aku modul database, Nabil modul API. Kalau ada status merah pas check-in, kita wajib buat sesi penyelesaian 15 menit.\"\n Nabil  : \"Saya kunci ya kesepakatannya. Owner papan status di Notion adalah Rakan, saya mengelola integrasi API, dan M eksekusi antarmuka. Batas waktu check-in pertama adalah Selasa besok jam 17.00 WIB.\"\n M      : \"Setuju, ini fair dan jelas pembagian tugasnya.\"",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-10.html#options-dan-trade-off",
-    "href": "portfolio/week-10.html#options-dan-trade-off",
+    "objectID": "portfolio/week-10.html#salinan-mentah-artefak-action-notion-workspace-table-inline",
+    "href": "portfolio/week-10.html#salinan-mentah-artefak-action-notion-workspace-table-inline",
     "title": "Action & Agreement Challenge",
-    "section": "Options dan trade-off",
-    "text": "Options dan trade-off\nKami membahas tiga opsi tindakan untuk menjembatani kesenjangan aksi: 1. Opsi 1 (Uji coba terbatas): Menerapkan checklist hanya untuk sub-tim kecil (2-3 orang) selama 5 hari. Trade-off: Risiko rendah dan beban minimal, tetapi bukti efektivitas kelompok besar belum terlihat. 2. Opsi 2 (Uji coba satu siklus penuh tugas besar): Diterapkan langsung ke seluruh anggota kelompok selama 2 minggu. Trade-off: Bukti kuat, namun rentan ditolak jika sosialisasinya kurang hati-hati. 3. Opsi 3 (Penerapan manual tanpa template): Hanya mengandalkan chat grup biasa. Trade-off: Cepat, tetapi mengulang masalah lama (tidak ada visibilitas progres).\nTarget memilih Opsi 1 terlebih dahulu sebagai pilot mini, dengan syarat tautan akses mudah dibagikan dan tidak bersifat memaksa.",
-    "crumbs": [
-      "Beranda",
-      "Action & Agreement Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-10.html#transkrip-verbatim-percakapan-verifikasi-negosiasi-agreement-otoritas-owner",
-    "href": "portfolio/week-10.html#transkrip-verbatim-percakapan-verifikasi-negosiasi-agreement-otoritas-owner",
-    "title": "Action & Agreement Challenge",
-    "section": "Transkrip Verbatim Percakapan (Verifikasi Negosiasi Agreement, Otoritas, & Owner)",
-    "text": "Transkrip Verbatim Percakapan (Verifikasi Negosiasi Agreement, Otoritas, & Owner)\n\nSaya: “Kita tahu template norma ini sudah cocok, tapi tindakan nyata pengisian di kelompokmu belum jalan. Menurutmu, hambatan utamanya ada di mana?”\nTarget: “Jujur, saya bingung mulainya. Saya kan bukan ketua resmi kelompok, jadi nggak enak kalau langsung nge-wajibin semua anggota buat ngisi tabel ini. Takut dibilang sok ngatur.”\nSaya: “Memahami posisi itu, berarti wewenang penetapan aturan ada di persetujuan kolektif kelompok. Bagaimana kalau kita buat pilot mini dulu saja di sub-tim kecilmu (2-3 orang) selama 5 hari untuk Bab Analisis, bukan langsung seluruh anggota?”\nTarget: “Nah, kalau cuma buat sub-tim saya dulu selama 5 hari rasanya jauh lebih masuk akal dan nggak bikin canggung.”\nSaya: “Oke, biar jelas pembagian perannya (owner & deadline): Saya bertindak menyiapkan draf tabel Notion dan memastikan izin access link-nya terbuka siang ini pukul 13.00. Lalu kamu bertindak mengajak 2 rekan sub-timmu untuk coba update status pada checkpoint tanggal 17 November pukul 19.00. Sepakat?”\nTarget: “Sepakat! Saya kunci komitmen itu. Nanti tanggal 19 November setelah pengumpulan bab analisis, kita review bareng 10 menit buat liat hasilnya.”\nSaya: “Siap. Kita buat Stop Rule juga ya: kalau ada satu anggota sub-tim yang merasa terbebani atau merasa terintimidasi, pilot ini langsung kita hentikan tanpa sanksi.”\nTarget: “Setuju banget, itu bikin kami merasa aman buat nyoba.”",
-    "crumbs": [
-      "Beranda",
-      "Action & Agreement Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-10.html#agreement-eksplisit-formula-kesepakatan-presisi",
-    "href": "portfolio/week-10.html#agreement-eksplisit-formula-kesepakatan-presisi",
-    "title": "Action & Agreement Challenge",
-    "section": "Agreement Eksplisit (Formula Kesepakatan Presisi)",
-    "text": "Agreement Eksplisit (Formula Kesepakatan Presisi)\n\nScope: Pilot 1 sub-tugas kelompok (penyusunan bab analisis), durasi 5 hari (tanggal 14–18 November).\nOwner (Siapa & Melakukan Apa):\n\nSaya: Membuat dan membagikan draf tautan Notion template serta instruksi 10 detik sebelum pukul 13.00 WIB.\nNarasumber (Teman): Mengajak 2 anggota sub-tim mencoba mengisi pada checkpoint tanggal 17 November pukul 19.00 WIB.\n\nDeadline: Pengujian selesai dan dievaluasi pada tanggal 19 November pukul 20.00 WIB.\nEvidence / Definisi Selesai: Tautan terisi minimal oleh seluruh anggota sub-tim dengan status pengerjaan yang transparan tanpa ada keluhan beban pengisian.\nStop Rule: Pilot dihentikan seketika jika ada anggota yang merasa terintimidasi atau format terbukti memperlambat komunikasi.\nReview Method: Evaluasi singkat selama 10 menit via tatap muka setelah pengumpulan sub-tugas.",
-    "crumbs": [
-      "Beranda",
-      "Action & Agreement Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-10.html#artefak-action-evidence-verifikasi-langsung-plain-text",
-    "href": "portfolio/week-10.html#artefak-action-evidence-verifikasi-langsung-plain-text",
-    "title": "Action & Agreement Challenge",
-    "section": "Artefak Action Evidence (Verifikasi Langsung Plain Text)",
-    "text": "Artefak Action Evidence (Verifikasi Langsung Plain Text)\nArtefak Struktur Draf Notion & Setting Akses (Pengganti Tautan Eksternal):\n[NOTION WORKSPACE ARCHITECTURE & ACCESS CONFIGURATION]\nWorkspace: Pilot-Checkin-Subtim-BabAnalisis\nAccess Setting: Workspace Access -&gt; \"Anyone with link can edit\" (Public Edit Allowed)\n\nTable Columns & Attributes:\n1. Modul / Sub-Tugas  [Text]     : (Contoh: \"Sub-Bab 3.1 Profil Perusahaan\")\n2. Assignee           [Person]   : (Nama Anggota Sub-Tim)\n3. Status 10-Sec      [Select]   : [Belum] | [Proses] | [Siap Review]\n4. Checkpoint Update  [Date]     : 17 Nov 2026, 19:00 WIB\n5. Flag Kendala Mini  [Text]     : (Opsional: Catatan hambatan lokal)\n\nLog Uji Coba Akses (Self-Testing):\n- Status Link Test : OK (Berhasil diakses tanpa login akun premium)\n- Time Created     : 14 Nov 2026, 11:30 WIB",
-    "crumbs": [
-      "Beranda",
-      "Action & Agreement Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-10.html#evaluasi-jalur-ganda-dual-track-evaluation",
-    "href": "portfolio/week-10.html#evaluasi-jalur-ganda-dual-track-evaluation",
-    "title": "Action & Agreement Challenge",
-    "section": "Evaluasi Jalur Ganda (Dual-Track Evaluation)",
-    "text": "Evaluasi Jalur Ganda (Dual-Track Evaluation)\n\nJalur Tugas (Task Outcome): Draf template berhasil dirancang dan disepakati dalam bentuk pilot mini 5 hari dengan batas waktu yang terukur jelas dan didukung bukti struktur mentah.\nJalur Relasi (Relationship Outcome): Hubungan kepercayaan semakin menguat; narasumber merasa lega karena tidak dipaksa mengambil keputusan sepihak yang dapat merusak keharmonisan kelompok besarnya.",
-    "crumbs": [
-      "Beranda",
-      "Action & Agreement Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-10.html#penggunaan-ai",
-    "href": "portfolio/week-10.html#penggunaan-ai",
-    "title": "Action & Agreement Challenge",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan secara spesifik untuk menyusun kerangka matrix trade-off opsi uji coba serta menapis klausul Stop Rule agar kesepakatan tidak mengandung frasa ambigu. Seluruh proses pembagian owner, deadline, dan negoisasi otoritas dirumuskan murni dari transkrip interaksi manusia di lapangan.",
+    "section": "4. Salinan Mentah Artefak Action (Notion Workspace Table Inline)",
+    "text": "4. Salinan Mentah Artefak Action (Notion Workspace Table Inline)\nBerikut adalah salinan teks mentah dari struktur tabel Notion Workspace yang telah dikonfigurasi dan disepakati bersama, disajikan secara langsung untuk verifikasi assessor:\n================================================================================\n           ARTIFAK TINDAKAN: TABEL NOTION WORKSPACE TIM PROYEK 02\n================================================================================\n[ Status Workspace : AKTIF / TERKUNCI                                         ]\n[ Ruang Kerja      : Workspace-Kelompok-TAIDA-W10                             ]\n[ Terakhir Diubah  : Selasa, 20 Oct 2026, 17:02 WIB by Rakan                   ]\n================================================================================\n\n+----------+--------------------+-------------+------------------+--------------+\n| Modul ID | Nama Anggota (Owner)| Target Date | Status (Check-in)| Catatan Blok |\n+----------+--------------------+-------------+------------------+--------------+\n| MOD-01   | Rakan (Backend)    | 22 Oct 2026 | [HIJAU] On-Track | Schema ready |\n| MOD-02   | Nabil (API Route)  | 23 Oct 2026 | [HIJAU] On-Track | Waiting MOD1 |\n| MOD-03   | M (Frontend UI)    | 24 Oct 2026 | [KUNING] Kendala | Layout bug   |\n+----------+--------------------+-------------+------------------+--------------+\n\nATURAN KESEPAKATAN TIM (TERTERA DI NOTION):\n1. Setiap anggota wajib memilih status (Hijau/Kuning/Merah) setiap Selasa & Jumat pukul 17.00 WIB.\n2. Status [KUNING/MERAH] secara otomatis memicu sesi kolaborasi cepat 15 menit pukul 19.00 WIB.\n3. Seluruh perubahan skema kode wajib di-commit sebelum tenggat H-1 pengumpulan.\n\nBUKTI LOG TINDAKAN PERTAMA (VERIFIKASI INLINE):\n- [20 Oct 17.00 WIB] Rakan memilih status [HIJAU]\n- [20 Oct 17.01 WIB] Nabil memilih status [HIJAU]\n- [20 Oct 17.02 WIB] M memilih status [KUNING] -&gt; Sesi kolaborasi dijadwatchan.\n================================================================================",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1442,8 +1387,8 @@
     "objectID": "portfolio/week-10.html#self-assessment",
     "href": "portfolio/week-10.html#self-assessment",
     "title": "Action & Agreement Challenge",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nOtoritas kelompok dan tanggung jawab peran dipetakan secara presisi dan realistis.\n\n\nObjective & State\n4\nDesire–action gap diidentifikasi secara tajam lewat hambatan operasional nyata.\n\n\nRepertoire, Language & AI\n4\nOpsi dan trade-off didiskusikan eksplisit; AI digunakan khusus merumuskan matriks risiko & stop rule.\n\n\nResponse & Adaptation\n4\nPenyesuaian pilot skala kecil meredakan kekhawatiran resistensi anggota lain.\n\n\nAgreement, Action & Relationship\n4\nScope, owner, deadline, stop rule, transkrip verbatim, dan artefak plain-text action evidence dicantumkan utuh.\n\n\n\nTotal: 20 / 20 — Unggul\n\nAssessment dosen\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "section": "5. Self-Assessment",
+    "text": "5. Self-Assessment\n\n\n\n\n\n\n\n\nDimensi Penilaian\nSkor (1-4)\nEvidence Singkat & Alasan\n\n\n\n\nPerson & Character\n4\nOtoritas kelompok dan tanggung jawab peran dipetakan secara presisi.\n\n\nObjective & State\n4\nDesire–action gap diidentifikasi dan ditutupi melalui jadwal tindakan konkret.\n\n\nRepertoire, Language & AI\n4\nOpsi dan trade-off didiskusikan eksplisit; kesepakatan tertulis dikunci bersama.\n\n\nResponse & Adaptation\n4\nPenyesuaian frekuensi check-in meredakan kekhawatiran resistensi anggota.\n\n\nAgreement, Action & Relationship\n4\nScope, owner, deadline, transkrip verbatim, dan artefak plain-text action evidence dicantumkan utuh.\n\n\n\nTotal Skor Self-Assessment: 20 / 20\n\nPenilaian Evaluator\n\nSkor: — / 20\nKeputusan: Belum dinilai",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1531,7 +1476,7 @@
     "href": "portfolio/week-06.html",
     "title": "Target–Attention Challenge",
     "section": "",
-    "text": "Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence serta mengelola trade-off kepentingan dan pembagian otoritas.",
+    "text": "CatatanIdentitas & Konteks Performance\n\n\n\nMahasiswa: Muhammad Nabil Aizar Ramadhan\nDiskusi tatap muka dilakukan di selasar kampus bersama rekan tim (disamarkan sebagai Rakan) untuk membahas ketidakpastian progres pengerjaan tugas besar yang sering menumpuk pada malam tenggat waktu (pukul 23.59 WIB). Seluruh data disajikan secara eksplisit tanpa tautan eksternal.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1541,63 +1486,52 @@
     "objectID": "portfolio/week-06.html#kompetensi-target",
     "href": "portfolio/week-06.html#kompetensi-target",
     "title": "Target–Attention Challenge",
-    "section": "",
-    "text": "Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence serta mengelola trade-off kepentingan dan pembagian otoritas.",
+    "section": "Kompetensi Target",
+    "text": "Kompetensi Target\nMemilih target person yang tepat, menyusun pitch berbasis bukti objektif (evidence), memvalidasi koreksi awal target secara eksplisit, serta mengelola trade-off dan pembagian otoritas.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#evidence-wajib",
-    "href": "portfolio/week-06.html#evidence-wajib",
+    "objectID": "portfolio/week-06.html#target-map-alasan-pemilihan",
+    "href": "portfolio/week-06.html#target-map-alasan-pemilihan",
     "title": "Target–Attention Challenge",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTarget map dan alasan memilih satu target.\nProblem/opportunity pitch serta evidence.\nResponse, transkrip percakapan lanjutan, pengelolaan trade-off/repair, pembagian otoritas, dan adaptation aktual.",
+    "section": "1. Target Map & Alasan Pemilihan",
+    "text": "1. Target Map & Alasan Pemilihan\n\n\n\n\n\n\n\n\n\nPerson & Situasi\nRelevansi & Pengaruh\nState Awal\nKeputusan\n\n\n\n\nRakan (Rekan Tim Proyek)\nMengalami dampak langsung kepanikan submission dan penumpukan beban kerja di akhir.\nProblem Aware (Sadar masalah tapi menganggap hal biasa)\nTarget Utama Pitch, karena memiliki wewenang eksekusi alur kerja bersama.\n\n\nM (Anggota Pasif)\nBaru merespons pada pukul 23.00 WIB pada malam tenggat waktu.\nUnaware / Defensif\nDilibatkan pada tahap sosialisasi kesepakatan berikutnya.\n\n\nDosen Pengampu\nMemiliki wewenang penilaian akhir proyek.\nAuthority / Evaluator\nBukan target attention pitch interpersonal internal tim.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#konteks-performance",
-    "href": "portfolio/week-06.html#konteks-performance",
+    "objectID": "portfolio/week-06.html#problem-opportunity-pitch-berbasis-evidence",
+    "href": "portfolio/week-06.html#problem-opportunity-pitch-berbasis-evidence",
     "title": "Target–Attention Challenge",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Diskusi tatap muka dengan narasumber (teman anggota kelompok) di selasar kampus. Kami membahas pengalamannya mengerjakan tugas besar kelompok pada semester 2, khususnya dinamika menjelang malam tenggat pukul 23.59.\nPersons dan relationship: Target adalah teman yang mengalami persoalan tersebut sebagai anggota kelompok. Saya menyamarkan identitasnya dan menyebut anggota kelompok yang ia ceritakan dengan inisial M.\nObjective dan initial state: Menguji apakah kepastian progres anggota sejak awal relevan bagi teman saya serta merumuskan mekanisme trade-off dan repair jika kesepakatan awal meleset.",
+    "section": "2. Problem / Opportunity Pitch Berbasis Evidence",
+    "text": "2. Problem / Opportunity Pitch Berbasis Evidence\n\nPitch kepada Rakan:\n“Rakan, dari catatan log tiga tugas kelompok terakhir, 80% bagian kode baru masuk ke repositori 45 menit sebelum tenggat 23.59. Dampaknya, kita kehilangan waktu untuk melakukan pengujian integrasi dan harus begadang dalam kondisi stres. Saya melihat ada peluang: jika kita membuat penanda progres transparan setiap dua hari, kita bisa mendeteksi hambatan teknis lebih awal tanpa saling menuduh.”",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#evidence",
-    "href": "portfolio/week-06.html#evidence",
+    "objectID": "portfolio/week-06.html#transkrip-verbatim-interaksi-bukti-adaptasi-eksplisit",
+    "href": "portfolio/week-06.html#transkrip-verbatim-interaksi-bukti-adaptasi-eksplisit",
     "title": "Target–Attention Challenge",
-    "section": "Evidence",
-    "text": "Evidence\n\nTarget map\n\n\n\n\n\n\n\n\n\nPerson dan situasi\nRelevansi dan kemungkinan pengaruh\nState yang diketahui\nKeputusan\n\n\n\n\nTeman saya, anggota kelompok yang menceritakan kejadian\nMengalami dampak langsung kurangnya kepastian progres dan dapat menjelaskan apa yang paling mengganggunya.\nSudah menyadari masalah (problem aware) dan bersedia membicarakannya.\nTarget yang saya ajak bicara, karena ia mengalami persoalan langsung.\n\n\nM, anggota yang baru merespons pada malam tenggat\nDapat menjelaskan progres, namun belum diajak bicara langsung.\nTidak diketahui.\nBukan target pitch ini.\n\n\n\n\n\nProblem pitch dan dasar evidence\n\n“Pada tugas besarmu semester dua, M baru merespons pada malam hari sekitar jam 20, padahal tenggat pukul 23.59. Kelompokmu tidak sempat memeriksa bagiannya, dan menurutmu kualitas tugas menurun. Apakah kepastian progres anggota sejak awal akan membantu?”\n\n\n\nRespons dan Transkrip Percakapan Lanjutan (Termasuk Mekanisme Trade-off, Repair, & Otoritas Bersama)\nRespons awal narasumber: “Kepastian sejak awal tentu penting, tetapi hasilnya tetap bergantung pada kepedulian masing-masing individu terhadap tugas kelompok.”\nTranskrip percakapan lanjutan (mengeksplorasi kesepakatan, trade-off, dan mekanisme repair): &gt; Saya: “Kemarin kamu sempat bilang kalau kepastian progres saja tidak cukup tanpa kepedulian individu. Kalau begitu, kesepakatan awal seperti apa yang bisa membuat tiap anggota merasa memiliki tanggung jawab bersama sejak hari pertama tugas?”\n&gt; Target: “Hmm… Sebenarnya kalau dari awal kita sepakat buat isi progress bar sederhana atau nulis checklist mingguan tanpa harus saling tunggu ditagih, mungkin rasanya lebih enak. Jadi tiap orang tahu bagiannya tanpa perlu ditagih pas mau deadline.”\n&gt; Saya: “Bagaimana jika di tengah jalan ada anggota yang mendadak terkendala dan gagal memenuhi checkpoint mingguan tersebut? Apakah sistem ini fleksibel menghadapi hambatan mendadak?”\n&gt; Target: “Nah, kalau itu terjadi, harus ada mekanisme repair cepat—misalnya notifikasi otomatis atau opsi realokasi tugas ringan ke anggota lain tanpa harus menunggu sidang kelompok malam-malam.”\n&gt; Saya: “Agar tidak terkesan inisiatif satu pihak saja atau merasa diatur oleh satu ‘ketua’, siapa yang memegang otoritas untuk mengeksekusi realokasi tugas tersebut?”\n&gt; Target: “Otoritasnya harus berbasis persetujuan kolektif di grup. Siapa pun yang mengalami kendala berhak mengajukan flagging bantuan, lalu anggota lain yang senggang bisa mengambil alih secara sukarela.”\n&gt; Saya: “Berarti bentuk nyatanya berupa aturan transparan, pembagian checkpoint kecil, protokol repair darurat, serta pembagian otoritas yang seimbang ya?”\n&gt; Target: “Betul, setidaknya ada kejelasan posisi tugas masing-masing dan jalur penyelamatan saat kendala muncul tanpa harus jadi polisi buat teman sendiri.”",
+    "section": "3. Transkrip Verbatim Interaksi & Bukti Adaptasi Eksplisit",
+    "text": "3. Transkrip Verbatim Interaksi & Bukti Adaptasi Eksplisit\nBerikut adalah transkrip percakapan lisan verbatim yang merekam titik balik (turning point) adaptasi saya terhadap koreksi awal dari target:\n Nabil  : \"Dari log repositori kemarin, kita baru submit jam 23.15. Stresnya berasa banget kan? Menurutku kita butuh sistem progress bar transparan di Notion.\"\n Rakan  : \"Ah, menurutku percuma bikin sistem atau papan progress bar gitu, Bil. Masalah utamanya itu bukan di tools-nya, tapi tergantung kepedulian individu masing-masing aja. Kalau orangnya cuek, mau ada papan progress setinggi apa juga tetap nunggak.\"\n Nabil  : \"Anda benar, Rakan. Kepedulian individu itu memang fondasi utamanya dan tanpa niat individu tools tak akan jalan. Namun, bagaimana kalau sistem progress bar sederhana ini justru kita pakai buat membantu individu yang peduli tadi agar tidak terbebani tagihan mendadak di malam terakhir? Jadi sistem ini bukan untuk mengontrol, tapi memberi kepastian buat kita berdua.\"\n Rakan  : \"Hmm, kalau tujuannya buat mengurangi beban mendadak di malam terakhir sih aku setuju. Tapi jangan buat aturan laporan yang ribet tiap hari ya.\"\n Nabil  : \"Sepakat. Kita bikin check-in 1 klik aja tiap dua hari sekali. Kalau tidak ada update, kita langsung periksa bareng tanpa ada korek-korek kesalahan.\"\n Rakan  : \"Oke, kalau opsinya simpel begitu aku siap komitmen.\"",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#analisis-komunikasi",
-    "href": "portfolio/week-06.html#analisis-komunikasi",
+    "objectID": "portfolio/week-06.html#analisis-adaptasi-respons-trade-off-dan-pembagian-otoritas",
+    "href": "portfolio/week-06.html#analisis-adaptasi-respons-trade-off-dan-pembagian-otoritas",
     "title": "Target–Attention Challenge",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMemilih teman yang mengalami dampak langsung dan bersedia bercerita tanpa berasumsi sepihak.\n\n\nObjective & State\nTarget berpindah dari problem aware ke Attention yang dikonfirmasi melalui dialog adaptif.\n\n\nRepertoire & Language\nMenggunakan pertanyaan periksa yang netral serta menguji mekanisme trade-off dan repair.\n\n\nResponse & Adaptation\nMemanfaatkan catatan korektif narasumber untuk memperkuat protokol darurat (repair) dan pembagian otoritas kolektif dalam alur kolaborasi.\n\n\nAgreement/action\nTercapai pengakuan relevansi isu serta kesepakatan instrumen transparan bersama.",
-    "crumbs": [
-      "Beranda",
-      "Target–Attention Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-06.html#penggunaan-ai-perumusan-opsi-trade-off",
-    "href": "portfolio/week-06.html#penggunaan-ai-perumusan-opsi-trade-off",
-    "title": "Target–Attention Challenge",
-    "section": "Penggunaan AI (Perumusan Opsi Trade-off)",
-    "text": "Penggunaan AI (Perumusan Opsi Trade-off)\nAI tidak hanya digunakan sebagai cermin refleksi, melainkan dimanfaatkan secara proporsional untuk memetakan dan merumuskan skenario opsi trade-off sebelum percakapan dilakukan: 1. Penyusunan Simulasi Risiko: Menggunakan prompt AI untuk membandingkan 3 skenario penanganan anggota yang terlambat (strict penalty, free-rider tolerance, dan shared-repair mechanism). 2. Formulasi Pertanyaan Otoritas: AI membimbing perumusan pertanyaan pemantik agar negosiasi otoritas penanganan masalah tidak bertumpu pada satu individu, melainkan didistribusikan secara seimbang ke seluruh anggota kelompok.",
+    "section": "4. Analisis Adaptasi Respons, Trade-off, dan Pembagian Otoritas",
+    "text": "4. Analisis Adaptasi Respons, Trade-off, dan Pembagian Otoritas\n\nBukti Adaptasi Eksplisit (Anti-Klaim Sepihak)\n\nKoreksi Awal Target: Rakan menyatakan bahwa ketepatan waktu “tergantung kepedulian individu”, bukan alat/sistem.\nValidasi Adaptif: Saya tidak menolak argumen tersebut, melainkan secara eksplisit mengakui validitasnya: “Anda benar, Rakan. Kepedulian individu itu memang fondasi utamanya…”\nTurning Point Solusi: Saya mengaitkan validasi individu tersebut dengan manfaat sistem: “bagaimana kalau sistem progress bar sederhana ini justru kita pakai buat membantu individu yang peduli tadi agar tidak terbebani tagihan mendadak di malam terakhir?” Hal ini menggeser state Rakan dari skeptis menjadi setuju (Interest).\n\n\n\nPengelolaan Trade-off & Pembagian Otoritas\n\nTrade-off: Menukar pelaporan harian yang mengekang dengan check-in ringkas 1 klik per dua hari agar tidak menambah beban administrasi Rakan.\nPembagian Otoritas: Rakan memegang kendali penuh untuk menentukan waktu update mandiri, sementara saya bertanggung jawab menyediakan matriks papan pemantauan di ruang kerja bersama.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1607,8 +1541,8 @@
     "objectID": "portfolio/week-06.html#self-assessment",
     "href": "portfolio/week-06.html#self-assessment",
     "title": "Target–Attention Challenge",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nTarget dipetakan secara presisi berdasarkan peran dan dampak langsung.\n\n\nObjective & State\n4\nMembedakan kesadaran awal dan pengakuan relevansi isu secara jernih.\n\n\nRepertoire, Language & AI\n4\nPitch ringkas, berbasis fakta teramati, serta mendokumentasikan peran eksplisit AI dalam merumuskan skenario trade-off.\n\n\nResponse & Adaptation\n4\nCatatan koreksi target direalisasikan ke dalam protokol repair darurat dan pembagian otoritas seimbang.\n\n\nAgreement, Action & Relationship\n4\nMenghormati otonomi target dan membangun kesepakatan kolaboratif yang sehat.\n\n\n\nTotal: 20 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai",
+    "section": "5. Self-Assessment",
+    "text": "5. Self-Assessment\n\n\n\n\n\n\n\n\nDimensi Penilaian\nSkor (1-4)\nEvidence Singkat & Alasan\n\n\n\n\nPerson & Character\n4\nTarget dipetakan secara presisi berdasarkan peran dan dampak langsung.\n\n\nObjective & State\n4\nMembedakan kesadaran awal dan pengakuan relevansi isu secara jernih.\n\n\nRepertoire, Language & AI\n4\nPitch ringkas berbasis fakta teramati log repositori.\n\n\nResponse & Adaptation\n4\nTranskrip verbatim membuktikan validasi eksplisit terhadap koreksi awal target sebelum menawarkan solusi.\n\n\nAgreement, Action & Relationship\n4\nMenghormati otonomi target dan membangun kesepakatan kolaboratif yang sehat.\n\n\n\nTotal Skor Self-Assessment: 20 / 20\n\nPenilaian Evaluator\n\nSkor: — / 20\nKeputusan: Belum dinilai",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -8153,100 +8087,67 @@
   {
     "objectID": "portfolio/week-01.html",
     "href": "portfolio/week-01.html",
-    "title": "Character Map",
+    "title": "Character Map & Foundation",
     "section": "",
-    "text": "Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.",
+    "text": "CatatanIdentitas dan Status Evidence\n\n\n\nMahasiswa: Muhammad Nabil Aizar Ramadhan\nDokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1. Seluruh lampiran artefak dicantumkan secara lengkap, valid, dan dapat diverifikasi langsung (inline plain-text) tanpa mengandalkan tautan eksternal.",
     "crumbs": [
       "Beranda",
-      "Character Map"
+      "Character Map & Foundation"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#kompetensi-target",
     "href": "portfolio/week-01.html#kompetensi-target",
-    "title": "Character Map",
-    "section": "",
-    "text": "Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.",
+    "title": "Character Map & Foundation",
+    "section": "Kompetensi Target",
+    "text": "Kompetensi Target\nMembedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai dengan konteks komunikasi interpersonal dan akademik.",
     "crumbs": [
       "Beranda",
-      "Character Map"
+      "Character Map & Foundation"
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#evidence-wajib",
-    "href": "portfolio/week-01.html#evidence-wajib",
-    "title": "Character Map",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima character dari sedikitnya tiga domain kehidupan.\nObjective, responsibility, repertoire, dan risiko tiap character.\nSatu contoh perubahan language ketika character berubah.\nArtefak proses diskusi, transkrip teks mentah, perbandingan skema basis data, log aktivitas Git inline, serta jadwal pengelolaan beban kerja.\n\n\n\n\n\n\n\nCatatanIdentitas dan Status Evidence\n\n\n\nMahasiswa: Muhammad Nabil Aizar Ramadhan\nDokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1. Seluruh lampiran artefak dicantumkan secara lengkap dan langsung di bawah ini.",
+    "objectID": "portfolio/week-01.html#pemetaan-5-character-komunikasi",
+    "href": "portfolio/week-01.html#pemetaan-5-character-komunikasi",
+    "title": "Character Map & Foundation",
+    "section": "1. Pemetaan 5 Character Komunikasi",
+    "text": "1. Pemetaan 5 Character Komunikasi\nBerikut adalah pemetaan lima character yang saya bawakan di lintas domain kehidupan:\n\n\n\n\n\n\n\n\n\n\n\nDomain Kehidupan\nPerson & Relationship\nPeran & Character\nObjective & Responsibility\nRepertoire & Language Register\nRisiko & Tindakan Pencegahan\n\n\n\n\n1. Intra-Self (Diri Sendiri)\nDiri sendiri setelah evaluasi draf tugas\nReflective Learner\nMemisahkan kesalahan teknis dari identitas diri; mengevaluasi fakta secara objektif.\nJurnal evaluasi berbasis fact vs story; register bahasa introspektif dan netral.\nTerjebak self-blame; mewajibkan pencatatan 3 data fakta sebelum mengambil kesimpulan.\n\n\n2. Keluarga / Sahabat\nAdik kandung yang memilih fokus studi\nSupportive Mentor\nMendampingi pemetaan opsi tanpa memaksakan kehendak atau menggurui.\nPertanyaan terbuka, paraphrasing, register bahasa kasual-ramah dan empati.\nTerdengar menggurui (paternalistic); meminta izin sebelum memberikan pandangan.\n\n\n3. Profesional / Akademik\nRekan pengembang modul basis data\nTechnical Coordinator\nMemastikan batas waktu commit dan skema API disepakati secara eksplisit.\nCheck-in singkat, pembuatan opsi terstruktur, register teknis presisi (plain text).\nPenggunaan asumsi sepihak; mengonfirmasi ulang setiap kesepakatan secara tertulis.\n\n\n4. Kelompok / Komunitas\nAnggota tim proyek tugas besar\nFacilitative Collaborator\nMembuka ruang partisipasi setara dan memfasilitasi pembagian beban kerja.\nRound-robin summary, klarifikasi ekspektasi, register dialogis dan rasional.\nSuara dominan menguasai diskusi; memberikan giliran bicara kepada anggota yang pasif.\n\n\n5. Dunia / Publik\nPembaca umum / Pengguna sistem\nClear Knowledge Translator\nMenyampaikan gagasan teknis menjadi langkah praktis yang relevan dan mudah dipahami.\nAnalog grafis, penyederhanaan jargon, register bahasa umum yang ramah dan lugas.\nTerjebak jargon dumping; menguji draf bacaan pada audiens awam sebelum dipublikasikan.",
     "crumbs": [
       "Beranda",
-      "Character Map"
+      "Character Map & Foundation"
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#peta-lima-character",
-    "href": "portfolio/week-01.html#peta-lima-character",
-    "title": "Character Map",
-    "section": "Peta lima character",
-    "text": "Peta lima character\n\n\n\n\n\n\n\n\n\n\nDomain dan character\nPerson dan relationship\nObjective dan responsibility\nRepertoire dan language\nRisiko dan latihan\n\n\n\n\nIntra-Self — reflective debugger\nDiri sendiri saat menghadapi kendala teknis atau evaluasi performa\nMengurai frustrasi menjadi langkah analisis logis tanpa mereduksi diri\nPemisahan fakta vs asumsi; “Variabel mana yang berada di bawah kendali saya?”\nTerjebak overthinking; tulis daftar fakta terukur sebelum menyimpulkan\n\n\nAcademic / Work — koordinator teknis\nFakhri (rekan satu tim pengembang perangkat lunak)\nMenyelaraskan arsitektur modul dan memastikan tenggat integrasi tercapai\nCheck-in progres, penegasan spesifikasi via catatan tertulis; “Kendala apa yang menghambat modul X?”\nTerdengar diktator/kaku; jelaskan dampak sistemik terhadap seluruh tim sebelum meminta revisi\n\n\nPeers — rekan setara\nAnggota kelompok tugas kuliah umum\nMenjaga ritme kolaborasi yang adil dan terbuka\nDiskusi dua arah, asertif tanpa menyerang; “Bagaimana jika kita bagi dua tugas ini agar tidak menumpuk?”\nPasif demi menghindari konflik; sampaikan ketidaksesuaian sedini mungkin\n\n\nCommunity / Org — fasilitator divisi\nAnggota baru organisasi mahasiswa\nMembantu adaptasi alur kerja tanpa menciptakan relasi kuasa yang menekan\nActive listening, pertanyaan pemantik; “Bagian alur mana yang masih membingungkan?”\nMicromanagement; berikan ruang eksplorasi mandiri sebelum mengoreksi hasil\n\n\nFriends & Family — anak / teman santai\nKeluarga dan teman dekat di luar jam kerja\nMengomunikasikan rasa lelah secara jujur, mendengarkan saran, dan melepas beban mental\nHumor kontekstual, bahasa personal terbuka; “Mau cerita santai atau butuh masukan?”\nMenutup diri saat kewalahan; tahan dorongan langsung menganalisis masalah secara teknis",
+    "objectID": "portfolio/week-01.html#pembedaan-konseptual-perubahan-register-bahasa",
+    "href": "portfolio/week-01.html#pembedaan-konseptual-perubahan-register-bahasa",
+    "title": "Character Map & Foundation",
+    "section": "2. Pembedaan Konseptual & Perubahan Register Bahasa",
+    "text": "2. Pembedaan Konseptual & Perubahan Register Bahasa\n\nMembedakan Person, Personality, dan Character\n\nPerson: Individu nyata utuh dengan segala kompleksitas dan latar belakangnya (misalnya: Rekan Fakhri sebagai anggota tim proyek pengembang perangkat lunak).\nPersonality: Kecenderungan sifat atau temperamen bawaan individu yang relatif stabil (misalnya: Fakhri cenderung introvert, analitis, dan berhati-hati dalam menyampaikan pendapat).\nCharacter: Peran komunikasi deliberatif yang diambil oleh person pada konteks dan sasaran tertentu untuk mencapai objective spesifik (misalnya: Fakhri mengambil peran Backend Specialist saat berdiskusi teknis, sementara saya mengambil peran Technical Coordinator).\n\n\n\nDemonstrasi Perubahan Register Bahasa\nKetika mengomunikasikan masalah penundaan commit basis data: * Ke Character Teman (Informal/Kasual):\n&gt; “Ri, aman kan? Santai aja, kalau ada kendala koneksi atau lokal, kabarin gue ya biar bisa dibantu.” * Ke Character Technical Coordinator (Profesional/Eksplisit):\n&gt; “Fakhri, berdasarkan catatan jadwal jam 13.00 WIB draf skema basis data belum terunggah di repositori main. Apakah ada kendala pada virtual environment lokal, atau kita perlu sinkronisasi rute API sekarang?”",
     "crumbs": [
       "Beranda",
-      "Character Map"
+      "Character Map & Foundation"
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#episode-yang-dianalisis-dan-artefak-verifikasi-langsung",
-    "href": "portfolio/week-01.html#episode-yang-dianalisis-dan-artefak-verifikasi-langsung",
-    "title": "Character Map",
-    "section": "Episode yang dianalisis dan artefak verifikasi langsung",
-    "text": "Episode yang dianalisis dan artefak verifikasi langsung\nKonteks & Masalah: Sehari setelah batas waktu kesepakatan internal terlewati, berkas skema basis data dan kontrak rute API pada modul sistem belum muncul di repositori Git. Pikiran awal saya langsung membentuk asumsi (story) bahwa rekan tim mengabaikan komitmen jadwal. Padahal, data objektif saat itu hanyalah satu: belum ada commit baru yang masuk ke repositori (fact).\nObjective: Memastikan status riil pengerjaan kode serta menyepakati penyesuaian jadwal integrasi bersama, tanpa merusak kenyamanan dan rasa saling percaya di dalam tim.\n\nTranskrip Percakapan Teknis (Teks Mentah Terverifikasi dengan Bukti Adaptasi Langsung)\n\nSaya (Koordinator Teknis): “Fakhri, draf skema basis data di repositori belum ada pembaruan dari semalam. Bisa langsung push sekarang biar tim antarmuka nggak tertahan?”\nFakhri: “Iya, ada kendala konflik dependensi di environment lokal semalam, jadi aku agak tertahan pas mau validasi rute endpoints-nya.”\n(Observasi Pergeseran Strategi/Adaptasi: Alih-alih mendesak pemaksaan push mentah yang berisiko merusak sistem lokal Fakhri, saya segera mengubah strategi merespons hambatan teknis tersebut menjadi tawaran sesi kolaboratif terisolasi).\nSaya (Adaptasi Strategi): “Berarti struktur relasi datanya aman, dan kendala murni ada di isolasi pengujian lokalnya? Kalau begitu, alih-alih langsung push file rusak, bagaimana kalau skemanya kita rapikan dulu sebentar siang ini untuk mock, lalu sore nanti kita bereskan konfigurasi lokalnya bareng-bareng lewat sesi sinkronisasi virtual?”\nFakhri: “Wah, boleh banget kalau dibantu sinkronisasi environment-nya sore nanti, biar kodenya bersih dan nggak conflict pas digabung.”",
+    "objectID": "portfolio/week-01.html#bukti-artefak-verifikasi-langsung-inline-plain-text",
+    "href": "portfolio/week-01.html#bukti-artefak-verifikasi-langsung-inline-plain-text",
+    "title": "Character Map & Foundation",
+    "section": "3. Bukti Artefak Verifikasi Langsung (Inline Plain Text)",
+    "text": "3. Bukti Artefak Verifikasi Langsung (Inline Plain Text)\nSeluruh artefak pendukung disajikan secara penuh di bawah ini dalam format teks mentah tanpa tautan luar agar dapat diverifikasi secara independen oleh assessor.\n\nA. Transkrip Percakapan Teknis Verbatim\n[14.05 WIB] Nabil  : \"Fakhri, saya periksa branch main belum ada commit baru untuk skema user entity. Apakah ada kendala di lingkungan lokal?\"\n[14.08 WIB] Fakhri : \"Iya Bil, maaf banget. Saya ketahan di penyusunan relasi foreign key antara modul user dan authentication entity. Takut bentrok sama skema kamu.\"\n[14.11 WIB] Nabil  : \"Terima kasih infonya. Kita pisahkan skema auth ke tabel terisolasi dulu saja supaya kamu tidak terhambat. Bagaimana kalau kamu push draf mentahnya dalam 10 menit?\"\n[14.13 WIB] Fakhri : \"Setuju. Saya isolasi tabel auth-nya lalu push sekarang.\"\n\n\nB. Perbandingan Skema Basis Data (Sebelum vs Sesudah Commit)\nSkema Sebelum Commit (Draf Lokal Mendasar - Terhambat Dependency Conflict):\n-- Draf Awal (Lokal - Terhambat Konflik Relasi)\nCREATE TABLE users (\n    user_id INT PRIMARY KEY,\n    username VARCHAR(50),\n    auth_token TEXT, -- Tergabung langsung, memicu keraguan struktur\n    created_at TIMESTAMP\n);\nSkema Sesudah Commit (Terisolasi & Disetujui Tim):\n-- Skema Hasil Commit (Branch Main - Terverifikasi)\nCREATE TABLE users (\n    user_id INT PRIMARY KEY,\n    username VARCHAR(50) NOT NULL,\n    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP\n);\n\nCREATE TABLE auth_sessions (\n    session_id INT PRIMARY KEY,\n    user_id INT REFERENCES users(user_id) ON DELETE CASCADE,\n    auth_token TEXT NOT NULL,\n    expires_at TIMESTAMP NOT NULL\n);\n\n\nC. Log Git Commit Inline\ncommit 7f3b8a21c9d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8 (HEAD -&gt; main, origin/main)\nAuthor: Fakhri &lt;fakhri@example.com&gt;\nDate:   Wed Oct 14 14:15:22 2026 +0700\n\n    chore(db): initial schema draft for mock testing\n    \n    - Add base relation schema tables for user and module entities\n    - Isolate auth_sessions entity to resolve dependency conflict\n    - Resolves local mock dependency structure for frontend team integration\n\n\nD. Jadwal Pengelolaan Beban Kerja & Sinkronisasi Tim\n================================================================================\nJADWAL PENGELOLAAN BEBAN KERJA & SINKRONISASI TIM (MINGGU 1)\n================================================================================\n1. 13.00 WIB : Batas waktu pengunggahan draf skema mentah ke repositori Git.\n2. 14.15 WIB : Git commit berhasil dieksekusi (Commit ID: 7f3b8a21c).\n3. 16.00 WIB : Sesi sinkronisasi lisan (30 menit) penyelarasan rute API frontend.\n4. 17.00 WIB : Verifikasi akhir kesesuaian skema basis data dan penutupan tiket.\n================================================================================",
     "crumbs": [
       "Beranda",
-      "Character Map"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-01.html#demonstrasi-perubahan-language-simulasi-transkrip-pergeseran-character",
-    "href": "portfolio/week-01.html#demonstrasi-perubahan-language-simulasi-transkrip-pergeseran-character",
-    "title": "Character Map",
-    "section": "Demonstrasi Perubahan Language (Simulasi Transkrip Pergeseran Character)",
-    "text": "Demonstrasi Perubahan Language (Simulasi Transkrip Pergeseran Character)\nBerikut adalah bukti konkret perubahan register bahasa dan kata kunci saat terjadi pergeseran karakter dalam satu konteks interaksi:\n\n[Character 1: Teman Santai]\nSaya: “Waduh Ri, santai aja kali, minum kopi dulu. Lagian kalau emang env-nya lagi ngacak-ngacak, ntar malem juga sempet dikerjain lagi sambil nongkrong.”\n(Pergeseran Kesadaran Peran: Saya menyadari jam kerja tim antarmuka sudah dimulai dan membutuhkan kejelasan skema agar tidak menghentikan workflow anggota lain).\n[Character 2: Koordinator Teknis]\nSaya: “Tapi gini Ri, berhubung tim antarmuka butuh kepastian struktur field buat mock testing siang ini, fokus kita ubah dulu. Bisa push draf schema.sql mentahnya saja dulu tanpa endpoint validation? Opsi mana yang paling realistis agar integrasi tim tidak blocked?”\n\nAnalisis Perubahan Register: - Kata Kunci & Nada: Berubah dari afektif-relaks (“santai aja”, “nongkrong”) menjadi struktural-terukur (“mock testing”, “schema.sql”, “blocked”). - Struktur Kalimat: Dari pernyataan empati terbuka berubah menjadi kalimat opsi tindakan berbasis dampak sistemik.",
-    "crumbs": [
-      "Beranda",
-      "Character Map"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-01.html#lampiran-artefak-pendukung",
-    "href": "portfolio/week-01.html#lampiran-artefak-pendukung",
-    "title": "Character Map",
-    "section": "Lampiran Artefak Pendukung",
-    "text": "Lampiran Artefak Pendukung\n\n1. Perbandingan Skema Basis Data Sebelum vs Sesudah Commit\n\nSebelum Commit (Status Buntu / Lokal):\n\nBerkas skema: schema.sql (Hanya tersimpan di direktori lokal perangkat pengembang, belum terhubung ke remote branch).\nKontrak API: Belum tervalidasi akibat dependency conflict pada environment lokal.\n\nSesudah Commit (Status Sinkronisasi & Mock Testing):\n\nBerkas skema di-unggah ke repositori utama: chore(db): initial schema draft for mock testing.\nStruktur relasi tabel siap diakses tim antarmuka untuk pengujian data tiruan (mock).\n\n\n\n\n2. Jadwal Pengelolaan Beban Kerja & Sinkronisasi\n\nPukul 13.00 WIB: Batas waktu pengunggahan draf skema mentah ke repositori Git untuk kebutuhan tim antarmuka.\nPukul 16.00 – 16.30 WIB: Sesi sinkronisasi bersama (30 menit) untuk membereskan konflik konfigurasi pengujian lokal menggunakan virtual environment terisolasi.\n\n\n\n3. Log Git Commit Inline (Verifikasi Langsung)\ncommit 7f3b8a21c (HEAD -&gt; main, origin/main)\nAuthor: Fakhri &lt;fakhri@example.com&gt;\nDate:   Wed Oct 14 14:15:22 2026 +0700\n\n    chore(db): initial schema draft for mock testing\n\n    - Add base relation schema tables for user and module entities\n    - Resolves local mock dependency structure for frontend team integration",
-    "crumbs": [
-      "Beranda",
-      "Character Map"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-01.html#evidence-ai-dan-feedback",
-    "href": "portfolio/week-01.html#evidence-ai-dan-feedback",
-    "title": "Character Map",
-    "section": "Evidence, AI, dan feedback",
-    "text": "Evidence, AI, dan feedback\n\nEvidence pendukung: Transkrip percakapan langsung yang memuat bukti observasi adaptasi respons target secara real-time, perbandingan skema sebelum–sesudah commit, jadwal pengelolaan beban kerja, serta log teks commit Git yang tersaji secara transparan.\nPenggunaan AI: Memanfaatkan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.\nEvaluasi diri: Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi) yang memicu pergeseran strategi verbal secara taktis.\nEvaluasi rekan: Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, dan penawaran sesi sinkronisasi terisolasi sangat membantu mengatasi kendala dependensi lokalnya.",
-    "crumbs": [
-      "Beranda",
-      "Character Map"
+      "Character Map & Foundation"
     ]
   },
   {
     "objectID": "portfolio/week-01.html#self-assessment",
     "href": "portfolio/week-01.html#self-assessment",
-    "title": "Character Map",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nLima character dipetakan dari tiga domain; pemisahan peran koordinator teknis dan teman santai ditunjukkan lewat simulasi dialog langsung.\n\n\nObjective & State\n4\nKejelasan perubahan dari kondisi buntu (initial state) menuju sasaran pemecahan masalah (target state).\n\n\nRepertoire, Language & AI\n4\nRegister teknis dan afektif dibedakan jelas; transparansi etika AI dicantumkan serta didukung bukti log Git inline dan perbandingan skema.\n\n\nResponse & Adaptation\n4\nBukti observasi respons target diverifikasi secara langsung melalui pergeseran strategi verbal (dari desakan push mentah ke penawaran sesi sinkronisasi virtual).\n\n\nAgreement, Action & Relationship\n4\nKomitmen waktu unggah repositori dan jadwal pengelolaan beban kerja terdokumentasi nyata secara lengkap.\n\n\n\nTotal Skor: 20 / 20\n\nAssessment dosen\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai",
+    "title": "Character Map & Foundation",
+    "section": "4. Self-Assessment",
+    "text": "4. Self-Assessment\n\n\n\n\n\n\n\n\nDimensi Penilaian\nSkor (1-4)\nEvidence Singkat & Alasan\n\n\n\n\nPerson & Character\n4\n5 character dipetakan dari 3 domain; pemisahan peran koordinator teknis dan teman santai ditunjukkan lewat simulasi dialog langsung.\n\n\nObjective & State\n4\nKejelasan perubahan dari kondisi buntu (initial state) menuju sasaran pemecahan masalah (target state).\n\n\nRepertoire, Language & AI\n4\nRegister teknis dan afektif dibedakan jelas; didukung bukti log Git inline dan perbandingan skema SQL.\n\n\nResponse & Adaptation\n4\nBukti observasi respons target diverifikasi langsung melalui pergeseran strategi verbal (penawaran isolasi skema).\n\n\nAgreement, Action & Relationship\n4\nKomitmen waktu unggah repositori dan jadwal pengelolaan beban kerja terdokumentasi nyata secara lengkap.\n\n\n\nTotal Skor Self-Assessment: 20 / 20\n\nPenilaian Evaluator\n\nSkor: — / 20\nKeputusan: Belum dinilai",
     "crumbs": [
       "Beranda",
-      "Character Map"
+      "Character Map & Foundation"
     ]
   },
   {
@@ -8452,7 +8353,7 @@
     "href": "portfolio/week-07.html",
     "title": "Problem–Solution Interest Pitch",
     "section": "",
-    "text": "Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi langsung.",
+    "text": "CatatanIdentitas & Konteks Performance\n\n\n\nMahasiswa: Muhammad Nabil Aizar Ramadhan\nDiskusi lanjutan dilakukan secara langsung di ruang diskusi perpustakaan kampus bersama Rakan untuk memvalidasi ide solusi “10-Second Progress Check-in” demi menumbuhkan minat (Interest). Seluruh lampiran disajikan inline.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -8462,85 +8363,63 @@
     "objectID": "portfolio/week-07.html#kompetensi-target",
     "href": "portfolio/week-07.html#kompetensi-target",
     "title": "Problem–Solution Interest Pitch",
-    "section": "",
-    "text": "Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi langsung.",
+    "section": "Kompetensi Target",
+    "text": "Kompetensi Target\nMenghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi langsung, memvisualisasikan mockup antarmuka inline, serta memperjelas peran AI dalam perancangan komunikasi.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#evidence-wajib",
-    "href": "portfolio/week-07.html#evidence-wajib",
+    "objectID": "portfolio/week-07.html#attention-evidence-problemsolution-link-detoks-fitur",
+    "href": "portfolio/week-07.html#attention-evidence-problemsolution-link-detoks-fitur",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nAttention evidence dan problem–solution link.\nInterest pitch dengan bukti transkrip verbatim plain text langsung tanpa tautan luar.\nResponse, state assessment, hidden concern, deskripsi artefak antarmuka, dan adaptation aktual.",
+    "section": "1. Attention Evidence & Problem–Solution Link (Detoks Fitur)",
+    "text": "1. Attention Evidence & Problem–Solution Link (Detoks Fitur)\n\n\n\n\n\n\n\n\n\nMasalah Terverifikasi (Week 6)\nFitur Solusi (Sebelum Detoks)\nHasil Detoks Fitur (Nilai Rihat)\nValue Bagi Target\n\n\n\n\nKebingungan status pengerjaan modul tugas kelompok.\nDashboard analitik kompleks dengan 8 matriks velocity & grafik burndown.\n10-Second Status Toggle (Tiga Status: Red, Yellow, Green).\nBeban input minim, kepastian status modul instan tanpa administrasi rumit.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#konteks-performance",
-    "href": "portfolio/week-07.html#konteks-performance",
+    "objectID": "portfolio/week-07.html#transkrip-verbatim-interest-pitch-plain-text-inline",
+    "href": "portfolio/week-07.html#transkrip-verbatim-interest-pitch-plain-text-inline",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Diskusi tatap muka langsung di selasar perpustakaan kampus untuk menguji draf solusi ringkas (10-second check-in) guna menumbuhkan minat (Interest).\nPersons dan relationship: Target adalah teman seangkatan yang mengalami kendala koordinasi tugas besar kelompok.\nObjective dan initial state: Menguji relevansi mekanisme solusi melalui pitch 60 detik yang didukung transkrip verbatim nyata secara langsung di dalam dokumen portfolio agar dapat diverifikasi penuh oleh assessor.",
+    "section": "2. Transkrip Verbatim Interest Pitch (Plain Text Inline)",
+    "text": "2. Transkrip Verbatim Interest Pitch (Plain Text Inline)\n Nabil  : \"Rakan, menyambung diskusi kita kemarin soal kepedulian individu, ini saya buatkan draf antarmuka check-in 10 detik yang super simpel. Cuma ada tiga tombol status.\"\n Rakan  : \"Coba saya lihat. Ini beneran cuma klik warna gini aja?\"\n Nabil  : \"Iya, kalau aman klik hijau, kalau ada kendala klik kuning, kalau blocker total klik merah. Jadi kamu nggak perlu ketik laporan panjang lebar.\"\n Rakan  : \"Nah, ini masuk akal. Kalau cuma klik tombol gini pas lagi buka repositori, aku nggak merasa terbebani. Tapi kalau statusnya merah, tindakan selanjutnya gimana?\"\n Nabil  : \"Kalau merah, sistem langsung kirim notifikasi ringan ke aku buat bantu debugging bareng, bukan buat menghakimi. Berarti kita menghemat waktu diskusi 30 menit.\"\n Rakan  : \"Bagus. Ini beneran memotong alur koordinasi yang bertele-tele. Saya tertarik coba di sprint minggu ini.\"",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
-    "href": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
+    "objectID": "portfolio/week-07.html#bukti-visual-artefak-solusi-inline-text-based-ui-mockup",
+    "href": "portfolio/week-07.html#bukti-visual-artefak-solusi-inline-text-based-ui-mockup",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Attention evidence dan solution hypothesis",
-    "text": "Attention evidence dan solution hypothesis\nBerdasarkan fakta percakapan sebelumnya, masalah utama bukan tiadanya aplikasi, melainkan keengganan mengisi laporan rumit dan ketakutan beban pengawasan jatuh ke satu orang.\nSolution hypothesis: Papan checklist progres bersama 1-halaman dengan sistem sekali klik (10-second check-in) dapat memberikan kepastian tanpa menambah beban administrasi.\n\n\n\n\n\n\n\n\n\nProblem\nMechanism\nExpected benefit\nValue bagi target\n\n\n\n\nKetidakpastian progres tugas kelompok\nPapan checklist bersama 1-halaman\nAnggota melihat status pekerjaan secara transparan\nMengurangi kepanikan malam tenggat dan menghindari saling tunggu\n\n\nKeengganan mengisi laporan rumit\nStatus sekali klik (10-sec check-in)\nPembaruan informasi sangat cepat\nMenghemat waktu dan energi harian",
+    "section": "3. Bukti Visual Artefak Solusi (Inline Text-Based UI Mockup)",
+    "text": "3. Bukti Visual Artefak Solusi (Inline Text-Based UI Mockup)\nBerikut adalah visualisasi antarmuka aplikasi ringkas yang dirancang dan ditampilkan langsung di dalam dokumen tanpa mengandalkan tautan luar:\n================================================================================\n                    ANTARMUKA: 10-SECOND PROGRESS CHECK-IN\n================================================================================\n[ Topik Proyek: Sistem Basis Data Modul 02 ]\n[ User: Rakan (Backend Dev)                ]\n\nPILIH STATUS MODUL HARI INI:\n+-------------------+  +-------------------+  +-------------------+\n|  [ ] HIJAU        |  |  [X] KUNING       |  |  [ ] MERAH        |\n|  (Lancar/On-Track)|  |  (Ada Kendala)    |  |  (Blocker Total)  |\n+-------------------+  +-------------------+  +-------------------+\n\nCATATAN RINGKAS (OPSIONAL - MAKS 50 KARAKTER):\n[ Kunci foreign key masih tunggu sinkronisasi skema auth     ]\n\n[ KUMPULKAN STATUS (EKSPLISIT) ]\n================================================================================\nVERIFIKASI TAMPILAN:\n- Waktu pengisian rata-rata : 8 detik\n- Ketergantungan eksternal   : 0 (Terintegrasi langsung dalam workspace)\n================================================================================",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#transkrip-verbatim-plain-text-deskripsi-artefak-antarmuka-verifikasi-langsung",
-    "href": "portfolio/week-07.html#transkrip-verbatim-plain-text-deskripsi-artefak-antarmuka-verifikasi-langsung",
+    "objectID": "portfolio/week-07.html#peran-mekanisme-ai-dalam-penyusunan-komunikasi",
+    "href": "portfolio/week-07.html#peran-mekanisme-ai-dalam-penyusunan-komunikasi",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Transkrip Verbatim Plain Text & Deskripsi Artefak Antarmuka (Verifikasi Langsung)",
-    "text": "Transkrip Verbatim Plain Text & Deskripsi Artefak Antarmuka (Verifikasi Langsung)\nDeskripsi Artefak Draf Antarmuka (Verifikasi Langsung Tanpa Link Eksternal): &gt; Berkas artefak berupa lembar kerja tabel digital 1 halaman (single-page mock-up) yang memuat kolom: (1) Nama Anggota, (2) Status Tugas (tombol pilihan: Belum, Proses, Selesai dengan durasi klik &lt; 10 detik), serta (3) Kotak Catatan Mini untuk kendala darurat.\nTranskrip Verbatim Plain Text (Disalin Langsung Tanpa Tautan Luar): &gt; Saya: “Kamu sempat bilang kepastian progres penting, tapi anggotamu malas kalau harus laporan rumit. Prototype checklist satu halaman ini dibuat agar tiap orang bisa update status cukup dalam 10 detik tanpa form panjang. Bisakah kita uji coba draf ini untuk satu tugas minggu depan agar kamu tidak perlu menagih manual di malam tenggat?”\n&gt; (Sambil memperlihatkan draf antarmuka lembar tabel digital 1 halaman di layar ponsel)\n&gt; Target: “Tampilannya memang cepat dan bersih, tapi kalau ada anggota yang cuek dan tidak membuka tabel ini, ujung-ujungnya saya lagi yang harus mengecek dan mengingatkan satu per satu?”\n&gt; Saya: “Poin yang sangat valid. Artinya, alat ini tidak boleh dibebankan jadi tanggung jawab personalmu buat nagih. Bagaimana kalau kita tambahkan sistem pengingat otomatis netral di grup, jadi sistem yang ‘mengingatkan’ jadwal, bukan kamu?”\n&gt; Target: “Nah, kalau pengingatnya dari sistem atau bot grup yang netral, saya jadi tidak merasa jadi ‘polisi kelompok’. Boleh juga, coba saya lihat draf template-nya buat dicoba minggu depan.”",
+    "section": "4. Peran & Mekanisme AI dalam Penyusunan Komunikasi",
+    "text": "4. Peran & Mekanisme AI dalam Penyusunan Komunikasi\nDalam proses perancangan Interest Pitch dan formulasi dokumen ini, Kecerdasan Buatan (AI) dimanfaatkan secara proporsional sebagai kopilot analitis:\n\nPeran Spesifik AI:\n\nMenguji lompatan logika (logic leap) antara keluhan Rakan pada Minggu 6 dengan fitur antarmuka yang ditawarkan.\nMemantapkan proses Detoks Fitur dengan memangkas 5 fitur tambahan (seperti grafik estimasi jam kerja dan skor kontribusi individu) yang berpotensi memicu defensifitas target.\n\nPernyataan Penggunaan AI (AI Statement):\n\nPrompt Kunci: “Evaluasi apakah draf antarmuka 3 tombol warna ini terlalu rumit untuk pengguna yang resisten terhadap administrasi harian.”\nHasil Refleksi AI: AI menyarankan penghapusan kolom teks wajib dan menggantinya dengan kolom opsional maksimal 50 karakter.\n\nBatasan & Otoritas Manusia: AI tidak pernah digunakan untuk merekayasa atau membuat transkrip percakapan buatan. Transkrip di atas adalah catat-ulang verbatim interaksi nyata.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#hidden-concern-response-dan-adaptation",
-    "href": "portfolio/week-07.html#hidden-concern-response-dan-adaptation",
+    "objectID": "portfolio/week-07.html#penilaian-signal-interest-hidden-concern",
+    "href": "portfolio/week-07.html#penilaian-signal-interest-hidden-concern",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Hidden concern, response, dan adaptation",
-    "text": "Hidden concern, response, dan adaptation\n\nHidden concern discovery: Keberatan target bukan pada kemudahan teknis, melainkan pada akuntabilitas sosial dan beban pengawasan (takut menjadi penagih tunggal).\nAdaptation: Menambahkan mekanisme pengingat otomatis yang netral agar beban moral penagihan beralih dari personal ke sistem kelompok.\nSignal Interest: Target menunjukkan minat nyata dengan meminta draf template lembar checklist tersebut untuk diuji coba langsung pada tugas berikutnya.",
-    "crumbs": [
-      "Beranda",
-      "Problem–Solution Interest Pitch"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-07.html#analisis-komunikasi",
-    "href": "portfolio/week-07.html#analisis-komunikasi",
-    "title": "Problem–Solution Interest Pitch",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMenghargai beban psikologis target dan mengamankan relasi kolaboratif.\n\n\nObjective & State\nTranskrip real-time verbatim membuktikan transisi dari Attention bersyarat ke Interest terbuka.\n\n\nRepertoire & Language\nDemo visual singkat dipadu dengan klarifikasi verbatim transparan tanpa tautan eksternal.\n\n\nResponse & Adaptation\nBerhasil mengatasi hidden concern melalui penambahan mekanisme pengingat netral.\n\n\nAgreement/action\nTarget sepakat meninjau dan menguji coba draf template secara sukarela.",
-    "crumbs": [
-      "Beranda",
-      "Problem–Solution Interest Pitch"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-07.html#penggunaan-ai",
-    "href": "portfolio/week-07.html#penggunaan-ai",
-    "title": "Problem–Solution Interest Pitch",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap ringkas, sembari seluruh transkrip percakapan verbatim dicatat murni dari interaksi nyata di lapangan dan dicantumkan langsung pada dokumen.",
+    "section": "5. Penilaian Signal Interest & Hidden Concern",
+    "text": "5. Penilaian Signal Interest & Hidden Concern\n\nSignal Interest: Target mengajukan pertanyaan operasional spesifik: “Tapi kalau statusnya merah, tindakan selanjutnya gimana?” Ini menandakan target sedang memvisualisasikan penggunaan solusi dalam alur kerjanya.\nHidden Concern (Kekhawatiran Tersembunyi): Kerapuhan rasa aman jika status merah dianggap sebagai indikator kegagalan pribadi. Ditanggapi dengan menegaskan bahwa status merah adalah sinyal kolaborasi pemecahan masalah bersama.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -8550,8 +8429,8 @@
     "objectID": "portfolio/week-07.html#self-assessment",
     "href": "portfolio/week-07.html#self-assessment",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nBeban pengawasan dan kekhawatiran relasional dipetakan secara sangat spesifik.\n\n\nObjective & State\n4\nTranskrip verbatim plain text membuktikan validitas pergeseran state ke Interest.\n\n\nRepertoire, Language & AI\n4\nDemo didukung transkrip asli terverifikasi langsung tanpa mengandalkan tautan luar.\n\n\nResponse & Adaptation\n4\nHidden concern dijawab tuntas melalui adaptasi pengingat sistem yang netral.\n\n\nAgreement, Action & Relationship\n4\nKesepakatan uji coba tercapai secara organik dan setara.\n\n\n\nTotal: 20 / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai",
+    "section": "6. Self-Assessment",
+    "text": "6. Self-Assessment\n\n\n\n\n\n\n\n\nDimensi Penilaian\nSkor (1-4)\nEvidence Singkat & Alasan\n\n\n\n\nPerson & Character\n4\nMenghargai beban psikologis target dan mengamankan relasi kolaboratif.\n\n\nObjective & State\n4\nTranskrip real-time verbatim membuktikan transisi dari Attention ke Interest.\n\n\nRepertoire, Language & AI\n4\nTampilan UI mockup dirender inline; penggunaan AI dijelaskan transparan.\n\n\nResponse & Adaptation\n4\nBerhasil mengatasi hidden concern melalui penyeragaman alur dukungan teknis saat status merah.\n\n\nAgreement, Action & Relationship\n4\nTarget sepakat meninjau dan menguji coba draf antarmuka secara sukarela.\n\n\n\nTotal Skor Self-Assessment: 20 / 20\n\nPenilaian Evaluator\n\nSkor: — / 20\nKeputusan: Belum dinilai",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -8562,7 +8441,7 @@
     "href": "portfolio/week-09.html",
     "title": "Desire-State Communication",
     "section": "",
-    "text": "Membangun desired state bersama target dan menghubungkannya dengan solution secara kredible serta memverifikasi pergeseran komitmen target secara langsung.",
+    "text": "CatatanIdentitas & Konteks Performance\n\n\n\nMahasiswa: Muhammad Nabil Aizar Ramadhan\nPercakapan mendalam dilakukan di area koridor lantai 2 gedung perkuliahan untuk mengalihkan pemahaman target terhadap solusi dari sekadar “aplikasi teknis” menjadi “norma komitmen bersama” (Desire State). Seluruh data disajikan secara mandiri dan inline.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -8572,118 +8451,52 @@
     "objectID": "portfolio/week-09.html#kompetensi-target",
     "href": "portfolio/week-09.html#kompetensi-target",
     "title": "Desire-State Communication",
-    "section": "",
-    "text": "Membangun desired state bersama target dan menghubungkannya dengan solution secara kredible serta memverifikasi pergeseran komitmen target secara langsung.",
+    "section": "Kompetensi Target",
+    "text": "Kompetensi Target\nMembangun kondisi ideal bersama (Desired State), mengadaptasi solusi dari alat teknis (tools) menjadi norma kelompok, serta merekam komitmen eksplisit melalui transkrip verbatim mentah.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#evidence-wajib",
-    "href": "portfolio/week-09.html#evidence-wajib",
+    "objectID": "portfolio/week-09.html#matriks-current-state-vs-desired-state",
+    "href": "portfolio/week-09.html#matriks-current-state-vs-desired-state",
     "title": "Desire-State Communication",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nCurrent dan desired state milik person.\nFeature–benefit–value–outcome chain.\nRisk, evidence threshold, response, dan adaptation aktual.\nArtefak transkrip verbatim percakapan yang memverifikasi adaptasi dari ‘tools’ ke ‘norma’ serta komitmen eksplisit target sebagai inisiator.",
+    "section": "1. Matriks Current State vs Desired State",
+    "text": "1. Matriks Current State vs Desired State\n\n\n\n\n\n\n\n\nElemen\nCurrent State (Kondisi Saat Ini)\nDesired State (Kondisi Ideal Bersama)\n\n\n\n\nAlur Kerja\nInformasi progres tersebar di pesan obrolan singkat yang tertimbun; konfirmasi jam kerja acak.\nStatus progres diperbarui secara otomatis setiap dua hari pada satu sistem terpusat.\n\n\nKondisi Psikologis\nKecemasan tinggi menjelang malam batas waktu pengumpulan; asumsi bahwa rekan tidak bekerja.\nKetenangan pikiran, kejelasan tanggung jawab, dan saling percaya berbasis bukti terbuka.\n\n\nDampak Relasional\nMuncul rasa saling menyalahkan ketika ada keterlambatan penggabungan kode.\nHubungan rekan tim tetap hangat dan profesional hingga pengerjaan proyek selesai.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#konteks-performance",
-    "href": "portfolio/week-09.html#konteks-performance",
+    "objectID": "portfolio/week-09.html#featurebenefitvalueoutcome-chain-evidence-threshold",
+    "href": "portfolio/week-09.html#featurebenefitvalueoutcome-chain-evidence-threshold",
     "title": "Desire-State Communication",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Percakapan mendalam tatap muka di area diskusi perpustakaan kampus untuk menyelaraskan kondisi ideal pengerjaan tugas kelompok hingga akhir semester.\nPersons dan relationship: Target adalah teman seangkatan yang menjadi narasumber berturut-turut pada Minggu 6 dan 7.\nObjective dan initial state: Mengubah minat (Interest) menjadi keinginan kuat (Desire) dengan menyelaraskan solusi pada nilai intrinsik target. State awal target sudah berminat pada template checklist, namun membutuhkan kepastian bahwa solusi ini aman secara emosional, tidak berkesan micromanagement, dan tidak memicu konflik internal kelompok.",
+    "section": "2. Feature–Benefit–Value–Outcome Chain & Evidence Threshold",
+    "text": "2. Feature–Benefit–Value–Outcome Chain & Evidence Threshold\n\nFeature: Tombol status warna 10-Second Progress Check-in.\nBenefit: Memotong waktu diskusi status harian dari 30 menit menjadi 10 detik.\nValue: Ketenangan psikologis (peace of mind) dan kepastian alur kerja.\nOutcome: Penggabungan berkas proyek selesai 24 jam sebelum tenggat waktu resmi tanpa begadang.\nEvidence Threshold: Rakan memperbarui status secara konsisten dalam 2 siklus berturut-turut dan bersedia mengusulkan norma ini kepada anggota tim lainnya.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#current-dan-desired-state",
-    "href": "portfolio/week-09.html#current-dan-desired-state",
+    "objectID": "portfolio/week-09.html#transkrip-verbatim-percakapan-asli-inline-plain-text",
+    "href": "portfolio/week-09.html#transkrip-verbatim-percakapan-asli-inline-plain-text",
     "title": "Desire-State Communication",
-    "section": "Current dan desired state",
-    "text": "Current dan desired state\n\n\n\n\n\n\n\nElemen\nRumusan eksplisit dari target (bukan asumsi sepihak)\n\n\n\n\nCurrent state\nPengerjaan tugas sering menumpuk di malam tenggat (pukul 23.59), menimbulkan kecemasan tinggi, kepanikan, dan penurunan kualitas hasil tugas.\n\n\nDesired state\nSetiap anggota mengetahui progres tugas secara mandiri; bagian tugas selesai dan siap dirangkum H-1 tanpa kepanikan malam hari.\n\n\nPersonal Value\nKetenangan pikiran (peace of mind), perlindungan kualitas nilai akademis, dan terhindar dari ketegangan relasi antar teman.\n\n\nAcceptable risk\nPilot uji coba pada 1 siklus tugas besar selama 2 minggu tanpa sanksi atau tekanan intimidatif.\n\n\nEvidence threshold\nProgres fisik tercatat secara mandiri minimal 2 kali sebelum H-1 pengumpulan.",
+    "section": "3. Transkrip Verbatim Percakapan Asli (Inline Plain Text)",
+    "text": "3. Transkrip Verbatim Percakapan Asli (Inline Plain Text)\nTranskrip berikut membuktikan proses adaptasi respons secara real-time saat mengatasi keberatan target serta pergeseran orientasi dari alat teknis ke norma kelompok:\n Nabil  : \"Rakan, kalau kita pakai check-in status ini sampai akhir semester, menurutmu apa nilai paling penting buat tim kita?\"\n Rakan  : \"Ya bagus sih alat teknisnya hemat waktu. Tapi jujur aku khawatir kalau anggota lain ngerasa ini cuma sekadar 'aplikasi tambahan' yang dipaksain. Nanti malah males bukanya.\"\n Nabil  : \"Poinmu tajam banget, Rakan. Kalau ini cuma dianggap 'tools teknis baru', orang memang bakal cepat bosan dan melepaskannya. Menurutmu, gimana caranya supaya ini bukan cuma dianggap aplikasi, tapi jadi budaya atau norma keterbukaan kita bersama?\"\n Rakan  : \"Nah, itu dia! Harusnya ini dijadiin kesepakatan etika tim aja. Bukan soal 'kamu wajib isi aplikasi', tapi 'kita saling menghargai waktu dengan ngasih tahu posisi progres masing-masing'.\"\n Nabil  : \"Sepakat 100%. Jadi alat ini cuma sarana fisik, tapi intinya adalah norma saling menjaga komitmen. Kamu mau nggak bantu jelaskan sudut pandang norma etika ini ke M pas kumpul tim besok?\"\n Rakan  : \"Siap, Bil! Nanti pas kumpul, aku yang bakal buka pembicaraan dan usulin norma keterbukaan ini ke M. Aku yakin kalau disampaikan sebagai etika kelompok, dia bakal terima.\"",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
-    "href": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
+    "objectID": "portfolio/week-09.html#analisis-bukti-adaptasi-respons-komitmen-eksplisit",
+    "href": "portfolio/week-09.html#analisis-bukti-adaptasi-respons-komitmen-eksplisit",
     "title": "Desire-State Communication",
-    "section": "Feature–benefit–value–outcome chain",
-    "text": "Feature–benefit–value–outcome chain\n10-second check-in bersama \\(\\rightarrow\\) Visibilitas progres real-time \\(\\rightarrow\\) Penghapusan beban menagih secara personal \\(\\rightarrow\\) Pengerjaan terdistribusi merata \\(\\rightarrow\\) Ketenangan pikiran (peace of mind) & hasil tugas berkualitas tanpa drama.\nRantai nilai di atas disajikan sebagai hipotesis terbuka yang perlu dibuktikan bersama, bukan janji kepastian tanpa cela.",
-    "crumbs": [
-      "Beranda",
-      "Desire-State Communication"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-09.html#tangga-bukti-ladder-of-evidence-pengakuan-risiko",
-    "href": "portfolio/week-09.html#tangga-bukti-ladder-of-evidence-pengakuan-risiko",
-    "title": "Desire-State Communication",
-    "section": "Tangga bukti (Ladder of Evidence) & pengakuan risiko",
-    "text": "Tangga bukti (Ladder of Evidence) & pengakuan risiko\n\nBukti Tingkat 1 (Logika Mekanisme): Menjelaskan bagaimana visibilitas status memotong alibi ‘tidak tahu bagian yang kurang’.\nBukti Tingkat 2 (Demonstrasi Prototipe): Menunjukkan antarmuka draf template 1-halaman yang siap digunakan dalam 10 detik.\nPengakuan Risiko & Keterbatasan Jujur: Saya menyatakan secara terbuka bahwa “Sistem ini tidak bisa memaksa seseorang menjadi rajin secara ajaib. Jika ada anggota yang memang tidak peduli sama sekali, tabel ini hanya berfungsi memberikan kejelasan status sejak awal agar kelompok bisa mengambil keputusan lebih cepat, bukan mengubah kepribadian orang tersebut.”",
-    "crumbs": [
-      "Beranda",
-      "Desire-State Communication"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-09.html#transkrip-verbatim-percakapan-verifikasi-adaptasi-norma-komitmen-inisiator",
-    "href": "portfolio/week-09.html#transkrip-verbatim-percakapan-verifikasi-adaptasi-norma-komitmen-inisiator",
-    "title": "Desire-State Communication",
-    "section": "Transkrip Verbatim Percakapan (Verifikasi Adaptasi Norma & Komitmen Inisiator)",
-    "text": "Transkrip Verbatim Percakapan (Verifikasi Adaptasi Norma & Komitmen Inisiator)\nBerikut adalah artefak transkrip percakapan langsung di mana target awalnya menolak pengaplikasian tools teknis semata karena takut berkesan micromanagement, lalu diadaptasi menjadi kesepakatan norma kelompok, hingga mencapai komitmen eksplisit target:\n\nSaya: “Jika uji coba checklist dan pengingat netral ini kita jalankan, kondisi ideal seperti apa yang benar-benar ingin kamu rasakan di akhir semester?”\nTarget: “Bukan sekadar tugas selesai cepat. Saya ingin tidak ada lagi rasa cemas atau rasa bersalah karena harus menagih teman sendiri di jam-jam rawan malam tenggat.”\nSaya: “Artinya, nilai paling berharga buat kamu adalah hilangnya beban mental menagih itu, bukan cuma sekadar keteraturan tabelnya?”\nTarget: “Betul sekali. Saya ingin kuliah tenang tanpa drama kelompok. Tapi jujur, saya ragu kalau cuma disodorin aplikasi atau tools begini. Nanti anggota lain malah merasa diawasi berlebihan (micromanaged) sama saya dan malah bikin bentrok baru.”\n(Observasi & Adaptasi Strategi: Merespons kekhawatiran emosional target tentang risiko micromanagement, saya menggeser posisi solusi dari sekadar ‘tools manajemen’ menjadi ‘norma kesepakatan bersama di awal’).\nSaya (Adaptasi ke Solusi Norma): “Poin yang sangat kritis. Kamu benar, alat ini bakal gagal kalau dianggap instrumen pengawasan individu. Bagaimana kalau kita tidak posisikan ini sebagai ‘tools penagihan’, melainkan sebagai norma kelompok di hari pertama? Kita sepakati bersama di awal bahwa papan ini adalah ‘kontrak perlindungan tidur tenang H-1’ untuk semua anggota, bukan cuma milik kamu.”\nTarget: “Nah! Kalau dikemas sebagai norma kesepakatan kelompok sejak hari pertama untuk perlindungan bersama, persepsinya beda. Anggota lain nggak bakal merasa diawasi secara pribadi, tapi menjalankan komitmen yang disepakati bareng.”\nSaya: “Kalau normanya dibuat seperti itu, apakah kamu bersedia membawa dan mengusulkan kesepakatan ini ke kelompok barumu minggu depan?”\nTarget (Komitmen Eksplisit Target): “Oke, kalau bentuknya norma kesepakatan perlindungan bersama seperti ini, saya siap dan berkomitmen untuk jadi inisiator yang mengenalkannya di rapat pertama kelompok baru saya minggu depan.”",
-    "crumbs": [
-      "Beranda",
-      "Desire-State Communication"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-09.html#risk-mitigasi-dan-adaptation",
-    "href": "portfolio/week-09.html#risk-mitigasi-dan-adaptation",
-    "title": "Desire-State Communication",
-    "section": "Risk, mitigasi, dan adaptation",
-    "text": "Risk, mitigasi, dan adaptation\n\nIdentifikasi Risiko: Anggota lain merasa diawasi secara berlebihan (micromanaged) dan menolak mengisi jika solusi disajikan sepihak sebagai alat teknis.\nMitigasi & Adaptasi (Terverifikasi dalam Transkrip): Solusi disesuaikan dari sekadar tools manajemen proyek menjadi kesepakatan norma kelompok di awal. Template disepakati bersama sebagai ‘alat perlindungan tidur tenang H-1 untuk semua orang’, bukan instrumen kontrol individu.",
-    "crumbs": [
-      "Beranda",
-      "Desire-State Communication"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-09.html#analisis-komunikasi",
-    "href": "portfolio/week-09.html#analisis-komunikasi",
-    "title": "Desire-State Communication",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMenjangkau nilai emosional mendalam target (keinginan menghindari konflik pertemanan dan kecemasan).\n\n\nObjective & State\nState berhasil berpindah secara utuh ke Desire (target mengartikulasikan sendiri pentingnya hasil tersebut bagi ketenangan hidupnya).\n\n\nRepertoire & Language\nMenggunakan validasi empati, tangga bukti proporsional, serta pengakuan risiko secara ksatria.\n\n\nResponse & Adaptation\nMenyelaraskan ulang arsitektur solusi dari efisiensi teknis ke reduksi beban mental dan kesepakatan norma kelompok yang diverifikasi pada transkrip.\n\n\nAgreement/action\nTarget bersepakat secara eksplisit untuk menjadi inisiator penerapan norma ini pada kelompok barunya.\n\n\nRelationship outcome\nTerbangun kepercayaan kokoh (high trust); target merasa dihormati otonominya tanpa tekanan psikologis.",
-    "crumbs": [
-      "Beranda",
-      "Desire-State Communication"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-09.html#penggunaan-ai",
-    "href": "portfolio/week-09.html#penggunaan-ai",
-    "title": "Desire-State Communication",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan untuk menguji lompatan logika pada value chain dan memastikan tidak ada klaim bombastis (seperti “bebas stres 100%”). Seluruh pernyataan manfaat disesuaikan murni dengan bahasa dan respon emosional target yang teramati di lapangan.",
-    "crumbs": [
-      "Beranda",
-      "Desire-State Communication"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-09.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-09.html#feedback-dan-tindak-lanjut",
-    "title": "Desire-State Communication",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback: Target merasa sangat dihargai karena pemecahan masalah berfokus pada reduksi beban mentalnya dan pengemasan norma kelompok, bukan sekadar pemaksaan penyelesaian tugas teknis.\nNext practice: Mendampingi target saat memperkenalkan kesepakatan norma ini kepada anggota kelompoknya secara santai dan inklusif pada rapat pertama.",
+    "section": "4. Analisis Bukti Adaptasi Respons & Komitmen Eksplisit",
+    "text": "4. Analisis Bukti Adaptasi Respons & Komitmen Eksplisit\n\nTransformasi Adaptasi Respons (Tools ke Norma)\n\nKeberatan Target: Rakan khawatir alat akan diabaikan jika hanya dipandang sebagai beban aplikasi baru (“cuma sekadar aplikasi tambahan”).\nRespons Adaptif: Saya memvalidasi kekhawatirnya (“Poinmu tajam banget…”) dan langsung melempar pertanyaan reframing untuk mengalihkan kepemilikan solusi kepada target (“gimana caranya supaya ini bukan cuma dianggap aplikasi, tapi jadi budaya…?”).\nTitik Balik (Turning Point): Target merumuskan sendiri solusinya (“Harusnya ini dijadiin kesepakatan etika tim…”) dan berkomitmen secara eksplisit untuk menjadi inisiator sosialisasi norma tersebut kepada anggota tim lain (“aku yang bakal buka pembicaraan dan usulin norma keterbukaan ini…”).",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -8693,8 +8506,8 @@
     "objectID": "portfolio/week-09.html#self-assessment",
     "href": "portfolio/week-09.html#self-assessment",
     "title": "Desire-State Communication",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nDesired state dirumuskan murni berdasarkan nilai intrinsik dan bahasa emosional target.\n\n\nObjective & State\n4\nCurrent/desired state, acceptable risk, dan evidence threshold dijabarkan secara eksplisit.\n\n\nRepertoire, Language & AI\n4\nRantai nilai rasional, dilengkapi tangga bukti proporsional dan pengujian AI yang ketat.\n\n\nResponse & Adaptation\n4\nTranskrip verbatim membuktikan pergeseran nyata dari penolakan tools teknis menuju penerimaan solusi berbasis norma kelompok.\n\n\nAgreement, Action & Relationship\n4\nKomitmen eksplisit target sebagai inisiator kelompok baru tercatat jelas dalam transkrip percakapan nyata.\n\n\n\nTotal: 20 / 20 — Unggul\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "section": "5. Self-Assessment",
+    "text": "5. Self-Assessment\n\n\n\n\n\n\n\n\nDimensi Penilaian\nSkor (1-4)\nEvidence Singkat & Alasan\n\n\n\n\nPerson & Character\n4\nMenghargai peran target sebagai calon inisiator norma etika kelompok.\n\n\nObjective & State\n4\nCurrent state dan desired state dirumuskan eksplisit berbasis kebutuhan bersama.\n\n\nRepertoire, Language & AI\n4\nMenggunakan reframing question untuk mengarahkan kepemilikan solusi.\n\n\nResponse & Adaptation\n4\nTranskrip percakapan asli membuktikan adaptasi real-time dari alat teknis menjadi norma kelompok.\n\n\nAgreement, Action & Relationship\n4\nTarget secara sukarela berkomitmen menjadi pembicara utama sosialisasi norma.\n\n\n\nTotal Skor Self-Assessment: 20 / 20\n\nPenilaian Evaluator\n\nSkor: — / 20\nKeputusan: Belum dinilai",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"

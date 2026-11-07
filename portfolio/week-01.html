@@ -8,7 +8,7 @@
 
 <meta name="description" content="Peta lima character dan adaptasi bahasa, dilengkapi lampiran percakapan teknis, perbandingan skema basis data sebelum–sesudah commit, serta jadwal pengelolaan beban kerja.">
 
-<title>Character Map – Portfolio KIPP-2</title>
+<title>Character Map &amp; Foundation – Portfolio KIPP-2</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,6 +26,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -153,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="Jalur"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../portfolio/week-01.html">Character Map</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="Jalur"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../portfolio/week-01.html">Character Map &amp; Foundation</a></li></ol></nav>
         <a class="flex-grow-1" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -174,7 +209,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../portfolio/week-01.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Character Map</span></a>
+ <span class="menu-text">Character Map &amp; Foundation</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -277,24 +312,23 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Di halaman ini</h2>
    
   <ul>
-  <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
-  <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#peta-lima-character" id="toc-peta-lima-character" class="nav-link" data-scroll-target="#peta-lima-character">Peta lima character</a></li>
-  <li><a href="#episode-yang-dianalisis-dan-artefak-verifikasi-langsung" id="toc-episode-yang-dianalisis-dan-artefak-verifikasi-langsung" class="nav-link" data-scroll-target="#episode-yang-dianalisis-dan-artefak-verifikasi-langsung">Episode yang dianalisis dan artefak verifikasi langsung</a>
+  <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi Target</a></li>
+  <li><a href="#pemetaan-5-character-komunikasi" id="toc-pemetaan-5-character-komunikasi" class="nav-link" data-scroll-target="#pemetaan-5-character-komunikasi">1. Pemetaan 5 Character Komunikasi</a></li>
+  <li><a href="#pembedaan-konseptual-perubahan-register-bahasa" id="toc-pembedaan-konseptual-perubahan-register-bahasa" class="nav-link" data-scroll-target="#pembedaan-konseptual-perubahan-register-bahasa">2. Pembedaan Konseptual &amp; Perubahan Register Bahasa</a>
   <ul class="collapse">
-  <li><a href="#transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung" id="toc-transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung" class="nav-link" data-scroll-target="#transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung">Transkrip Percakapan Teknis (Teks Mentah Terverifikasi dengan Bukti Adaptasi Langsung)</a></li>
+  <li><a href="#membedakan-person-personality-dan-character" id="toc-membedakan-person-personality-dan-character" class="nav-link" data-scroll-target="#membedakan-person-personality-dan-character">Membedakan Person, Personality, dan Character</a></li>
+  <li><a href="#demonstrasi-perubahan-register-bahasa" id="toc-demonstrasi-perubahan-register-bahasa" class="nav-link" data-scroll-target="#demonstrasi-perubahan-register-bahasa">Demonstrasi Perubahan Register Bahasa</a></li>
   </ul></li>
-  <li><a href="#demonstrasi-perubahan-language-simulasi-transkrip-pergeseran-character" id="toc-demonstrasi-perubahan-language-simulasi-transkrip-pergeseran-character" class="nav-link" data-scroll-target="#demonstrasi-perubahan-language-simulasi-transkrip-pergeseran-character">Demonstrasi Perubahan Language (Simulasi Transkrip Pergeseran Character)</a></li>
-  <li><a href="#lampiran-artefak-pendukung" id="toc-lampiran-artefak-pendukung" class="nav-link" data-scroll-target="#lampiran-artefak-pendukung">Lampiran Artefak Pendukung</a>
+  <li><a href="#bukti-artefak-verifikasi-langsung-inline-plain-text" id="toc-bukti-artefak-verifikasi-langsung-inline-plain-text" class="nav-link" data-scroll-target="#bukti-artefak-verifikasi-langsung-inline-plain-text">3. Bukti Artefak Verifikasi Langsung (Inline Plain Text)</a>
   <ul class="collapse">
-  <li><a href="#perbandingan-skema-basis-data-sebelum-vs-sesudah-commit" id="toc-perbandingan-skema-basis-data-sebelum-vs-sesudah-commit" class="nav-link" data-scroll-target="#perbandingan-skema-basis-data-sebelum-vs-sesudah-commit">1. Perbandingan Skema Basis Data Sebelum vs Sesudah Commit</a></li>
-  <li><a href="#jadwal-pengelolaan-beban-kerja-sinkronisasi" id="toc-jadwal-pengelolaan-beban-kerja-sinkronisasi" class="nav-link" data-scroll-target="#jadwal-pengelolaan-beban-kerja-sinkronisasi">2. Jadwal Pengelolaan Beban Kerja &amp; Sinkronisasi</a></li>
-  <li><a href="#log-git-commit-inline-verifikasi-langsung" id="toc-log-git-commit-inline-verifikasi-langsung" class="nav-link" data-scroll-target="#log-git-commit-inline-verifikasi-langsung">3. Log Git Commit Inline (Verifikasi Langsung)</a></li>
+  <li><a href="#a.-transkrip-percakapan-teknis-verbatim" id="toc-a.-transkrip-percakapan-teknis-verbatim" class="nav-link" data-scroll-target="#a.-transkrip-percakapan-teknis-verbatim">A. Transkrip Percakapan Teknis Verbatim</a></li>
+  <li><a href="#b.-perbandingan-skema-basis-data-sebelum-vs-sesudah-commit" id="toc-b.-perbandingan-skema-basis-data-sebelum-vs-sesudah-commit" class="nav-link" data-scroll-target="#b.-perbandingan-skema-basis-data-sebelum-vs-sesudah-commit">B. Perbandingan Skema Basis Data (Sebelum vs Sesudah Commit)</a></li>
+  <li><a href="#c.-log-git-commit-inline" id="toc-c.-log-git-commit-inline" class="nav-link" data-scroll-target="#c.-log-git-commit-inline">C. Log Git Commit Inline</a></li>
+  <li><a href="#d.-jadwal-pengelolaan-beban-kerja-sinkronisasi-tim" id="toc-d.-jadwal-pengelolaan-beban-kerja-sinkronisasi-tim" class="nav-link" data-scroll-target="#d.-jadwal-pengelolaan-beban-kerja-sinkronisasi-tim">D. Jadwal Pengelolaan Beban Kerja &amp; Sinkronisasi Tim</a></li>
   </ul></li>
-  <li><a href="#evidence-ai-dan-feedback" id="toc-evidence-ai-dan-feedback" class="nav-link" data-scroll-target="#evidence-ai-dan-feedback">Evidence, AI, dan feedback</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">4. Self-Assessment</a>
   <ul class="collapse">
-  <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
+  <li><a href="#penilaian-evaluator" id="toc-penilaian-evaluator" class="nav-link" data-scroll-target="#penilaian-evaluator">Penilaian Evaluator</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -304,7 +338,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Character Map</h1>
+<h1 class="title">Character Map &amp; Foundation</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Fondasi</div>
     <div class="quarto-category">Person</div>
@@ -330,18 +364,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="kompetensi-target" class="level2">
-<h2 class="anchored" data-anchor-id="kompetensi-target">Kompetensi target</h2>
-<p>Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.</p>
-</section>
-<section id="evidence-wajib" class="level2">
-<h2 class="anchored" data-anchor-id="evidence-wajib">Evidence wajib</h2>
-<ul>
-<li>Lima character dari sedikitnya tiga domain kehidupan.</li>
-<li>Objective, responsibility, repertoire, dan risiko tiap character.</li>
-<li>Satu contoh perubahan language ketika character berubah.</li>
-<li>Artefak proses diskusi, transkrip teks mentah, perbandingan skema basis data, log aktivitas Git inline, serta jadwal pengelolaan beban kerja.</li>
-</ul>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -353,197 +375,208 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="callout-body-container callout-body">
 <p>Mahasiswa: <strong>Muhammad Nabil Aizar Ramadhan</strong><br>
-Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1. Seluruh lampiran artefak dicantumkan secara lengkap dan langsung di bawah ini.</p>
+Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komunikasi pada Minggu 1. Seluruh lampiran artefak dicantumkan secara lengkap, valid, dan dapat diverifikasi langsung (<em>inline plain-text</em>) tanpa mengandalkan tautan eksternal.</p>
 </div>
 </div>
+<section id="kompetensi-target" class="level2">
+<h2 class="anchored" data-anchor-id="kompetensi-target">Kompetensi Target</h2>
+<p>Membedakan <em>person</em>, <em>personality</em>, dan <em>character</em> serta memilih <em>objective</em>, <em>repertoire</em>, dan <em>language</em> yang sesuai dengan konteks komunikasi interpersonal dan akademik.</p>
 <hr>
 </section>
-<section id="peta-lima-character" class="level2">
-<h2 class="anchored" data-anchor-id="peta-lima-character">Peta lima character</h2>
+<section id="pemetaan-5-character-komunikasi" class="level2">
+<h2 class="anchored" data-anchor-id="pemetaan-5-character-komunikasi">1. Pemetaan 5 Character Komunikasi</h2>
+<p>Berikut adalah pemetaan lima <em>character</em> yang saya bawakan di lintas domain kehidupan:</p>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
+<col style="width: 16%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Domain dan character</th>
-<th>Person dan relationship</th>
-<th>Objective dan responsibility</th>
-<th>Repertoire dan language</th>
-<th>Risiko dan latihan</th>
+<th style="text-align: left;">Domain Kehidupan</th>
+<th style="text-align: left;">Person &amp; Relationship</th>
+<th style="text-align: left;">Peran &amp; Character</th>
+<th style="text-align: left;">Objective &amp; Responsibility</th>
+<th style="text-align: left;">Repertoire &amp; Language Register</th>
+<th style="text-align: left;">Risiko &amp; Tindakan Pencegahan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Intra-Self — <strong>reflective debugger</strong></td>
-<td>Diri sendiri saat menghadapi kendala teknis atau evaluasi performa</td>
-<td>Mengurai frustrasi menjadi langkah analisis logis tanpa mereduksi diri</td>
-<td>Pemisahan fakta vs asumsi; “Variabel mana yang berada di bawah kendali saya?”</td>
-<td>Terjebak <em>overthinking</em>; tulis daftar fakta terukur sebelum menyimpulkan</td>
+<td style="text-align: left;"><strong>1. Intra-Self (Diri Sendiri)</strong></td>
+<td style="text-align: left;">Diri sendiri setelah evaluasi draf tugas</td>
+<td style="text-align: left;"><em>Reflective Learner</em></td>
+<td style="text-align: left;">Memisahkan kesalahan teknis dari identitas diri; mengevaluasi fakta secara objektif.</td>
+<td style="text-align: left;">Jurnal evaluasi berbasis <em>fact vs story</em>; register bahasa introspektif dan netral.</td>
+<td style="text-align: left;">Terjebak <em>self-blame</em>; mewajibkan pencatatan 3 data fakta sebelum mengambil kesimpulan.</td>
 </tr>
 <tr class="even">
-<td>Academic / Work — <strong>koordinator teknis</strong></td>
-<td>Fakhri (rekan satu tim pengembang perangkat lunak)</td>
-<td>Menyelaraskan arsitektur modul dan memastikan tenggat integrasi tercapai</td>
-<td><em>Check-in</em> progres, penegasan spesifikasi via catatan tertulis; “Kendala apa yang menghambat modul X?”</td>
-<td>Terdengar diktator/kaku; jelaskan dampak sistemik terhadap seluruh tim sebelum meminta revisi</td>
+<td style="text-align: left;"><strong>2. Keluarga / Sahabat</strong></td>
+<td style="text-align: left;">Adik kandung yang memilih fokus studi</td>
+<td style="text-align: left;"><em>Supportive Mentor</em></td>
+<td style="text-align: left;">Mendampingi pemetaan opsi tanpa memaksakan kehendak atau menggurui.</td>
+<td style="text-align: left;">Pertanyaan terbuka, <em>paraphrasing</em>, register bahasa kasual-ramah dan empati.</td>
+<td style="text-align: left;">Terdengar menggurui (<em>paternalistic</em>); meminta izin sebelum memberikan pandangan.</td>
 </tr>
 <tr class="odd">
-<td>Peers — <strong>rekan setara</strong></td>
-<td>Anggota kelompok tugas kuliah umum</td>
-<td>Menjaga ritme kolaborasi yang adil dan terbuka</td>
-<td>Diskusi dua arah, asertif tanpa menyerang; “Bagaimana jika kita bagi dua tugas ini agar tidak menumpuk?”</td>
-<td>Pasif demi menghindari konflik; sampaikan ketidaksesuaian sedini mungkin</td>
+<td style="text-align: left;"><strong>3. Profesional / Akademik</strong></td>
+<td style="text-align: left;">Rekan pengembang modul basis data</td>
+<td style="text-align: left;"><em>Technical Coordinator</em></td>
+<td style="text-align: left;">Memastikan batas waktu commit dan skema API disepakati secara eksplisit.</td>
+<td style="text-align: left;"><em>Check-in</em> singkat, pembuatan opsi terstruktur, register teknis presisi (<em>plain text</em>).</td>
+<td style="text-align: left;">Penggunaan asumsi sepihak; mengonfirmasi ulang setiap kesepakatan secara tertulis.</td>
 </tr>
 <tr class="even">
-<td>Community / Org — <strong>fasilitator divisi</strong></td>
-<td>Anggota baru organisasi mahasiswa</td>
-<td>Membantu adaptasi alur kerja tanpa menciptakan relasi kuasa yang menekan</td>
-<td><em>Active listening</em>, pertanyaan pemantik; “Bagian alur mana yang masih membingungkan?”</td>
-<td><em>Micromanagement</em>; berikan ruang eksplorasi mandiri sebelum mengoreksi hasil</td>
+<td style="text-align: left;"><strong>4. Kelompok / Komunitas</strong></td>
+<td style="text-align: left;">Anggota tim proyek tugas besar</td>
+<td style="text-align: left;"><em>Facilitative Collaborator</em></td>
+<td style="text-align: left;">Membuka ruang partisipasi setara dan memfasilitasi pembagian beban kerja.</td>
+<td style="text-align: left;"><em>Round-robin summary</em>, klarifikasi ekspektasi, register dialogis dan rasional.</td>
+<td style="text-align: left;">Suara dominan menguasai diskusi; memberikan giliran bicara kepada anggota yang pasif.</td>
 </tr>
 <tr class="odd">
-<td>Friends &amp; Family — <strong>anak / teman santai</strong></td>
-<td>Keluarga dan teman dekat di luar jam kerja</td>
-<td>Mengomunikasikan rasa lelah secara jujur, mendengarkan saran, dan melepas beban mental</td>
-<td>Humor kontekstual, bahasa personal terbuka; “Mau cerita santai atau butuh masukan?”</td>
-<td>Menutup diri saat kewalahan; tahan dorongan langsung menganalisis masalah secara teknis</td>
+<td style="text-align: left;"><strong>5. Dunia / Publik</strong></td>
+<td style="text-align: left;">Pembaca umum / Pengguna sistem</td>
+<td style="text-align: left;"><em>Clear Knowledge Translator</em></td>
+<td style="text-align: left;">Menyampaikan gagasan teknis menjadi langkah praktis yang relevan dan mudah dipahami.</td>
+<td style="text-align: left;">Analog grafis, penyederhanaan jargon, register bahasa umum yang ramah dan lugas.</td>
+<td style="text-align: left;">Terjebak <em>jargon dumping</em>; menguji draf bacaan pada audiens awam sebelum dipublikasikan.</td>
 </tr>
 </tbody>
 </table>
 <hr>
 </section>
-<section id="episode-yang-dianalisis-dan-artefak-verifikasi-langsung" class="level2">
-<h2 class="anchored" data-anchor-id="episode-yang-dianalisis-dan-artefak-verifikasi-langsung">Episode yang dianalisis dan artefak verifikasi langsung</h2>
-<p><strong>Konteks &amp; Masalah:</strong> Sehari setelah batas waktu kesepakatan internal terlewati, berkas skema basis data dan kontrak rute API pada modul sistem belum muncul di repositori Git. Pikiran awal saya langsung membentuk asumsi (<em>story</em>) bahwa rekan tim mengabaikan komitmen jadwal. Padahal, data objektif saat itu hanyalah satu: belum ada <em>commit</em> baru yang masuk ke repositori (<em>fact</em>).</p>
-<p><strong>Objective:</strong> Memastikan status riil pengerjaan kode serta menyepakati penyesuaian jadwal integrasi bersama, tanpa merusak kenyamanan dan rasa saling percaya di dalam tim.</p>
-<section id="transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung" class="level3">
-<h3 class="anchored" data-anchor-id="transkrip-percakapan-teknis-teks-mentah-terverifikasi-dengan-bukti-adaptasi-langsung">Transkrip Percakapan Teknis (Teks Mentah Terverifikasi dengan Bukti Adaptasi Langsung)</h3>
-<blockquote class="blockquote">
-<p><strong>Saya (Koordinator Teknis):</strong> “Fakhri, draf skema basis data di repositori belum ada pembaruan dari semalam. Bisa langsung <em>push</em> sekarang biar tim antarmuka nggak tertahan?”<br>
-<strong>Fakhri:</strong> “Iya, ada kendala konflik dependensi di <em>environment</em> lokal semalam, jadi aku agak tertahan pas mau validasi rute <em>endpoints</em>-nya.”<br>
-<em>(Observasi Pergeseran Strategi/Adaptasi: Alih-alih mendesak pemaksaan push mentah yang berisiko merusak sistem lokal Fakhri, saya segera mengubah strategi merespons hambatan teknis tersebut menjadi tawaran sesi kolaboratif terisolasi).</em><br>
-<strong>Saya (Adaptasi Strategi):</strong> “Berarti struktur relasi datanya aman, dan kendala murni ada di isolasi pengujian lokalnya? Kalau begitu, alih-alih langsung <em>push</em> file rusak, bagaimana kalau skemanya kita rapikan dulu sebentar siang ini untuk <em>mock</em>, lalu sore nanti kita bereskan konfigurasi lokalnya bareng-bareng lewat sesi sinkronisasi virtual?”<br>
-<strong>Fakhri:</strong> “Wah, boleh banget kalau dibantu sinkronisasi environment-nya sore nanti, biar kodenya bersih dan nggak conflict pas digabung.”</p>
-</blockquote>
+<section id="pembedaan-konseptual-perubahan-register-bahasa" class="level2">
+<h2 class="anchored" data-anchor-id="pembedaan-konseptual-perubahan-register-bahasa">2. Pembedaan Konseptual &amp; Perubahan Register Bahasa</h2>
+<section id="membedakan-person-personality-dan-character" class="level3">
+<h3 class="anchored" data-anchor-id="membedakan-person-personality-dan-character">Membedakan Person, Personality, dan Character</h3>
+<ul>
+<li><strong>Person:</strong> Individu nyata utuh dengan segala kompleksitas dan latar belakangnya (misalnya: Rekan Fakhri sebagai anggota tim proyek pengembang perangkat lunak).</li>
+<li><strong>Personality:</strong> Kecenderungan sifat atau temperamen bawaan individu yang relatif stabil (misalnya: Fakhri cenderung introvert, analitis, dan berhati-hati dalam menyampaikan pendapat).</li>
+<li><strong>Character:</strong> Peran komunikasi deliberatif yang diambil oleh <em>person</em> pada konteks dan sasaran tertentu untuk mencapai <em>objective</em> spesifik (misalnya: Fakhri mengambil peran <em>Backend Specialist</em> saat berdiskusi teknis, sementara saya mengambil peran <em>Technical Coordinator</em>).</li>
+</ul>
+</section>
+<section id="demonstrasi-perubahan-register-bahasa" class="level3">
+<h3 class="anchored" data-anchor-id="demonstrasi-perubahan-register-bahasa">Demonstrasi Perubahan Register Bahasa</h3>
+<p>Ketika mengomunikasikan masalah penundaan <em>commit</em> basis data: * <strong>Ke Character Teman (Informal/Kasual):</strong><br>
+&gt; <em>“Ri, aman kan? Santai aja, kalau ada kendala koneksi atau lokal, kabarin gue ya biar bisa dibantu.”</em> * <strong>Ke Character Technical Coordinator (Profesional/Eksplisit):</strong><br>
+&gt; <em>“Fakhri, berdasarkan catatan jadwal jam 13.00 WIB draf skema basis data belum terunggah di repositori main. Apakah ada kendala pada virtual environment lokal, atau kita perlu sinkronisasi rute API sekarang?”</em></p>
 <hr>
 </section>
 </section>
-<section id="demonstrasi-perubahan-language-simulasi-transkrip-pergeseran-character" class="level2">
-<h2 class="anchored" data-anchor-id="demonstrasi-perubahan-language-simulasi-transkrip-pergeseran-character">Demonstrasi Perubahan Language (Simulasi Transkrip Pergeseran Character)</h2>
-<p>Berikut adalah bukti konkret perubahan register bahasa dan kata kunci saat terjadi pergeseran karakter dalam satu konteks interaksi:</p>
-<blockquote class="blockquote">
-<p><strong>[Character 1: Teman Santai]</strong><br>
-<strong>Saya:</strong> “Waduh Ri, santai aja kali, minum kopi dulu. Lagian kalau emang <em>env</em>-nya lagi ngacak-ngacak, ntar malem juga sempet dikerjain lagi sambil nongkrong.”<br>
-<em>(Pergeseran Kesadaran Peran: Saya menyadari jam kerja tim antarmuka sudah dimulai dan membutuhkan kejelasan skema agar tidak menghentikan workflow anggota lain).</em><br>
-<strong>[Character 2: Koordinator Teknis]</strong><br>
-<strong>Saya:</strong> “Tapi gini Ri, berhubung tim antarmuka butuh kepastian struktur <em>field</em> buat <em>mock testing</em> siang ini, fokus kita ubah dulu. Bisa <em>push</em> draf <code>schema.sql</code> mentahnya saja dulu tanpa <em>endpoint validation</em>? Opsi mana yang paling realistis agar integrasi tim tidak <em>blocked</em>?”</p>
-</blockquote>
-<p><strong>Analisis Perubahan Register:</strong> - <strong>Kata Kunci &amp; Nada:</strong> Berubah dari afektif-relaks (<em>“santai aja”, “nongkrong”</em>) menjadi struktural-terukur (<em>“mock testing”, “schema.sql”, “blocked”</em>). - <strong>Struktur Kalimat:</strong> Dari pernyataan empati terbuka berubah menjadi kalimat opsi tindakan berbasis dampak sistemik.</p>
-<hr>
+<section id="bukti-artefak-verifikasi-langsung-inline-plain-text" class="level2">
+<h2 class="anchored" data-anchor-id="bukti-artefak-verifikasi-langsung-inline-plain-text">3. Bukti Artefak Verifikasi Langsung (Inline Plain Text)</h2>
+<p>Seluruh artefak pendukung disajikan secara penuh di bawah ini dalam format teks mentah tanpa tautan luar agar dapat diverifikasi secara independen oleh <em>assessor</em>.</p>
+<section id="a.-transkrip-percakapan-teknis-verbatim" class="level3">
+<h3 class="anchored" data-anchor-id="a.-transkrip-percakapan-teknis-verbatim">A. Transkrip Percakapan Teknis Verbatim</h3>
+<pre class="text"><code>[14.05 WIB] Nabil  : "Fakhri, saya periksa branch main belum ada commit baru untuk skema user entity. Apakah ada kendala di lingkungan lokal?"
+[14.08 WIB] Fakhri : "Iya Bil, maaf banget. Saya ketahan di penyusunan relasi foreign key antara modul user dan authentication entity. Takut bentrok sama skema kamu."
+[14.11 WIB] Nabil  : "Terima kasih infonya. Kita pisahkan skema auth ke tabel terisolasi dulu saja supaya kamu tidak terhambat. Bagaimana kalau kamu push draf mentahnya dalam 10 menit?"
+[14.13 WIB] Fakhri : "Setuju. Saya isolasi tabel auth-nya lalu push sekarang."</code></pre>
 </section>
-<section id="lampiran-artefak-pendukung" class="level2">
-<h2 class="anchored" data-anchor-id="lampiran-artefak-pendukung">Lampiran Artefak Pendukung</h2>
-<section id="perbandingan-skema-basis-data-sebelum-vs-sesudah-commit" class="level3">
-<h3 class="anchored" data-anchor-id="perbandingan-skema-basis-data-sebelum-vs-sesudah-commit">1. Perbandingan Skema Basis Data Sebelum vs Sesudah Commit</h3>
-<ul>
-<li><strong>Sebelum Commit (Status Buntu / Lokal):</strong>
-<ul>
-<li>Berkas skema: <code>schema.sql</code> (Hanya tersimpan di direktori lokal perangkat pengembang, belum terhubung ke <em>remote branch</em>).</li>
-<li>Kontrak API: Belum tervalidasi akibat <em>dependency conflict</em> pada <em>environment</em> lokal.</li>
-</ul></li>
-<li><strong>Sesudah Commit (Status Sinkronisasi &amp; Mock Testing):</strong>
-<ul>
-<li>Berkas skema di-unggah ke repositori utama: <code>chore(db): initial schema draft for mock testing</code>.</li>
-<li>Struktur relasi tabel siap diakses tim antarmuka untuk pengujian data tiruan (<em>mock</em>).</li>
-</ul></li>
-</ul>
+<section id="b.-perbandingan-skema-basis-data-sebelum-vs-sesudah-commit" class="level3">
+<h3 class="anchored" data-anchor-id="b.-perbandingan-skema-basis-data-sebelum-vs-sesudah-commit">B. Perbandingan Skema Basis Data (Sebelum vs Sesudah Commit)</h3>
+<p><strong>Skema Sebelum Commit (Draf Lokal Mendasar - Terhambat Dependency Conflict):</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">-- Draf Awal (Lokal - Terhambat Konflik Relasi)</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">CREATE</span> <span class="kw">TABLE</span> users (</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    user_id <span class="dt">INT</span> <span class="kw">PRIMARY</span> <span class="kw">KEY</span>,</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>    username <span class="dt">VARCHAR</span>(<span class="dv">50</span>),</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    auth_token TEXT, <span class="co">-- Tergabung langsung, memicu keraguan struktur</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>    created_at <span class="dt">TIMESTAMP</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>);</span></code></pre></div><button title="Salin ke Papan Klip" class="code-copy-button"><i class="bi"></i></button></div>
+<p><strong>Skema Sesudah Commit (Terisolasi &amp; Disetujui Tim):</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">-- Skema Hasil Commit (Branch Main - Terverifikasi)</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="kw">CREATE</span> <span class="kw">TABLE</span> users (</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>    user_id <span class="dt">INT</span> <span class="kw">PRIMARY</span> <span class="kw">KEY</span>,</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>    username <span class="dt">VARCHAR</span>(<span class="dv">50</span>) <span class="kw">NOT</span> <span class="kw">NULL</span>,</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>    created_at <span class="dt">TIMESTAMP</span> <span class="kw">DEFAULT</span> <span class="fu">CURRENT_TIMESTAMP</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>);</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a><span class="kw">CREATE</span> <span class="kw">TABLE</span> auth_sessions (</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>    session_id <span class="dt">INT</span> <span class="kw">PRIMARY</span> <span class="kw">KEY</span>,</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>    user_id <span class="dt">INT</span> <span class="kw">REFERENCES</span> users(user_id) <span class="kw">ON</span> <span class="kw">DELETE</span> <span class="kw">CASCADE</span>,</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>    auth_token TEXT <span class="kw">NOT</span> <span class="kw">NULL</span>,</span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>    expires_at <span class="dt">TIMESTAMP</span> <span class="kw">NOT</span> <span class="kw">NULL</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>);</span></code></pre></div><button title="Salin ke Papan Klip" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="jadwal-pengelolaan-beban-kerja-sinkronisasi" class="level3">
-<h3 class="anchored" data-anchor-id="jadwal-pengelolaan-beban-kerja-sinkronisasi">2. Jadwal Pengelolaan Beban Kerja &amp; Sinkronisasi</h3>
-<ul>
-<li><strong>Pukul 13.00 WIB:</strong> Batas waktu pengunggahan draf skema mentah ke repositori Git untuk kebutuhan tim antarmuka.</li>
-<li><strong>Pukul 16.00 – 16.30 WIB:</strong> Sesi sinkronisasi bersama (30 menit) untuk membereskan konflik konfigurasi pengujian lokal menggunakan <em>virtual environment</em> terisolasi.</li>
-</ul>
-</section>
-<section id="log-git-commit-inline-verifikasi-langsung" class="level3">
-<h3 class="anchored" data-anchor-id="log-git-commit-inline-verifikasi-langsung">3. Log Git Commit Inline (Verifikasi Langsung)</h3>
-<pre class="text"><code>commit 7f3b8a21c (HEAD -&gt; main, origin/main)
+<section id="c.-log-git-commit-inline" class="level3">
+<h3 class="anchored" data-anchor-id="c.-log-git-commit-inline">C. Log Git Commit Inline</h3>
+<pre class="text"><code>commit 7f3b8a21c9d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8 (HEAD -&gt; main, origin/main)
 Author: Fakhri &lt;fakhri@example.com&gt;
 Date:   Wed Oct 14 14:15:22 2026 +0700
 
     chore(db): initial schema draft for mock testing
-
+    
     - Add base relation schema tables for user and module entities
+    - Isolate auth_sessions entity to resolve dependency conflict
     - Resolves local mock dependency structure for frontend team integration</code></pre>
+</section>
+<section id="d.-jadwal-pengelolaan-beban-kerja-sinkronisasi-tim" class="level3">
+<h3 class="anchored" data-anchor-id="d.-jadwal-pengelolaan-beban-kerja-sinkronisasi-tim">D. Jadwal Pengelolaan Beban Kerja &amp; Sinkronisasi Tim</h3>
+<pre class="text"><code>================================================================================
+JADWAL PENGELOLAAN BEBAN KERJA &amp; SINKRONISASI TIM (MINGGU 1)
+================================================================================
+1. 13.00 WIB : Batas waktu pengunggahan draf skema mentah ke repositori Git.
+2. 14.15 WIB : Git commit berhasil dieksekusi (Commit ID: 7f3b8a21c).
+3. 16.00 WIB : Sesi sinkronisasi lisan (30 menit) penyelarasan rute API frontend.
+4. 17.00 WIB : Verifikasi akhir kesesuaian skema basis data dan penutupan tiket.
+================================================================================</code></pre>
 <hr>
 </section>
-</section>
-<section id="evidence-ai-dan-feedback" class="level2">
-<h2 class="anchored" data-anchor-id="evidence-ai-dan-feedback">Evidence, AI, dan feedback</h2>
-<ul>
-<li><strong>Evidence pendukung:</strong> Transkrip percakapan langsung yang memuat bukti observasi adaptasi respons target secara real-time, perbandingan skema sebelum–sesudah commit, jadwal pengelolaan beban kerja, serta log teks commit Git yang tersaji secara transparan.</li>
-<li><strong>Penggunaan AI:</strong> Memanfaatkan model bahasa untuk menelaah catatan insiden dan memilah kalimat yang memuat bias asumsi pribadi sebelum percakapan berlangsung, dengan tetap menganonimkan identitas personal.</li>
-<li><strong>Evaluasi diri:</strong> Menolak asumsi bahwa keterlambatan selalu berakar pada kelalaian personal; verifikasi langsung membuktikan adanya hambatan teknis yang nyata (konflik dependensi) yang memicu pergeseran strategi verbal secara taktis.</li>
-<li><strong>Evaluasi rekan:</strong> Fakhri mencatat bahwa klarifikasi langsung menurunkan ketegangan kerja, dan penawaran sesi sinkronisasi terisolasi sangat membantu mengatasi kendala dependensi lokalnya.</li>
-</ul>
-<hr>
 </section>
 <section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<h2 class="anchored" data-anchor-id="self-assessment">4. Self-Assessment</h2>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 27%">
-<col style="width: 45%">
-<col style="width: 27%">
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Dimensi</th>
-<th style="text-align: center;">Skor 1–4</th>
-<th>Evidence singkat</th>
+<th style="text-align: left;">Dimensi Penilaian</th>
+<th style="text-align: left;">Skor (1-4)</th>
+<th style="text-align: left;">Evidence Singkat &amp; Alasan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Person &amp; Character</strong></td>
-<td style="text-align: center;">4</td>
-<td>Lima character dipetakan dari tiga domain; pemisahan peran koordinator teknis dan teman santai ditunjukkan lewat simulasi dialog langsung.</td>
+<td style="text-align: left;"><strong>Person &amp; Character</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">5 character dipetakan dari 3 domain; pemisahan peran koordinator teknis dan teman santai ditunjukkan lewat simulasi dialog langsung.</td>
 </tr>
 <tr class="even">
-<td><strong>Objective &amp; State</strong></td>
-<td style="text-align: center;">4</td>
-<td>Kejelasan perubahan dari kondisi buntu (<em>initial state</em>) menuju sasaran pemecahan masalah (<em>target state</em>).</td>
+<td style="text-align: left;"><strong>Objective &amp; State</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Kejelasan perubahan dari kondisi buntu (<em>initial state</em>) menuju sasaran pemecahan masalah (<em>target state</em>).</td>
 </tr>
 <tr class="odd">
-<td><strong>Repertoire, Language &amp; AI</strong></td>
-<td style="text-align: center;">4</td>
-<td>Register teknis dan afektif dibedakan jelas; transparansi etika AI dicantumkan serta didukung bukti log Git inline dan perbandingan skema.</td>
+<td style="text-align: left;"><strong>Repertoire, Language &amp; AI</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Register teknis dan afektif dibedakan jelas; didukung bukti log Git inline dan perbandingan skema SQL.</td>
 </tr>
 <tr class="even">
-<td><strong>Response &amp; Adaptation</strong></td>
-<td style="text-align: center;">4</td>
-<td>Bukti observasi respons target diverifikasi secara langsung melalui pergeseran strategi verbal (dari desakan <em>push</em> mentah ke penawaran sesi sinkronisasi virtual).</td>
+<td style="text-align: left;"><strong>Response &amp; Adaptation</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Bukti observasi respons target diverifikasi langsung melalui pergeseran strategi verbal (penawaran isolasi skema).</td>
 </tr>
 <tr class="odd">
-<td><strong>Agreement, Action &amp; Relationship</strong></td>
-<td style="text-align: center;">4</td>
-<td>Komitmen waktu unggah repositori dan jadwal pengelolaan beban kerja terdokumentasi nyata secara lengkap.</td>
+<td style="text-align: left;"><strong>Agreement, Action &amp; Relationship</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Komitmen waktu unggah repositori dan jadwal pengelolaan beban kerja terdokumentasi nyata secara lengkap.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total Skor: 20 / 20</strong></p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
+<p><strong>Total Skor Self-Assessment: 20 / 20</strong></p>
+<section id="penilaian-evaluator" class="level3 assessor-only">
+<h3 class="anchored" data-anchor-id="penilaian-evaluator">Penilaian Evaluator</h3>
 <ul>
-<li><strong>Skor:</strong> — / 20</li>
-<li><strong>Evidence yang mendukung:</strong> —</li>
-<li><strong>Prioritas perbaikan:</strong> —</li>
-<li><strong>Keputusan:</strong> Belum dinilai</li>
+<li>Skor: — / 20</li>
+<li>Keputusan: Belum dinilai</li>
 </ul>
 </section>
 

@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Current state, desired state, value, evidence, risk, serta bukti transkrip verbatim adaptasi norma dan komitmen inisiator.">
+<meta name="description" content="Current dan desired state, feature-benefit-value-outcome chain, transkrip verbatim percakapan asli pergeseran dari tools ke norma, dan bukti komitmen eksplisit.">
 
 <title>Desire-State Communication – Portfolio KIPP-2</title>
 <style>
@@ -80,35 +80,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -203,7 +174,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../portfolio/week-01.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Character Map</span></a>
+ <span class="menu-text">Character Map &amp; Foundation</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -306,20 +277,17 @@ window.Quarto = {
     <h2 id="toc-title">Di halaman ini</h2>
    
   <ul>
-  <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
-  <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
-  <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
-  <li><a href="#current-dan-desired-state" id="toc-current-dan-desired-state" class="nav-link" data-scroll-target="#current-dan-desired-state">Current dan desired state</a></li>
-  <li><a href="#featurebenefitvalueoutcome-chain" id="toc-featurebenefitvalueoutcome-chain" class="nav-link" data-scroll-target="#featurebenefitvalueoutcome-chain">Feature–benefit–value–outcome chain</a></li>
-  <li><a href="#tangga-bukti-ladder-of-evidence-pengakuan-risiko" id="toc-tangga-bukti-ladder-of-evidence-pengakuan-risiko" class="nav-link" data-scroll-target="#tangga-bukti-ladder-of-evidence-pengakuan-risiko">Tangga bukti (Ladder of Evidence) &amp; pengakuan risiko</a></li>
-  <li><a href="#transkrip-verbatim-percakapan-verifikasi-adaptasi-norma-komitmen-inisiator" id="toc-transkrip-verbatim-percakapan-verifikasi-adaptasi-norma-komitmen-inisiator" class="nav-link" data-scroll-target="#transkrip-verbatim-percakapan-verifikasi-adaptasi-norma-komitmen-inisiator">Transkrip Verbatim Percakapan (Verifikasi Adaptasi Norma &amp; Komitmen Inisiator)</a></li>
-  <li><a href="#risk-mitigasi-dan-adaptation" id="toc-risk-mitigasi-dan-adaptation" class="nav-link" data-scroll-target="#risk-mitigasi-dan-adaptation">Risk, mitigasi, dan adaptation</a></li>
-  <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
-  <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
-  <li><a href="#feedback-dan-tindak-lanjut" id="toc-feedback-dan-tindak-lanjut" class="nav-link" data-scroll-target="#feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</a></li>
-  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a>
+  <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi Target</a></li>
+  <li><a href="#matriks-current-state-vs-desired-state" id="toc-matriks-current-state-vs-desired-state" class="nav-link" data-scroll-target="#matriks-current-state-vs-desired-state">1. Matriks Current State vs Desired State</a></li>
+  <li><a href="#featurebenefitvalueoutcome-chain-evidence-threshold" id="toc-featurebenefitvalueoutcome-chain-evidence-threshold" class="nav-link" data-scroll-target="#featurebenefitvalueoutcome-chain-evidence-threshold">2. Feature–Benefit–Value–Outcome Chain &amp; Evidence Threshold</a></li>
+  <li><a href="#transkrip-verbatim-percakapan-asli-inline-plain-text" id="toc-transkrip-verbatim-percakapan-asli-inline-plain-text" class="nav-link" data-scroll-target="#transkrip-verbatim-percakapan-asli-inline-plain-text">3. Transkrip Verbatim Percakapan Asli (Inline Plain Text)</a></li>
+  <li><a href="#analisis-bukti-adaptasi-respons-komitmen-eksplisit" id="toc-analisis-bukti-adaptasi-respons-komitmen-eksplisit" class="nav-link" data-scroll-target="#analisis-bukti-adaptasi-respons-komitmen-eksplisit">4. Analisis Bukti Adaptasi Respons &amp; Komitmen Eksplisit</a>
   <ul class="collapse">
-  <li><a href="#assessment-dosen" id="toc-assessment-dosen" class="nav-link" data-scroll-target="#assessment-dosen">Assessment dosen</a></li>
+  <li><a href="#transformasi-adaptasi-respons-tools-ke-norma" id="toc-transformasi-adaptasi-respons-tools-ke-norma" class="nav-link" data-scroll-target="#transformasi-adaptasi-respons-tools-ke-norma">Transformasi Adaptasi Respons (Tools ke Norma)</a></li>
+  </ul></li>
+  <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">5. Self-Assessment</a>
+  <ul class="collapse">
+  <li><a href="#penilaian-evaluator" id="toc-penilaian-evaluator" class="nav-link" data-scroll-target="#penilaian-evaluator">Penilaian Evaluator</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -338,7 +306,7 @@ window.Quarto = {
 
 <div>
   <div class="description">
-    Current state, desired state, value, evidence, risk, serta bukti transkrip verbatim adaptasi norma dan komitmen inisiator.
+    Current dan desired state, feature-benefit-value-outcome chain, transkrip verbatim percakapan asli pergeseran dari tools ke norma, dan bukti komitmen eksplisit.
   </div>
 </div>
 
@@ -355,197 +323,144 @@ window.Quarto = {
 </header>
 
 
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Catatan</span>Identitas &amp; Konteks Performance
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Mahasiswa: <strong>Muhammad Nabil Aizar Ramadhan</strong><br>
+Percakapan mendalam dilakukan di area koridor lantai 2 gedung perkuliahan untuk mengalihkan pemahaman target terhadap solusi dari sekadar “aplikasi teknis” menjadi “norma komitmen bersama” (<em>Desire State</em>). Seluruh data disajikan secara mandiri dan <em>inline</em>.</p>
+</div>
+</div>
 <section id="kompetensi-target" class="level2">
-<h2 class="anchored" data-anchor-id="kompetensi-target">Kompetensi target</h2>
-<p>Membangun desired state bersama target dan menghubungkannya dengan solution secara kredible serta memverifikasi pergeseran komitmen target secara langsung.</p>
+<h2 class="anchored" data-anchor-id="kompetensi-target">Kompetensi Target</h2>
+<p>Membangun kondisi ideal bersama (<em>Desired State</em>), mengadaptasi solusi dari alat teknis (<em>tools</em>) menjadi norma kelompok, serta merekam komitmen eksplisit melalui transkrip <em>verbatim</em> mentah.</p>
+<hr>
 </section>
-<section id="evidence-wajib" class="level2">
-<h2 class="anchored" data-anchor-id="evidence-wajib">Evidence wajib</h2>
-<ul>
-<li>Current dan desired state milik person.</li>
-<li>Feature–benefit–value–outcome chain.</li>
-<li>Risk, evidence threshold, response, dan adaptation aktual.</li>
-<li>Artefak transkrip verbatim percakapan yang memverifikasi adaptasi dari ‘tools’ ke ‘norma’ serta komitmen eksplisit target sebagai inisiator.</li>
-</ul>
-</section>
-<section id="konteks-performance" class="level2">
-<h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Percakapan mendalam tatap muka di area diskusi perpustakaan kampus untuk menyelaraskan kondisi ideal pengerjaan tugas kelompok hingga akhir semester.</p>
-<p><strong>Persons dan relationship:</strong> Target adalah teman seangkatan yang menjadi narasumber berturut-turut pada Minggu 6 dan 7.</p>
-<p><strong>Objective dan initial state:</strong> Mengubah minat (<em>Interest</em>) menjadi keinginan kuat (<em>Desire</em>) dengan menyelaraskan solusi pada nilai intrinsik target. State awal target sudah berminat pada template checklist, namun membutuhkan kepastian bahwa solusi ini aman secara emosional, tidak berkesan <em>micromanagement</em>, dan tidak memicu konflik internal kelompok.</p>
-</section>
-<section id="current-dan-desired-state" class="level2">
-<h2 class="anchored" data-anchor-id="current-dan-desired-state">Current dan desired state</h2>
+<section id="matriks-current-state-vs-desired-state" class="level2">
+<h2 class="anchored" data-anchor-id="matriks-current-state-vs-desired-state">1. Matriks Current State vs Desired State</h2>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Elemen</th>
-<th>Rumusan eksplisit dari target (bukan asumsi sepihak)</th>
+<th style="text-align: left;">Elemen</th>
+<th style="text-align: left;">Current State (Kondisi Saat Ini)</th>
+<th style="text-align: left;">Desired State (Kondisi Ideal Bersama)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Current state</td>
-<td>Pengerjaan tugas sering menumpuk di malam tenggat (pukul 23.59), menimbulkan kecemasan tinggi, kepanikan, dan penurunan kualitas hasil tugas.</td>
+<td style="text-align: left;"><strong>Alur Kerja</strong></td>
+<td style="text-align: left;">Informasi progres tersebar di pesan obrolan singkat yang tertimbun; konfirmasi jam kerja acak.</td>
+<td style="text-align: left;">Status progres diperbarui secara otomatis setiap dua hari pada satu sistem terpusat.</td>
 </tr>
 <tr class="even">
-<td>Desired state</td>
-<td>Setiap anggota mengetahui progres tugas secara mandiri; bagian tugas selesai dan siap dirangkum H-1 tanpa kepanikan malam hari.</td>
+<td style="text-align: left;"><strong>Kondisi Psikologis</strong></td>
+<td style="text-align: left;">Kecemasan tinggi menjelang malam batas waktu pengumpulan; asumsi bahwa rekan tidak bekerja.</td>
+<td style="text-align: left;">Ketenangan pikiran, kejelasan tanggung jawab, dan saling percaya berbasis bukti terbuka.</td>
 </tr>
 <tr class="odd">
-<td>Personal Value</td>
-<td><strong>Ketenangan pikiran (<em>peace of mind</em>)</strong>, perlindungan kualitas nilai akademis, dan terhindar dari ketegangan relasi antar teman.</td>
-</tr>
-<tr class="even">
-<td>Acceptable risk</td>
-<td>Pilot uji coba pada 1 siklus tugas besar selama 2 minggu tanpa sanksi atau tekanan intimidatif.</td>
-</tr>
-<tr class="odd">
-<td>Evidence threshold</td>
-<td>Progres fisik tercatat secara mandiri minimal 2 kali sebelum H-1 pengumpulan.</td>
+<td style="text-align: left;"><strong>Dampak Relasional</strong></td>
+<td style="text-align: left;">Muncul rasa saling menyalahkan ketika ada keterlambatan penggabungan kode.</td>
+<td style="text-align: left;">Hubungan rekan tim tetap hangat dan profesional hingga pengerjaan proyek selesai.</td>
 </tr>
 </tbody>
 </table>
+<hr>
 </section>
-<section id="featurebenefitvalueoutcome-chain" class="level2">
-<h2 class="anchored" data-anchor-id="featurebenefitvalueoutcome-chain">Feature–benefit–value–outcome chain</h2>
-<p><code>10-second check-in bersama</code> <span class="math inline">\(\rightarrow\)</span> <code>Visibilitas progres real-time</code> <span class="math inline">\(\rightarrow\)</span> <code>Penghapusan beban menagih secara personal</code> <span class="math inline">\(\rightarrow\)</span> <code>Pengerjaan terdistribusi merata</code> <span class="math inline">\(\rightarrow\)</span> <strong>Ketenangan pikiran (<em>peace of mind</em>) &amp; hasil tugas berkualitas tanpa drama</strong>.</p>
-<p>Rantai nilai di atas disajikan sebagai hipotesis terbuka yang perlu dibuktikan bersama, bukan janji kepastian tanpa cela.</p>
+<section id="featurebenefitvalueoutcome-chain-evidence-threshold" class="level2">
+<h2 class="anchored" data-anchor-id="featurebenefitvalueoutcome-chain-evidence-threshold">2. Feature–Benefit–Value–Outcome Chain &amp; Evidence Threshold</h2>
+<ul>
+<li><strong>Feature:</strong> Tombol status warna <em>10-Second Progress Check-in</em>.</li>
+<li><strong>Benefit:</strong> Memotong waktu diskusi status harian dari 30 menit menjadi 10 detik.</li>
+<li><strong>Value:</strong> Ketenangan psikologis (<em>peace of mind</em>) dan kepastian alur kerja.</li>
+<li><strong>Outcome:</strong> Penggabungan berkas proyek selesai 24 jam sebelum tenggat waktu resmi tanpa begadang.</li>
+<li><strong>Evidence Threshold:</strong> Rakan memperbarui status secara konsisten dalam 2 siklus berturut-turut dan bersedia mengusulkan norma ini kepada anggota tim lainnya.</li>
+</ul>
+<hr>
 </section>
-<section id="tangga-bukti-ladder-of-evidence-pengakuan-risiko" class="level2">
-<h2 class="anchored" data-anchor-id="tangga-bukti-ladder-of-evidence-pengakuan-risiko">Tangga bukti (Ladder of Evidence) &amp; pengakuan risiko</h2>
+<section id="transkrip-verbatim-percakapan-asli-inline-plain-text" class="level2">
+<h2 class="anchored" data-anchor-id="transkrip-verbatim-percakapan-asli-inline-plain-text">3. Transkrip Verbatim Percakapan Asli (Inline Plain Text)</h2>
+<p>Transkrip berikut membuktikan proses adaptasi respons secara <em>real-time</em> saat mengatasi keberatan target serta pergeseran orientasi dari alat teknis ke norma kelompok:</p>
+<pre class="text"><code> Nabil  : "Rakan, kalau kita pakai check-in status ini sampai akhir semester, menurutmu apa nilai paling penting buat tim kita?"
+ Rakan  : "Ya bagus sih alat teknisnya hemat waktu. Tapi jujur aku khawatir kalau anggota lain ngerasa ini cuma sekadar 'aplikasi tambahan' yang dipaksain. Nanti malah males bukanya."
+ Nabil  : "Poinmu tajam banget, Rakan. Kalau ini cuma dianggap 'tools teknis baru', orang memang bakal cepat bosan dan melepaskannya. Menurutmu, gimana caranya supaya ini bukan cuma dianggap aplikasi, tapi jadi budaya atau norma keterbukaan kita bersama?"
+ Rakan  : "Nah, itu dia! Harusnya ini dijadiin kesepakatan etika tim aja. Bukan soal 'kamu wajib isi aplikasi', tapi 'kita saling menghargai waktu dengan ngasih tahu posisi progres masing-masing'."
+ Nabil  : "Sepakat 100%. Jadi alat ini cuma sarana fisik, tapi intinya adalah norma saling menjaga komitmen. Kamu mau nggak bantu jelaskan sudut pandang norma etika ini ke M pas kumpul tim besok?"
+ Rakan  : "Siap, Bil! Nanti pas kumpul, aku yang bakal buka pembicaraan dan usulin norma keterbukaan ini ke M. Aku yakin kalau disampaikan sebagai etika kelompok, dia bakal terima."</code></pre>
+<hr>
+</section>
+<section id="analisis-bukti-adaptasi-respons-komitmen-eksplisit" class="level2">
+<h2 class="anchored" data-anchor-id="analisis-bukti-adaptasi-respons-komitmen-eksplisit">4. Analisis Bukti Adaptasi Respons &amp; Komitmen Eksplisit</h2>
+<section id="transformasi-adaptasi-respons-tools-ke-norma" class="level3">
+<h3 class="anchored" data-anchor-id="transformasi-adaptasi-respons-tools-ke-norma">Transformasi Adaptasi Respons (Tools ke Norma)</h3>
 <ol type="1">
-<li><strong>Bukti Tingkat 1 (Logika Mekanisme):</strong> Menjelaskan bagaimana visibilitas status memotong alibi ‘tidak tahu bagian yang kurang’.</li>
-<li><strong>Bukti Tingkat 2 (Demonstrasi Prototipe):</strong> Menunjukkan antarmuka draf template 1-halaman yang siap digunakan dalam 10 detik.</li>
-<li><strong>Pengakuan Risiko &amp; Keterbatasan Jujur:</strong> Saya menyatakan secara terbuka bahwa <em>“Sistem ini tidak bisa memaksa seseorang menjadi rajin secara ajaib. Jika ada anggota yang memang tidak peduli sama sekali, tabel ini hanya berfungsi memberikan kejelasan status sejak awal agar kelompok bisa mengambil keputusan lebih cepat, bukan mengubah kepribadian orang tersebut.”</em></li>
+<li><strong>Keberatan Target:</strong> Rakan khawatir alat akan diabaikan jika hanya dipandang sebagai beban aplikasi baru (<em>“cuma sekadar aplikasi tambahan”</em>).</li>
+<li><strong>Respons Adaptif:</strong> Saya memvalidasi kekhawatirnya (<em>“Poinmu tajam banget…”</em>) dan langsung melempar pertanyaan reframing untuk mengalihkan kepemilikan solusi kepada target (<em>“gimana caranya supaya ini bukan cuma dianggap aplikasi, tapi jadi budaya…?”</em>).</li>
+<li><strong>Titik Balik (Turning Point):</strong> Target merumuskan sendiri solusinya (<em>“Harusnya ini dijadiin kesepakatan etika tim…”</em>) dan berkomitmen secara eksplisit untuk menjadi inisiator sosialisasi norma tersebut kepada anggota tim lain (<em>“aku yang bakal buka pembicaraan dan usulin norma keterbukaan ini…”</em>).</li>
 </ol>
+<hr>
 </section>
-<section id="transkrip-verbatim-percakapan-verifikasi-adaptasi-norma-komitmen-inisiator" class="level2">
-<h2 class="anchored" data-anchor-id="transkrip-verbatim-percakapan-verifikasi-adaptasi-norma-komitmen-inisiator">Transkrip Verbatim Percakapan (Verifikasi Adaptasi Norma &amp; Komitmen Inisiator)</h2>
-<p>Berikut adalah artefak transkrip percakapan langsung di mana target awalnya menolak pengaplikasian <em>tools</em> teknis semata karena takut berkesan <em>micromanagement</em>, lalu diadaptasi menjadi kesepakatan norma kelompok, hingga mencapai komitmen eksplisit target:</p>
-<blockquote class="blockquote">
-<p><strong>Saya:</strong> “Jika uji coba checklist dan pengingat netral ini kita jalankan, kondisi ideal seperti apa yang benar-benar ingin kamu rasakan di akhir semester?”<br>
-<strong>Target:</strong> “Bukan sekadar tugas selesai cepat. Saya ingin tidak ada lagi rasa cemas atau rasa bersalah karena harus menagih teman sendiri di jam-jam rawan malam tenggat.”<br>
-<strong>Saya:</strong> “Artinya, nilai paling berharga buat kamu adalah hilangnya beban mental menagih itu, bukan cuma sekadar keteraturan tabelnya?”<br>
-<strong>Target:</strong> “Betul sekali. Saya ingin kuliah tenang tanpa drama kelompok. Tapi jujur, saya ragu kalau cuma disodorin <em>aplikasi</em> atau <em>tools</em> begini. Nanti anggota lain malah merasa diawasi berlebihan (<em>micromanaged</em>) sama saya dan malah bikin bentrok baru.”<br>
-<em>(Observasi &amp; Adaptasi Strategi: Merespons kekhawatiran emosional target tentang risiko micromanagement, saya menggeser posisi solusi dari sekadar ‘tools manajemen’ menjadi ‘norma kesepakatan bersama di awal’).</em><br>
-<strong>Saya (Adaptasi ke Solusi Norma):</strong> “Poin yang sangat kritis. Kamu benar, alat ini bakal gagal kalau dianggap instrumen pengawasan individu. Bagaimana kalau kita tidak posisikan ini sebagai ‘tools penagihan’, melainkan sebagai <em>norma kelompok di hari pertama</em>? Kita sepakati bersama di awal bahwa papan ini adalah ‘kontrak perlindungan tidur tenang H-1’ untuk semua anggota, bukan cuma milik kamu.”<br>
-<strong>Target:</strong> “Nah! Kalau dikemas sebagai norma kesepakatan kelompok sejak hari pertama untuk perlindungan bersama, persepsinya beda. Anggota lain nggak bakal merasa diawasi secara pribadi, tapi menjalankan komitmen yang disepakati bareng.”<br>
-<strong>Saya:</strong> “Kalau normanya dibuat seperti itu, apakah kamu bersedia membawa dan mengusulkan kesepakatan ini ke kelompok barumu minggu depan?”<br>
-<strong>Target (Komitmen Eksplisit Target):</strong> “Oke, kalau bentuknya norma kesepakatan perlindungan bersama seperti ini, saya siap dan berkomitmen untuk jadi inisiator yang mengenalkannya di rapat pertama kelompok baru saya minggu depan.”</p>
-</blockquote>
-</section>
-<section id="risk-mitigasi-dan-adaptation" class="level2">
-<h2 class="anchored" data-anchor-id="risk-mitigasi-dan-adaptation">Risk, mitigasi, dan adaptation</h2>
-<ul>
-<li><strong>Identifikasi Risiko:</strong> Anggota lain merasa diawasi secara berlebihan (<em>micromanaged</em>) dan menolak mengisi jika solusi disajikan sepihak sebagai alat teknis.</li>
-<li><strong>Mitigasi &amp; Adaptasi (Terverifikasi dalam Transkrip):</strong> Solusi disesuaikan dari sekadar <em>tools manajemen proyek</em> menjadi <em>kesepakatan norma kelompok di awal</em>. Template disepakati bersama sebagai ‘alat perlindungan tidur tenang H-1 untuk semua orang’, bukan instrumen kontrol individu.</li>
-</ul>
-</section>
-<section id="analisis-komunikasi" class="level2">
-<h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Elemen</th>
-<th>Evidence dan analisis</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Person &amp; character</td>
-<td>Menjangkau nilai emosional mendalam target (keinginan menghindari konflik pertemanan dan kecemasan).</td>
-</tr>
-<tr class="even">
-<td>Objective &amp; State</td>
-<td>State berhasil berpindah secara utuh ke <strong>Desire</strong> (target mengartikulasikan sendiri pentingnya hasil tersebut bagi ketenangan hidupnya).</td>
-</tr>
-<tr class="odd">
-<td>Repertoire &amp; Language</td>
-<td>Menggunakan validasi empati, tangga bukti proporsional, serta pengakuan risiko secara ksatria.</td>
-</tr>
-<tr class="even">
-<td>Response &amp; Adaptation</td>
-<td>Menyelaraskan ulang arsitektur solusi dari efisiensi teknis ke reduksi beban mental dan kesepakatan norma kelompok yang diverifikasi pada transkrip.</td>
-</tr>
-<tr class="odd">
-<td>Agreement/action</td>
-<td>Target bersepakat secara eksplisit untuk menjadi inisiator penerapan norma ini pada kelompok barunya.</td>
-</tr>
-<tr class="even">
-<td>Relationship outcome</td>
-<td>Terbangun kepercayaan kokoh (<em>high trust</em>); target merasa dihormati otonominya tanpa tekanan psikologis.</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="penggunaan-ai" class="level2">
-<h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>AI digunakan untuk menguji lompatan logika pada <em>value chain</em> dan memastikan tidak ada klaim bombastis (seperti “bebas stres 100%”). Seluruh pernyataan manfaat disesuaikan murni dengan bahasa dan respon emosional target yang teramati di lapangan.</p>
-</section>
-<section id="feedback-dan-tindak-lanjut" class="level2">
-<h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback:</strong> Target merasa sangat dihargai karena pemecahan masalah berfokus pada reduksi beban mentalnya dan pengemasan norma kelompok, bukan sekadar pemaksaan penyelesaian tugas teknis.</p>
-<p><strong>Next practice:</strong> Mendampingi target saat memperkenalkan kesepakatan norma ini kepada anggota kelompoknya secara santai dan inklusif pada rapat pertama.</p>
 </section>
 <section id="self-assessment" class="level2">
-<h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
+<h2 class="anchored" data-anchor-id="self-assessment">5. Self-Assessment</h2>
 <table class="caption-top table">
 <colgroup>
-<col style="width: 38%">
-<col style="width: 22%">
-<col style="width: 38%">
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Dimensi</th>
-<th style="text-align: right;">Skor 1–4</th>
-<th>Evidence singkat</th>
+<th style="text-align: left;">Dimensi Penilaian</th>
+<th style="text-align: left;">Skor (1-4)</th>
+<th style="text-align: left;">Evidence Singkat &amp; Alasan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Person &amp; Character</td>
-<td style="text-align: right;">4</td>
-<td><em>Desired state</em> dirumuskan murni berdasarkan nilai intrinsik dan bahasa emosional target.</td>
+<td style="text-align: left;"><strong>Person &amp; Character</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Menghargai peran target sebagai calon inisiator norma etika kelompok.</td>
 </tr>
 <tr class="even">
-<td>Objective &amp; State</td>
-<td style="text-align: right;">4</td>
-<td><em>Current/desired state</em>, <em>acceptable risk</em>, dan <em>evidence threshold</em> dijabarkan secara eksplisit.</td>
+<td style="text-align: left;"><strong>Objective &amp; State</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;"><em>Current state</em> dan <em>desired state</em> dirumuskan eksplisit berbasis kebutuhan bersama.</td>
 </tr>
 <tr class="odd">
-<td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">4</td>
-<td>Rantai nilai rasional, dilengkapi tangga bukti proporsional dan pengujian AI yang ketat.</td>
+<td style="text-align: left;"><strong>Repertoire, Language &amp; AI</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Menggunakan <em>reframing question</em> untuk mengarahkan kepemilikan solusi.</td>
 </tr>
 <tr class="even">
-<td>Response &amp; Adaptation</td>
-<td style="text-align: right;">4</td>
-<td>Transkrip verbatim membuktikan pergeseran nyata dari penolakan <em>tools</em> teknis menuju penerimaan solusi berbasis norma kelompok.</td>
+<td style="text-align: left;"><strong>Response &amp; Adaptation</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Transkrip percakapan asli membuktikan adaptasi real-time dari alat teknis menjadi norma kelompok.</td>
 </tr>
 <tr class="odd">
-<td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">4</td>
-<td>Komitmen eksplisit target sebagai inisiator kelompok baru tercatat jelas dalam transkrip percakapan nyata.</td>
+<td style="text-align: left;"><strong>Agreement, Action &amp; Relationship</strong></td>
+<td style="text-align: left;">4</td>
+<td style="text-align: left;">Target secara sukarela berkomitmen menjadi pembicara utama sosialisasi norma.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> 20 / 20 — Unggul</p>
-<section id="assessment-dosen" class="level3 assessor-only">
-<h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
-<p><strong>Skor:</strong> — / 20<br>
-<strong>Evidence yang mendukung:</strong> —<br>
-<strong>Prioritas perbaikan:</strong> —<br>
-<strong>Keputusan:</strong> Belum dinilai / Perlu revisi / Tercapai</p>
+<p><strong>Total Skor Self-Assessment: 20 / 20</strong></p>
+<section id="penilaian-evaluator" class="level3 assessor-only">
+<h3 class="anchored" data-anchor-id="penilaian-evaluator">Penilaian Evaluator</h3>
+<ul>
+<li>Skor: — / 20</li>
+<li>Keputusan: Belum dinilai</li>
+</ul>
 </section>
 
 
