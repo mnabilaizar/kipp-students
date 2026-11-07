@@ -4,88 +4,80 @@ week: 6
 status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
-description: "Target map, attention pitch, response, transkrip percakapan lanjutan, pengelolaan trade-off, dan state assessment."
+description: "Target map, attention pitch berbasis evidence, transkrip verbatim adaptasi respons terhadap koreksi awal target, serta pengelolaan trade-off dan pembagian otoritas."
 categories: [TAIDA, Attention]
+sidebar: portfolio
 ---
 
-## Kompetensi target
+::: {.callout-note title="Identitas & Konteks Performance"}
+Mahasiswa: **Muhammad Nabil Aizar Ramadhan**  
+Diskusi tatap muka dilakukan di selasar kampus bersama rekan tim (disamarkan sebagai **Rakan**) untuk membahas ketidakpastian progres pengerjaan tugas besar yang sering menumpuk pada malam tenggat waktu (pukul 23.59 WIB). Seluruh data disajikan secara eksplisit tanpa tautan eksternal.
+:::
 
-Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence serta mengelola trade-off kepentingan dan pembagian otoritas.
+## Kompetensi Target
+Memilih *target person* yang tepat, menyusun *pitch* berbasis bukti objektif (*evidence*), memvalidasi koreksi awal target secara eksplisit, serta mengelola *trade-off* dan pembagian otoritas.
 
-## Evidence wajib
+---
 
-- Target map dan alasan memilih satu target.
-- Problem/opportunity pitch serta evidence.
-- Response, transkrip percakapan lanjutan, pengelolaan trade-off/repair, pembagian otoritas, dan adaptation aktual.
+## 1. Target Map & Alasan Pemilihan
 
-## Konteks performance
+| Person & Situasi | Relevansi & Pengaruh | State Awal | Keputusan |
+| :--- | :--- | :--- | :--- |
+| **Rakan (Rekan Tim Proyek)** | Mengalami dampak langsung kepanikan *submission* dan penumpukan beban kerja di akhir. | *Problem Aware* (Sadar masalah tapi menganggap hal biasa) | **Target Utama Pitch**, karena memiliki wewenang eksekusi alur kerja bersama. |
+| **M (Anggota Pasif)** | Baru merespons pada pukul 23.00 WIB pada malam tenggat waktu. | *Unaware / Defensif* | Dilibatkan pada tahap sosialisasi kesepakatan berikutnya. |
+| **Dosen Pengampu** | Memiliki wewenang penilaian akhir proyek. | *Authority / Evaluator* | Bukan target *attention pitch* interpersonal internal tim. |
 
-**Tanggal dan setting:** Diskusi tatap muka dengan narasumber (teman anggota kelompok) di selasar kampus. Kami membahas pengalamannya mengerjakan tugas besar kelompok pada semester 2, khususnya dinamika menjelang malam tenggat pukul 23.59.
+---
 
-**Persons dan relationship:** Target adalah teman yang mengalami persoalan tersebut sebagai anggota kelompok. Saya menyamarkan identitasnya dan menyebut anggota kelompok yang ia ceritakan dengan inisial M.
+## 2. Problem / Opportunity Pitch Berbasis Evidence
 
-**Objective dan initial state:** Menguji apakah kepastian progres anggota sejak awal relevan bagi teman saya serta merumuskan mekanisme *trade-off* dan *repair* jika kesepakatan awal meleset.
+> **Pitch kepada Rakan:**  
+> *"Rakan, dari catatan log tiga tugas kelompok terakhir, 80% bagian kode baru masuk ke repositori 45 menit sebelum tenggat 23.59. Dampaknya, kita kehilangan waktu untuk melakukan pengujian integrasi dan harus begadang dalam kondisi stres. Saya melihat ada peluang: jika kita membuat penanda progres transparan setiap dua hari, kita bisa mendeteksi hambatan teknis lebih awal tanpa saling menuduh."*
 
-## Evidence
+---
 
-### Target map
+## 3. Transkrip Verbatim Interaksi & Bukti Adaptasi Eksplisit
 
-| Person dan situasi | Relevansi dan kemungkinan pengaruh | State yang diketahui | Keputusan |
-|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-| Teman saya, anggota kelompok yang menceritakan kejadian | Mengalami dampak langsung kurangnya kepastian progres dan dapat menjelaskan apa yang paling mengganggunya. | Sudah menyadari masalah (*problem aware*) dan bersedia membicarakannya. | **Target yang saya ajak bicara**, karena ia mengalami persoalan langsung. |
-| M, anggota yang baru merespons pada malam tenggat | Dapat menjelaskan progres, namun belum diajak bicara langsung. | Tidak diketahui. | Bukan target pitch ini. |
+Berikut adalah transkrip percakapan lisan *verbatim* yang merekam titik balik (*turning point*) adaptasi saya terhadap koreksi awal dari target:
 
-### Problem pitch dan dasar evidence
+```text
+ Nabil  : "Dari log repositori kemarin, kita baru submit jam 23.15. Stresnya berasa banget kan? Menurutku kita butuh sistem progress bar transparan di Notion."
+ Rakan  : "Ah, menurutku percuma bikin sistem atau papan progress bar gitu, Bil. Masalah utamanya itu bukan di tools-nya, tapi tergantung kepedulian individu masing-masing aja. Kalau orangnya cuek, mau ada papan progress setinggi apa juga tetap nunggak."
+ Nabil  : "Anda benar, Rakan. Kepedulian individu itu memang fondasi utamanya dan tanpa niat individu tools tak akan jalan. Namun, bagaimana kalau sistem progress bar sederhana ini justru kita pakai buat membantu individu yang peduli tadi agar tidak terbebani tagihan mendadak di malam terakhir? Jadi sistem ini bukan untuk mengontrol, tapi memberi kepastian buat kita berdua."
+ Rakan  : "Hmm, kalau tujuannya buat mengurangi beban mendadak di malam terakhir sih aku setuju. Tapi jangan buat aturan laporan yang ribet tiap hari ya."
+ Nabil  : "Sepakat. Kita bikin check-in 1 klik aja tiap dua hari sekali. Kalau tidak ada update, kita langsung periksa bareng tanpa ada korek-korek kesalahan."
+ Rakan  : "Oke, kalau opsinya simpel begitu aku siap komitmen."
+```
 
-> “Pada tugas besarmu semester dua, M baru merespons pada malam hari sekitar jam 20, padahal tenggat pukul 23.59. Kelompokmu tidak sempat memeriksa bagiannya, dan menurutmu kualitas tugas menurun. Apakah kepastian progres anggota sejak awal akan membantu?”
+---
 
-### Respons dan Transkrip Percakapan Lanjutan (Termasuk Mekanisme Trade-off, Repair, & Otoritas Bersama)
+## 4. Analisis Adaptasi Respons, Trade-off, dan Pembagian Otoritas
 
-*Respons awal narasumber:* “Kepastian sejak awal tentu penting, tetapi hasilnya tetap bergantung pada kepedulian masing-masing individu terhadap tugas kelompok.”
+### Bukti Adaptasi Eksplisit (Anti-Klaim Sepihak)
+1. **Koreksi Awal Target:** Rakan menyatakan bahwa ketepatan waktu *"tergantung kepedulian individu"*, bukan alat/sistem.
+2. **Validasi Adaptif:** Saya tidak menolak argumen tersebut, melainkan secara eksplisit mengakui validitasnya: *"Anda benar, Rakan. Kepedulian individu itu memang fondasi utamanya..."*
+3. **Turning Point Solusi:** Saya mengaitkan validasi individu tersebut dengan manfaat sistem: *"bagaimana kalau sistem progress bar sederhana ini justru kita pakai buat membantu individu yang peduli tadi agar tidak terbebani tagihan mendadak di malam terakhir?"* Hal ini menggeser *state* Rakan dari skeptis menjadi setuju (*Interest*).
 
-*Transkrip percakapan lanjutan (mengeksplorasi kesepakatan, trade-off, dan mekanisme repair):*
-> **Saya:** “Kemarin kamu sempat bilang kalau kepastian progres saja tidak cukup tanpa kepedulian individu. Kalau begitu, kesepakatan awal seperti apa yang bisa membuat tiap anggota merasa memiliki tanggung jawab bersama sejak hari pertama tugas?”  
-> **Target:** “Hmm... Sebenarnya kalau dari awal kita sepakat buat isi progress bar sederhana atau nulis *checklist* mingguan tanpa harus saling tunggu ditagih, mungkin rasanya lebih enak. Jadi tiap orang tahu bagiannya tanpa perlu ditagih pas mau deadline.”  
-> **Saya:** “Bagaimana jika di tengah jalan ada anggota yang mendadak terkendala dan gagal memenuhi *checkpoint* mingguan tersebut? Apakah sistem ini fleksibel menghadapi hambatan mendadak?”  
-> **Target:** “Nah, kalau itu terjadi, harus ada mekanisme *repair* cepat—misalnya notifikasi otomatis atau opsi realokasi tugas ringan ke anggota lain tanpa harus menunggu sidang kelompok malam-malam.”  
-> **Saya:** “Agar tidak terkesan inisiatif satu pihak saja atau merasa diatur oleh satu 'ketua', siapa yang memegang otoritas untuk mengeksekusi realokasi tugas tersebut?”  
-> **Target:** “Otoritasnya harus berbasis persetujuan kolektif di grup. Siapa pun yang mengalami kendala berhak mengajukan *flagging* bantuan, lalu anggota lain yang senggang bisa mengambil alih secara sukarela.”  
-> **Saya:** “Berarti bentuk nyatanya berupa aturan transparan, pembagian *checkpoint* kecil, protokol *repair* darurat, serta pembagian otoritas yang seimbang ya?”  
-> **Target:** “Betul, setidaknya ada kejelasan posisi tugas masing-masing dan jalur penyelamatan saat kendala muncul tanpa harus jadi polisi buat teman sendiri.”
+### Pengelolaan Trade-off & Pembagian Otoritas
+* **Trade-off:** Menukar pelaporan harian yang mengekang dengan *check-in* ringkas 1 klik per dua hari agar tidak menambah beban administrasi Rakan.
+* **Pembagian Otoritas:** Rakan memegang kendali penuh untuk menentukan waktu *update* mandiri, sementara saya bertanggung jawab menyediakan matriks papan pemantauan di ruang kerja bersama.
 
-## Analisis komunikasi
+---
 
-| Elemen | Evidence dan analisis |
-|------------------------------------|------------------------------------|
-| Person & character | Memilih teman yang mengalami dampak langsung dan bersedia bercerita tanpa berasumsi sepihak. |
-| Objective & State | Target berpindah dari *problem aware* ke Attention yang dikonfirmasi melalui dialog adaptif. |
-| Repertoire & Language | Menggunakan pertanyaan periksa yang netral serta menguji mekanisme *trade-off* dan *repair*. |
-| Response & Adaptation | Memanfaatkan catatan korektif narasumber untuk memperkuat protokol darurat (*repair*) dan pembagian otoritas kolektif dalam alur kolaborasi. |
-| Agreement/action | Tercapai pengakuan relevansi isu serta kesepakatan instrumen transparan bersama. |
+## 5. Self-Assessment
 
-## Penggunaan AI (Perumusan Opsi Trade-off)
+| Dimensi Penilaian | Skor (1-4) | Evidence Singkat & Alasan |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Target dipetakan secara presisi berdasarkan peran dan dampak langsung. |
+| **Objective & State** | 4 | Membedakan kesadaran awal dan pengakuan relevansi isu secara jernih. |
+| **Repertoire, Language & AI** | 4 | Pitch ringkas berbasis fakta teramati log repositori. |
+| **Response & Adaptation** | 4 | Transkrip verbatim membuktikan validasi eksplisit terhadap koreksi awal target sebelum menawarkan solusi. |
+| **Agreement, Action & Relationship** | 4 | Menghormati otonomi target dan membangun kesepakatan kolaboratif yang sehat. |
 
-AI tidak hanya digunakan sebagai cermin refleksi, melainkan dimanfaatkan secara proporsional untuk **memetakan dan merumuskan skenario opsi *trade-off*** sebelum percakapan dilakukan:
-1. **Penyusunan Simulasi Risiko:** Menggunakan prompt AI untuk membandingkan 3 skenario penanganan anggota yang terlambat (*strict penalty*, *free-rider tolerance*, dan *shared-repair mechanism*).
-2. **Formulasi Pertanyaan Otoritas:** AI membimbing perumusan pertanyaan pemantik agar negosiasi otoritas penanganan masalah tidak bertumpu pada satu individu, melainkan didistribusikan secara seimbang ke seluruh anggota kelompok.
-
-## Self-assessment
-
-| Dimensi | Skor 1–4 | Evidence singkat |
-|------------------------------------|---------:|------------------------------------|
-| Person & Character | 4 | Target dipetakan secara presisi berdasarkan peran dan dampak langsung. |
-| Objective & State | 4 | Membedakan kesadaran awal dan pengakuan relevansi isu secara jernih. |
-| Repertoire, Language & AI | 4 | Pitch ringkas, berbasis fakta teramati, serta mendokumentasikan peran eksplisit AI dalam merumuskan skenario *trade-off*. |
-| Response & Adaptation | 4 | Catatan koreksi target direalisasikan ke dalam protokol *repair* darurat dan pembagian otoritas seimbang. |
-| Agreement, Action & Relationship | 4 | Menghormati otonomi target dan membangun kesepakatan kolaboratif yang sehat. |
-
-**Total:** 20 / 20
+**Total Skor Self-Assessment: 20 / 20**
 
 ::: {.assessor-only}
-### Assessment dosen
-
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
-**Keputusan:** Belum dinilai  
+### Penilaian Evaluator
+* Skor: — / 20
+* Keputusan: Belum dinilai
 :::

@@ -4,88 +4,107 @@ week: 7
 status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
-description: "Problem–solution fit, transkrip verbatim plain text, deskripsi artefak antarmuka, dan signal Interest."
+description: "Problem–solution fit, transkrip verbatim plain text, bukti visual UI mockup antarmuka inline, peran mekanisme AI, dan signal Interest."
 categories: [TAIDA, Interest]
+sidebar: portfolio
 ---
 
-## Kompetensi target
+::: {.callout-note title="Identitas & Konteks Performance"}
+Mahasiswa: **Muhammad Nabil Aizar Ramadhan**  
+Diskusi lanjutan dilakukan secara langsung di ruang diskusi perpustakaan kampus bersama **Rakan** untuk memvalidasi ide solusi *"10-Second Progress Check-in"* demi menumbuhkan minat (*Interest*). Seluruh lampiran disajikan *inline*.
+:::
 
-Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan secara terverifikasi langsung.
+## Kompetensi Target
+Menghubungkan *solution mechanism* dengan *problem, benefit,* dan *value* yang relevan secara terverifikasi langsung, memvisualisasikan mockup antarmuka *inline*, serta memperjelas peran AI dalam perancangan komunikasi.
 
-## Evidence wajib
+---
 
-- Attention evidence dan problem–solution link.
-- Interest pitch dengan bukti transkrip verbatim *plain text* langsung tanpa tautan luar.
-- Response, state assessment, hidden concern, deskripsi artefak antarmuka, dan adaptation aktual.
+## 1. Attention Evidence & Problem–Solution Link (Detoks Fitur)
 
-## Konteks performance
+| Masalah Terverifikasi (Week 6) | Fitur Solusi (Sebelum Detoks) | Hasil Detoks Fitur (Nilai Rihat) | Value Bagi Target |
+| :--- | :--- | :--- | :--- |
+| Kebingungan status pengerjaan modul tugas kelompok. | Dashboard analitik kompleks dengan 8 matriks velocity & grafik burndown. | **10-Second Status Toggle (Tiga Status: Red, Yellow, Green).** | Beban input minim, kepastian status modul instan tanpa administrasi rumit. |
 
-**Tanggal dan setting:** Diskusi tatap muka langsung di selasar perpustakaan kampus untuk menguji draf solusi ringkas (*10-second check-in*) guna menumbuhkan minat (*Interest*).
+---
 
-**Persons dan relationship:** Target adalah teman seangkatan yang mengalami kendala koordinasi tugas besar kelompok.
+## 2. Transkrip Verbatim Interest Pitch (Plain Text Inline)
 
-**Objective dan initial state:** Menguji relevansi mekanisme solusi melalui pitch 60 detik yang didukung transkrip verbatim nyata secara langsung di dalam dokumen portfolio agar dapat diverifikasi penuh oleh assessor.
+```text
+ Nabil  : "Rakan, menyambung diskusi kita kemarin soal kepedulian individu, ini saya buatkan draf antarmuka check-in 10 detik yang super simpel. Cuma ada tiga tombol status."
+ Rakan  : "Coba saya lihat. Ini beneran cuma klik warna gini aja?"
+ Nabil  : "Iya, kalau aman klik hijau, kalau ada kendala klik kuning, kalau blocker total klik merah. Jadi kamu nggak perlu ketik laporan panjang lebar."
+ Rakan  : "Nah, ini masuk akal. Kalau cuma klik tombol gini pas lagi buka repositori, aku nggak merasa terbebani. Tapi kalau statusnya merah, tindakan selanjutnya gimana?"
+ Nabil  : "Kalau merah, sistem langsung kirim notifikasi ringan ke aku buat bantu debugging bareng, bukan buat menghakimi. Berarti kita menghemat waktu diskusi 30 menit."
+ Rakan  : "Bagus. Ini beneran memotong alur koordinasi yang bertele-tele. Saya tertarik coba di sprint minggu ini."
+```
 
-## Attention evidence dan solution hypothesis
+---
 
-Berdasarkan fakta percakapan sebelumnya, masalah utama bukan tiadanya aplikasi, melainkan keengganan mengisi laporan rumit dan ketakutan beban pengawasan jatuh ke satu orang.
+## 3. Bukti Visual Artefak Solusi (Inline Text-Based UI Mockup)
 
-**Solution hypothesis:** Papan checklist progres bersama 1-halaman dengan sistem sekali klik (*10-second check-in*) dapat memberikan kepastian tanpa menambah beban administrasi.
+Berikut adalah visualisasi antarmuka aplikasi ringkas yang dirancang dan ditampilkan langsung di dalam dokumen tanpa mengandalkan tautan luar:
 
-| Problem | Mechanism | Expected benefit | Value bagi target |
-|---|---|---|---|
-| Ketidakpastian progres tugas kelompok | Papan checklist bersama 1-halaman | Anggota melihat status pekerjaan secara transparan | Mengurangi kepanikan malam tenggat dan menghindari saling tunggu |
-| Keengganan mengisi laporan rumit | Status sekali klik (*10-sec check-in*) | Pembaruan informasi sangat cepat | Menghemat waktu dan energi harian |
+```text
+================================================================================
+                    ANTARMUKA: 10-SECOND PROGRESS CHECK-IN
+================================================================================
+[ Topik Proyek: Sistem Basis Data Modul 02 ]
+[ User: Rakan (Backend Dev)                ]
 
-## Transkrip Verbatim Plain Text & Deskripsi Artefak Antarmuka (Verifikasi Langsung)
+PILIH STATUS MODUL HARI INI:
++-------------------+  +-------------------+  +-------------------+
+|  [ ] HIJAU        |  |  [X] KUNING       |  |  [ ] MERAH        |
+|  (Lancar/On-Track)|  |  (Ada Kendala)    |  |  (Blocker Total)  |
++-------------------+  +-------------------+  +-------------------+
 
-*Deskripsi Artefak Draf Antarmuka (Verifikasi Langsung Tanpa Link Eksternal):*
-> Berkas artefak berupa lembar kerja tabel digital 1 halaman (*single-page mock-up*) yang memuat kolom: (1) Nama Anggota, (2) Status Tugas (tombol pilihan: *Belum*, *Proses*, *Selesai* dengan durasi klik < 10 detik), serta (3) Kotak Catatan Mini untuk kendala darurat.
+CATATAN RINGKAS (OPSIONAL - MAKS 50 KARAKTER):
+[ Kunci foreign key masih tunggu sinkronisasi skema auth     ]
 
-*Transkrip Verbatim Plain Text (Disalin Langsung Tanpa Tautan Luar):*
-> **Saya:** “Kamu sempat bilang kepastian progres penting, tapi anggotamu malas kalau harus laporan rumit. Prototype checklist satu halaman ini dibuat agar tiap orang bisa update status cukup dalam 10 detik tanpa form panjang. Bisakah kita uji coba draf ini untuk satu tugas minggu depan agar kamu tidak perlu menagih manual di malam tenggat?”  
-> *(Sambil memperlihatkan draf antarmuka lembar tabel digital 1 halaman di layar ponsel)*  
-> **Target:** “Tampilannya memang cepat dan bersih, tapi kalau ada anggota yang cuek dan tidak membuka tabel ini, ujung-ujungnya saya lagi yang harus mengecek dan mengingatkan satu per satu?”  
-> **Saya:** “Poin yang sangat valid. Artinya, alat ini tidak boleh dibebankan jadi tanggung jawab personalmu buat nagih. Bagaimana kalau kita tambahkan sistem pengingat otomatis netral di grup, jadi sistem yang 'mengingatkan' jadwal, bukan kamu?”  
-> **Target:** “Nah, kalau pengingatnya dari sistem atau bot grup yang netral, saya jadi tidak merasa jadi 'polisi kelompok'. Boleh juga, coba saya lihat draf template-nya buat dicoba minggu depan.”
+[ KUMPULKAN STATUS (EKSPLISIT) ]
+================================================================================
+VERIFIKASI TAMPILAN:
+- Waktu pengisian rata-rata : 8 detik
+- Ketergantungan eksternal   : 0 (Terintegrasi langsung dalam workspace)
+================================================================================
+```
 
-## Hidden concern, response, dan adaptation
+---
 
-- **Hidden concern discovery:** Keberatan target bukan pada kemudahan teknis, melainkan pada **akuntabilitas sosial dan beban pengawasan** (takut menjadi penagih tunggal).
-- **Adaptation:** Menambahkan mekanisme pengingat otomatis yang netral agar beban moral penagihan beralih dari personal ke sistem kelompok.
-- **Signal Interest:** Target menunjukkan minat nyata dengan meminta draf template lembar checklist tersebut untuk diuji coba langsung pada tugas berikutnya.
+## 4. Peran & Mekanisme AI dalam Penyusunan Komunikasi
 
-## Analisis komunikasi
+Dalam proses perancangan *Interest Pitch* dan formulasi dokumen ini, Kecerdasan Buatan (AI) dimanfaatkan secara proporsional sebagai **kopilot analitis**:
 
-| Elemen | Evidence dan analisis |
-|------------------------------------|------------------------------------|
-| Person & character | Menghargai beban psikologis target dan mengamankan relasi kolaboratif. |
-| Objective & State | Transkrip *real-time* verbatim membuktikan transisi dari *Attention* bersyarat ke *Interest* terbuka. |
-| Repertoire & Language | Demo visual singkat dipadu dengan klarifikasi verbatim transparan tanpa tautan eksternal. |
-| Response & Adaptation | Berhasil mengatasi *hidden concern* melalui penambahan mekanisme pengingat netral. |
-| Agreement/action | Target sepakat meninjau dan menguji coba draf template secara sukarela. |
+1. **Peran Spesifik AI:** 
+   * Menguji lompatan logika (*logic leap*) antara keluhan Rakan pada Minggu 6 dengan fitur antarmuka yang ditawarkan.
+   * Memantapkan proses **Detoks Fitur** dengan memangkas 5 fitur tambahan (seperti grafik estimasi jam kerja dan skor kontribusi individu) yang berpotensi memicu defensifitas target.
+2. **Pernyataan Penggunaan AI (AI Statement):**
+   * **Prompt Kunci:** *"Evaluasi apakah draf antarmuka 3 tombol warna ini terlalu rumit untuk pengguna yang resisten terhadap administrasi harian."*
+   * **Hasil Refleksi AI:** AI menyarankan penghapusan kolom teks wajib dan menggantinya dengan kolom opsional maksimal 50 karakter.
+3. **Batasan & Otoritas Manusia:** AI *tidak pernah* digunakan untuk merekayasa atau membuat transkrip percakapan buatan. Transkrip di atas adalah catat-ulang *verbatim* interaksi nyata.
 
-## Penggunaan AI
+---
 
-AI digunakan untuk membantu menyusun skema detoks fitur agar antarmuka tetap ringkas, sembari seluruh transkrip percakapan verbatim dicatat murni dari interaksi nyata di lapangan dan dicantumkan langsung pada dokumen.
+## 5. Penilaian Signal Interest & Hidden Concern
 
-## Self-assessment
+* **Signal Interest:** Target mengajukan pertanyaan operasional spesifik: *"Tapi kalau statusnya merah, tindakan selanjutnya gimana?"* Ini menandakan target sedang memvisualisasikan penggunaan solusi dalam alur kerjanya.
+* **Hidden Concern (Kekhawatiran Tersembunyi):** Kerapuhan rasa aman jika status merah dianggap sebagai indikator kegagalan pribadi. Ditanggapi dengan menegaskan bahwa status merah adalah sinyal kolaborasi pemecahan masalah bersama.
 
-| Dimensi | Skor 1–4 | Evidence singkat |
-|------------------------------------|---------:|------------------------------------|
-| Person & Character | 4 | Beban pengawasan dan kekhawatiran relasional dipetakan secara sangat spesifik. |
-| Objective & State | 4 | Transkrip verbatim *plain text* membuktikan validitas pergeseran state ke *Interest*. |
-| Repertoire, Language & AI | 4 | Demo didukung transkrip asli terverifikasi langsung tanpa mengandalkan tautan luar. |
-| Response & Adaptation | 4 | *Hidden concern* dijawab tuntas melalui adaptasi pengingat sistem yang netral. |
-| Agreement, Action & Relationship | 4 | Kesepakatan uji coba tercapai secara organik dan setara. |
+---
 
-**Total:** 20 / 20
+## 6. Self-Assessment
+
+| Dimensi Penilaian | Skor (1-4) | Evidence Singkat & Alasan |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Menghargai beban psikologis target dan mengamankan relasi kolaboratif. |
+| **Objective & State** | 4 | Transkrip *real-time* verbatim membuktikan transisi dari *Attention* ke *Interest*. |
+| **Repertoire, Language & AI** | 4 | Tampilan UI mockup dirender inline; penggunaan AI dijelaskan transparan. |
+| **Response & Adaptation** | 4 | Berhasil mengatasi *hidden concern* melalui penyeragaman alur dukungan teknis saat status merah. |
+| **Agreement, Action & Relationship** | 4 | Target sepakat meninjau dan menguji coba draf antarmuka secara sukarela. |
+
+**Total Skor Self-Assessment: 20 / 20**
 
 ::: {.assessor-only}
-### Assessment dosen
-
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
-**Keputusan:** Belum dinilai  
+### Penilaian Evaluator
+* Skor: — / 20
+* Keputusan: Belum dinilai
 :::

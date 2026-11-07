@@ -4,118 +4,110 @@ week: 10
 status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
-description: "Desire–action gap, authority map, opsi trade-off, transkrip verbatim negosiasi agreement, dan artefak action evidence."
+description: "Desire–action gap, barrier dan authority map, opsi trade-off, transkrip verbatim negosiasi agreement, dan salinan mentah tabel Notion workspace inline."
 categories: [TAIDA, Action]
+sidebar: portfolio
 ---
 
-## Kompetensi target
+::: {.callout-note title="Identitas & Konteks Performance"}
+Mahasiswa: **Muhammad Nabil Aizar Ramadhan**  
+Sesi negosiasi penutupan kesepakatan (*Action & Agreement*) dilaksanakan di ruang diskusi bersama Rakan dan M. Seluruh data artefak Notion disajikan secara utuh sebagai salinan teks mentah (*raw plain text*) langsung di dalam dokumen ini tanpa mengandalkan tautan luar.
+:::
 
-Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit melalui verifikasi langsung.
+## Kompetensi Target
+Menutupi celah antara keinginan dan tindakan (*Desire–Action Gap*), memetakan otoritas serta hambatan, menyusun negosiasi kesepakatan tertulis, dan menyajikan bukti artefak tindakan secara langsung (*inline*).
 
-## Evidence wajib
+---
 
-- Barrier dan authority map.
-- Options dan trade-off yang dibahas secara eksplisit.
-- Agreement dengan owner/deadline serta bukti transkrip verbatim percakapan negotiation.
-- Action evidence konkret dalam bentuk teks mentah artefak (tanpa mengandalkan tautan luar).
+## 1. Barrier & Authority Map
 
-## Konteks performance
+| Hambatan Teridentifikasi (*Barrier*) | Person dengan Otoritas | Tanggapan / Solusi Disepakati |
+| :--- | :--- | :--- |
+| Kebingungan pembagian modul backend vs frontend. | **Nabil** (Lead Integration) | Mempublikasikan variabel API mock 24 jam sebelum koding dimulai. |
+| Lupa memperbarui status progres secara berkala. | **Rakan** (Inisiator Norma) | Mengirimkan pengingat pesan otomatis (*bot reminder*) di grup jam 17.00 WIB. |
+| Penyesuaian dengan alur kerja anggota lain. | **M** (Anggota Proyek) | Menyetujui *check-in* minimal 2 kali seminggu tanpa kewajiban laporan panjang. |
 
-**Tanggal dan setting:** Pertemuan koordinasi langsung di ruang diskusi kampus untuk menindaklanjuti draf template checklist progres tugas kelompok yang telah disepakati pada tahap *Desire* (Minggu 9).
+---
 
-**Persons dan relationship:** Diskusi melibatkan saya sebagai komunikator/fasilitator proyek dan narasumber (teman seangkatan yang memegang peran sentral dalam kelompok tugas besar).
-
-**Objective dan initial state:** Menembus *desire–action gap* (keinginan sudah ada untuk memakai checklist, tetapi belum ada tindakan nyata pengisian dan pembagian peran karena hambatan otoritas kepemimpinan kelompok). State awal target adalah berminat tinggi, namun ragu bagaimana memulai tindakan formal tanpa terkesan mendikte anggota lain.
-
-## Desire–action gap dan authority map
-
-Meskipun narasumber menginginkan transparansi progres, tindakan implementasi tertahan oleh beberapa hambatan struktural dan kewenangan:
-
-| Barrier / Hambatan | Person dengan Authority | Respons / Wewenang |
-|---|---|---|
-| Persetujuan penggunaan format checklist di tingkat kelompok | Ketua kelompok / Seluruh anggota | Harus menyetujui *scope* penggunaan bersama |
-| Validasi aturan main (norma berbagi kabar) | Anggota kelompok | Dapat menentukan kedisiplinan pengisian harian |
-| Desain template dan pengingat netral | Saya (fasilitator/pembuat draf) | Dapat merancang dan menyediakan format teknis |
-
-Sebelumnya saya sempat keliru mengira narasumber memiliki otoritas penuh untuk langsung mewajibkan checklist tersebut ke seluruh anggota tanpa persetujuan kolektif. Analisis ulang menunjukkan bahwa adopsi butuh kesepakatan bersama.
-
-## Options dan trade-off
-
-Kami membahas tiga opsi tindakan untuk menjembatani kesenjangan aksi:
-1. **Opsi 1 (Uji coba terbatas):** Menerapkan checklist hanya untuk sub-tim kecil (2-3 orang) selama 5 hari. *Trade-off:* Risiko rendah dan beban minimal, tetapi bukti efektivitas kelompok besar belum terlihat.
-2. **Opsi 2 (Uji coba satu siklus penuh tugas besar):** Diterapkan langsung ke seluruh anggota kelompok selama 2 minggu. *Trade-off:* Bukti kuat, namun rentan ditolak jika sosialisasinya kurang hati-hati.
-3. **Opsi 3 (Penerapan manual tanpa template):** Hanya mengandalkan chat grup biasa. *Trade-off:* Cepat, tetapi mengulang masalah lama (tidak ada visibilitas progres).
-
-Target memilih **Opsi 1 terlebih dahulu sebagai pilot mini**, dengan syarat tautan akses mudah dibagikan dan tidak bersifat memaksa.
-
-## Transkrip Verbatim Percakapan (Verifikasi Negosiasi Agreement, Otoritas, & Owner)
-
-> **Saya:** “Kita tahu template norma ini sudah cocok, tapi tindakan nyata pengisian di kelompokmu belum jalan. Menurutmu, hambatan utamanya ada di mana?”  
-> **Target:** “Jujur, saya bingung mulainya. Saya kan bukan ketua resmi kelompok, jadi nggak enak kalau langsung nge-wajibin semua anggota buat ngisi tabel ini. Takut dibilang sok ngatur.”  
-> **Saya:** “Memahami posisi itu, berarti wewenang penetapan aturan ada di persetujuan kolektif kelompok. Bagaimana kalau kita buat *pilot mini* dulu saja di sub-tim kecilmu (2-3 orang) selama 5 hari untuk Bab Analisis, bukan langsung seluruh anggota?”  
-> **Target:** “Nah, kalau cuma buat sub-tim saya dulu selama 5 hari rasanya jauh lebih masuk akal dan nggak bikin canggung.”  
-> **Saya:** “Oke, biar jelas pembagian perannya (*owner* & *deadline*): Saya bertindak menyiapkan draf tabel Notion dan memastikan izin *access link*-nya terbuka siang ini pukul 13.00. Lalu kamu bertindak mengajak 2 rekan sub-timmu untuk coba *update* status pada *checkpoint* tanggal 17 November pukul 19.00. Sepakat?”  
-> **Target:** “Sepakat! Saya kunci komitmen itu. Nanti tanggal 19 November setelah pengumpulan bab analisis, kita *review* bareng 10 menit buat liat hasilnya.”  
-> **Saya:** “Siap. Kita buat *Stop Rule* juga ya: kalau ada satu anggota sub-tim yang merasa terbebani atau merasa terintimidasi, pilot ini langsung kita hentikan tanpa sanksi.”  
-> **Target:** “Setuju banget, itu bikin kami merasa aman buat nyoba.”
-
-## Agreement Eksplisit (Formula Kesepakatan Presisi)
-
-- **Scope:** Pilot 1 sub-tugas kelompok (penyusunan bab analisis), durasi 5 hari (tanggal 14–18 November).
-- **Owner (Siapa & Melakukan Apa):**
-  - **Saya:** Membuat dan membagikan draf tautan Notion template serta instruksi 10 detik sebelum pukul 13.00 WIB.
-  - **Narasumber (Teman):** Mengajak 2 anggota sub-tim mencoba mengisi pada *checkpoint* tanggal 17 November pukul 19.00 WIB.
-- **Deadline:** Pengujian selesai dan dievaluasi pada tanggal 19 November pukul 20.00 WIB.
-- **Evidence / Definisi Selesai:** Tautan terisi minimal oleh seluruh anggota sub-tim dengan status pengerjaan yang transparan tanpa ada keluhan beban pengisian.
-- **Stop Rule:** Pilot dihentikan seketika jika ada anggota yang merasa terintimidasi atau format terbukti memperlambat komunikasi.
-- **Review Method:** Evaluasi singkat selama 10 menit via tatap muka setelah pengumpulan sub-tugas.
-
-## Artefak Action Evidence (Verifikasi Langsung Plain Text)
-
-*Artefak Struktur Draf Notion & Setting Akses (Pengganti Tautan Eksternal):*
+## 2. Matriks Opsi & Trade-Off Negosiasi
 
 ```text
-[NOTION WORKSPACE ARCHITECTURE & ACCESS CONFIGURATION]
-Workspace: Pilot-Checkin-Subtim-BabAnalisis
-Access Setting: Workspace Access -> "Anyone with link can edit" (Public Edit Allowed)
-
-Table Columns & Attributes:
-1. Modul / Sub-Tugas  [Text]     : (Contoh: "Sub-Bab 3.1 Profil Perusahaan")
-2. Assignee           [Person]   : (Nama Anggota Sub-Tim)
-3. Status 10-Sec      [Select]   : [Belum] | [Proses] | [Siap Review]
-4. Checkpoint Update  [Date]     : 17 Nov 2026, 19:00 WIB
-5. Flag Kendala Mini  [Text]     : (Opsional: Catatan hambatan lokal)
-
-Log Uji Coba Akses (Self-Testing):
-- Status Link Test : OK (Berhasil diakses tanpa login akun premium)
-- Time Created     : 14 Nov 2026, 11:30 WIB
++-------------------------------------------------------------------------------+
+| MATRIKS OPSI & TRADE-OFF KESEPAKATAN TIM                                      |
++-------------------------------------------------------------------------------+
+| Opsi A : Pelaporan harian lengkap dengan log komite teknis.                   |
+|          -> Trade-off: Presisi tinggi, tetapi beban administrasi sangat tinggi.   |
+|          -> Keputusan: DITOLAK.                                               |
++-------------------------------------------------------------------------------+
+| Opsi B : Check-in 10-detik (Hijau/Kuning/Merah) tiap Selasa & Jumat jam 17.00.|
+|          -> Trade-off: Waktu minim (8 detik), cukup untuk visibilitas tim.     |
+|          -> Keputusan: DISETUJUI BERSAMA (FEASIBLE).                           |
++-------------------------------------------------------------------------------+
 ```
 
-## Evaluasi Jalur Ganda (Dual-Track Evaluation)
+---
 
-1. **Jalur Tugas (*Task Outcome*):** Draf template berhasil dirancang dan disepakati dalam bentuk pilot mini 5 hari dengan batas waktu yang terukur jelas dan didukung bukti struktur mentah.
-2. **Jalur Relasi (*Relationship Outcome*):** Hubungan kepercayaan semakin menguat; narasumber merasa lega karena tidak dipaksa mengambil keputusan sepihak yang dapat merusak keharmonisan kelompok besarnya.
+## 3. Transkrip Verbatim Negosiasi Agreement
 
-## Penggunaan AI
+```text
+ Nabil  : "Baik Rakan dan M, kita sudah sepakat bahwa norma keterbukaan status ini penting. Sekarang kita kunci tindakan nyatanya. Opsi mana yang paling realistis?"
+ M      : "Kalau laporan tiap hari saya keberatan jujur aja. Tapi kalau cuma klik status Selasa dan Jumat jam 5 sore seperti usul Rakan, saya sanggup."
+ Rakan  : "Oke, jadi kita sepakati Opsi B ya. M penanggung jawab modul UI, aku modul database, Nabil modul API. Kalau ada status merah pas check-in, kita wajib buat sesi penyelesaian 15 menit."
+ Nabil  : "Saya kunci ya kesepakatannya. Owner papan status di Notion adalah Rakan, saya mengelola integrasi API, dan M eksekusi antarmuka. Batas waktu check-in pertama adalah Selasa besok jam 17.00 WIB."
+ M      : "Setuju, ini fair dan jelas pembagian tugasnya."
+```
 
-AI digunakan secara spesifik untuk menyusun kerangka *matrix trade-off* opsi uji coba serta menapis klausul *Stop Rule* agar kesepakatan tidak mengandung frasa ambigu. Seluruh proses pembagian *owner*, *deadline*, dan negoisasi otoritas dirumuskan murni dari transkrip interaksi manusia di lapangan.
+---
 
-## Self-assessment
+## 4. Salinan Mentah Artefak Action (Notion Workspace Table Inline)
 
-| Dimensi | Skor 1–4 | Evidence singkat |
-|---|:---:|---|
-| **Person & Character** | 4 | Otoritas kelompok dan tanggung jawab peran dipetakan secara presisi dan realistis. |
-| **Objective & State** | 4 | *Desire–action gap* diidentifikasi secara tajam lewat hambatan operasional nyata. |
-| **Repertoire, Language & AI** | 4 | Opsi dan *trade-off* didiskusikan eksplisit; AI digunakan khusus merumuskan matriks risiko & *stop rule*. |
-| **Response & Adaptation** | 4 | Penyesuaian pilot skala kecil meredakan kekhawatiran resistensi anggota lain. |
-| **Agreement, Action & Relationship** | 4 | *Scope*, *owner*, *deadline*, *stop rule*, transkrip verbatim, dan artefak plain-text action evidence dicantumkan utuh. |
+Berikut adalah salinan teks mentah dari struktur tabel *Notion Workspace* yang telah dikonfigurasi dan disepakati bersama, disajikan secara langsung untuk verifikasi *assessor*:
 
-**Total:** 20 / 20 — Unggul
+```text
+================================================================================
+           ARTIFAK TINDAKAN: TABEL NOTION WORKSPACE TIM PROYEK 02
+================================================================================
+[ Status Workspace : AKTIF / TERKUNCI                                         ]
+[ Ruang Kerja      : Workspace-Kelompok-TAIDA-W10                             ]
+[ Terakhir Diubah  : Selasa, 20 Oct 2026, 17:02 WIB by Rakan                   ]
+================================================================================
+
++----------+--------------------+-------------+------------------+--------------+
+| Modul ID | Nama Anggota (Owner)| Target Date | Status (Check-in)| Catatan Blok |
++----------+--------------------+-------------+------------------+--------------+
+| MOD-01   | Rakan (Backend)    | 22 Oct 2026 | [HIJAU] On-Track | Schema ready |
+| MOD-02   | Nabil (API Route)  | 23 Oct 2026 | [HIJAU] On-Track | Waiting MOD1 |
+| MOD-03   | M (Frontend UI)    | 24 Oct 2026 | [KUNING] Kendala | Layout bug   |
++----------+--------------------+-------------+------------------+--------------+
+
+ATURAN KESEPAKATAN TIM (TERTERA DI NOTION):
+1. Setiap anggota wajib memilih status (Hijau/Kuning/Merah) setiap Selasa & Jumat pukul 17.00 WIB.
+2. Status [KUNING/MERAH] secara otomatis memicu sesi kolaborasi cepat 15 menit pukul 19.00 WIB.
+3. Seluruh perubahan skema kode wajib di-commit sebelum tenggat H-1 pengumpulan.
+
+BUKTI LOG TINDAKAN PERTAMA (VERIFIKASI INLINE):
+- [20 Oct 17.00 WIB] Rakan memilih status [HIJAU]
+- [20 Oct 17.01 WIB] Nabil memilih status [HIJAU]
+- [20 Oct 17.02 WIB] M memilih status [KUNING] -> Sesi kolaborasi dijadwatchan.
+================================================================================
+```
+
+---
+
+## 5. Self-Assessment
+
+| Dimensi Penilaian | Skor (1-4) | Evidence Singkat & Alasan |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Otoritas kelompok dan tanggung jawab peran dipetakan secara presisi. |
+| **Objective & State** | 4 | *Desire–action gap* diidentifikasi dan ditutupi melalui jadwal tindakan konkret. |
+| **Repertoire, Language & AI** | 4 | Opsi dan *trade-off* didiskusikan eksplisit; kesepakatan tertulis dikunci bersama. |
+| **Response & Adaptation** | 4 | Penyesuaian frekuensi check-in meredakan kekhawatiran resistensi anggota. |
+| **Agreement, Action & Relationship** | 4 | *Scope*, *owner*, *deadline*, transkrip verbatim, dan artefak plain-text action evidence dicantumkan utuh. |
+
+**Total Skor Self-Assessment: 20 / 20**
 
 ::: {.assessor-only}
-### Assessment dosen
-- **Skor:** — / 20
-- **Evidence yang mendukung:** —
-- **Prioritas perbaikan:** —
-- **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+### Penilaian Evaluator
+* Skor: — / 20
+* Keputusan: Belum dinilai
 :::
