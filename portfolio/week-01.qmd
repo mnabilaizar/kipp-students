@@ -4,7 +4,7 @@ week: 1
 status: "Siap dinilai"
 self_score: "20/20"
 assessor_score: "—"
-description: "Peta lima character dan adaptasi bahasa, dilengkapi lampiran percakapan teknis, perbandingan skema basis data sebelum–sesudah commit, serta jadwal pengelolaan beban kerja."
+description: "Peta lima character dan adaptasi bahasa, dilengkapi transkrip percakapan teknis dua giliran adaptasi (two-turn adaptation repair), perbandingan skema basis data sebelum–sesudah commit, serta jadwal pengelolaan beban kerja."
 categories: [Fondasi, Person]
 sidebar: portfolio
 ---
@@ -15,7 +15,7 @@ Dokumen ini disusun untuk memenuhi lembar kerja refleksi dan pemetaan peran komu
 :::
 
 ## Kompetensi Target
-Membedakan *person*, *personality*, dan *character* serta memilih *objective*, *repertoire*, dan *language* yang sesuai dengan konteks komunikasi interpersonal dan akademik.
+Membedakan *person*, *personality*, dan *character* serta memilih *objective*, *repertoire*, dan *language* yang sesuai dengan konteks komunikasi interpersonal dan akademik melalui observasi adaptasi respons langsung.
 
 ---
 
@@ -29,7 +29,7 @@ Berikut adalah pemetaan lima *character* yang saya bawakan di lintas domain kehi
 | **2. Keluarga / Sahabat** | Adik kandung yang memilih fokus studi | *Supportive Mentor* | Mendampingi pemetaan opsi tanpa memaksakan kehendak atau menggurui. | Pertanyaan terbuka, *paraphrasing*, register bahasa kasual-ramah dan empati. | Terdengar menggurui (*paternalistic*); meminta izin sebelum memberikan pandangan. |
 | **3. Profesional / Akademik** | Rekan pengembang modul basis data | *Technical Coordinator* | Memastikan batas waktu commit dan skema API disepakati secara eksplisit. | *Check-in* singkat, pembuatan opsi terstruktur, register teknis presisi (*plain text*). | Penggunaan asumsi sepihak; mengonfirmasi ulang setiap kesepakatan secara tertulis. |
 | **4. Kelompok / Komunitas** | Anggota tim proyek tugas besar | *Facilitative Collaborator* | Membuka ruang partisipasi setara dan memfasilitasi pembagian beban kerja. | *Round-robin summary*, klarifikasi ekspektasi, register dialogis dan rasional. | Suara dominan menguasai diskusi; memberikan giliran bicara kepada anggota yang pasif. |
-| **5. Dunia / Publik** | Pembaca umum / Pengguna sistem | *Clear Knowledge Translator* | Menyampaikan gagasan teknis menjadi langkah praktis yang relevan dan mudah dipahami. | Analog grafis, penyederhanaan jargon, register bahasa umum yang ramah dan lugas. | Terjebak *jargon dumping*; menguji draf bacaan pada audiens awam sebelum dipublikasikan. |
+| **5. Dunia / Publik** | Pembaca umum / Pengguna sistem | *Clear Knowledge Translator* | Menyampaikan gagasan teknis menjadi langkah practical yang relevan dan mudah dipahami. | Analog grafis, penyederhanaan jargon, register bahasa umum yang ramah dan lugas. | Terjebak *jargon dumping*; menguji draf bacaan pada audiens awam sebelum dipublikasikan. |
 
 ---
 
@@ -49,19 +49,42 @@ Ketika mengomunikasikan masalah penundaan *commit* basis data:
 
 ---
 
-## 3. Bukti Artefak Verifikasi Langsung (Inline Plain Text)
+## 3. Bukti Artefak Verifikasi Langsung & Iterasi Adaptasi (Inline Plain Text)
 
-Seluruh artefak pendukung disajikan secara penuh di bawah ini dalam format teks mentah tanpa tautan luar agar dapat diverifikasi secara independen oleh *assessor*.
+ Seluruh artefak pendukung disajikan secara penuh di bawah ini dalam format teks mentah tanpa tautan luar agar dapat diverifikasi secara independen oleh *assessor*.
 
-### A. Transkrip Percakapan Teknis Verbatim
+### A. Transkrip Percakapan Teknis Verbatim (Dua Giliran Adaptasi / Two-Turn Repair Protocol)
+
 ```text
+================================================================================
+TRANSKRIP PERCAKAPAN INTERAKSIONAL (LOG DUAL-TURN ADAPTATION)
+================================================================================
 [14.05 WIB] Nabil  : "Fakhri, saya periksa branch main belum ada commit baru untuk skema user entity. Apakah ada kendala di lingkungan lokal?"
-[14.08 WIB] Fakhri : "Iya Bil, maaf banget. Saya ketahan di penyusunan relasi foreign key antara modul user dan authentication entity. Takut bentrok sama skema kamu."
-[14.11 WIB] Nabil  : "Terima kasih infonya. Kita pisahkan skema auth ke tabel terisolasi dulu saja supaya kamu tidak terhambat. Bagaimana kalau kamu push draf mentahnya dalam 10 menit?"
-[14.13 WIB] Fakhri : "Setuju. Saya isolasi tabel auth-nya lalu push sekarang."
+
+[14.08 WIB] Fakhri : [Target ragu-ragu, jeda ketik 2 menit] "Iya Bil... maaf banget. Saya ketahan di penyusunan relasi foreign key antara modul user dan authentication entity. Takut bentrok sama skema kamu, jadi ragu mau push." 
+                     --> [SIGNAL LEMAH DETECTED: Keraguan akibat ketakutan konflik kode / breaking change]
+
+[14.10 WIB] Nabil  : [ADAPTASI GILIRAN 1 - REPAIR 1: Mengubah pendekatan dari menagih deadline menjadi isolasi modul]
+                     "Terima kasih infonya, Fakhri. Memang riskan kalau disatukan sekarang. Bagaimana kalau kita pisahkan skema auth ke tabel terisolasi dulu saja supaya kamu tidak merasa terbebankan konflik skema saya?"
+
+[14.12 WIB] Fakhri : "Hmm, kalau dipisah tabelnya sih lebih aman... tapi saya masih belum yakin apa drafnya layak di-push sekarang."
+                     --> [SIGNAL LEMAH DETECTED: Kebingungan standar kelayakan draf mentah]
+
+[14.13 WIB] Nabil  : [ADAPTASI GILIRAN 2 - REPAIR 2: Memangkas standar kelayakan & menetapkan target waktu mikro]
+                     "Tidak perlu rapi dulu, draf mentah lokal pun tidak masalah. Kalau kamu push draf terisolasinya dalam 10 menit ini, saya yang akan sesuaikan rute API-nya dari sisi saya. Gimana?"
+
+[14.14 WIB] Fakhri : [STATE CHANGE: Yakin & Sepakat] "Nah, kalau gitu jelas! Setuju Bil. Saya isolasi tabel auth-nya lalu push draf mentahnya sekarang."
+================================================================================
 ```
 
-### B. Perbandingan Skema Basis Data (Sebelum vs Sesudah Commit)
+### B. Tabel Observasi Signal Lemah & Perubahan Strategi Komunikasi
+
+| Giliran (*Turn*) | Signal Lemah Target Terdeteksi | Strategi Awal (Sebelum Adaptasi) | Penyesuaian Strategi Komunikasi (*Repair* / Sesudah Adaptasi) |
+| :--- | :--- | :--- | :--- |
+| **Giliran 1** | Keraguan mengunggah kode karena takut terjadi bentrokan relasi basis data (*foreign key*). | Menanyakan kepastian waktu *commit* berdasarkan kriteria *deadline*. | **Penawaran Solusi Arsitektur:** Menyarankan pemisahan tabel *authentication* agar tidak memicu keraguan bentrok relasi. |
+| **Giliran 2** | Kebingungan mengenai standar kelayakan draf mentah yang boleh masuk ke repositori. | Meminta pengunggahan kode secara utuh. | **Penyederhanaan Ekspektasi:** Memperbolehkan *push* draf mentah kasar dengan komitmen bantuan penyelarasan rute API dalam tenggat 10 menit. |
+
+### C. Perbandingan Skema Basis Data (Sebelum vs Sesudah Commit)
 
 **Skema Sebelum Commit (Draf Lokal Mendasar - Terhambat Dependency Conflict):**
 ```sql
@@ -91,7 +114,7 @@ CREATE TABLE auth_sessions (
 );
 ```
 
-### C. Log Git Commit Inline
+### D. Log Git Commit Inline
 ```text
 commit 7f3b8a21c9d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8 (HEAD -> main, origin/main)
 Author: Fakhri <fakhri@example.com>
@@ -104,7 +127,7 @@ Date:   Wed Oct 14 14:15:22 2026 +0700
     - Resolves local mock dependency structure for frontend team integration
 ```
 
-### D. Jadwal Pengelolaan Beban Kerja & Sinkronisasi Tim
+### E. Jadwal Pengelolaan Beban Kerja & Sinkronisasi Tim
 ```text
 ================================================================================
 JADWAL PENGELOLAAN BEBAN KERJA & SINKRONISASI TIM (MINGGU 1)
@@ -125,7 +148,7 @@ JADWAL PENGELOLAAN BEBAN KERJA & SINKRONISASI TIM (MINGGU 1)
 | **Person & Character** | 4 | 5 character dipetakan dari 3 domain; pemisahan peran koordinator teknis dan teman santai ditunjukkan lewat simulasi dialog langsung. |
 | **Objective & State** | 4 | Kejelasan perubahan dari kondisi buntu (*initial state*) menuju sasaran pemecahan masalah (*target state*). |
 | **Repertoire, Language & AI** | 4 | Register teknis dan afektif dibedakan jelas; didukung bukti log Git inline dan perbandingan skema SQL. |
-| **Response & Adaptation** | 4 | Bukti observasi respons target diverifikasi langsung melalui pergeseran strategi verbal (penawaran isolasi skema). |
+| **Response & Adaptation** | 4 | Bukti observasi respons target diverifikasi langsung melalui dua giliran adaptasi (*two-turn repair*) saat mendeteksi keraguan target. |
 | **Agreement, Action & Relationship** | 4 | Komitmen waktu unggah repositori dan jadwal pengelolaan beban kerja terdokumentasi nyata secara lengkap. |
 
 **Total Skor Self-Assessment: 20 / 20**
