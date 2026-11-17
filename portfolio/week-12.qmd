@@ -1,25 +1,127 @@
 ---
 title: "Community Communication Challenge"
 week: 12
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
-description: "Framing, deliberation, sufficient agreement, dan collective action."
+description: "Community person map, fact-story-value-position, tiga framing, lima opsi solusi, transkrip deliberasi lintas peran, safeguard, dan rencana evaluasi kolektif."
 categories: [Community, Deliberation]
+sidebar: portfolio
 ---
 
-## Kompetensi target
-
-Memfasilitasi community communication melintasi perbedaan dan power menuju action yang layak.
-
-## Evidence wajib
-
-- Community person map dan fact/story/value/position.
-- Sedikitnya tiga frames dan lima options.
-- Deliberation evidence, safeguard, action, dan review plan.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 12](../examples/week-12.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-note title="Identitas & Konteks Performance"}
+Mahasiswa: **Muhammad Nabil Aizar Ramadhan**  
+Forum deliberasi komunitas dilaksanakan di Ruang Diskusi Bersama Lantai 2 bersama perwakilan empat kelompok mahasiswa yang memiliki kepentingan dan jadwal berbeda terkait penggunaan ruang diskusi pada jam malam (pukul 19.00–23.00 WIB) menjelang pekan pengumpulan proyek besar. Seluruh catatan deliberasi dicantumkan secara utuh di dalam dokumen ini.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Kompetensi Target
+Memfasilitasi *community communication* melintasi perbedaan kepentingan, sudut pandang, dan relasi kuasa (*power*) menuju *sufficient agreement* serta *collective action* yang layak dan berkeadilan.
+
+---
+
+## 1. Community Person Map & Analisis Fact–Story–Value–Position
+
+| Kelompok / Perwakilan | Relasi Kuasa (*Power*) | Fact yang Dibawa | Story (Narasi Batin) | Value Utama | Position Awal |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Rakan** *(Perwakilan Tim Fokus Debugging)* | Sedang (Pengguna rutin harian) | Tiga kali sesi pengujian kode terganggu suara diskusi keras di atas pukul 21.00 WIB. | "Kalau ruang terus bising sampai larut, tim kami gagal fokus dan tidak bisa mengejar tenggat." | Ketenangan kognitif, konsentrasi, dan ketepatan waktu. | Tutup seluruh diskusi lisan mulai pukul 20.00 WIB. |
+| **Dita** *(Perwakilan Mahasiswa Pekerja Paruh Waktu)* | Rendah (Minoritas jadwal malam) | Baru tiba di kampus pukul 20.30 WIB setelah selesai jam kerja paruh waktu. | "Jika diskusi dilarang jam 20.00, kami yang bekerja sore kehilangan satu-satunya ruang koordinasi kelompok." | Keadilan akses, inklusivitas, dan kebersamaan tim. | Bebaskan diskusi lisan tanpa pembatasan jam. |
+| **Hendra** *(Koordinator Pengelola Ruang Angkatan)* | Tinggi (Pemegang kunci & tata tertib ruang) | Menerima dua keluhan kebisingan dari penghuni ruang baca sebelah serta laporan sampah tertinggal. | "Kalau tidak ada aturan jelas yang mudah diawasi, izin peminjaman ruang malam bisa dicabut pihak kampus." | Ketertiban, keberlanjutan izin fasilitas, dan kepatuhan aturan. | Terapkan jam tutup ruang lebih awal (pukul 21.30 WIB) jika tidak tertib. |
+| **Nabil** *(Facilitator Komunitas)* | Netral (Moderator deliberasi tanpa hak veto) | Kapasitas ruang 30 kursi terbagi dua sisi (Barat dan Timur) dan tersedia area selasar terbuka di luar pintu. | "Konflik terjadi karena seluruh aktivitas diskusi dan kerja sunyi bercampur tanpa pemisahan zona waktu." | Keadilan prosedural, perlindungan minoritas, dan solusi praktis. | Memfasilitasi kesepakatan zona dan jadwal yang melindungi semua pihak. |
+
+---
+
+## 2. Tiga Framing Masalah Komunitas
+
+Untuk mencegah kebuntuan akibat benturan posisi awal, masalah dibingkai ulang ke dalam tiga *frame* yang sah dan saling melengkapi:
+
+1. **Frame Perlindungan Fokus & Kualitas Kerja (*Cognitive Focus Frame*):**  
+   Bagaimana memastikan mahasiswa yang sedang melakukan pengujian sistem kritis pada malam hari mendapatkan ketenangan yang memadai tanpa terganggu percakapan volume tinggi?
+2. **Frame Keadilan Akses & Inklusivitas Jadwal (*Equitable Access Frame*):**  
+   Bagaimana menjamin mahasiswa yang baru memiliki waktu luang di atas pukul 20.00 WIB tetap memiliki ruang yang layak untuk berkoordinasi dengan timnya tanpa merasa dikucilkan?
+3. **Frame Keberlanjutan Fasilitas Bersama (*Stewardship & Enforceability Frame*):**  
+   Bagaimana merancang aturan sederhana yang mudah dipatuhi bersama sehingga ketertiban terjaga dan izin penggunaan ruang malam tetap dipertahankan oleh pengelola?
+
+---
+
+## 3. Lima Opsi Solusi & Analisis Trade-Off
+
+| No | Opsi Solusi | Mekanisme Operasional | Trade-Off & Konsekuensi | Status Keputusan |
+| :--- | :--- | :--- | :--- | :--- |
+| **1** | **Larangan Diskusi Total Mulai 20.00 WIB** | Seluruh ruangan menjadi zona hening mutlak sejak pukul 20.00 WIB. | Menguntungkan tim *debugging*, tetapi menyingkirkan mahasiswa pekerja malam dari akses koordinasi. | **Ditolak** (Melanggar *Frame 2*) |
+| **2** | **Kebebasan Diskusi Tanpa Batas** | Tidak ada pembatasan jam maupun volume suara di dalam ruangan. | Mengakomodasi diskusi malam, tetapi memicu keluhan ruang sebelah dan ancaman pencabutan izin ruang. | **Ditolak** (Melanggar *Frame 1 & 3*) |
+| **3** | **Rotasi Blok Waktu Bergantian (2 Jam)** | Sesi hening pukul 19.00–21.00 WIB, diikuti sesi diskusi bebas pukul 21.00–23.00 WIB. | Adil secara durasi, tetapi memaksa tim yang sedang fokus menghentikan pekerjaan di tengah jalan. | **Ditolak** (Memutus alur kerja) |
+| **4** | **Pemisahan Fisik Penuh (Ruang Berbeda)** | Memindahkan seluruh diskusi ke kantin lantai 1. | Mengurangi bising di ruang atas, tetapi kantin tutup pukul 21.00 WIB dan minim stopkontak listrik. | **Ditolak** (Tidak layak secara teknis) |
+| **5** | **Zonasi Ruang & Protokol *Quiet-Window* 21.00 WIB** | Sisi Barat ditetapkan sebagai **Zona Hening** sejak pukul 20.00 WIB; Sisi Timur tetap dibuka untuk **Diskusi Suara Rendah** hingga pukul 21.30 WIB, dan setelah pukul 21.30 WIB diskusi vokal dialihkan ke selasar luar berstopkontak. | Membutuhkan penanda meja sederhana dan kesadaran menjaga volume suara rendah di Sisi Timur, tetapi menjaga akses kerja bagi semua kelompok. | **Disetujui (*Sufficient Agreement*)** |
+
+---
+
+## 4. Transkrip Verbatim Deliberasi Komunitas (Inline Plain-Text)
+
+```text
+================================================================================
+TRANSKRIP VERBATIM FORUM DELIBERASI KOMUNITAS (RUANG DISKUSI LANTAI 2)
+================================================================================
+ Nabil  : "Terima kasih Rakan, Dita, dan Hendra sudah meluangkan waktu. Kita punya tujuan yang sama: menjaga ruang diskusi ini tetap nyaman dan izin pakainya aman sampai akhir semester. Sebelum membahas aturan, mari kita dengar fakta dari tiap sisi. Rakan dan Dita, silakan sampaikan kendala utama kalian."
+
+ Rakan  : "Dari sisi timku, minggu lalu tiga kali kami gagal menyelesaikan pengujian integrasi karena diskusi di meja tengah suaranya keras banget sampai jam sepuluh malam. Makanya kami usul jam delapan malam semua wajib hening."
+
+ Dita   : "Kalau jam delapan malam langsung dilarang ngobrol, kelompokku yang baru pulang kerja paruh waktu jam setengah sembilan nggak punya tempat buat sinkronisasi, Kan. Kami juga bayar fasilitas kampus yang sama, masa nggak boleh diskusi?"
+
+ Hendra : "Dan dari sisi pengelola, kemarin ruangan sebelah komplain karena suara bocor keluar pintu. Kalau tidak ada kesepakatan yang jelas dan bisa dijalankan sendiri tanpa saya harus menegur tiap jam, ruang ini terpaksa saya tutup jam setengah sepuluh malam."
+
+ Nabil  : "Terima kasih semuanya. Kalau kita lihat, Rakan butuh ketenangan untuk fokus, Dita butuh akses koordinasi setelah jam kerja, dan Hendra butuh aturan yang tertib agar izin ruang aman. Jika kita pakai Opsi 1 (hening total jam 20.00), teman-teman pekerja malam dirugikan. Jika Opsi 2 (bebas total), izin ruang terancam dicabut. Bagaimana jika kita uji Opsi 5: membagi sisi Barat sebagai Zona Hening penuh sejak pukul 20.00, sisi Timur untuk diskusi suara pelan sampai pukul 21.30, dan setelah 21.30 diskusi lisan pindah ke meja selasar luar yang sudah ada stopkontaknya?"
+
+ Dita   : "Kalau sisi Timur masih boleh diskusi suara pelan sampai setengah sepuluh dan setelahnya bisa lanjut di selasar luar, aku dan teman-teman shift malam tetap bisa koordinasi tanpa merasa diusir. Aku bisa terima opsi itu."
+
+ Rakan  : "Asal sisi Barat benar-benar bebas dari diskusi lisan mulai jam delapan malam dan pintu ruang ditutup rapat supaya suara selasar nggak masuk, timku setuju."
+
+ Hendra : "Format zonasi itu mudah diawasi karena cukup pasang tanda meja Barat dan Timur. Saya setuju kita uji coba tujuh hari ke depan selama semua ikut menjaga kebersihan meja sebelum pulang."
+
+ Nabil  : "Baik, berarti kita mencapai sufficient agreement pada Opsi 5. Jika ada kelompok yang merasa keberatan atau aturan ini terasa tidak adil dalam praktiknya, kita buka evaluasi bersama hari Jumat depan."
+================================================================================
+```
+
+---
+
+## 5. Safeguard, Collective Action, dan Review Plan
+
+### Safeguard (Perlindungan Minoritas & Mekanisme Keberatan)
+* **Anti-Stigma Pekerja Malam:** Mahasiswa yang baru datang di atas pukul 20.00 WIB dijamin haknya menggunakan Sisi Timur tanpa teguran sepihak selama berbicara dengan volume rendah (*indoor voice*).
+* **Jalur Eskalasi Non-Konfrontatif:** Jika tingkat kebisingan di Sisi Timur mengganggu Sisi Barat, pengguna cukup mengetuk penanda meja kuning sebagai sinyal pengingat halus tanpa perdebatan terbuka.
+* **Perlindungan Hak *Dissent*:** Setiap anggota komunitas berhak mencatat keberatan pada lembar evaluasi harian jika zonasi dirasa menghambat kebutuhan belajarnya.
+
+### Collective Action Plan
+* **Scope:** Pengaturan zonasi Sisi Barat (Zona Hening) dan Sisi Timur (Diskusi Suara Rendah) pada pukul 20.00–23.00 WIB di Ruang Diskusi Lantai 2.
+* **Owner & Pembagian Peran:**
+  * **Hendra (Koordinator Ruang):** Menyediakan dua papan penanda zona meja (Barat: Hening, Timur: Diskusi Pelan) sebelum pukul 19.30 WIB.
+  * **Rakan (Perwakilan Sisi Barat):** Memastikan pintu pembatas tertutup rapat mulai pukul 20.00 WIB.
+  * **Dita (Perwakilan Pengguna Malam):** Mengoordinasikan perpindahan diskusi vokal ke area meja selasar luar tepat pukul 21.30 WIB.
+  * **Nabil (Facilitator):** Mencatat laporan harian kepatuhan dan keluhan pengguna selama masa uji coba.
+* **Deadline Mulai Berlaku:** Besok malam pukul 19.30 WIB untuk masa uji coba 7 hari kalender.
+
+### Review Plan & Stop Rule
+* **Jadwal Evaluasi:** Hari ke-7 pukul 19.00 WIB melalui forum evaluasi singkat 15 menit bersama seluruh perwakilan.
+* **Indikator Keberhasilan:** Nol keluhan kebisingan dari ruangan sebelah, terakomodasinya minimal 2 kelompok mahasiswa pekerja malam per hari, dan tetap terbukanya ruang hingga pukul 23.00 WIB.
+* **Stop Rule:** Skema zonasi segera dihentikan dan dirumuskan ulang jika terjadi keluhan formal baru dari pengelola gedung atau jika lebih dari 30% pengguna menyatakan aturan zonasi memicu konflik baru.
+
+---
+
+## 6. Self-Assessment
+
+| Dimensi Penilaian | Skor (1-4) | Evidence Singkat & Alasan |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Memetakan 4 kelompok komunitas lengkap dengan relasi kuasa, *fact*, *story*, *value*, dan *position*. |
+| **Objective & State** | 4 | Menggeser benturan posisi kaku menjadi *sufficient agreement* lintas kepentingan. |
+| **Repertoire, Language & AI** | 4 | Menyusun 3 *framing* inklusif dan 5 opsi solusi terukur beserta analisis *trade-off* objektif. |
+| **Response & Adaptation** | 4 | Transkrip deliberasi menunjukkan fasilitasi seimbang yang merespons kebutuhan kelompok minoritas maupun pemegang otoritas. |
+| **Agreement, Action & Relationship** | 4 | Dilengkapi *safeguard* anti-stigma, *owner*, *deadline*, *stop rule*, dan *review plan* kolektif. |
+
+**Total Skor Self-Assessment: 20 / 20**
+
+::: {.assessor-only}
+##### Assessment dosen
+*   **Skor:**  — / 20
+*   **Evidence yang mendukung:**  —
+*   **Prioritas perbaikan:**  —
+*   **Keputusan:**  Belum dinilai / Perlu revisi / Tercapai
+:::
