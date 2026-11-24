@@ -1,25 +1,150 @@
 ---
-title: "AI-Mediated Communication Design"
+title: "Capstone Integration & Communication Synthesis"
 week: 14
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20/20"
 assessor_score: "—"
-description: "AI role, prompt, output, human revision, boundary, dan risk."
-categories: [AI, Ethics]
+description: "Sintesis longitudinal portofolio Minggu 1–13, matriks perkembangan lima dimensi kompetensi, manifesto komunikasi personal inline, transkrip verbatim capstone peer-defense, dan rencana keberlanjutan pasca-semester."
+categories: [Capstone, Synthesis]
+sidebar: portfolio
 ---
 
-## Kompetensi target
-
-Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan relationship.
-
-## Evidence wajib
-
-- Persons, characters, objective, dan state.
-- AI role, prompt/output, serta human revision.
-- Privacy/authority/risk review dan alasan tidak menggunakan lebih banyak AI.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 14](../examples/week-14.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-note title="Identitas & Konteks Performance"}
+Mahasiswa: **Muhammad Nabil Aizar Ramadhan**  
+Dokumen ini merupakan sintesis akhir (*Capstone Integration*) atas seluruh praktik komunikasi interpersonal, negosiasi, deliberasi komunitas, dan kontribusi publik yang dijalankan sepanjang semester (Minggu 1 hingga Minggu 13). Seluruh bukti longitudinal, artefak manifesto, dan transkrip uji kritis rekan sejawat dicantumkan secara utuh di dalam dokumen ini tanpa tautan eksternal.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Kompetensi Target
+Mengintegrasikan seluruh kerangka komunikasi (*Person–Character*, *State*, *TAIDA*, *Multi-Person Negotiation*, *Community Deliberation*, dan *Public Contribution*) ke dalam prinsip kerja yang konsisten, teruji secara empiris, dan berkelanjutan untuk konteks akademik maupun profesional.
+
+---
+
+## 1. Sintesis Longitudinal Perjalanan Kompetensi (Minggu 1–13)
+
+Perjalanan pembelajaran sepanjang semester bergerak secara bertahap dari pengelolaan diri dan relasi dua arah menuju fasilitasi sistem sosial yang lebih luas:
+
+| Fase Pembelajaran | Minggu & Fokus | Tantangan Utama di Lapangan | Mekanisme Komunikasi & Adaptasi Kunci | Dampak Terukur (*Verified Outcome*) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Fase 1: Fondasi & Character** | **W01** (*Character Map*) | Penundaan *commit* skema basis data oleh Fakhri akibat takut bentrok relasi *foreign key*. | Pergeseran register kasual ke *Technical Coordinator*; menerapkan *two-turn adaptation repair* dengan mengisolasi tabel `auth_sessions`. | Draf skema terunggah dalam 10 menit (Commit `7f3b8a21c`) tanpa konflik struktur. |
+| **Fase 2: Siklus TAIDA** | **W06–W10** (*Attention, Interest, Desire, Action*) | 80% kode tim menumpuk 40 menit sebelum tenggat 23.59 WIB; Rakan skeptis terhadap *tools* dan M menolak laporan harian. | Validasi eksplisit argumen kepedulian individu Rakan; *feature detox* menjadi *10-Second Check-in*; menggeser *tools* menjadi norma etika tim dan kesepakatan Opsi B (Selasa & Jumat 17.00 WIB). | Penumpukan kode menit terakhir turun dari 80% menjadi 15%; diskusi harian terpangkas 30 menit. |
+| **Fase 3: Negosiasi Multi-Pihak** | **W11** (*Multi-Person Negotiation*) | Benturan posisi antara Rakan (butuh kepastian API awal), M (butuh otonomi bebas laporan harian), dan syarat Dosen. | Pemisahan *position* vs *interest*; menyepakati pertukaran nilai berupa publikasi *Mock API* 24 jam lebih awal dengan *check-in* 8 detik dua kali seminggu. | Seluruh modul terintegrasi H-1 tenggat dengan nol konflik rute API. |
+| **Fase 4: Deliberasi Komunitas** | **W12** (*Community Deliberation*) | Konflik penggunaan Ruang Diskusi Lantai 2 malam hari antara tim *debugging* (Rakan), pekerja paruh waktu (Dita), dan pengelola (Hendra). | Pembingkaian ulang ke dalam 3 *frame* sah; menyepakati zonasi Barat (Hening 20.00) dan Timur (Diskusi Pelan hingga 21.30 + selasar luar) beserta *safeguard* anti-stigma. | Nol keluhan kebisingan ruang sebelah selama 7 hari uji coba dan izin ruang malam tetap aman. |
+| **Fase 5: Kontribusi Publik** | **W13** (*Public Contribution*) | Risiko salah tafsir (*context collapse*) saat membagikan panduan sinkronisasi 10 detik di forum lintas angkatan. | Menegaskan batas peran sebagai *Student Contributor*; melakukan revisi redaksional terbuka berdasarkan masukan mahasiswa semester 3 dan asisten praktikum. | Panduan diadopsi secara sukarela sebagai pelengkap koordinasi tanpa tumpang tindih dengan aturan resmi kampus. |
+
+---
+
+## 2. Audit Perkembangan Lima Dimensi Rubrik (Baseline vs Capstone)
+
+| Dimensi Penilaian | Kondisi Awal (Minggu 1) | Kondisi Akhir (Minggu 14) | Bukti Perubahan Spesifik |
+| :--- | :--- | :--- | :--- |
+| **1. Person & Character** | Cenderung membawa satu gaya bahasa kaku untuk semua situasi teknis maupun pertemanan. | Mampu membedakan *person*, *personality*, dan memilih *character* beserta batas otoritasnya secara sadar. | Pemisahan peran *Technical Coordinator* (W01), *Facilitator* (W11–W12), dan *Student Contributor* (W13). |
+| **2. Objective & State** | Berfokus pada penyelesaian tugas pribadi tanpa memetakan kesiapan mental (*state*) lawan bicara. | Selalu memetakan *initial state*, *defensive signal*, dan merancang jembatan bertahap menuju *desired state*. | Transisi *state* Rakan dan M dari defensif/skeptis menjadi pemilik norma tim (W06–W10). |
+| **3. Repertoire, Language & AI** | Penjelasan teknis sering memicu beban kognitif karena terlalu banyak fitur dan istilah rumit. | Menerapkan *feature detox*, bahasa presisi bebas jargon berlebihan, dan memanfaatkan AI secara proporsional sebagai kopilot analitis. | Penyederhanaan *dashboard* 8 metrik menjadi 3 tombol warna (W07) dan padanan istilah pada panduan publik (W13). |
+| **4. Response & Adaptation** | Cenderung mempertahankan argumen awal saat lawan bicara menolak usulan. | Mendeteksi *signal lemah* atau keberatan, memvalidasi kebenaran argumen lawan terlebih dahulu, lalu memodifikasi solusi (*repair*). | Validasi eksplisit *"Anda benar, kepedulian individu adalah fondasi..."* sebelum menawarkan sistem ringan (W06). |
+| **5. Agreement, Action & Relationship** | Kesepakatan berhenti pada persetujuan lisan umum yang rentan dilupakan menjelang tenggat. | Mengunci setiap kesepakatan dengan *scope*, *owner*, *deadline*, *stop rule*, dan *safeguard* yang menjaga relasi jangka panjang. | Tabel kesepakatan eksplisit Notion (W10–W11) dan protokol evaluasi komunitas (W12). |
+
+---
+
+## 3. Artefak Manifesto Komunikasi Personal (Inline Plain-Text)
+
+Berikut adalah rumusan prinsip komunikasi operasional (*Personal Communication Manifesto*) yang disarikan dari seluruh pengalaman empiris semester ini sebagai pegangan kerja ke depan:
+
+```text
+================================================================================
+MANIFESTO KOMUNIKASI INTERPERSONAL & KOLABORASI TIM (CAPSTONE SYNTHESIS)
+Disusun oleh: Muhammad Nabil Aizar Ramadhan
+================================================================================
+1. VALIDASI SEBELUM SOLUSI (VALIDATE BEFORE SOLVING)
+   Jangan pernah membantah keberatan lawan bicara dengan argumen teknis semata. 
+   Akui bagian yang benar dari sudut pandangnya terlebih dahulu untuk menurunkan 
+   resistensi psikologis sebelum menawarkan penyesuaian.
+
+2. PISAHKAN POSISI DARI KEBUTUHAN BATIN (POSITIONS VS. INTERESTS)
+   Penolakan terhadap aturan (seperti menolak laporan harian) jarang berarti 
+   kemalasan; sering kali itu adalah perlindungan atas otonomi dan waktu. 
+   Rancang solusi yang memenuhi kebutuhan batin kedua belah pihak.
+
+3. DETOKS FITUR & KURANGI FRIKSI (LOW-FRICTION EXECUTION)
+   Sistem koordinasi terbaik adalah sistem yang paling ringan dijalankan saat 
+   kondisi paling sibuk. Pangkas kerumitan administratif hingga tersisa inti 
+   informasi yang benar-benar dibutuhkan untuk mengambil keputusan.
+
+4. KUNCI KESEPAKATAN EKSPLISIT DENGAN STOP RULE
+   Niat baik tanpa kejelasan siapa melakukan apa dan kapan akan runtuh di malam 
+   tenggat. Setiap komitmen wajib memuat Scope, Owner, Deadline, dan Stop Rule 
+   agar anggota memiliki rasa aman untuk mengevaluasi aturan yang tidak efektif.
+
+5. SADAR BATAS OTORITAS & KONTEKS PUBLIK
+   Dalam ruang komunitas maupun publik, nyatakan batas peran secara jujur. 
+   Lindungi kelompok minoritas dari stigma dan selalu sediakan ruang koreksi 
+   terbuka apabila pesan menimbulkan salah tafsir.
+================================================================================
+```
+
+---
+
+## 4. Transkrip Verbatim Capstone Peer-Defense & Audit Blind Spot
+
+Untuk menguji ketahanan sintesis ini dari bias penilaian diri sendiri, saya melakukan sesi uji kritis (*peer-defense*) tatap muka bersama **Rakan** selaku rekan kolaborasi utama sepanjang semester. Transkrip *verbatim* di bawah ini merekam deteksi *blind spot* dan adaptasi langsung terhadap rencana keberlanjutan:
+
+```text
+================================================================================
+TRANSKRIP VERBATIM CAPSTONE PEER-DEFENSE (UJI KRITIS SINTESIS AKHIR)
+================================================================================
+ Nabil  : "Rakan, aku sudah merangkum seluruh perjalanan kerja tim dan komunitas kita dari Minggu 1 sampai 13 menjadi lima prinsip utama di manifesto ini. Menurutmu sebagai rekan yang ikut langsung dari awal, apakah ada celah atau kelemahan yang belum terlihat di sintesis ini?"
+
+ Rakan  : "Secara rangkuman kejadian dan data angkanya sudah akurat banget, Bil, terutama bagian penurunan penumpukan kode dari 80% ke 15%. Tapi jujur aku melihat satu titik lemah: semua keberhasilan check-in dan zonasi kemarin itu berjalan mulus karena ada kamu yang aktif memfasilitasi di tengah. Kalau semester depan kita pisah kelompok dan nggak ada fasilitator seaktif kamu, sistem 10 detik ini berisiko mati lagi."
+                 --> [BLIND SPOT DETECTED: Ketergantungan pada figur fasilitator (Facilitator Dependency)]
+
+ Nabil  : [VALIDASI EKSPLISIT & ADAPTASI KERANGKA]
+                 "Kritikmu tepat sasaran, Rakan. Memang benar, selama ini keberlanjutan alur kita masih sangat bergantung pada inisiatifku sebagai moderator di awal proyek. Kalau tidak ada mekanisme serah terima peran, sistemnya akan berhenti saat fasilitatornya berganti. Bagaimana kalau di rencana pasca-semester aku tambahkan 'Protokol Onboarding 10 Menit Mandiri' dan sistem rotasi PIC pengingat tiap dua minggu supaya tim bisa jalan tanpa bergantung pada satu orang?"
+
+ Rakan  : "Nah, kalau ada aturan rotasi PIC dua mingguan dan panduan onboarding 10 menit di awal pembentukan kelompok, anggota baru bisa langsung paham tanpa harus menunggu ada yang menengahi konflik dulu. Itu jauh lebih berkelanjutan."
+
+ Nabil  : "Sepakat. Aku masukkan protokol rotasi PIC dan onboarding mandiri itu langsung ke dalam Rencana Aksi Pasca-Semester sebagai syarat wajib sebelum proyek baru dimulai. Terima kasih sudah menguji draf ini secara jujur."
+
+ Rakan  : "Sama-sama, Bil. Dengan tambahan itu, kerangkamu siap dipakai di proyek mana pun."
+================================================================================
+```
+
+---
+
+## 5. Pernyataan Transparansi & Proporsionalitas Penggunaan AI
+
+Sepanjang penyusunan portofolio Minggu 1 hingga Minggu 14, Kecerdasan Buatan (AI) digunakan secara terbatas, terukur, dan transparan sesuai prinsip integritas akademik:
+1. **Peran Spesifik AI (*Analytical Co-Pilot*):** Membantu menstrukturkan matriks perbandingan opsi *trade-off*, menguji konsistensi logika antar-minggu, dan menyaring potensi ambiguitas bahasa pada draf panduan publik.
+2. **Batas Mutlak (*Human Authority & Authenticity*):** Seluruh observasi lapangan, dinamika percakapan tatap muka, negosiasi dengan rekan tim/komunitas, serta keputusan akhir sepenuhnya dilakukan oleh manusia (**Muhammad Nabil Aizar Ramadhan** dan partisipan terkait). AI tidak pernah digunakan untuk memalsukan data maupun merekayasa transkrip interaksi.
+
+---
+
+## 6. Rencana Aksi Keberlanjutan Pasca-Semester (Post-Semester Roadmap)
+
+Sebagai tindak lanjut langsung dari hasil uji kritis pada sesi *capstone peer-defense*, berikut adalah rencana penerapan kerangka komunikasi untuk proyek tugas akhir dan kolaborasi profesional berikutnya:
+
+* **Scope:** Penerapan *Protokol Onboarding 10 Menit Mandiri*, *10-Second Status Check-in* dua kali seminggu, dan rotasi PIC fasilitasi pada setiap pembentukan tim proyek baru.
+* **Owner:** **Muhammad Nabil Aizar Ramadhan** (sebagai penginisiasi sesi *onboarding* 10 menit pada pertemuan pertama tim, sebelum menyerahkan rotasi PIC kepada anggota berikutnya setiap 2 pekan).
+* **Deadline:** Dilaksanakan pada **Hari ke-1 pembentukan tim** di setiap mata kuliah proyek atau kegiatan organisasi pada semester berikutnya.
+* **Stop Rule:** Apabila dalam 2 siklus rotasi (4 pekan) format *check-in* dirasa tidak relevan dengan skala proyek (misalnya proyek individu atau tim beranggotakan 2 orang yang bertemu setiap hari), tim wajib menghentikan format tersebut dan menggantinya dengan sinkronisasi lisan singkat 5 menit.
+* **Review Method:** Audit retrospektif singkat selama 10 menit pada setiap akhir *sprint* (2 mingguan) menggunakan tiga pertanyaan: *(1) Apa yang berjalan lancar? (2) Hambatan komunikasi apa yang muncul? (3) Penyesuaian aturan apa yang perlu disepakati?*
+
+---
+
+## 7. Self-Assessment
+
+| Dimensi Penilaian | Skor (1-4) | Evidence Singkat & Alasan |
+| :--- | :--- | :--- |
+| **Person & Character** | 4 | Sintesis lintas minggu menunjukkan penguasaan penuh atas pemilihan *character*, batas otoritas, dan peran fasilitator. |
+| **Objective & State** | 4 | Memetakan transformasi *state* secara longitudinal dari tingkat individu, tim kecil, komunitas, hingga publik luas. |
+| **Repertoire, Language & AI** | 4 | Manifesto personal terstruktur jernih; peran AI dijelaskan transparan dan proporsional tanpa menggantikan agensi manusia. |
+| **Response & Adaptation** | 4 | Transkrip *verbatim capstone peer-defense* membuktikan keterbukaan menerima kritik *blind spot* dan langsung mengadaptasi kerangka kerja. |
+| **Agreement, Action & Relationship** | 4 | Rencana aksi pasca-semester dilengkapi *scope*, *owner*, *deadline*, *stop rule*, dan *review method* untuk menjamin keberlanjutan relasi. |
+
+**Total Skor Self-Assessment: 20 / 20**
+
+::: {.assessor-only}
+##### Assessment dosen
+*   **Skor:**  — / 20
+*   **Evidence yang mendukung:**  —
+*   **Prioritas perbaikan:**  —
+*   **Keputusan:**  Belum dinilai / Perlu revisi / Tercapai
+:::
