@@ -1122,100 +1122,100 @@
   {
     "objectID": "portfolio/week-14.html",
     "href": "portfolio/week-14.html",
-    "title": "AI-Mediated Communication Design",
+    "title": "Capstone Integration & Communication Synthesis",
     "section": "",
-    "text": "Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan relationship.",
+    "text": "CatatanIdentitas & Konteks Performance\n\n\n\nMahasiswa: Muhammad Nabil Aizar Ramadhan\nDokumen ini merupakan sintesis akhir (Capstone Integration) atas seluruh praktik komunikasi interpersonal, negosiasi, deliberasi komunitas, dan kontribusi publik yang dijalankan sepanjang semester (Minggu 1 hingga Minggu 13). Seluruh bukti longitudinal, artefak manifesto, dan transkrip uji kritis rekan sejawat dicantumkan secara utuh di dalam dokumen ini tanpa tautan eksternal.",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
     "objectID": "portfolio/week-14.html#kompetensi-target",
     "href": "portfolio/week-14.html#kompetensi-target",
-    "title": "AI-Mediated Communication Design",
-    "section": "",
-    "text": "Memilih dan membatasi peran AI sambil menjaga human competence, authority, dan relationship.",
+    "title": "Capstone Integration & Communication Synthesis",
+    "section": "Kompetensi Target",
+    "text": "Kompetensi Target\nMengintegrasikan seluruh kerangka komunikasi (Person–Character, State, TAIDA, Multi-Person Negotiation, Community Deliberation, dan Public Contribution) ke dalam prinsip kerja yang konsisten, teruji secara empiris, dan berkelanjutan untuk konteks akademik maupun profesional.",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
-    "objectID": "portfolio/week-14.html#evidence-wajib",
-    "href": "portfolio/week-14.html#evidence-wajib",
-    "title": "AI-Mediated Communication Design",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nPersons, characters, objective, dan state.\nAI role, prompt/output, serta human revision.\nPrivacy/authority/risk review dan alasan tidak menggunakan lebih banyak AI.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 14 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "objectID": "portfolio/week-14.html#sintesis-longitudinal-perjalanan-kompetensi-minggu-113",
+    "href": "portfolio/week-14.html#sintesis-longitudinal-perjalanan-kompetensi-minggu-113",
+    "title": "Capstone Integration & Communication Synthesis",
+    "section": "1. Sintesis Longitudinal Perjalanan Kompetensi (Minggu 1–13)",
+    "text": "1. Sintesis Longitudinal Perjalanan Kompetensi (Minggu 1–13)\nPerjalanan pembelajaran sepanjang semester bergerak secara bertahap dari pengelolaan diri dan relasi dua arah menuju fasilitasi sistem sosial yang lebih luas:\n\n\n\n\n\n\n\n\n\n\nFase Pembelajaran\nMinggu & Fokus\nTantangan Utama di Lapangan\nMekanisme Komunikasi & Adaptasi Kunci\nDampak Terukur (Verified Outcome)\n\n\n\n\nFase 1: Fondasi & Character\nW01 (Character Map)\nPenundaan commit skema basis data oleh Fakhri akibat takut bentrok relasi foreign key.\nPergeseran register kasual ke Technical Coordinator; menerapkan two-turn adaptation repair dengan mengisolasi tabel auth_sessions.\nDraf skema terunggah dalam 10 menit (Commit 7f3b8a21c) tanpa konflik struktur.\n\n\nFase 2: Siklus TAIDA\nW06–W10 (Attention, Interest, Desire, Action)\n80% kode tim menumpuk 40 menit sebelum tenggat 23.59 WIB; Rakan skeptis terhadap tools dan M menolak laporan harian.\nValidasi eksplisit argumen kepedulian individu Rakan; feature detox menjadi 10-Second Check-in; menggeser tools menjadi norma etika tim dan kesepakatan Opsi B (Selasa & Jumat 17.00 WIB).\nPenumpukan kode menit terakhir turun dari 80% menjadi 15%; diskusi harian terpangkas 30 menit.\n\n\nFase 3: Negosiasi Multi-Pihak\nW11 (Multi-Person Negotiation)\nBenturan posisi antara Rakan (butuh kepastian API awal), M (butuh otonomi bebas laporan harian), dan syarat Dosen.\nPemisahan position vs interest; menyepakati pertukaran nilai berupa publikasi Mock API 24 jam lebih awal dengan check-in 8 detik dua kali seminggu.\nSeluruh modul terintegrasi H-1 tenggat dengan nol konflik rute API.\n\n\nFase 4: Deliberasi Komunitas\nW12 (Community Deliberation)\nKonflik penggunaan Ruang Diskusi Lantai 2 malam hari antara tim debugging (Rakan), pekerja paruh waktu (Dita), dan pengelola (Hendra).\nPembingkaian ulang ke dalam 3 frame sah; menyepakati zonasi Barat (Hening 20.00) dan Timur (Diskusi Pelan hingga 21.30 + selasar luar) beserta safeguard anti-stigma.\nNol keluhan kebisingan ruang sebelah selama 7 hari uji coba dan izin ruang malam tetap aman.\n\n\nFase 5: Kontribusi Publik\nW13 (Public Contribution)\nRisiko salah tafsir (context collapse) saat membagikan panduan sinkronisasi 10 detik di forum lintas angkatan.\nMenegaskan batas peran sebagai Student Contributor; melakukan revisi redaksional terbuka berdasarkan masukan mahasiswa semester 3 dan asisten praktikum.\nPanduan diadopsi secara sukarela sebagai pelengkap koordinasi tanpa tumpang tindih dengan aturan resmi kampus.",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
-    "objectID": "portfolio/week-14.html#konteks-performance",
-    "href": "portfolio/week-14.html#konteks-performance",
-    "title": "AI-Mediated Communication Design",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "objectID": "portfolio/week-14.html#audit-perkembangan-lima-dimensi-rubrik-baseline-vs-capstone",
+    "href": "portfolio/week-14.html#audit-perkembangan-lima-dimensi-rubrik-baseline-vs-capstone",
+    "title": "Capstone Integration & Communication Synthesis",
+    "section": "2. Audit Perkembangan Lima Dimensi Rubrik (Baseline vs Capstone)",
+    "text": "2. Audit Perkembangan Lima Dimensi Rubrik (Baseline vs Capstone)\n\n\n\n\n\n\n\n\n\nDimensi Penilaian\nKondisi Awal (Minggu 1)\nKondisi Akhir (Minggu 14)\nBukti Perubahan Spesifik\n\n\n\n\n1. Person & Character\nCenderung membawa satu gaya bahasa kaku untuk semua situasi teknis maupun pertemanan.\nMampu membedakan person, personality, dan memilih character beserta batas otoritasnya secara sadar.\nPemisahan peran Technical Coordinator (W01), Facilitator (W11–W12), dan Student Contributor (W13).\n\n\n2. Objective & State\nBerfokus pada penyelesaian tugas pribadi tanpa memetakan kesiapan mental (state) lawan bicara.\nSelalu memetakan initial state, defensive signal, dan merancang jembatan bertahap menuju desired state.\nTransisi state Rakan dan M dari defensif/skeptis menjadi pemilik norma tim (W06–W10).\n\n\n3. Repertoire, Language & AI\nPenjelasan teknis sering memicu beban kognitif karena terlalu banyak fitur dan istilah rumit.\nMenerapkan feature detox, bahasa presisi bebas jargon berlebihan, dan memanfaatkan AI secara proporsional sebagai kopilot analitis.\nPenyederhanaan dashboard 8 metrik menjadi 3 tombol warna (W07) dan padanan istilah pada panduan publik (W13).\n\n\n4. Response & Adaptation\nCenderung mempertahankan argumen awal saat lawan bicara menolak usulan.\nMendeteksi signal lemah atau keberatan, memvalidasi kebenaran argumen lawan terlebih dahulu, lalu memodifikasi solusi (repair).\nValidasi eksplisit “Anda benar, kepedulian individu adalah fondasi…” sebelum menawarkan sistem ringan (W06).\n\n\n5. Agreement, Action & Relationship\nKesepakatan berhenti pada persetujuan lisan umum yang rentan dilupakan menjelang tenggat.\nMengunci setiap kesepakatan dengan scope, owner, deadline, stop rule, dan safeguard yang menjaga relasi jangka panjang.\nTabel kesepakatan eksplisit Notion (W10–W11) dan protokol evaluasi komunitas (W12).",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
-    "objectID": "portfolio/week-14.html#evidence",
-    "href": "portfolio/week-14.html#evidence",
-    "title": "AI-Mediated Communication Design",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "objectID": "portfolio/week-14.html#artefak-manifesto-komunikasi-personal-inline-plain-text",
+    "href": "portfolio/week-14.html#artefak-manifesto-komunikasi-personal-inline-plain-text",
+    "title": "Capstone Integration & Communication Synthesis",
+    "section": "3. Artefak Manifesto Komunikasi Personal (Inline Plain-Text)",
+    "text": "3. Artefak Manifesto Komunikasi Personal (Inline Plain-Text)\nBerikut adalah rumusan prinsip komunikasi operasional (Personal Communication Manifesto) yang disarikan dari seluruh pengalaman empiris semester ini sebagai pegangan kerja ke depan:\n================================================================================\nMANIFESTO KOMUNIKASI INTERPERSONAL & KOLABORASI TIM (CAPSTONE SYNTHESIS)\nDisusun oleh: Muhammad Nabil Aizar Ramadhan\n================================================================================\n1. VALIDASI SEBELUM SOLUSI (VALIDATE BEFORE SOLVING)\n   Jangan pernah membantah keberatan lawan bicara dengan argumen teknis semata. \n   Akui bagian yang benar dari sudut pandangnya terlebih dahulu untuk menurunkan \n   resistensi psikologis sebelum menawarkan penyesuaian.\n\n2. PISAHKAN POSISI DARI KEBUTUHAN BATIN (POSITIONS VS. INTERESTS)\n   Penolakan terhadap aturan (seperti menolak laporan harian) jarang berarti \n   kemalasan; sering kali itu adalah perlindungan atas otonomi dan waktu. \n   Rancang solusi yang memenuhi kebutuhan batin kedua belah pihak.\n\n3. DETOKS FITUR & KURANGI FRIKSI (LOW-FRICTION EXECUTION)\n   Sistem koordinasi terbaik adalah sistem yang paling ringan dijalankan saat \n   kondisi paling sibuk. Pangkas kerumitan administratif hingga tersisa inti \n   informasi yang benar-benar dibutuhkan untuk mengambil keputusan.\n\n4. KUNCI KESEPAKATAN EKSPLISIT DENGAN STOP RULE\n   Niat baik tanpa kejelasan siapa melakukan apa dan kapan akan runtuh di malam \n   tenggat. Setiap komitmen wajib memuat Scope, Owner, Deadline, dan Stop Rule \n   agar anggota memiliki rasa aman untuk mengevaluasi aturan yang tidak efektif.\n\n5. SADAR BATAS OTORITAS & KONTEKS PUBLIK\n   Dalam ruang komunitas maupun publik, nyatakan batas peran secara jujur. \n   Lindungi kelompok minoritas dari stigma dan selalu sediakan ruang koreksi \n   terbuka apabila pesan menimbulkan salah tafsir.\n================================================================================",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
-    "objectID": "portfolio/week-14.html#analisis-komunikasi",
-    "href": "portfolio/week-14.html#analisis-komunikasi",
-    "title": "AI-Mediated Communication Design",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "objectID": "portfolio/week-14.html#transkrip-verbatim-capstone-peer-defense-audit-blind-spot",
+    "href": "portfolio/week-14.html#transkrip-verbatim-capstone-peer-defense-audit-blind-spot",
+    "title": "Capstone Integration & Communication Synthesis",
+    "section": "4. Transkrip Verbatim Capstone Peer-Defense & Audit Blind Spot",
+    "text": "4. Transkrip Verbatim Capstone Peer-Defense & Audit Blind Spot\nUntuk menguji ketahanan sintesis ini dari bias penilaian diri sendiri, saya melakukan sesi uji kritis (peer-defense) tatap muka bersama Rakan selaku rekan kolaborasi utama sepanjang semester. Transkrip verbatim di bawah ini merekam deteksi blind spot dan adaptasi langsung terhadap rencana keberlanjutan:\n================================================================================\nTRANSKRIP VERBATIM CAPSTONE PEER-DEFENSE (UJI KRITIS SINTESIS AKHIR)\n================================================================================\n Nabil  : \"Rakan, aku sudah merangkum seluruh perjalanan kerja tim dan komunitas kita dari Minggu 1 sampai 13 menjadi lima prinsip utama di manifesto ini. Menurutmu sebagai rekan yang ikut langsung dari awal, apakah ada celah atau kelemahan yang belum terlihat di sintesis ini?\"\n\n Rakan  : \"Secara rangkuman kejadian dan data angkanya sudah akurat banget, Bil, terutama bagian penurunan penumpukan kode dari 80% ke 15%. Tapi jujur aku melihat satu titik lemah: semua keberhasilan check-in dan zonasi kemarin itu berjalan mulus karena ada kamu yang aktif memfasilitasi di tengah. Kalau semester depan kita pisah kelompok dan nggak ada fasilitator seaktif kamu, sistem 10 detik ini berisiko mati lagi.\"\n                 --&gt; [BLIND SPOT DETECTED: Ketergantungan pada figur fasilitator (Facilitator Dependency)]\n\n Nabil  : [VALIDASI EKSPLISIT & ADAPTASI KERANGKA]\n                 \"Kritikmu tepat sasaran, Rakan. Memang benar, selama ini keberlanjutan alur kita masih sangat bergantung pada inisiatifku sebagai moderator di awal proyek. Kalau tidak ada mekanisme serah terima peran, sistemnya akan berhenti saat fasilitatornya berganti. Bagaimana kalau di rencana pasca-semester aku tambahkan 'Protokol Onboarding 10 Menit Mandiri' dan sistem rotasi PIC pengingat tiap dua minggu supaya tim bisa jalan tanpa bergantung pada satu orang?\"\n\n Rakan  : \"Nah, kalau ada aturan rotasi PIC dua mingguan dan panduan onboarding 10 menit di awal pembentukan kelompok, anggota baru bisa langsung paham tanpa harus menunggu ada yang menengahi konflik dulu. Itu jauh lebih berkelanjutan.\"\n\n Nabil  : \"Sepakat. Aku masukkan protokol rotasi PIC dan onboarding mandiri itu langsung ke dalam Rencana Aksi Pasca-Semester sebagai syarat wajib sebelum proyek baru dimulai. Terima kasih sudah menguji draf ini secara jujur.\"\n\n Rakan  : \"Sama-sama, Bil. Dengan tambahan itu, kerangkamu siap dipakai di proyek mana pun.\"\n================================================================================",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
-    "objectID": "portfolio/week-14.html#penggunaan-ai",
-    "href": "portfolio/week-14.html#penggunaan-ai",
-    "title": "AI-Mediated Communication Design",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "objectID": "portfolio/week-14.html#pernyataan-transparansi-proporsionalitas-penggunaan-ai",
+    "href": "portfolio/week-14.html#pernyataan-transparansi-proporsionalitas-penggunaan-ai",
+    "title": "Capstone Integration & Communication Synthesis",
+    "section": "5. Pernyataan Transparansi & Proporsionalitas Penggunaan AI",
+    "text": "5. Pernyataan Transparansi & Proporsionalitas Penggunaan AI\nSepanjang penyusunan portofolio Minggu 1 hingga Minggu 14, Kecerdasan Buatan (AI) digunakan secara terbatas, terukur, dan transparan sesuai prinsip integritas akademik: 1. Peran Spesifik AI (Analytical Co-Pilot): Membantu menstrukturkan matriks perbandingan opsi trade-off, menguji konsistensi logika antar-minggu, dan menyaring potensi ambiguitas bahasa pada draf panduan publik. 2. Batas Mutlak (Human Authority & Authenticity): Seluruh observasi lapangan, dinamika percakapan tatap muka, negosiasi dengan rekan tim/komunitas, serta keputusan akhir sepenuhnya dilakukan oleh manusia (Muhammad Nabil Aizar Ramadhan dan partisipan terkait). AI tidak pernah digunakan untuk memalsukan data maupun merekayasa transkrip interaksi.",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
-    "objectID": "portfolio/week-14.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-14.html#feedback-dan-tindak-lanjut",
-    "title": "AI-Mediated Communication Design",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "objectID": "portfolio/week-14.html#rencana-aksi-keberlanjutan-pasca-semester-post-semester-roadmap",
+    "href": "portfolio/week-14.html#rencana-aksi-keberlanjutan-pasca-semester-post-semester-roadmap",
+    "title": "Capstone Integration & Communication Synthesis",
+    "section": "6. Rencana Aksi Keberlanjutan Pasca-Semester (Post-Semester Roadmap)",
+    "text": "6. Rencana Aksi Keberlanjutan Pasca-Semester (Post-Semester Roadmap)\nSebagai tindak lanjut langsung dari hasil uji kritis pada sesi capstone peer-defense, berikut adalah rencana penerapan kerangka komunikasi untuk proyek tugas akhir dan kolaborasi profesional berikutnya:\n\nScope: Penerapan Protokol Onboarding 10 Menit Mandiri, 10-Second Status Check-in dua kali seminggu, dan rotasi PIC fasilitasi pada setiap pembentukan tim proyek baru.\nOwner: Muhammad Nabil Aizar Ramadhan (sebagai penginisiasi sesi onboarding 10 menit pada pertemuan pertama tim, sebelum menyerahkan rotasi PIC kepada anggota berikutnya setiap 2 pekan).\nDeadline: Dilaksanakan pada Hari ke-1 pembentukan tim di setiap mata kuliah proyek atau kegiatan organisasi pada semester berikutnya.\nStop Rule: Apabila dalam 2 siklus rotasi (4 pekan) format check-in dirasa tidak relevan dengan skala proyek (misalnya proyek individu atau tim beranggotakan 2 orang yang bertemu setiap hari), tim wajib menghentikan format tersebut dan menggantinya dengan sinkronisasi lisan singkat 5 menit.\nReview Method: Audit retrospektif singkat selama 10 menit pada setiap akhir sprint (2 mingguan) menggunakan tiga pertanyaan: (1) Apa yang berjalan lancar? (2) Hambatan komunikasi apa yang muncul? (3) Penyesuaian aturan apa yang perlu disepakati?",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
     "objectID": "portfolio/week-14.html#self-assessment",
     "href": "portfolio/week-14.html#self-assessment",
-    "title": "AI-Mediated Communication Design",
-    "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "title": "Capstone Integration & Communication Synthesis",
+    "section": "7. Self-Assessment",
+    "text": "7. Self-Assessment\n\n\n\n\n\n\n\n\nDimensi Penilaian\nSkor (1-4)\nEvidence Singkat & Alasan\n\n\n\n\nPerson & Character\n4\nSintesis lintas minggu menunjukkan penguasaan penuh atas pemilihan character, batas otoritas, dan peran fasilitator.\n\n\nObjective & State\n4\nMemetakan transformasi state secara longitudinal dari tingkat individu, tim kecil, komunitas, hingga publik luas.\n\n\nRepertoire, Language & AI\n4\nManifesto personal terstruktur jernih; peran AI dijelaskan transparan dan proporsional tanpa menggantikan agensi manusia.\n\n\nResponse & Adaptation\n4\nTranskrip verbatim capstone peer-defense membuktikan keterbukaan menerima kritik blind spot dan langsung mengadaptasi kerangka kerja.\n\n\nAgreement, Action & Relationship\n4\nRencana aksi pasca-semester dilengkapi scope, owner, deadline, stop rule, dan review method untuk menjamin keberlanjutan relasi.\n\n\n\nTotal Skor Self-Assessment: 20 / 20\n\nAssessment dosen\n\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "AI-Mediated Communication Design"
+      "Capstone Integration & Communication Synthesis"
     ]
   },
   {
